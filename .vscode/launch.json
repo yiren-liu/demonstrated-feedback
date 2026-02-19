@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Eval scenario (batch, gpt-5.2)",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/eval_scenario.py",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "justMyCode": true,
+      "envFile": "${workspaceFolder}/.env",
+      "args": [
+        "--batch",
+        "--results_dir",
+        "outputs/scenario_experiment",
+        "--output_csv",
+        "outputs/scenario_experiment/eval_results.csv",
+        "--model",
+        "gpt-5.2"
+      ]
+    }
+  ]
+}
