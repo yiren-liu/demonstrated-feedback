@@ -51,8 +51,8 @@ from datasets import Dataset, DatasetDict
 from typing import Optional, Literal
 
 from trl import DataCollatorForCompletionOnlyLM
-from scripts.sft_trainer import FixedSFTTrainer
-from scripts.ditto_trainer import DITTOTrainer
+from sft_trainer import FixedSFTTrainer
+from ditto_trainer import DITTOTrainer
 
 import warnings
 import numpy as np

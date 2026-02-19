@@ -11,7 +11,7 @@ hf_transfer>=0.1.4
 huggingface-hub==0.23.1
 isort>=5.12.0
 ninja>=1.11.1
-numpy==1.24.2
+numpy
 packaging>=23.0
 parameterized>=0.9.0
 peft==0.9.0
@@ -21,8 +21,9 @@ safetensors>=0.3.3
 sentencepiece>=0.1.99
 scipy
 tensorboard
-torch==2.1.2
+torch
 transformers==4.41.1
 trl==0.8.6
 jinja2>=3.0.0
 tqdm>=4.64.1
+rich

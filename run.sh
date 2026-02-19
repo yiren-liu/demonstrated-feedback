@@ -1,6 +1,6 @@
-conda activate ditto
+# conda activate ditto
 
-export HF_TOKEN=""
+# export HF_TOKEN=""
 
 benchmark="custom"
 

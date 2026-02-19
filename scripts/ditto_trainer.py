@@ -49,7 +49,7 @@ from trl.trainer.utils import (
     trl_sanitze_kwargs_for_tagging,
 )
 
-from scripts.dataset_utils import DPODataCollatorWithPadding
+from dataset_utils import DPODataCollatorWithPadding
 
 if is_peft_available():
     from peft import PeftModel, get_peft_model, prepare_model_for_kbit_training
