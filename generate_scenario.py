@@ -20,7 +20,7 @@ import pickle
 
 import torch
 from peft import PeftModel
-from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
+from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig, pipeline
 
 MISTRAL_CHAT_TEMPLATE = (
     "{{ bos_token }}"
@@ -61,10 +61,37 @@ def main():
     parser.add_argument("--model_id", type=str,
                         default="mistralai/Mistral-7B-Instruct-v0.2",
                         help="Base model HF identifier")
+    parser.add_argument("--load_8bit", action="store_true",
+                        help="Load base model in 8-bit to reduce GPU memory")
+    parser.add_argument("--load_4bit", action="store_true",
+                        help="Load base model in 4-bit to reduce GPU memory (more efficient than 8-bit)")
     args = parser.parse_args()
 
-    # ── load model ──
-    base_model = AutoModelForCausalLM.from_pretrained(args.model_id).to("cuda")
+    # ── load model (half precision + optional quantization to avoid OOM) ──
+    # Note: CPU offload doesn't work with PEFT/LoRA, so we disable it
+    torch_dtype = torch.bfloat16 if torch.cuda.is_bf16_supported() else torch.float16
+    model_kwargs = {"torch_dtype": torch_dtype}
+    
+    if args.load_4bit:
+        # 4-bit is more memory efficient and works better with PEFT
+        model_kwargs["quantization_config"] = BitsAndBytesConfig(
+            load_in_4bit=True,
+            bnb_4bit_compute_dtype=torch_dtype,
+            bnb_4bit_use_double_quant=True,
+            bnb_4bit_quant_type="nf4",
+        )
+        model_kwargs["device_map"] = "auto"
+    elif args.load_8bit:
+        # 8-bit without CPU offload (PEFT incompatible with CPU offload)
+        model_kwargs["quantization_config"] = BitsAndBytesConfig(
+            load_in_8bit=True,
+            llm_int8_enable_fp32_cpu_offload=False,  # PEFT doesn't support CPU offload
+        )
+        model_kwargs["device_map"] = "auto"
+    
+    base_model = AutoModelForCausalLM.from_pretrained(args.model_id, **model_kwargs)
+    if not (args.load_8bit or args.load_4bit):
+        base_model = base_model.to("cuda")
     tokenizer = AutoTokenizer.from_pretrained(args.model_id)
     base_model = PeftModel.from_pretrained(base_model, args.model_dir)
     base_model.eval()

@@ -44,6 +44,7 @@ ACCEL_CONFIG=configs/multi_gpu.yaml
 
 NUM_GEN_SAMPLES=3      # generations per test prompt (paper uses 3)
 GEN_GPU=2              # single GPU for generation (from gpu_ids in multi_gpu.yaml)
+GEN_LOAD_4BIT=1        # set to 1 to load base model in 4-bit and avoid OOM (works better with PEFT than 8-bit)
 BASE_OUTPUT=outputs/scenario_experiment
 
 # Allow overriding from environment:
@@ -100,12 +101,15 @@ for seed in "${SEEN_SEEDS[@]}"; do
             --output_dir="${OUT_DIR}"
 
         # ── generate (single GPU) ──
+        GEN_EXTRA=()
+        [[ "${GEN_LOAD_4BIT}" -eq 1 ]] && GEN_EXTRA+=(--load_4bit)
         run_cmd CUDA_VISIBLE_DEVICES="${GEN_GPU}" python generate_scenario.py \
             --model_dir "${MODEL_DIR}" \
             --test_pkl "${TEST_PKL}" \
             --author_key "${author}" \
             --output_json "${GEN_JSON}" \
-            --num_samples "${NUM_GEN_SAMPLES}"
+            --num_samples "${NUM_GEN_SAMPLES}" \
+            "${GEN_EXTRA[@]}"
     done
 done
 
@@ -136,12 +140,15 @@ for ht in "${UNSEEN_HOLDOUTS[@]}"; do
             --output_dir="${OUT_DIR}"
 
         # ── generate (single GPU) ──
+        GEN_EXTRA=()
+        [[ "${GEN_LOAD_4BIT}" -eq 1 ]] && GEN_EXTRA+=(--load_4bit)
         run_cmd CUDA_VISIBLE_DEVICES="${GEN_GPU}" python generate_scenario.py \
             --model_dir "${MODEL_DIR}" \
             --test_pkl "${TEST_PKL}" \
             --author_key "${author}" \
             --output_json "${GEN_JSON}" \
-            --num_samples "${NUM_GEN_SAMPLES}"
+            --num_samples "${NUM_GEN_SAMPLES}" \
+            "${GEN_EXTRA[@]}"
     done
 done
 
@@ -173,12 +180,15 @@ if ((${#UNSEEN_GT_HOLDOUTS[@]})); then
                 --output_dir="${OUT_DIR}"
 
             # ── generate (single GPU) ──
+            GEN_EXTRA=()
+            [[ "${GEN_LOAD_8BIT}" -eq 1 ]] && GEN_EXTRA+=(--load_8bit)
             run_cmd CUDA_VISIBLE_DEVICES="${GEN_GPU}" python generate_scenario.py \
                 --model_dir "${MODEL_DIR}" \
                 --test_pkl "${TEST_PKL}" \
                 --author_key "${author}" \
                 --output_json "${GEN_JSON}" \
-                --num_samples "${NUM_GEN_SAMPLES}"
+                --num_samples "${NUM_GEN_SAMPLES}" \
+                "${GEN_EXTRA[@]}"
         done
     done
 fi
