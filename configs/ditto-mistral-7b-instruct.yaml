@@ -43,6 +43,8 @@ warmup_ratio: 0.2
 # if a batch gets < 1.00 loss, let's stop
 sft_stop_loss: 1.00
 
+max_grad_norm: 1.0
+
 ditto_learning_rate: 1.0e-6
 ditto_max_steps: 40
 ditto_lr_scheduler_type: constant_with_warmup

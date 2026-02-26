@@ -21,13 +21,12 @@ import re
 from random import sample 
 from tqdm import tqdm
 from datasets import Dataset
-from transformers.pipelines.pt_utils import KeyDataset
 import pdb
 
 import numpy as np
 import torch
 from torch.nn.utils.rnn import pad_sequence
-from transformers import PreTrainedModel, PreTrainedTokenizerBase, pipeline
+from transformers import PreTrainedModel, PreTrainedTokenizerBase
 
 @dataclass
 class DPODataCollatorWithPadding:
@@ -66,7 +65,6 @@ class DPODataCollatorWithPadding:
     truncation_mode: str = "keep_end"
     is_encoder_decoder: Optional[bool] = False
     max_target_length: Optional[int] = None
-    pipeline: Optional = None
     train_dataset: Optional = None
 
     frac_expert: Optional = 0.7
@@ -88,58 +86,60 @@ class DPODataCollatorWithPadding:
         if step not in self.cache:
             self.cache[step] = {}
         
-        # create the pipeline to sample generations for each _item_
-        if self.pipeline == None:
-            
-            self.pipeline = pipeline(
-                "text-generation", 
-                model=self.model, 
-                tokenizer=self.tokenizer,
-                device="cuda",
-                batch_size=2,
-                pad_token_id=self.tokenizer.pad_token_id
-            )
-                    
         # here, we call the model and add everything to cache:
         self.model.eval()
 
-        with torch.inference_mode(): 
-            
+        with torch.inference_mode():
+
             prompt_text = []
             for feature in self.train_dataset:
                 prompt_text.append(feature["prompt"])
 
-            inference_dataset = Dataset.from_dict({"prompt": prompt_text})
-
             max_gen_tokens = 1024
-            
-            pipe_result = self.pipeline(
-                KeyDataset(inference_dataset, "prompt"), 
-                max_new_tokens=max_gen_tokens, do_sample=True, 
-                temperature=1,
-                num_return_sequences=self.bootstrap_count,
-                return_full_text=False,
-                pad_token_id=self.tokenizer.unk_token_id
-            )
 
             rejected = []
+            self.tokenizer.padding_side = "left"
+            if self.tokenizer.pad_token_id is None:
+                self.tokenizer.pad_token_id = self.tokenizer.eos_token_id
 
-            for outs in tqdm(pipe_result, total=len(inference_dataset)):
-                for out in outs:
-                    
-                    gen_tokens = len(
-                        self.tokenizer(
-                            out["generated_text"], 
-                            add_special_tokens=False
-                        )["input_ids"]
-                    )
+            device = next(self.model.parameters()).device
 
+            for i in tqdm(range(0, len(prompt_text), 2), desc="Generating"):
+                batch_prompts = prompt_text[i:i+2]
+                inputs = self.tokenizer(
+                    batch_prompts, return_tensors="pt", padding=True, truncation=True
+                ).to(device)
 
-                    if gen_tokens >= max_gen_tokens - 1:
-                        # BAD LANGUAGE MODEL!! NO EOS TOKEN FOR YOU!
-                        rejected.append(out["generated_text"])
-                    else:
-                        rejected.append(out["generated_text"] + " " + self.tokenizer.eos_token)
+                outputs = self.model.generate(
+                    **inputs,
+                    max_new_tokens=max_gen_tokens,
+                    do_sample=True,
+                    temperature=1.0,
+                    top_k=50,
+                    num_return_sequences=self.bootstrap_count,
+                    pad_token_id=self.tokenizer.unk_token_id,
+                )
+
+                # outputs shape: (batch_size * bootstrap_count, seq_len)
+                prompt_len = inputs["input_ids"].shape[1]
+                for j, prompt in enumerate(batch_prompts):
+                    for k in range(self.bootstrap_count):
+                        idx = j * self.bootstrap_count + k
+                        gen_ids = outputs[idx][prompt_len:]
+                        gen_text = self.tokenizer.decode(gen_ids, skip_special_tokens=True)
+
+                        gen_tokens = len(
+                            self.tokenizer(
+                                gen_text,
+                                add_special_tokens=False
+                            )["input_ids"]
+                        )
+
+                        if gen_tokens >= max_gen_tokens - 1:
+                            # BAD LANGUAGE MODEL!! NO EOS TOKEN FOR YOU!
+                            rejected.append(gen_text)
+                        else:
+                            rejected.append(gen_text + " " + self.tokenizer.eos_token)
                         
             ix = 0
             
