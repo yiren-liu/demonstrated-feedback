@@ -54,6 +54,7 @@ from trl import DataCollatorForCompletionOnlyLM
 from sft_trainer import FixedSFTTrainer
 from ditto_trainer import DITTOTrainer
 
+import gc
 import warnings
 import numpy as np
 
@@ -107,6 +108,9 @@ class DittoConfig(DPOConfig):
     )
     ditto_per_device_train_batch_size: Optional[int] = field(
         default=8,
+    )
+    ditto_gradient_accumulation_steps: Optional[int] = field(
+        default=1,
     )
 
 
@@ -366,7 +370,12 @@ def main():
 
     # SFT Train
     trainer.train()
-    
+
+    # Free SFT trainer state (optimizer, scheduler, grad buffers) before DITTO phase
+    del trainer
+    gc.collect()
+    torch.cuda.empty_cache()
+
     #########################
     # Instantiate DPO trainer
     #########################
@@ -376,6 +385,7 @@ def main():
     training_args.lr_scheduler_type = training_args.ditto_lr_scheduler_type
     training_args.warmup_ratio = training_args.ditto_warmup_ratio
     training_args.per_device_train_batch_size = training_args.ditto_per_device_train_batch_size
+    training_args.gradient_accumulation_steps = training_args.ditto_gradient_accumulation_steps
 
     model.add_adapter("ditto", lora_config)
     model.set_adapter("ditto")

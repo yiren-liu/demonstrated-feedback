@@ -798,7 +798,12 @@ class DITTOTrainer(Trainer):
         # dummy token; we'll ignore the losses on these tokens later
         labels[labels == label_pad_token_id] = 0
 
-        per_token_logps = torch.gather(logits.log_softmax(-1), dim=2, index=labels.unsqueeze(2)).squeeze(2)
+        # Memory-efficient log-prob computation: gather first, then compute
+        # log(softmax) only for the target tokens instead of materializing the
+        # full (batch, seq, vocab) log_softmax tensor.
+        target_logits = torch.gather(logits, dim=2, index=labels.unsqueeze(2)).squeeze(2)
+        logsumexp = torch.logsumexp(logits, dim=2)
+        per_token_logps = target_logits - logsumexp
 
         if average_log_prob:
             return (per_token_logps * loss_mask).sum(-1) / loss_mask.sum(-1)

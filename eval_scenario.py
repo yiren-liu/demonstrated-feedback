@@ -1,22 +1,23 @@
 """
-GPT-4 head-to-head evaluation for the held-out scenario experiment.
+GPT-4 evaluation for the held-out scenario experiment.
 
-Compares generations from "seen" vs "unseen" conditions per author.
-Following the DITTO paper's evaluation methodology:
-  - Given an author-written reference text and two generated texts
-    (one from each condition), ask GPT-4 which matches the author better.
-  - Swap orderings and average to account for position bias.
+Two modes:
+  1. --batch: Likert-style (1-5) rating of each generation against its reference.
+  2. --seen_json / --unseen_json: Head-to-head pairwise comparison with order swap.
+
+All LLM judge calls run concurrently (controlled by --concurrency).
 
 Usage:
+    # Batch evaluate all authors and conditions
+    python eval_scenario.py --batch \
+        --results_dir outputs/scenario_experiment \
+        --output_csv  outputs/scenario_experiment/eval_results.csv \
+        --concurrency 10
+
     # Evaluate one seen/unseen pair for a single author
     python eval_scenario.py \
         --seen_json   outputs/scenario_experiment/seen-s0-a0/generations.json \
         --unseen_json outputs/scenario_experiment/unseen-is-a0/generations.json \
-        --output_csv  outputs/scenario_experiment/eval_results.csv
-
-    # Batch evaluate all authors and conditions
-    python eval_scenario.py --batch \
-        --results_dir outputs/scenario_experiment \
         --output_csv  outputs/scenario_experiment/eval_results.csv
 
 Environment:
@@ -24,15 +25,14 @@ Environment:
 """
 
 import argparse
+import asyncio
 import csv
 import json
 import os
 import random
 import re
 import sys
-import time
 from collections import defaultdict
-from itertools import combinations
 
 import numpy as np
 
@@ -43,7 +43,7 @@ except ImportError:
     sys.exit(1)
 
 
-# ── GPT-4 evaluation prompt (adapted from the DITTO paper, Appendix F) ──
+# ── Prompts ──
 
 EVAL_PROMPT_TEMPLATE = """\
 You are evaluating writing style similarity. You will be given:
@@ -72,57 +72,125 @@ Candidate B:
 Which candidate more closely matches the writing style of the reference? \
 Answer with ONLY "A" or "B" (single letter, nothing else)."""
 
+LIKERT_PROMPT_TEMPLATE = """\
+You are evaluating writing style similarity. Rate how well the candidate text \
+matches the writing style of the reference text on a scale of 1-7:
+  1 = Extremely different style
+  2 = Very different style
+  3 = Somewhat different
+  4 = Moderately similar
+  5 = Somewhat similar
+  6 = Very similar style
+  7 = Extremely similar style
 
-def call_gpt4(prompt: str, model: str = "gpt-4o", max_retries: int = 5) -> str:
-    """Call OpenAI API with exponential backoff retries."""
-    client = openai.OpenAI()
+Consider tone, vocabulary, sentence structure, formality, and other features.
+
+Reference text (by the author):
+---
+{reference}
+---
+
+Candidate text:
+---
+{generation}
+---
+
+Rating (1-7, single number only):"""
+
+
+# ── Async OpenAI helpers ──
+
+_aclient = None
+
+
+def _get_aclient():
+    global _aclient
+    if _aclient is None:
+        _aclient = openai.AsyncOpenAI()
+    return _aclient
+
+
+async def acall_gpt4(
+    prompt: str,
+    model: str = "gpt-4o",
+    max_retries: int = 5,
+    max_tokens: int = 1024,
+) -> str:
+    """Call OpenAI API asynchronously with exponential backoff retries."""
+    client = _get_aclient()
     for attempt in range(max_retries):
         try:
-            response = client.chat.completions.create(
+            response = await client.chat.completions.create(
                 model=model,
                 messages=[{"role": "user", "content": prompt}],
-                max_completion_tokens=1024,
-                temperature=0,
+                max_completion_tokens=max_tokens,
+                # temperature=0,
             )
             return response.choices[0].message.content.strip()
         except (openai.RateLimitError, openai.APIConnectionError) as e:
             wait = 2 ** attempt + random.random()
             print(f"  API error ({e}), retrying in {wait:.1f}s ...")
-            time.sleep(wait)
+            await asyncio.sleep(wait)
         except Exception as e:
             print(f"  Unexpected API error: {e}")
             raise
     raise RuntimeError(f"Failed after {max_retries} retries")
 
 
-def evaluate_pair(
+# ── Progress tracker ──
+
+class ProgressTracker:
+    def __init__(self, total: int, label: str = ""):
+        self.total = total
+        self.done = 0
+        self.label = label
+        self._lock = asyncio.Lock()
+
+    async def increment(self, msg: str = ""):
+        async with self._lock:
+            self.done += 1
+            print(f"  [{self.done}/{self.total}] {self.label}{msg}")
+
+
+# ── Core evaluation functions (async) ──
+
+async def aevaluate_against_reference(
+    generation: str,
+    reference: str,
+    model: str = "gpt-4o",
+) -> dict:
+    """Likert-style (1-7) rating of a single generation against reference."""
+    prompt = LIKERT_PROMPT_TEMPLATE.format(reference=reference, generation=generation)
+    answer = await acall_gpt4(prompt, model=model)
+    match = re.search(r"[1-7]", answer)
+    return {"rating": int(match.group()) if match else 4}
+
+
+async def aevaluate_pair(
     reference: str,
     gen_seen: str,
     gen_unseen: str,
     model: str = "gpt-4o",
 ) -> dict:
     """
-    Run GPT-4 eval in both orderings and return result.
-    Returns dict with keys: winner_ab, winner_ba, winner_final.
-    winner_final is "seen", "unseen", or "tie".
+    Head-to-head pairwise comparison with order swapping.
+    The two orderings run concurrently.
     """
-    # Order 1: A=seen, B=unseen
     prompt_ab = EVAL_PROMPT_TEMPLATE.format(
-        reference=reference,
-        candidate_a=gen_seen,
-        candidate_b=gen_unseen,
+        reference=reference, candidate_a=gen_seen, candidate_b=gen_unseen,
     )
-    answer_ab = call_gpt4(prompt_ab, model=model).upper()
-
-    # Order 2: A=unseen, B=seen (swap)
     prompt_ba = EVAL_PROMPT_TEMPLATE.format(
-        reference=reference,
-        candidate_a=gen_unseen,
-        candidate_b=gen_seen,
+        reference=reference, candidate_a=gen_unseen, candidate_b=gen_seen,
     )
-    answer_ba = call_gpt4(prompt_ba, model=model).upper()
 
-    # Interpret: in order 1, A=seen; in order 2, A=unseen
+    # Run both orderings concurrently
+    answer_ab, answer_ba = await asyncio.gather(
+        acall_gpt4(prompt_ab, model=model, max_tokens=8),
+        acall_gpt4(prompt_ba, model=model, max_tokens=8),
+    )
+    answer_ab = answer_ab.upper()
+    answer_ba = answer_ba.upper()
+
     seen_wins = 0
     unseen_wins = 0
 
@@ -152,132 +220,46 @@ def evaluate_pair(
     }
 
 
+# ── Batch evaluation (Likert) ──
+
 def load_generations(path: str) -> dict:
     with open(path) as f:
         return json.load(f)
 
 
-def evaluate_json_pair(
-    seen_json_path: str,
-    unseen_json_path: str,
+async def run_batch_eval(
+    results_dir: str,
+    output_csv: str,
     model: str = "gpt-4o",
-) -> list:
+    concurrency: int = 10,
+):
     """
-    Evaluate all test prompts between a seen and unseen generation file.
-    For each prompt, we compare each of the N generated samples against
-    each other using the ground-truth reference.
-    """
-    seen_data = load_generations(seen_json_path)
-    unseen_data = load_generations(unseen_json_path)
-
-    seen_results = seen_data["results"]
-    unseen_results = unseen_data["results"]
-
-    # Match prompts between seen and unseen.  The test prompts may differ
-    # (seen has random test set, unseen has topic-holdout test set), so we
-    # evaluate each condition's generations against its OWN reference, and
-    # then summarise win rates separately.  For head-to-head comparison,
-    # we ALSO align on any overlapping prompts.
-
-    evaluations = []
-
-    # Strategy: for each unseen test prompt, evaluate DITTO-unseen generation
-    # against the reference.  For each seen test prompt, evaluate DITTO-seen
-    # generation against the reference.  Then compare win rates.
-
-    # --- Per-condition eval against reference ---
-    for condition, results, json_path in [
-        ("seen", seen_results, seen_json_path),
-        ("unseen", unseen_results, unseen_json_path),
-    ]:
-        for item in results:
-            reference = item["reference"]
-            if reference is None:
-                continue
-            for gen_idx, gen_text in enumerate(item["generations"]):
-                evaluations.append({
-                    "condition": condition,
-                    "prompt": item["prompt"][:80],
-                    "gen_idx": gen_idx,
-                    "reference": reference,
-                    "generation": gen_text,
-                    "source_file": json_path,
-                })
-
-    return evaluations
-
-
-def evaluate_against_reference(
-    generation: str,
-    reference: str,
-    model: str = "gpt-4o",
-) -> dict:
-    """
-    Ask GPT-4 how well a single generation matches the reference style.
-    Uses a Likert-style rating for more granular comparison.
-    """
-    prompt = f"""\
-You are evaluating writing style similarity. Rate how well the candidate text \
-matches the writing style of the reference text on a scale of 1-5:
-  1 = Very different style
-  2 = Somewhat different
-  3 = Neutral / moderate similarity
-  4 = Similar style
-  5 = Very similar style
-
-Consider tone, vocabulary, sentence structure, formality, and other features.
-
-Reference text (by the author):
----
-{reference}
----
-
-Candidate text:
----
-{generation}
----
-
-Rating (1-5, single number only):"""
-
-    answer = call_gpt4(prompt, model=model)
-    # Extract number
-    match = re.search(r"[1-5]", answer)
-    if match:
-        return {"rating": int(match.group())}
-    return {"rating": 3}  # fallback to neutral
-
-
-def run_batch_eval(results_dir: str, output_csv: str, model: str = "gpt-4o"):
-    """
-    Batch evaluation across all generation JSONs in results_dir.
-    Evaluates each generation against its reference and writes per-sample
-    results to a CSV for downstream aggregation.
+    Batch evaluation: rate each generation against its reference (1-7 Likert).
+    All API calls run concurrently up to the concurrency limit.
     """
     # Discover all generation files
     gen_files = []
-    for root, dirs, files in os.walk(results_dir):
+    for root, _dirs, files in os.walk(results_dir):
         for fname in files:
             if fname == "generations.json":
                 gen_files.append(os.path.join(root, fname))
-
     gen_files.sort()
     print(f"Found {len(gen_files)} generation files")
 
-    rows = []
+    # First pass: collect all evaluation tasks
+    tasks = []
     for gf in gen_files:
-        # Parse condition and author from directory name
-        # e.g. outputs/scenario_experiment/seen-s0-a3/generations.json
         parent = os.path.basename(os.path.dirname(gf))
         parts = parent.split("-")
 
         if parts[0] == "seen":
             condition = "seen"
-            variant = parts[1]    # e.g. s0
-            author = parts[2]     # e.g. a3
+            variant = "-".join(parts[1:-1])
+            author = parts[-1]
         elif parts[0] == "unseen":
             condition = "unseen"
-            variant = parts[1]    # e.g. is, cg, mp
-            author = parts[2]     # e.g. a3
+            variant = "-".join(parts[1:-1])
+            author = parts[-1]
         else:
             print(f"  Skipping unrecognised dir: {parent}")
             continue
@@ -289,13 +271,8 @@ def run_batch_eval(results_dir: str, output_csv: str, model: str = "gpt-4o"):
             reference = item["reference"]
             if reference is None:
                 continue
-
             for gen_idx, gen_text in enumerate(item["generations"]):
-                print(f"  Evaluating {parent} prompt={item_idx} gen={gen_idx} ...", end=" ")
-                result = evaluate_against_reference(gen_text, reference, model=model)
-                print(f"rating={result['rating']}")
-
-                rows.append({
+                tasks.append({
                     "condition": condition,
                     "variant": variant,
                     "author": author,
@@ -303,8 +280,39 @@ def run_batch_eval(results_dir: str, output_csv: str, model: str = "gpt-4o"):
                     "prompt_idx": item_idx,
                     "prompt": item["prompt"][:80],
                     "gen_idx": gen_idx,
-                    "rating": result["rating"],
+                    "gen_text": gen_text,
+                    "reference": reference,
+                    "parent": parent,
                 })
+
+    print(f"Evaluating {len(tasks)} generation samples (concurrency={concurrency})")
+
+    # Second pass: run all evaluations concurrently
+    sem = asyncio.Semaphore(concurrency)
+    progress = ProgressTracker(len(tasks))
+
+    async def eval_one(task):
+        async with sem:
+            result = await aevaluate_against_reference(
+                task["gen_text"], task["reference"], model=model,
+            )
+            await progress.increment(
+                f"{task['parent']} p={task['prompt_idx']} g={task['gen_idx']} "
+                f"rating={result['rating']}"
+            )
+            return {
+                "condition": task["condition"],
+                "variant": task["variant"],
+                "author": task["author"],
+                "author_key": task["author_key"],
+                "prompt_idx": task["prompt_idx"],
+                "prompt": task["prompt"],
+                "gen_idx": task["gen_idx"],
+                "rating": result["rating"],
+            }
+
+    rows = await asyncio.gather(*[eval_one(t) for t in tasks])
+    rows = list(rows)
 
     # Write CSV
     os.makedirs(os.path.dirname(output_csv) if os.path.dirname(output_csv) else ".", exist_ok=True)
@@ -316,62 +324,76 @@ def run_batch_eval(results_dir: str, output_csv: str, model: str = "gpt-4o"):
         writer.writerows(rows)
 
     print(f"\nWrote {len(rows)} evaluation rows to {output_csv}")
-
-    # ── Summary statistics ──
     print_summary(rows)
 
 
-def run_head_to_head(
+# ── Head-to-head evaluation ──
+
+async def run_head_to_head(
     seen_json: str,
     unseen_json: str,
     output_csv: str,
     model: str = "gpt-4o",
+    concurrency: int = 10,
 ):
     """
     Direct head-to-head comparison between a seen and unseen generation file.
-    Both files must be for the same author.  We compare generations on
-    prompts where we have references in both files.
+    All pairwise comparisons run concurrently.
     """
     seen_data = load_generations(seen_json)
     unseen_data = load_generations(unseen_json)
 
-    # Build prompt -> item mapping
     seen_by_prompt = {item["prompt"]: item for item in seen_data["results"] if item["reference"]}
     unseen_by_prompt = {item["prompt"]: item for item in unseen_data["results"] if item["reference"]}
 
-    # Find overlapping prompts (may be empty if splits are disjoint)
     common_prompts = set(seen_by_prompt.keys()) & set(unseen_by_prompt.keys())
 
-    rows = []
-
-    if common_prompts:
-        print(f"Found {len(common_prompts)} overlapping prompts for head-to-head")
-        for prompt_text in sorted(common_prompts):
-            seen_item = seen_by_prompt[prompt_text]
-            unseen_item = unseen_by_prompt[prompt_text]
-
-            # Use seen reference (same author, same prompt)
-            reference = seen_item["reference"]
-
-            # Compare first generation from each
-            for gen_idx in range(min(len(seen_item["generations"]),
-                                     len(unseen_item["generations"]))):
-                print(f"  H2H prompt='{prompt_text[:60]}...' gen={gen_idx} ...", end=" ")
-                result = evaluate_pair(
-                    reference=reference,
-                    gen_seen=seen_item["generations"][gen_idx],
-                    gen_unseen=unseen_item["generations"][gen_idx],
-                    model=model,
-                )
-                print(f"winner={result['winner']}")
-                rows.append({
-                    "prompt": prompt_text[:80],
-                    "gen_idx": gen_idx,
-                    **result,
-                })
-    else:
+    if not common_prompts:
         print("No overlapping prompts (expected for disjoint splits).")
         print("Use --batch mode for per-condition rating-based evaluation.")
+        return
+
+    # Collect all comparison tasks
+    tasks = []
+    for prompt_text in sorted(common_prompts):
+        seen_item = seen_by_prompt[prompt_text]
+        unseen_item = unseen_by_prompt[prompt_text]
+        reference = seen_item["reference"]
+
+        for gen_idx in range(min(len(seen_item["generations"]),
+                                 len(unseen_item["generations"]))):
+            tasks.append({
+                "prompt": prompt_text,
+                "gen_idx": gen_idx,
+                "reference": reference,
+                "gen_seen": seen_item["generations"][gen_idx],
+                "gen_unseen": unseen_item["generations"][gen_idx],
+            })
+
+    print(f"Found {len(common_prompts)} overlapping prompts, "
+          f"{len(tasks)} comparisons (concurrency={concurrency})")
+
+    sem = asyncio.Semaphore(concurrency)
+    progress = ProgressTracker(len(tasks))
+
+    async def eval_one(task):
+        async with sem:
+            result = await aevaluate_pair(
+                task["reference"], task["gen_seen"], task["gen_unseen"],
+                model=model,
+            )
+            await progress.increment(
+                f"prompt='{task['prompt'][:50]}...' gen={task['gen_idx']} "
+                f"winner={result['winner']}"
+            )
+            return {
+                "prompt": task["prompt"][:80],
+                "gen_idx": task["gen_idx"],
+                **result,
+            }
+
+    rows = await asyncio.gather(*[eval_one(t) for t in tasks])
+    rows = list(rows)
 
     if rows:
         os.makedirs(os.path.dirname(output_csv) if os.path.dirname(output_csv) else ".", exist_ok=True)
@@ -382,7 +404,6 @@ def run_head_to_head(
             writer.writerows(rows)
         print(f"\nWrote {len(rows)} head-to-head rows to {output_csv}")
 
-        # Quick summary
         wins = defaultdict(int)
         for r in rows:
             wins[r["winner"]] += 1
@@ -392,15 +413,16 @@ def run_head_to_head(
         print(f"  Ties:        {wins['tie']}/{total} ({100*wins['tie']/total:.1f}%)")
 
 
+# ── Summary statistics ──
+
 def print_summary(rows: list):
     """Print aggregated summary statistics from batch eval rows."""
-    # Group by condition
     by_condition = defaultdict(list)
     for r in rows:
         by_condition[r["condition"]].append(r["rating"])
 
     print("\n" + "=" * 60)
-    print("SUMMARY: Mean style-match rating by condition (1-5 scale)")
+    print("SUMMARY: Mean style-match rating by condition (1-7 scale)")
     print("=" * 60)
 
     for condition in ["seen", "unseen"]:
@@ -410,7 +432,6 @@ def print_summary(rows: list):
             sem = np.std(ratings, ddof=1) / np.sqrt(len(ratings)) if len(ratings) > 1 else 0
             print(f"  {condition:8s}: mean={mean:.2f} +/- {sem:.2f}  (n={len(ratings)})")
 
-    # Group by condition + author for per-author breakdown
     by_cond_author = defaultdict(list)
     for r in rows:
         by_cond_author[(r["condition"], r["author"])].append(r["rating"])
@@ -437,7 +458,6 @@ def print_summary(rows: list):
             sem_delta = np.std(deltas, ddof=1) / np.sqrt(len(deltas))
             print(f"\n  Avg delta (seen - unseen): {mean_delta:+.2f} +/- {sem_delta:.2f}")
 
-            # Paired t-test
             from scipy import stats
             t_stat, p_val = stats.ttest_1samp(deltas, 0)
             print(f"  Paired t-test: t={t_stat:.3f}, p={p_val:.4f}")
@@ -446,6 +466,8 @@ def print_summary(rows: list):
             else:
                 print("  => Not significant (p >= 0.05)")
 
+
+# ── Main ──
 
 def main():
     parser = argparse.ArgumentParser(description="Scenario experiment evaluation")
@@ -463,13 +485,20 @@ def main():
                         help="Path to write evaluation results")
     parser.add_argument("--model", type=str, default="gpt-4o",
                         help="OpenAI model for evaluation")
+    parser.add_argument("--concurrency", type=int, default=20,
+                        help="Max concurrent API calls (default: 20)")
     args = parser.parse_args()
 
     if args.batch:
-        run_batch_eval(args.results_dir, args.output_csv, model=args.model)
+        asyncio.run(run_batch_eval(
+            args.results_dir, args.output_csv,
+            model=args.model, concurrency=args.concurrency,
+        ))
     elif args.seen_json and args.unseen_json:
-        run_head_to_head(args.seen_json, args.unseen_json, args.output_csv,
-                         model=args.model)
+        asyncio.run(run_head_to_head(
+            args.seen_json, args.unseen_json, args.output_csv,
+            model=args.model, concurrency=args.concurrency,
+        ))
     else:
         parser.error("Must specify either --batch or both --seen_json and --unseen_json")
 

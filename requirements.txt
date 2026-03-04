@@ -14,7 +14,7 @@ ninja>=1.11.1
 numpy
 packaging>=23.0
 parameterized>=0.9.0
-peft==0.9.0
+peft==0.13.2
 protobuf<=3.20.2 
 pytest
 safetensors>=0.3.3
@@ -27,3 +27,13 @@ trl==0.8.6
 jinja2>=3.0.0
 tqdm>=4.64.1
 rich
+
+# ontology pipeline (benchmarks/build_ontology.py)
+sentence-transformers>=2.2.0
+bertopic>=0.15.0
+hdbscan>=0.8.33
+umap-learn>=0.5.3
+plotly>=5.0
+scikit-learn>=1.0
+openai>=1.0
+python-dotenv>=0.19.0

@@ -23,6 +23,7 @@ from tqdm import tqdm
 from datasets import Dataset
 import pdb
 
+import gc
 import numpy as np
 import torch
 from torch.nn.utils.rnn import pad_sequence
@@ -74,18 +75,30 @@ class DPODataCollatorWithPadding:
 
     bootstrap_count: int = 10
     mode: str = "past"
-    cache = {}
 
     last_sampled_step: int = 0
 
-    def resample(self, step):        
-        
+    def __post_init__(self):
+        self.cache = {}
+
+    def resample(self, step):
+
         self.last_sampled_step = step
+
+        # Evict old cache entries — keep only the most recent prior step
+        # (needed for replay buffer) and the current step.
+        steps_to_keep = {step}
+        prior_steps = sorted([s for s in self.cache if s < step])
+        if prior_steps:
+            steps_to_keep.add(prior_steps[-1])
+        for old_step in list(self.cache.keys()):
+            if old_step not in steps_to_keep:
+                del self.cache[old_step]
 
         # iterate over the train_dataset and update the cache
         if step not in self.cache:
             self.cache[step] = {}
-        
+
         # here, we call the model and add everything to cache:
         self.model.eval()
 
@@ -140,9 +153,11 @@ class DPODataCollatorWithPadding:
                             rejected.append(gen_text)
                         else:
                             rejected.append(gen_text + " " + self.tokenizer.eos_token)
-                        
+
+                del inputs, outputs
+
             ix = 0
-            
+
             for feature in self.train_dataset:
                 for _ in range(self.bootstrap_count):
                     if feature["prompt"] not in self.cache[step]:
@@ -150,7 +165,9 @@ class DPODataCollatorWithPadding:
 
                     self.cache[step][feature["prompt"]].append(rejected[ix])
                     ix += 1
-        
+
+        gc.collect()
+        torch.cuda.empty_cache()
         self.model.train()
         
         
