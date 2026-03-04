@@ -1,8 +1,8 @@
 # requirements-hpc.txt — Fully pinned for HPC reproducibility
 # Generated from .venv on 2026-03-04
 #
-# Python: 3.10.19
-# CUDA: 13.0 (driver 580.126.09)
+# Python: 3.12.12
+# CUDA: 12.8 (driver 570.148.08)
 #
 # alignment-handbook is NOT listed here — install separately:
 #   cd alignment-handbook && git checkout 606d2e954fd17999af40e6fb4f712055ca11b2f0 && pip install .
@@ -11,11 +11,11 @@
 #   uv pip install --no-deps -r requirements-hpc.txt
 # (--no-deps avoids resolver conflicts from transitive upper bounds, e.g. fsspec)
 
---extra-index-url https://download.pytorch.org/whl/cu130
+--extra-index-url https://download.pytorch.org/whl/cu128
 
 # ── PyTorch + CUDA ───────────────────────────────────────────────
-torch==2.10.0+cu130
-torchvision==0.25.0+cu130
+torch==2.10.0+cu128
+torchvision==0.25.0+cu128
 triton==3.6.0
 
 # ── HuggingFace stack ────────────────────────────────────────────
@@ -40,18 +40,11 @@ tensorboard==2.20.0
 tensorboard-data-server==0.7.2
 
 # ── Core utilities ───────────────────────────────────────────────
-tqdm==4.67.3
 rich==14.3.3
 pyyaml==6.0.3
 jinja2==3.1.6
-packaging==26.0
 protobuf==3.20.2
 regex==2026.2.28
-filelock==3.25.0
-typing-extensions==4.15.0
-sympy==1.14.0
-networkx==3.4.2
-psutil==7.2.2
 
 # ── Data processing ──────────────────────────────────────────────
 pyarrow==23.0.1
@@ -60,20 +53,8 @@ pandas==2.3.3
 dill==0.3.8
 multiprocess==0.70.16
 xxhash==3.6.0
-fsspec==2026.2.0            # NOTE: exceeds datasets 2.19.1 upper bound; install with --no-deps or override
 
 # ── Eval dependencies (GPT-4 scoring) ───────────────────────────
 openai==2.24.0
 python-dotenv==1.2.1
 
-# ── Networking / HTTP (needed by huggingface-hub, openai, etc.) ──
-requests==2.32.5
-urllib3==2.6.3
-certifi==2026.2.25
-charset-normalizer==3.4.4
-idna==3.11
-httpx==0.28.1
-httpcore==1.0.9
-h11==0.16.0
-sniffio==1.3.1
-anyio==4.12.1
