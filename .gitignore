@@ -168,3 +168,4 @@ outputs/
 run_all.sh
 benchmarks/
 demonstrated-feedback.zip
+logs/
