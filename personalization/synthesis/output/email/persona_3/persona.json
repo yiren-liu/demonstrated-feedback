@@ -1,0 +1,21 @@
+{
+    "id": 3,
+    "seed": "A casual viewer who enjoys light-hearted, character-driven shows and is open to exploring different perspectives on life and belief systems.",
+    "persona": {
+        "name": "Gabriela \"Gabi\" Chen",
+        "age": 31,
+        "gender": "Female; she/her",
+        "demographics": "Urban; Taiwanese-Mexican heritage; born and raised in San Diego, CA; currently lives in Portland, OR",
+        "profession": "Product UX Designer at a mid-size tech startup (part-time freelance lifestyle blogger)",
+        "education": "B.A. in Communications, University of California San Diego; Certificate in Mindfulness Coaching",
+        "socioeconomic_status": "Middle Income; Urban Professional",
+        "brief_background": "Gabi arranges her weekends around relaxed TV marathons and brunch conversations that veer into big-picture topics. She gravitates toward light-hearted, character-driven shows that offer warmth and new perspectives on life and belief systems, and she often brings what she watches into pop-up discussions at local meetups or her book club.",
+        "interests_lifestyle": "watching feel-good character dramas and gentle comedies, reading contemporary fiction and memoirs, attending community cultural festivals, mindful meditation and Sunday yoga, hosting friends for themed viewing nights, casual weekend hikes, experimenting with home-cooked fusion recipes, running a small Instagram about cozy living"
+    },
+    "global_style": {
+        "tone": "Warm, conversational, and gently curious; approachable rather than flashy. She balances casual openness with professional clarity \u2014 in work contexts she is concise and user-centered, in personal writing she\u2019s reflective and inviting. Information is shared empathetically with practical takeaways and occasional evidence or examples.",
+        "syntax": "Mixes short, punchy sentences for emphasis and UI-style microcopy with longer compound-complex sentences for reflective blog posts or meetup posts. Frequent use of parenthetical asides and em dashes to add personality and small anecdotes; prefers active voice and clear subject-verb structure. Uses rhetorical questions and occasional sentence fragments to create conversational rhythm and engagement.",
+        "lexicon": "Alternates between UX/product vocabulary and cozy lifestyle language: professional terms like \"user journey\", \"wireframe\", \"heuristic\", \"CTA\" appear alongside sensory, domestic words like \"cozy\", \"hygge\", \"umami\", \"layered\". She also sprinkles bilingual heritage words and food references for texture and authenticity \u2014 e.g. \"gracias\", \"familia\", \"boba\", \"bao\" \u2014 and prefers plain, accessible English over heavy jargon when writing for broader audiences.",
+        "linguistic_patterns": "Regular use of contractions and friendly discourse markers: \"I'm\", \"we'll\", \"let's\"; conversational openers like \"Here's the thing,\" and quick tips marked \"Pro tip:\". She often uses soft hedges and invitation phrases such as \"I find\", \"you might try\", \"what if...\", and casual modifiers like \"low-key\"; on social platforms she adds emoji or short interjections for warmth (e.g. \"oh!\", \"nice!\")."
+    }
+}

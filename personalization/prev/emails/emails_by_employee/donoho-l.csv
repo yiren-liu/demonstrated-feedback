@@ -1,0 +1,392 @@
+file,date,from,to,subject,email
+donoho-l/sent_items/1.,"Thu, 25 Oct 2001 16:01:01 -0700",lindy.donoho@enron.com,audrey.robertson@enron.com,Hand-outs for 9:00 Dry Run Mtg on Fri,"In the morning could you please call to Omaha and ask who could print out enough copies of the attached presentation for the attendees of the 9:00 meeting and forward this to them?
+
+Thanks Audrey!"
+donoho-l/sent_items/100.,"Tue, 12 Feb 2002 10:59:08 -0800",lindy.donoho@enron.com,michael.ratner@enron.com,Slide #11,"The note ""need to verify"" appears on this slide, after the bullet ""110,000 MMcfd annual average increase"".
+
+I calculated this average annual amount from the first bullet ""CA's natural gas use will increase from 6,400 MMcfd in 2000 to 7,500 MMcfd in 2010"".  The first bullet and the third bullet are from the same source as the graph, The California Energy Commission.  Specifically, it's from their ""California Natural Gas Analysis and Issues"" Staff Report, dated November 2000.  The CEC's more current report from October, 2001, did not include specific long-term demand projections (it is focused on infrastructure issues).
+
+That's the source of the numbers on this slide."
+donoho-l/sent_items/102.,"Wed, 13 Feb 2002 09:20:01 -0800",lindy.donoho@enron.com,michael.ratner@enron.com,Slide #24,"I talked with Steve about this bullet.  Let's insert the phrase ""...due to capitalizing on market volatility."""
+donoho-l/sent_items/103.,"Wed, 13 Feb 2002 09:26:20 -0800",lindy.donoho@enron.com,michael.ratner@enron.com,Slides #17 & #28,"On slide # 17, as we discussed yesterday, I think we'll have to do without the 2001 throughput numbers because the FERC Form 2's aren't published yet for 2001.  We could update the presentation when the numbers are published.
+
+On slide # 28, there's a note at the bottom ""% of Revenue"".  What do we need here?  Do I need to get you a number(s)?"
+donoho-l/sent_items/104.,"Wed, 13 Feb 2002 15:14:21 -0800",lindy.donoho@enron.com,"michael.ratner@enron.com, tracy.geaccone@enron.com",Resubscription Rates in 2010 Plan,"I would recommend the following assumptions for capacity resubscription from now through Q3 2006:
+
+The historical average rates should be assumed for the resubscription of East and Ignacio to Blanco capacity rolling-off during this time period.  The forward curves that have been discussed represent the value of capacity to California, not East to East or Ignacio to Blanco capacity.  I don't think that max rates for the capacity represented in these groups is appropriate.
+
+The max rate at $.1020 is appropriate for the San Juan group.
+
+The appropriate max rate for the West group is $.2868.
+
+The volume of Ignacio to Blanco capacity available for resubscription should be reduced.  Today, we have contracts from Ignacio to the Blanco Hub that then continue on Transwestern on another contract.  (These contracts existed before Transwestern owned this line and were assigned to Transwestern when we purchased the facilities from NWPL.)  Because of this ""artificial break"" in the contracts, Transwestern is collecting the San Juan lateral rate once on a contract from Ignacio to Blanco and then again on another contract from Blanco to Thoreau (or to the CA border).  In the future, when this capacity is resubscribed, the contracts will most likely not be split at the Blanco Hub and Transwestern will only extract the San Juan lateral rate once from Ignacio to Thoreau (or to the CA border).  Jan and I will look at the Ignacio capacity that has historically continued on Transwestern south of the Blanco Hub (vs. delivering to El Paso at Blanco).  We will come up with a % to be applied to the Ignacio to Blanco capacity that should be resubscribed at a zero rate (or the capacity to be resubscribed can be reduced - whichever is easier to put in the model)."
+donoho-l/sent_items/105.,"Wed, 13 Feb 2002 15:17:25 -0800",lindy.donoho@enron.com,"michael.ratner@enron.com, tracy.geaccone@enron.com",Updated Spreadsheet,Attached is the spreadsheet updated for the I to I deals.  Please see the first tab for summarized info.
+donoho-l/sent_items/108.,"Fri, 15 Feb 2002 08:56:33 -0800",lindy.donoho@enron.com,yuan.tian@enron.com,2002 - 2025 fuel assumption,"The fuel assumptions to be backed-out of the spread should be:
+
+	2002 - 2006	San Juan to CA		4.75%
+	2002 - 2006	Permian to CA		5.00%
+	2007 - on	San Juan to CA		2.50%
+	2007 - on	Permian to CA		2.50%
+
+Kevin, Tracy, Steve, Paul - Let me know if you think these are not the right assumptions."
+donoho-l/sent_items/109.,"Fri, 15 Feb 2002 09:48:52 -0800",lindy.donoho@enron.com,michael.ratner@enron.com,Assumptions for 2010,"This morning in our meeting, we discussed 3 cases to be run in the TW 2010 model.  I've summarized them in the attached spreadsheet so we can keep track of our variables.  I will be sending you additional info for the various cases.  Please call to discuss.
+
+Thanks,
+Lindy
+36007"
+donoho-l/sent_items/110.,"Fri, 15 Feb 2002 13:23:11 -0800",lindy.donoho@enron.com,michael.ratner@enron.com,Updated Spreadsheet,"Here's the spreadsheet with numbers for the 3 cases.  Please refer to the Assumptions tab (updated numbers in the Summary, Fuel Price & Rates tabs)."
+donoho-l/sent_items/113.,"Tue, 19 Feb 2002 13:30:15 -0800",lindy.donoho@enron.com,steven.harris@enron.com,Red Rock Delay $$ Impact,"The revenue impact of the in-service delay of the Red Rock Expansion is as follows:
+
+	 Volume			Plan		Revenue	Month	
+
+trsp	13,300/d	44 days		$  .05		$ 30,000	(June & July)
+fuel	    341/d	30 days		$2.57		$ 26,000	(June)
+fuel	    341/d	14 days		$2.64		$ 13,000	(July)
+
+trsp/fuel	40,000/d	30 days		    0		      0		(June - made no subscription assumption in Plan)
+trsp	40,000/d	14 days		$ .38		$213,000	(July)
+fuel	  1,026/d	14 days		$2.64		$ 38,000	(July)
+							________
+Total							$320,000
+
+(Fuel calculated at 2.5% upside)"
+donoho-l/sent_items/116.,"Thu, 21 Feb 2002 14:59:10 -0800",lindy.donoho@enron.com,a..howard@enron.com,TW Business Plan,Attached is redlined draft.  Plese see changes to the History and Customers & Contracts sections requested.
+donoho-l/sent_items/12.,"Fri, 19 Oct 2001 11:06:09 -0700",lindy.donoho@enron.com,hasan.kedwaii@enron.com,"TW's ""IOS"" System","I think Rich has told you that I spoke with him yesterday and would like to discuss what it would take to get a new IOS system up and running for TW.  Please give me a call or e:mail me to schedule a meeting to discuss.  I'm at 36007.
+
+Thanks,
+Lindy"
+donoho-l/sent_items/123.,"Tue, 26 Feb 2002 07:13:30 -0800",lindy.donoho@enron.com,steven.harris@enron.com,Gina's Slide,Did you have any comments?  Want anything changed/added/deleted?
+donoho-l/sent_items/124.,"Tue, 26 Feb 2002 07:16:43 -0800",lindy.donoho@enron.com,jan.moore@enron.com,TW 2001 Throughput,"Jan,
+	I had a number from you for one of the presentations we put together, but I wasn't sure if it was the final, actuals for 2001.  What was TW's total actual throughput for 2001?"
+donoho-l/sent_items/130.,"Tue, 26 Feb 2002 08:48:42 -0800",lindy.donoho@enron.com,audrey.robertson@enron.com,Lindy Donoho - Work Schedule,"Effective March 1, 2002, I will not be working the 9/80 schedule anymore.  Please let me know if you need anything else from me.
+
+Thanks,
+Lindy"
+donoho-l/sent_items/133.,"Tue, 26 Feb 2002 13:55:45 -0800",lindy.donoho@enron.com,steven.harris@enron.com,Vacation in March,"I am planning to take take vacation days on March 8 & 11 and on March 29 & April 1.  Please let me know if there are any scheduling conflicts.
+
+Thanks,
+Lindy"
+donoho-l/sent_items/137.,"Wed, 27 Feb 2002 08:34:26 -0800",lindy.donoho@enron.com,jan.moore@enron.com,Historical Average Rates,"I tried to find the original spreadsheet that I'm sure you sent me where you calculated these quarterly rates, but I can't find it.  Do you recall these rates?  My question is, I think we used just demand dollars (so I don't think commodity is in here) - how is it that the San Juan rates are above the maximum $.1020?  There really aren't any surcharges for San Juan to Thoreau transactions.  Can you try to look at this to see why the rate might be averaging greater than max?
+
+Thanks!!
+
+
+
+	1Qtr	2Qtr	3Qtr	4Qtr	Annual	
+West	$0.2577	$0.2557	$0.2626	$0.2499	$0.2565	
+East	$0.0777	$0.0535	$0.0517	$0.0537	$0.0591	
+Ignacio	$0.0443	$0.0445	$0.0433	$0.0392	$0.0428	
+San Juan	$0.1042	$0.1042	$0.1050	$0.1039	$0.1043"
+donoho-l/sent_items/140.,"Fri, 01 Mar 2002 09:43:14 -0800",lindy.donoho@enron.com,lisa.watson@gulfsouthpl.com,Class Baskets,"How does this look?  The first slide is the flyer to be distributed to the parents in the kids' bags.  The second slide I'll print to put on a large manila envelope for the each classroom door.
+
+Did I forget any info?  Does it sound voluntary enough?
+
+Let me know your comments and I'll run it past someone in the office this evening or on Monday and try to have the envelopes out on Monday.  I'll collect the checks each evening when I pick-up Sam.
+
+Thanks,
+Lindy"
+donoho-l/sent_items/142.,"Fri, 01 Mar 2002 13:16:00 -0800",lindy.donoho@enron.com,"kimberly.watson@enron.com, lorraine.lindberg@enron.com, tk.lohman@enron.com, michelle.lokay@enron.com, mark.mcconnell@enron.com, paul.y'barbo@enron.com, robert.kilmer@enron.com, steven.harris@enron.com",Draft - SoCal/Topock Announcement,"Here's a simple first draft.  I didn't know how much detail we should get into.
+
+Ramona, am I using the correct terminology?  They are not going to confirm in Cycle 1.  They are just going to let us fill-in where El Paso filled-up all the capacity downstream.
+
+ 
+
+Let me know your comments.
+
+Thanks!"
+donoho-l/sent_items/152.,"Tue, 05 Mar 2002 09:19:15 -0800",lindy.donoho@enron.com,harry@harrylenkerd.com,Thank You,"I had been meaning to reply to your message you sent to Tony & me a few weeks ago, after you showed us the houses on Winter Wheat.  I saw this morning that 66 Winter Wheat had an option pending =(   I love that house!  But, we are not in a position yet to make a decision about moving, so I guess it wasn't meant to be.
+
+I just wanted to let you know that we appreciated you coming out to show us some homes the other weekend and following-up so promptly with your e:mail on other houses.  If we do decide that we're coming to the Woodlands, we will be calling you to look for a house.  We really enjoyed meeting you and think that it would be great to work with you to look for a home.
+
+Thank you!
+Lindy"
+donoho-l/sent_items/158.,"Thu, 07 Mar 2002 13:29:44 -0800",lindy.donoho@enron.com,lisa.watson@gulfsouthpl.com,Suggestion - Bed Bugs,"Just wanted to let you know I had a phone message from Nancy Mallard(sp?) today.  Her daughter is a bunny.  She had a suggestion for the basket.  The James Avery catalog has some sterling silver charms (for a bracelet or a necklace) that are bugs.  A dragon fly ($17.50), a honey bee ($12.50) and a lady bug ($15).
+
+I left her a message and told her I thought it sounded like a great idea.  I told her we would get back with her after next week (& collecting donations) to see if she would like to purchase one to donate for the basket or if she could provide us with the catalog (because I don't receive that one).  I've already looked on the internet to see if I could get a look.  Apparently, there's not a website.
+
+FYI, we'll touch-base later.
+
+Lindy"
+donoho-l/sent_items/16.,"Thu, 11 Oct 2001 16:13:31 -0700",lindy.donoho@enron.com,jan.moore@enron.com,Two Cheat Sheets,"Jan, 
+	Thank you for all of your help!!
+Lindy"
+donoho-l/sent_items/160.,"Tue, 12 Mar 2002 11:56:03 -0800",lindy.donoho@enron.com,a..howard@enron.com,TW Spreadsheet,"Here is the projected subscribed capacity and revenue through 2010.  This was updated in February, 2002.  Please review it to determine all of this info is appropriate to be provided to the rating agencies.  Most (if not all) of TW's contracts have confidentiality provisions concerning the rates.  I'm assuming we have Confidentiality Agreements with the rating agencies."
+donoho-l/sent_items/163.,"Thu, 14 Mar 2002 12:42:43 -0800",lindy.donoho@enron.com,michael.ratner@enron.com,Meet on Daily Bal Report,"I got your message.  They just got my phone and computer hooked-up (I'm on 39 now).  Can you get together tomorrow?  How about 10:00?  Let me know.
+
+Thanks, 
+Lindy"
+donoho-l/sent_items/165.,"Tue, 19 Mar 2002 10:01:03 -0800",lindy.donoho@enron.com,"'watson@enron.com, lisa.watson@gulfsouthpl.com",RE: Suggestion - Bed Bugs,We have collected $85 so far.  Yipee!!
+donoho-l/sent_items/167.,"Wed, 20 Mar 2002 14:38:57 -0800",lindy.donoho@enron.com,a..howard@enron.com,New Sentence,"Currently, Transwestern is considering the TransPecos project, a joint venture where Transwestern would own a 50% undivided interest in a new pipeline with capacity of 311 MMcf/d accessing Mexican markets near the El Paso/Juarez area."
+donoho-l/sent_items/169.,"Fri, 22 Mar 2002 10:48:01 -0800",lindy.donoho@enron.com,"paul.y'barbo@enron.com, mark.mcconnell@enron.com, tk.lohman@enron.com, michelle.lokay@enron.com",Meeting with Shelley,"Shellley would like to meet at 9:30 on Monday in her office to discuss Transwestern customer accounts.  Please let me know if you have a conflict with this time.
+
+Thanks,
+Lindy"
+donoho-l/sent_items/18.,"Thu, 11 Oct 2001 12:49:25 -0700",lindy.donoho@enron.com,lillian.villarreal@enron.com,Declined: CMS/CRS Implementation Update Mtg./EB42C2-OMA696,I'm sorry I will be not be in the office Friday.
+donoho-l/sent_items/183.,"Tue, 30 Oct 2001 09:16:00 -0800",lindy.donoho@enron.com,tracy.geaccone@enron.com,2002 Plan Review (11/8/01),"Let me know if you have any questions or need anything changed.
+
+Thanks,
+Lindy
+X36007"
+donoho-l/sent_items/184.,"Tue, 30 Oct 2001 12:22:16 -0800",lindy.donoho@enron.com,lorraine.lindberg@enron.com,WTX Pool Capacity,"I don't know if Perry has responded to your request yet concerning what contracts are expiring with WTX Pool capacity and about that Duke contract you mentioned in our Staff Mtg yesterday, but I looked at my notes and this is what I come up with.
+
+The Duke contract that expires 7/31/2002 without ROFR is already taken into consideration as expired in the November, 2002 capacity of 17,300/d we derived last week (which we've already sold 20,000/d to Calpine & PPL).
+
+Other contracts expiring in 2002 & early 2003 from the WTX Pool are:
+
+	25841	PG&E	17,200/d	10/31/2002	(ROFR trigger 10/31/01)
+	26511	PG&E	  8,165/d	10/31/2002	(ROFR trigger 10/31/01)
+	Total		25,365/d
+
+	26683	APS	8,000/d		3/31/2003	(subject to ROFR)
+		
+Otherwise, we have WTX Pool capacity every Apr-Oct of 14,000/d (opposite of SWG's seasonal ctrc).
+
+The other issue we could take into consideration here is displacement.  For the month of November, 2002 (for example) we have 22,000/d of capacity we are including in our WT-1 total that is made up of southward paths (20,000/d for USGT & 2,000/d for Astra with receipts north of WT-1 for delivery to WTX delivery points south of WT-2).  This is the most conservative capacity reservation policy.  In the event not enought physical receipts were nominated south of WT-1 to fulfill all physical deliveries nominated south of WT-1, we would need to compress gas south through WT-1 to make deliveries for these two contracts.  We may want to reassess this."
+donoho-l/sent_items/187.,"Wed, 31 Oct 2001 09:23:23 -0800",lindy.donoho@enron.com,"steven.harris@enron.com, kimberly.watson@enron.com",FYI - 637 Imbal Mtg,"We held a meeting to discuss the status of TW's 637 Imbalance filing.  Our current position (after discussions about a month ago) has been that we are concerned about filing anything in the 637 docket because it would stir-up segmentation and for now we want to let that sleeping dog lie.  We discussed again the possibility of making a separate tariff filing to pursue our OBA ""wish list"" outside the 637 arena and decided again that this type of filing would just get consolidated with our pending 637 filing.
+
+After further discussion we decided that the one thing, most narrowly defined, that would really help us out with our imbalances is mandatory cash-out in constrained areas.  If defined this narrowly, this is something for which we can clearly demonstrate an operational need based upon historical allocation and imbalance data.  We think that we could make a 30 day tariff filing for this one change and have minimum risk of entanglement with the overall 637 filing.
+
+Glen & Mary are going to discuss with MKM and Teb with Rob.  Lyn & Terry are going to pull together the last 12 months of data for constrained areas on our pipe (Ignacio to Blanco, Blanco to Thoreau, Thoreau to the border & check with Darrell for any other areas that should be included) and increased imbalance levels.  We plan to get together next week to discuss further.
+
+Concerning the rest of our OBA ""wish list"", we are discussing whether to hold meetings with individual protestors to discuss only the Imbalance issues of the filing and work toward a ""settlement"" position on those issues to have ready in the event of Commission action in this docket."
+donoho-l/sent_items/196.,"Mon, 05 Nov 2001 16:10:56 -0800",lindy.donoho@enron.com,"james.centilli@enron.com, richard.hanagriff@enron.com",SoCal Interest Calculation,"James, please find the file attached with the SoCal amounts in dispute as we discussed.  Let me know if you need any further assistance.
+
+Richard,
+We are meeting tomorrow afternoon (internally) to discuss a possible SoCal settlement position.  Could you verify the amounts from March, 2001 through September, 2001 by lunch time tomorrow?  (I was using a combination of a spreadsheet Linda Ward had provided to me a couple months ago and inquiring in the CBS invoice system.  I want to make sure I have the most current information.)  If not, let me know your timing.  Also, have we been billing interest on the disputed amounts?  I don't see anything in the invoice system.  Please let me know.
+
+Thanks,
+Lindy"
+donoho-l/sent_items/197.,"Tue, 06 Nov 2001 07:17:04 -0800",lindy.donoho@enron.com,"steven.harris@enron.com, j..porter@enron.com, kay.miller@enron.com, maria.pavlou@enron.com, richard.hanagriff@enron.com",SoCal Interests Calculation,"Attached is a spreadsheet where James has calculated the interest owed by SoCal.  The interest totals about $0.5 MM.
+
+We have not been billing interest.  The system does not generate an interest invoice until the disputed amount is paid.  Then, based upon when it's paid, the interest is calculated."
+donoho-l/sent_items/199.,"Tue, 06 Nov 2001 15:57:57 -0800",lindy.donoho@enron.com,"kay.miller@enron.com, maria.pavlou@enron.com",ReCalc of SoCal Offer,"Could all y'all check my work =) before I send this out to everyone?  (Scroll-down to the highlighted areas.)
+
+Thank you!"
+donoho-l/sent_items/2.,"Thu, 25 Oct 2001 15:57:58 -0700",lindy.donoho@enron.com,shelley.corman@enron.com,TW Firm Contracts,"Kim asked me to send the attached spreadsheet to you.  It's my listing of TW's firm contracts where I track ROFR.  This is a complete list as of 9-17-01 of all long-term contracts (seasonal or longer).  Any monthly deals may not be included.  Dennis Lee has a report he runs from CBS of all currently effective contracts and contracts with future effective dates for me to cross-check that I have everything.
+
+The first tab ""ROFR Criteria"" is a complete list of currently effective contracts including (at the bottom) contracts with future effective dates and the Red Rock Expansion contracts.  The receipt and delivery areas are noted.  The tabs following show the subscribed capacity for certain segments of TW's pipe (West of Thoreau, Blanco to Thoreau & Ignacio to Blanco) by month through 2006."
+donoho-l/sent_items/20.,"Wed, 10 Oct 2001 13:38:20 -0700",lindy.donoho@enron.com,tracy.geaccone@enron.com,2002 Plan Pres,"Replace slide # 4 (""Reconciliation of 2001 Plan to 2001 3CE"")
+Replace slide # 5 (""Reconciliation of 2001 3CE to 2002 Plan"")
+Insert new slide	# 6 (""Net Commercial Contribution Accountability"")
+Replace slide # 15 ( ""Fuel Revenues 2001 vs. 2002"", was slide # 14)
+Insert new slide # 18 (""2002 Strategy"")"
+donoho-l/sent_items/202.,"Wed, 07 Nov 2001 07:49:19 -0800",lindy.donoho@enron.com,kathy.campos@enron.com,Spreadsheet for Mtg this morning,"Please print a few copies of this spreadsheet and take them to Tracy in her meeting this morning.
+
+Thanks,
+Lindy"
+donoho-l/sent_items/204.,"Wed, 07 Nov 2001 08:29:17 -0800",lindy.donoho@enron.com,"steven.harris@enron.com, j..porter@enron.com, kay.miller@enron.com, maria.pavlou@enron.com",SoCal Settlement Offer,Attached is a revised offer per our conference call yesterday.  The 1st tab is the summary.  The 2nd tab has the calculations (as well as for the other alternatives we discussed).
+donoho-l/sent_items/205.,"Wed, 07 Nov 2001 14:49:28 -0800",lindy.donoho@enron.com,morad@midsouth.rr.com,Pic's of Khalid,"Oh!  Doesn't he just steal your heart?  Thank you for the pictures.  I have the 3rd one on my screen background.  What an angel!  I'm glad you liked everything and it fits.  I hope you can find a tiny little picture of his sweet little face to put in his blue bejeweled frame.  
+
+Isn't our Sam a handsome boy!  He says pickle, boat, nose, eyes, daddy's car, grandma (this is when he's referring to Tony with a blanket wrapped around his head like a scarf), milk, water, beans, hush chloe & I get binky.  He is wonderful.
+
+Sam & I are bonding this weekend.  The kids were all 3 going to NYC with Lisa for the weekend, but Anthony doesn't want to go.  So, he's staying with us, but he and Tony are going to the river in Utopia, TX to take Anthony deer hunting for the first time.  They're staying at Tony's grandma's house.  She's very excited to see them. Anthony is very excited and wanted to know if they could get him some ""camo"" Friday night (it's all about the clothes these days).
+
+That's about all I know.  It's good that you're going into work and getting out of the house.  It sounds like you're hanging in there.  I hope you're able to get some more sleep.  I'm sure it won't seem soon enough, but you will get to sleep again sometime in the next year or so =)  (It does sound like a long time when you say it out loud.  Sorry.  It'll go by fast!)
+
+I'm excited that Khalid will be baptized by your friend.  He sounds like an enlightened man and I think it's nice for him to recognize both your and Ahmed's faith.  Khalid is a lucky baby.  I wish we could be there.
+
+Take care and tell Ahmed hi.  Give Khalid a kiss & a squeeze.
+
+Love,
+Lindy"
+donoho-l/sent_items/206.,"Thu, 08 Nov 2001 15:17:15 -0800",lindy.donoho@enron.com,perry.frazier@enron.com,WT-1 Spreadsheet,"Let me know if we're syncing-up.
+
+If we're off in June - Dec, check what I have for the Red Rock Adm Ctrc (I know Dennis made some changes.  I think I have the most current, but possibly not.)
+
+Thanks,
+Lindy"
+donoho-l/sent_items/208.,"Tue, 13 Nov 2001 11:22:01 -0800",lindy.donoho@enron.com,tracy.geaccone@enron.com,Final Ken Lay Pres,Let me know if you need any help for Thursday's meeting.
+donoho-l/sent_items/209.,"Wed, 14 Nov 2001 13:50:56 -0800",lindy.donoho@enron.com,patricia.steele@enron.com,Ctrc 24690 Continental CMS,"Perry had asked me whether this contract had ROFR or not because he thinks it should be terminated, but CAS is still reserving capacity for the contract because it has a ROFR flag on it in CBS.  I think that this contract does not have ROFR, but could you confirm this for me?  If my memory is correct, I thought that this agreement was always done just a month or two at a time and that at the end of each term it was negotiated with the price desk (& more recently TK) to roll for another month or so.  If I'm thinking of the right contract, that would mean that it did not have a ROFR (because it was not for a year or longer) and that it terminated 3/31/2001.
+
+Could you check the contract file for me and look at the amendment history to confirm that the agreement did not have a year or longer term?  If not, then this agreement should not have the ROFR contract on it.
+
+Let me know.  Thanks!"
+donoho-l/sent_items/21.,"Tue, 09 Oct 2001 13:37:01 -0700",lindy.donoho@enron.com,robert.kilmer@enron.com,TW's 2002 Plan Pres,"You had asked to see a final copy of our presentation.  This is what was sent to Tracy today.  We may have a couple of inserts by Friday.
+
+Please call me or Steve if you have any questions."
+donoho-l/sent_items/214.,"Fri, 16 Nov 2001 15:07:21 -0800",lindy.donoho@enron.com,jan.moore@enron.com,Budget Question,It had come up in a meeting that TW was being allocated some $$ associated with NNG personnel (probably storage desk in Houston & Omaha and risk management people).  Is there anyway that you can tell us the people (partial people) who are being allocated to TW?
+donoho-l/sent_items/217.,"Tue, 20 Nov 2001 10:54:48 -0800",lindy.donoho@enron.com,"mary.darveaux@enron.com, maria.pavlou@enron.com, kay.miller@enron.com",Capacity Posting Tariff Sheets,"My other comments on the tariff sheets were as follows:
+
+Section 35.2
+	2nd paragraph, 3rd sentence.  Explanation of ""incremental revenue"".  When we talk about revenues which TW already receives from reservation charges being paid prior to the bid period.  What if we're taking bids on future capacity and we're trying to get revenue that is incremental to reservations charges we're not necessarily being paid yet?  The language is so specific.  Can we change the language to refer to revenues incremental to what TW already has contractually committed?
+
+	2nd paragraph, last sentence.  The phrase ""guaranteed throughput volume service applies only in the case of a negotiated rate"".  What does this mean?  TK & I were both a littles confused by this language.
+
+	4th paragraph, 4th sentence.  The phrase ""the value of the index based rate bids will be calculated using the applicable published indices available on the bid deadline"".  TK, is the phrase ""published indices"" generic enough or should we use something broader that might encompass basis quotes?  I realize it will probably have to be something that is published."
+donoho-l/sent_items/218.,"Tue, 20 Nov 2001 10:59:09 -0800",lindy.donoho@enron.com,bill.rapp@enron.com,USGT's Sched Vols West,"Amy confirmed for me that USGT's scheduled volumes West on Ctrcc 27161 since 11/1/01 total 13,785.  She is not including the volumes for today (11/20), since it's not a final volume for the day yet."
+donoho-l/sent_items/221.,"Mon, 26 Nov 2001 08:49:54 -0800",lindy.donoho@enron.com,"rod.hayslett@enron.com, tracy.geaccone@enron.com",California Proposed Projects,Attached is the slide detailing expansions to California as of 11/7/2001.  Please review and forward as needed to JPMorgan.
+donoho-l/sent_items/222.,"Mon, 26 Nov 2001 11:45:24 -0800",lindy.donoho@enron.com,maria.pavlou@enron.com,Offer of Settlement - SoCal Billing Issue,"Dan asked me for a copy of the offer we sent to SoCal on the billing issue.  I must have deleted the e:mail.  Do you still have it electronically & if so, could you forward it to Dan?  He's interested in the excel spreadsheet with the $$ impact.
+
+Thanks!
+Lindy"
+donoho-l/sent_items/224.,"Tue, 27 Nov 2001 08:17:58 -0800",lindy.donoho@enron.com,tracy.geaccone@enron.com,Capacity Subscription Strategy,"How does this look?
+
+ 
+
+Also, I did change some numbers in the excel spreadsheet:
+
+	The Ignacio to Blanco subscription levels were pulling from the row excluding ROFR capacity in the supporting sheet.  I changed it to be consistent with the other 	capacities (which include ROFR capacity).
+
+	Shelley had made some assumptions about East of Thoreau capacity subscription, such as, the USGT 400,000/d contract would remain subscribed (it doesn't 	have ROFR) and she had included the extension of 2-3 other contracts that don't have ROFR.  These contracts were then dropped after 2005.  I continued the 	extensions through 2006.
+
+	I changed the East of Thoreau capacity to 750,000/d from 850,000/d."
+donoho-l/sent_items/226.,"Tue, 27 Nov 2001 14:32:33 -0800",lindy.donoho@enron.com,gregory.porter@enron.com,Data Request Dynegy-Enron,"Attached are our responses to # 1, 17, 18, 19, 20 & 21 for Transwestern.
+
+Rick, for your review, Amy Mulligan gave me the volumes each month for Calpine & Griffith.  We used actual volumes delivered (not scheduled volumes), per question #19."
+donoho-l/sent_items/24.,"Tue, 09 Oct 2001 09:31:18 -0700",lindy.donoho@enron.com,tracy.geaccone@enron.com,2002 Plan Pres,"Here is the final except the ""contributions"" slide we discussed.  (We may have a ""strategy"" slide to insert Friday as well.)
+
+Call me with any questions 36007."
+donoho-l/sent_items/28.,"Fri, 05 Oct 2001 06:42:07 -0700",lindy.donoho@enron.com,margy2001@yahoo.com,Happy Birthday Miss Margy,"Happy birthday to you!  Happy birthday to you!  Happy birthday dear Margy, happy birthday to you!
+
+How are you?  Brett?  Shayne & Summer?  Your family?  I hope everyone is well and coping with all that has happened.  We are fine down here.  My mom & Charlie are coming for a visit next week.  They were flying, but now they're driving.  I think we could all get into the whole family truckster thing again.  Tony & I have decided we probably need the van with the TV/VCR in the ceiling now.  By the way, how is Summer?  What did the doctor have to say about her germ thing, etc?  I hope you all are working through that ok.
+
+I hope you are doing something special for your birthday - going out to dinner with your family & kids and/or maybe a night out with just Brett & you - there's a treat!  Tony & I got a babysitter (one of Sam's teachers) last Saturday for no particular reason and just went out to eat & to a movie (Serendipity - it was a cute romantic comedy.  Just about all I need these days - light & funny & not too much brain power.)
+
+Well, please take the time to celebrate this day - the day we all lucked out and you were born!  Tell Brett it really was his lucky day!  Spend some time with your mom & dad - they were both there =)  And remember the best birthday gift you ever got - the gift of this life - what more wonderful thing could there be?  It was a gift to all of us that have the pure pleasure of knowing you, Margy.  My life would not be the same without you =)
+
+I love you & miss you, my friend. 
+
+Lindy
+XO"
+donoho-l/sent_items/29.,"Thu, 04 Oct 2001 15:02:50 -0700",lindy.donoho@enron.com,melinda.gallishaw@enron.com,2001 Operations Directors Conference,"Attached is Steve Harris' presentation.  Please let me know if you have any questions.  My extension is 36007.
+
+Thanks,
+Lindy"
+donoho-l/sent_items/31.,"Wed, 03 Oct 2001 12:59:12 -0700",lindy.donoho@enron.com,kay.miller@enron.com,TW 2002 Plan,For 3:00 meeting with Danny.
+donoho-l/sent_items/350.,"Mon, 25 Mar 2002 08:44:13 -0800",lindy.donoho@enron.com,"'watson@enron.com, lisa.watson@gulfsouthpl.com",RE: Bed Bugs,"Attached is the list of items and prices.  I'll put a check for $37 in Amanda's bag today (if I'm there before you) or tomorrow.  It might be today if I can arrange to meet Rita to drop-off my items to her during lunch.  Maybe I'll get to see you there dropping-off stuff - I'd love to see everything picked-out.
+
+Please let me know if you have any questions.
+
+Thanks,
+Lindy"
+donoho-l/sent_items/351.,"Mon, 25 Mar 2002 13:28:31 -0800",lindy.donoho@enron.com,shelley.corman@enron.com,TW 2010 Projected Capacity & Revenue,"This is the speadsheet we have been working off of for the 2010 model that Kevin Howard is running.  Please let me know if you have questions or would like me to summarize this for you in a more useful format for your reference.
+
+Lindy"
+donoho-l/sent_items/36.,"Mon, 01 Oct 2001 15:04:21 -0700",lindy.donoho@enron.com,gay.mayeux@enron.com,Transwestern Slides,Steve Harris asked me to forward these slides of the Red Rock expansion and Sun Devil project.  Please call me if you have any questions at X36007.
+donoho-l/sent_items/4.,"Thu, 25 Oct 2001 07:41:17 -0700",lindy.donoho@enron.com,"rich.jolly@enron.com, david.roensch@enron.com, lee.huber@enron.com",Installation of Pigging Facilities,"I have reviewed the La Plata Facilities O&O Agreement.  Lee, could you please review the same and see if you agree with this assessment?  It appears to me that the pigging facilties could qualify as either of the following:
+
+Special Services.  This would be subject to prior written consent and agreement between the Operator (TW) and the Operating Committee (TW & NWPLRepresentatives).  If NWPL agreed, their share of the cost would be in proportion to their ownership interest.  If we did obtain their approval, future O&M cost attributable to the pigging facilities could be shared among the owners.  (We've agreed to a flat fee for 2000 through 2003 with a 3.5% escalator starting in 2001.) 
+
+Addition or Expansion.  Demonstrate that the pigging will add incremental transmission capacity. We have to give notice to NWPL and they have 60 days to participate.  If they participate, they share in the cost at their ownership interest, but they get a share of the incremental capacity at their ownership interest.  If they don't indicate a desire to participate in 60 days, we can proceed with the Expansion (without any approval, but also no cost sharing).  Also, any incremental O&M associated with an expansion cannot be passed on to any owners not participating in such expansion.
+
+I think if we went the Special Services route, we would need to justify the need for these facilities to maintain the integrity and efficiency of the facilities at current levels.  I think we would spend alot of time arguing this with them and in the end they would probably approve it subject to them not incurring any cost.  (They probably don't have $260,000 ($1.5MM * .174) sitting around in a budget somewhere that they'd like to fork over for these facilities.)  Rich, what do you think?  How difficult would it be to demonstrate that these facilities are necessary for maintaining the current operating levels of the facilities?
+
+Recommendation:  To save us the 60 days notice period of an Expansion, I think we should notify them that it's a necessary Special Service and ask for approval (& to pass along their share of the cost), but to be prepared to eat 100% of the costs to obtain their timely approval and proceed with the installation of the facilities.  In this event we would need to agree on the inclusion of future O&M attributable to these facilities.
+
+FYI, their ownership interest is still officially 22.3% since they have not executed the Amendment that has been tendered to them 3 times, first by me and twice by Lynn Blair.  If	they execute the Amendment that incorporates the 4/1/98 expansion of the facilities, their ownership interest will be 17.4%."
+donoho-l/sent_items/5.,"Thu, 25 Oct 2001 05:55:50 -0700",lindy.donoho@enron.com,m.hall@enron.com,Hi!,"I just wanted to say it was good to see you the other day, though brief =)  Let's get together soon for lunch or something.  I'm missing my Bob time!"
+donoho-l/sent_items/52.,"Tue, 11 Dec 2001 14:40:41 -0800",lindy.donoho@enron.com,"kimberly.watson@enron.com, tk.lohman@enron.com, lorraine.lindberg@enron.com",SoCal Ideas for Settlement Value,"Per our conference call today, here are some ideas to get TW Settlement Value.
+
+1.	SoCal to commit to TW to let us schedule transport at the SoCal/Topock (South Needles) delivery point.
+
+2.	SoCal to turnback 20,000 to 25,000/d of receipt capacity from the WTX Pool, at no cost to TW (SoCal continues to pay for it).
+
+3.	TW has been scheduling PG&E's payback to SoCal at SoCal/Topock to help PG&E and SoCal.  SoCal to schedule this as transport from PG&E/Topock (as a RP) to SoCal/Topock (DP) and pay TW transport fee.
+
+4.	SoCal to agree (in writing) to dedicate to TW the incremental 50,000/d at Needles becoming available Jan, 2002 until Red Rock Expansion in-service.
+
+5.	SoCal to amend their OBA to dollar-valued (from volumetric) and cash-out their existing OBA with TW (at TW's index value).
+
+6.	SoCal to sell storage to TW.
+
+7.	SoCal to purchase incremental Thoreau to West of Thoreau capacity from TW.
+
+8.	Extension of SoCal's mainline &/or San Juan lateral contracts.  Or early notice of termination or early notice of ROFR trigger (so that we would have the opportunity to remarket it)."
+donoho-l/sent_items/53.,"Wed, 12 Dec 2001 11:29:16 -0800",lindy.donoho@enron.com,"elizabeth.brown@enron.com, tk.lohman@enron.com, maria.pavlou@enron.com",Conf Call to discuss E. of CA Ques,"Can we all plan to get on the phone with Maria tomorrow (Thurs) at 10:00 to discuss some questions with Elizabeth about East of CA?  We've apparently been inconsistent in our interpretation for different purposes (reporting and system mod's, etc.) and want to get it all straight.
+
+Elizabeth, can you come to th 13th floor and then we'll grab a room/table/office and call Maria?
+
+Thanks!"
+donoho-l/sent_items/55.,"Thu, 13 Dec 2001 05:59:45 -0800",lindy.donoho@enron.com,"lynn.blair@enron.com, john.buchanan@enron.com, rich.jolly@enron.com",Operating Fees Collected from Partners,"Please let me know a soon as possible this morning (by 9:30 if possible) what the annual dollars are we collect from NWPL & PNM for the Blanco Hub and from NWPL for the La Plata Facilities.  I need the total dollars (both the Operating and Market Services together).  I just need a ballpark number.  Whatever was the agreed to budget for 2001 on the Blanco Hub and whatever that flat fee is for the 3 years on the La Plata Facilities.
+
+THANK YOU!!
+
+Lindy"
+donoho-l/sent_items/56.,"Thu, 13 Dec 2001 06:03:40 -0800",lindy.donoho@enron.com,"jan.moore@enron.com, kevin.hyatt@enron.com",TW Fuel Revenue,"Kevin needs to know how much money TW made in 2001 on excess fuel sales (whatever is the most current number - 3rd CE?).  And then he would also like to know revenue in the 2002 Plan dependent on excess fuel sales - let's use the Plan numbers as submitted in Nov.  (FYI Kevin, we are re-looking at the 2002 Plan right now & there could be changes.)"
+donoho-l/sent_items/57.,"Thu, 13 Dec 2001 06:24:11 -0800",lindy.donoho@enron.com,"glen.hass@enron.com, mary.darveaux@enron.com, lynn.blair@enron.com, richard.hanagriff@enron.com, ramona.betancourt@enron.com, teb.lokey@enron.com, blair.lichtenwalter@enron.com, john.buchanan@enron.com",OBA & Scheduling Alt FT by Price Tariff Filings,"In an effort to get cash in the door for TW and to maximize revenue opportunity for TW in the coming year, I think we should look at getting two proposals on file with the FERC as soon as possible. 
+
+One would be the OBA filing we have been discussing (and trying to support with historical data) to get automatic cash-out on OBA's in ""constrained"" areas on TW.
+
+Second would be to look at filing for scheduling by price at alternate FT points.  This may be the time (the market to California is not so hot) to try to implement this.  I know we will have to look hard at the cost of the system modifications required and whether we can justify them.  
+
+Glen is already scheduling a meeting next week for further discussion of the OBA tariff filing.  Could we discuss scheduling alternate FT by price at the same meeting?"
+donoho-l/sent_items/6.,"Wed, 24 Oct 2001 13:51:35 -0700",lindy.donoho@enron.com,hasan.kedwaii@enron.com,Accepted: Updated: IOS,Where is Lisa's Office?
+donoho-l/sent_items/64.,"Wed, 19 Dec 2001 07:37:47 -0800",lindy.donoho@enron.com,"teb.lokey@enron.com, blair.lichtenwalter@enron.com, steve.january@enron.com, lynn.blair@enron.com, glen.hass@enron.com, mary.darveaux@enron.com, richard.hanagriff@enron.com, terry.kowalke@enron.com, john.buchanan@enron.com, ramona.betancourt@enron.com, jeanette.doll@enron.com",Scheduling Alt FT by Price,"Per our discussions yesterday, I did find an Iroquois Gas Transmission System, L.P. Order On Rehearing in my file, dated August 5, 1997 in Docket No. RP97-126-002 (80 FERC P61,199) concerning scheduling alt FT by price.  On reviewing it again, some key points were:  
+
+	Allocate based on the highest percentage of the maximum rate - the rate used being the rate for the package of services that includes those secondary rights.
+	The Commission maintains that all firm capacity, once scheduled, be curtailed pro rata, without regard to price.
+
+Panhandle also filed on March 14, 1997 for scheduling alt FT by price at Docket No. RP97-291 (it's referenced in footnotes, but I don't have a copy of the filing)."
+donoho-l/sent_items/66.,"Tue, 08 Jan 2002 12:11:06 -0800",lindy.donoho@enron.com,elizabeth.brown@enron.com,Accepted: TW Point Groupings - California vs East of California,Thanks for setting this up!
+donoho-l/sent_items/67.,"Thu, 10 Jan 2002 08:02:24 -0800",lindy.donoho@enron.com,amy.mulligan@enron.com,Fuel Gas Dec/Jan,"We spoke briefly with Randy this morning and let him know that Richardson took the gas in Dec the 22-31.  He was okay with this.  He wants to wait to change the volume until the 12th.  We told him you would let him know later today the amount he should nominate for Jan 12-31.
+
+Here's our calculation.  Please confirm or correct and forward to Randy when you get in this afternoon.
+
+Thanks!
+
+	January amount		361,708
+	December amount	112,452
+				-----------
+	Total			474,160
+	Sched 1/1-1/11*		186,129
+				-----------
+	Sched 1/12-1/31		288,031
+
+	*Still assuming 21,447 for 1/11.
+	
+
+	Daily Sched 1/12-1/31	 14,402"
+donoho-l/sent_items/69.,"Mon, 14 Jan 2002 12:00:07 -0800",lindy.donoho@enron.com,dennis.lee@enron.com,TW FT Contracts,"Could you run that report for me of the current and future effective firm contracts on TW?
+
+Thank you!
+Lindy"
+donoho-l/sent_items/75.,"Fri, 18 Jan 2002 12:20:17 -0800",lindy.donoho@enron.com,"danny.mccarty@enron.com, steven.harris@enron.com, a..howard@enron.com, davis.thames@enron.com",Rating Agency Presentation,"Please see the attached PowerPoint presentation.  This is a first draft of certain sections (Industry Environment, Competitive Environment and Revenue Generation) of the TW Ratings Package."
+donoho-l/sent_items/78.,"Tue, 22 Jan 2002 09:12:17 -0800",lindy.donoho@enron.com,steven.harris@enron.com,Vacation Days,"I am planning on taking vacation on the following days:
+	
+	1/2 day		Monday morning, 1/28
+	2 days		Thursday & Friday, 1/31 & 2/1 (Sam's school is closed)
+
+Please let me know if there are any conflicts with this schedule.
+
+Thanks,
+Lindy"
+donoho-l/sent_items/79.,"Thu, 24 Jan 2002 14:41:12 -0800",lindy.donoho@enron.com,elizabeth.brown@enron.com,Declined: Transwestern FERC Subpoena (follow-up),"I'm sorry I won't be in the office tomorrow.
+
+Lindy"
+donoho-l/sent_items/8.,"Tue, 23 Oct 2001 14:50:06 -0700",lindy.donoho@enron.com,hasan.kedwaii@enron.com,,"I was trying to respond to your message about the IOS meeting Friday & I lost it.
+
+I will not be able to be at the meeting.  I am not in the office on Friday.  Please let me know if it will be rescheduled or when we can meet to discuss.
+
+Thanks again,
+Lindy"
+donoho-l/sent_items/81.,"Mon, 28 Jan 2002 14:12:36 -0800",lindy.donoho@enron.com,teb.lokey@enron.com,RE: TW 637 Filing,"Teb,
+	I'm sorry I wasn't in this morning.  Can you fill me in on the meeting when you have time? 
+Thanks,
+Lindy
+X36007
+
+ -----Original Appointment-----
+From: 	Paschal, Zelda   On Behalf Of Lokey, Teb
+Sent:	Friday, January 25, 2002 9:18 AM
+To:	Harris, Steven; Donoho, Lindy; Watson, Kimberly; Rapp, Bill; Kilmer III, Robert; Doll, Jeanette; Hass, Glen; Lichtenwalter, Blair
+Subject:	Updated: TW 637 Filing
+When:	Monday, January 28, 2002 10:15 AM-11:15 AM (GMT-06:00) Central Time (US & Canada).
+Where:	EB1336
+
+Please plan to attend a meeting in EB1336 on Monday, January 28 from 10:15 a.m. - 11:15 a.m. to discuss Transwestern's pending Order No. 637 compliance filing."
+donoho-l/sent_items/82.,"Tue, 29 Jan 2002 08:47:42 -0800",lindy.donoho@enron.com,esc-christmanj@pearland.isd.esc4.net,Zoning Question,"What is the elementary school for the Autumn Lake subdivision?
+
+Thank you,
+Lindy Donoho"
+donoho-l/sent_items/9.,"Mon, 22 Oct 2001 08:56:16 -0700",lindy.donoho@enron.com,tk.lohman@enron.com,Prices Again,"This Wed or Thurs, could you update the monthly Cal '02 prices for me again?
+
+							Permian
+							San Juan	
+							SoCalGas
+
+Hopefully, this will be the last time.  I need to give Tracy the final version of an abbreviated presentation (for Ken Lay mtg 11/8) by the end of this week.  I just wanted to refresh the numbers one more time."
+donoho-l/sent_items/91.,"Tue, 05 Feb 2002 14:17:10 -0800",lindy.donoho@enron.com,davis.thames@enron.com,Capacity on TWPL,"Here is a diagram of the general segment capacities on Transwestern for the past 2006 analysis.  Please let me know if you have any questions.
+
+Thanks,
+Lindy"
+donoho-l/sent_items/99.,"Tue, 12 Feb 2002 09:03:05 -0800",lindy.donoho@enron.com,michael.ratner@enron.com,Source Slide #13,"The source for ""Growing Power Generation Markets"" pie slide is the Arizona Corporation Commission (this is Arizona's PUC)."

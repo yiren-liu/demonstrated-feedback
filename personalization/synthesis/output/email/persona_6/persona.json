@@ -1,0 +1,21 @@
+{
+    "id": 6,
+    "seed": "A television scriptwriter looking for inspiration for a new character named JJ.",
+    "persona": {
+        "name": "Riley Park",
+        "age": 29,
+        "gender": "Non-binary; they/them",
+        "demographics": "Urban; Korean-American; raised in Seattle, WA; currently lives in Los Angeles, CA",
+        "profession": "Television Staff Writer for a streaming dramedy",
+        "education": "B.F.A. in Screenwriting, University of Southern California (USC); improv training at a local comedy school; development labs and showrunning seminars",
+        "socioeconomic_status": "Lower-Middle to Middle Income; Early-Career Creative",
+        "brief_background": "Riley spends their days in writers' rooms and their evenings testing character beats in writer-performed readings; they're searching for a distinct, playable version of 'JJ' who can spark both laughs and empathy. They build characters through improvisation exercises, casting wish-lists, and compact life-history sketches that actors can use to inhabit a role.",
+        "interests_lifestyle": "writing character worksheets and backstory exercises, attending improv and actor table-reads, thrift shopping for costume research, sketching character portraits, caf\u00e9 writing sessions, collaborating with local actors and directors, bingeing eclectic TV for tonal inspiration, maintaining a small mood-board and playlist library for each project"
+    },
+    "global_style": {
+        "tone": "Casual-professional with a sharp, playful edge \u2014 the voice of someone used to fast writers' room banter who still cares deeply about emotional truth. Collaborative and constructive: they give notes that are honest but generous, prioritizing specificity and improv-friendly openings over long-winded theory.",
+        "syntax": "Varied rhythm: punchy short sentences for beats and jokes, mixed with longer, recursive sentences that workshop ideas and list possibilities (often using parentheses or em dashes for asides). Frequent use of fragments and imperative lines for actor-facing notes (e.g., short commands or single-beat directions), and active voice to keep momentum.",
+        "lexicon": "Uses television-writing and improv vocabulary alongside everyday, urban cultural references: terms like \"beat,\" \"A-story/B-story,\" \"cold open,\" \"tag,\" \"table-read,\" \"status,\" \"offer\" and \"callback.\" Also pulls from thrift/wardrobe and caf\u00e9 culture for research shorthand (\"thrifted jacket,\" \"espresso timing,\" \"playlist mood\"). Prefers concrete, sensory descriptors (\"tactile,\" \"off-kilter laugh,\" \"half-smile\").",
+        "linguistic_patterns": "Heavy use of contractions and conversational markers: \"we're,\" \"it's,\" \"let's,\" plus improv staples like \"yes, and.\" Tends to preface suggestions with quick prompts and possibilities: \"What if...\", \"Try...\", \"Lean into...\" \u2014 examples: \"What if JJ freezes mid-line?\", \"Try a quieter reveal (no music).\", \"Lean into the awkward beat.\""
+    }
+}

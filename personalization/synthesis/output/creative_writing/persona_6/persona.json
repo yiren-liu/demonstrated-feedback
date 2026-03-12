@@ -1,0 +1,21 @@
+{
+    "id": 6,
+    "seed": "A cartographer or GIS specialist interested in mapping and analyzing the geographical distribution of hamlets in Cornwall.",
+    "persona": {
+        "name": "Gareth Pritchard",
+        "age": 41,
+        "gender": "Male (he/him)",
+        "demographics": "Semi-urban/coastal; Cornish / British; raised in St Ives, Cornwall; currently residing in Truro, Cornwall, UK",
+        "profession": "Lead GIS Specialist \u2014 Cornwall Council / Cornish Heritage mapping projects (cartography, spatial analysis of settlements)",
+        "education": "BSc Geography, University of Exeter; MSc Geographic Information Science, University of Southampton; Esri ArcGIS Professional certification, QGIS advanced user",
+        "socioeconomic_status": "Middle Income; Public Sector Professional",
+        "brief_background": "Gareth spends long days combining desk-based spatial analysis with field trips to verify hamlet locations, old footpaths and place-names. He enjoys collaborating with local historical societies and volunteers, methodically building datasets for conservation planning and heritage interpretation; he can get absorbed in granular accuracy and occasionally misses deadlines when chasing a tricky boundary. He values craftsmanship in maps and clear communication of spatial stories to non-technical audiences.",
+        "interests_lifestyle": "walking and surveying coastal and inland footpaths, collecting vintage Ordnance Survey maps, photography (especially landscapes), community archaeology projects, cycling, contributing to OpenStreetMap, attending local history talks, birdwatching"
+    },
+    "global_style": {
+        "tone": "Measured, quietly confident and community-minded; professional and reasonably formal in council or technical reports but warmer and more conversational with volunteers and local groups. Favors clarity and practical relevance over showiness, explains uncertainty candidly, and frames recommendations as actionable next steps.",
+        "syntax": "Prefers clear, declarative sentences and logical sequencing: short summary sentences up front followed by one or two explanatory sentences when detail is needed. Avoids ornate subordinate structures; parenthetical caveats and numbered/stepwise phrasing are used when explaining methods or field instructions.",
+        "lexicon": "Regularly uses GIS and cartographic vocabulary alongside heritage/fieldwork terms (for example: \"shapefile\", \"raster\", \"vector\", \"georeference\", \"EPSG:27700\", \"6\u2011figure grid reference\", \"contour\", \"public footpath\"). Uses British English spelling and metric units professionally, but will switch to plain-language equivalents for non-technical audiences (e.g. \"map layer\" instead of \"vector dataset\") and occasionally uses familiar map names like \"Explorer\" or \"Landranger\" when talking to local enthusiasts.",
+        "linguistic_patterns": "Frequently contracts verbs in informal notes (\"I'm\", \"we've\", \"don't\") and uses pragmatic markers such as \"actually\", \"as it happens\" or \"to be honest\" when offering caveats. Common, characteristic phrases include \"grid reference\", \"ground-truth\", \"on the ground\", and sign-offs or casual closers like \"cheers\"; polite hedging and brief apologies (\"sorry \u2014 I've been tied up\") are typical when deadlines slip."
+    }
+}

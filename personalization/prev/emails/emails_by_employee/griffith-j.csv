@@ -1,0 +1,147 @@
+file,date,from,to,subject,email
+griffith-j/sent_items/11.,"Wed, 24 Oct 2001 12:39:38 -0700",john.griffith@enron.com,dust20@lycos.com,,"Hi,
+
+I am Angie's husband (vintagegarb) and I would like to talk to you about the leather jacket she had listed on ebay.  Please email me with you phone number so that we can discuss.  
+
+Thank you very much.
+
+Sincerely,
+
+John Griffith"
+griffith-j/sent_items/12.,"Tue, 11 Dec 2001 08:54:34 -0800",john.griffith@enron.com,reggie.wilson@enron.com,,"Hey Reggie, 
+
+How are you doing?  I don't know if you remember me but I was a friend of Chris Larson's.  I was wondering what you  guys are going to do with the furniture and the flat screens?  Do you need any help selling them?  Will you offer any to the employees?
+
+I know you are busy in these times.  If you get a chance, call me at x.36247 or at home (713) 527-8743.
+
+Thank you and have a great day.  Hope all is well with you and your family.
+
+John Griffith"
+griffith-j/sent_items/13.,"Wed, 12 Dec 2001 11:20:04 -0800",john.griffith@enron.com,steven.l.allen@jpmorgan.com,,"Steven,
+
+John Arnold asked me to send you this report.  It is from our position on 11/2/01.  Please let me know if you have any questions or concerns.  I can be reached via email or by phone (713) 853-6247.  Thanks.
+
+John Griffith"
+griffith-j/sent_items/14.,"Mon, 10 Dec 2001 08:10:00 -0800",john.griffith@enron.com,john.arnold@enron.com,,"John,
+
+Thank you for pulling me aside and reinforcing your confidence in me and also putting things into perspective.  I guess the reason I was a little upset is that I feel that we are a family here.  I spend more time with you guys than I do with my wife.  I felt a little betrayed.  I should not have felt that way.  You guys have given me the oppurtunity of a lifetime, I am very thankful for that.  I have never questioned the importance of you or Mike of anyone on our desk.  
+
+Please forgive me if I have been a little down.  I think that I am truly okay now.  It has been a very emotional couple of weeks with everything going on.  I know we will get through this.  I once again want to tell you that I am here for anything that needs to be done.  
+
+You will not here about this situation again.  Thank you for understanding.  I put my total trust in you.  
+
+John"
+griffith-j/sent_items/19.,"Mon, 31 Dec 2001 08:41:43 -0800",john.griffith@enron.com,ampaez@earthlink.net,,"Hey sugar, why don't you pick me up at 12:30.  Is that okay?  Do you want me to deposit my check?  Call me when you get a chance.
+
+Love you
+
+The Pigs"
+griffith-j/sent_items/31.,"Tue, 30 Oct 2001 14:41:23 -0800",john.griffith@enron.com,jared.kaiser@enron.com,,"Here you go.  Let me know if you have any questions.  Thanks.
+
+John"
+griffith-j/sent_items/32.,"Wed, 31 Oct 2001 05:39:13 -0800",john.griffith@enron.com,john.arnold@enron.com,,"John,
+
+As you are aware, there was some confusion on the 2 Peoples trades we did on 10/15/01.  We did not find out there could be a problem until yesterday, 15 days after the trade was input into the system.  I consider this unacceptable so I wanted to find out what happened to our processes internally.  
+
+A person named Richard in the physical confirm area was the one that let Amy know the trade wasn't a financial trade but a physical trade.  I called him to ask him why it took 15 days to find this out.  He said that the deal was entered into as a financial deal so he didn't know about the trade until yesterday.  The person in charge of financial confirms is Diane Anderson and I called her to ask what happened.  She said she didn't know but would check into it.  She left me a message yesterday evening saying that for about 5 days in October they were shorthanded and they didn't confirm any financial trades.  THIS IS UNACCEPTABLE,  especially in the situation we are currently in.  I haven't talked to her again but I wanted you to know about this.  Not to put any more problems on your desk, but this needs to be fixed.
+
+Amy yesterday found a person at Peoples that knows the trades as we know them (financial).  So the trade is okay, but it could have been a $500,000 hit to Mike's book.
+
+Please let me know if I can do anything.  Thanks.
+
+John"
+griffith-j/sent_items/34.,"Fri, 02 Nov 2001 05:28:14 -0800",john.griffith@enron.com,7133540022@skytel.com,,"Carlos, give me a call today (Friday) when you get a chance.  853-6247.  Thanks.  John"
+griffith-j/sent_items/37.,"Wed, 14 Nov 2001 09:53:17 -0800",john.griffith@enron.com,sanjeev.khanna@enron.com,,"A broker just sent me this today.  I am going to talk to him to get the details after trading.  Thought you would like to know.  Thanks.
+
+John
+
+
+""Here is the announcement: Reliant Energy Weather Risk Management Group has developed
+Weather-sensitive Gas Load Indices (""WGLI""),  indices that measure national
+or regional residential and commercial gas consumption during the heating
+season. We believe the indices will provide valuable information for gas
+traders as well as other market participants.  We plan to make a swap
+market in the indices in the near future. We hope the WGLI swaps will
+become a new financial tool to help you or your clients to better manage
+their risks associated with the fluctuation of gas demand."""
+griffith-j/sent_items/38.,"Thu, 15 Nov 2001 08:37:15 -0800",john.griffith@enron.com,greg.couch@enron.com,,"Greg,
+
+I want to thank you so much for all you work on the trade blotter.  We are getting close here.  I put together a list of items to get the thing completely operational.  Below is the list and maybe we could talk today to discuss.  Thanks.
+
+BLOTTER
+
+ - rearrange the deal input screen
+ - have Amy's sheet pull deals from access database
+ - get Mike Maggi's computer set up for the access database
+ - build a spreadsheet to take a snapshot of the blotter for Mike Maggi
+ - set up a default month for the deal input screen (possibly an input on the spreadsheet)
+ - have deal input screen popup on the screen that the spreadsheet is open in
+ - on morning macro, include clear trades, clear charm, clear theta and clear recon numbers
+ - separate price and vol on the Fetch Curves button
+ - delete evening macro
+ - add button for settle prices
+ - add button to print position, pnl, options and swap pages (one button)
+ - test multiple user input on the deal input spreadsheet
+
+This list might look like alot, but I think most items will only take a few minutes to correct or change.  Let me know when you get a chance to sit down and talk about this.  Thanks.
+
+John Griffith"
+griffith-j/sent_items/4.,"Wed, 06 Feb 2002 11:34:49 -0800",john.griffith@enron.com,frank.coles@enron.com,O:\Financial Trading directory,"Additional people to give access to the financial trading directory (Read and Write Access):
+
+Errol McLaughlin
+Joey Taylor
+Laura Vargas
+Kori Loibl
+Matt Olney
+Ina Rangel
+Becky Young
+Kimberly Hillis
+
+Thanks for your help.
+
+John"
+griffith-j/sent_items/43.,"Tue, 27 Nov 2001 12:28:58 -0800",john.griffith@enron.com,michelle.nelson@enron.com,,"here are the settles thanks
+
+John"
+griffith-j/sent_items/5.,"Wed, 06 Feb 2002 10:56:27 -0800",john.griffith@enron.com,ampaez@earthlink.net,,"Hey sugar, I am still at work, just waiting on the IT people to set up a new folder in the UBS directory so that I can move all my files over.  Once that is done I will be leaving.  I will probably go directly to the Container Store.  Just let me know if that is okay.  
+
+Are you getting hungry?  Do you want me to bring something?  Or do you want to eat at home.
+
+Love you
+
+The Pigs"
+griffith-j/sent_items/60.,"Mon, 26 Nov 2001 12:34:00 -0800",john.griffith@enron.com,michelle.nelson@enron.com,,"here are the settles, thanks.
+
+John"
+griffith-j/sent_items/7.,"Wed, 06 Feb 2002 09:16:38 -0800",john.griffith@enron.com,amanda.rybarski@enron.com,O: Research Folder,"Amanda,
+
+Could you set up the following people with Read and Write access the the O:\Research folder.  Chris is moving all the information over to the new O: drive. Let me know if you have any questions or concerns.  Thanks.
+
+Mike Maggi
+Andy Zipper
+Larry May
+Jeb Ligums
+Dutch Quigley
+John Lavorato
+John Griffith
+
+
+John"
+griffith-j/sent_items/9.,"Wed, 06 Feb 2002 08:39:10 -0800",john.griffith@enron.com,security.ubsw@enron.com,New Folder to be set up,"I need to have a new folder set up under the new O drive, it is as follows:
+
+O:\Financial_Trading
+
+I should be listed as owner.  Also, please give the following people read and write access to these folders:
+
+Mike Maggi
+John Lavarato
+Dutch Quigley
+Larry May
+Jeb Ligums
+Andy Zipper
+
+Thanks for you help.  I need these set up as soon as possible.  Please call with any questions or concerns.
+
+John Griffith
+
+(713) 853-6247"

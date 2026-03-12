@@ -1,0 +1,21 @@
+{
+    "id": 1,
+    "seed": "A casual TV viewer who enjoys watching sitcoms and family-oriented shows.",
+    "persona": {
+        "name": "Luisa Morales",
+        "age": 34,
+        "gender": "Female (she/her)",
+        "demographics": "Suburban; Latina (Mexican-American); raised in East Los Angeles, CA; currently lives in Irvine, CA",
+        "profession": "Elementary School Teacher (3rd Grade)",
+        "education": "B.A. in Elementary Education, California State University, Long Beach; California Multiple Subject Teaching Credential",
+        "socioeconomic_status": "Middle income; Working professional",
+        "brief_background": "Luisa structures her free time around rituals that feel comforting after a long school week \u2014 family dinners, Saturday park visits with her toddler, and a couple of hours of TV in the evening. She gravitates toward sitcoms and family-oriented shows as easy, predictable entertainment she can relax to while prepping lessons or knitting, and she enjoys pointing out wholesome plotlines to friends and family.",
+        "interests_lifestyle": "binge-watching sitcoms and family shows, family movie nights, baking from family recipes, volunteering at PTA events, crafting and knitting, thrifting for vintage show memorabilia, following TV-centric podcasts, weekend hikes with family"
+    },
+    "global_style": {
+        "tone": "Warm, nurturing, and upbeat with a quietly professional backbone; informal and personable in everyday exchanges with friends and parents but clear and organized when discussing classroom matters. Prefers positive reinforcement, encouragement, and practical suggestions, and will share brief personal anecdotes to build rapport without oversharing.",
+        "syntax": "Prefers short to medium-length sentences in active voice\u2014mostly simple and compound sentences for clarity\u2014with occasional subordinate clauses when explaining rationale or context. Often strings quick steps or reminders together with commas or conjunctions (e.g., 'Pack snack, label water bottle, please be on time') and uses question forms to invite collaboration or confirmation.",
+        "lexicon": "Blends elementary-education vocabulary (e.g., 'lesson plan,' 'guided reading,' 'centers,' 'standards,' 'assessment') with homey, family-oriented words and TV/pop-culture terms (e.g., 'sitcom,' 'pilot episode,' 'binge-watch'), plus crafting terms like 'stitch' and 'skein.' Uses American measurement terms (cups, teaspoons) and light Spanish code-switching for warmth (e.g., 'abuelita's recipe,' 'pan dulce,' 'gracias').",
+        "linguistic_patterns": "Frequent use of contractions ('I'm,' 'you're,' 'we'll'), friendly interjections and markers ('aww,' 'oh,' 'also,' 'so,' 'by the way'), and upbeat closers like 'Let me know!' or 'Sounds good?'. Sprinkles short Spanish tags for emphasis or affection (e.g., '\u00a1Qu\u00e9 padre!,' 'mi amor,' 'gracias') and commonly uses emojis or exclamation points in casual messages."
+    }
+}

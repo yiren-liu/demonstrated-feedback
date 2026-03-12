@@ -1,0 +1,506 @@
+[
+    {
+        "persona": {
+            "name": "Oliver Grant",
+            "age": 46,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; White British; raised in York, England; currently lives in South London, UK (Brixton)",
+            "profession": "Freelance Screenwriter and Historical Consultant (television and film)",
+            "education": "B.A. in History, University of York; M.A. in Historical Research, University of Manchester; MA in Screenwriting, National Film and Television School; BBC Writersroom alumni",
+            "socioeconomic_status": "Upper-middle income; Creative professional",
+            "brief_background": "Oliver spends mornings in archives and afternoons turning primary sources into scene outlines and beats for character arcs \u2014 he pitches projects to producers between research trips. When not drafting, he\u2019s compiling visual research boards and rehearsing pitch runs with friends; he prizes accuracy in dialogue and setting and will travel to small towns to interview descendants or inspect locations.",
+            "interests_lifestyle": "visiting local archives and heritage sites, reading 19th-century newspapers and letters, attending historical society talks, collecting reproduced period ephemera, theatre nights, producing short research films, weekend map-and-photos walls at home, whiskey tastings"
+        },
+        "global_style": {
+            "tone": "Measured, precise and professionally warm: Oliver writes with the confidence of someone used to defending factual detail but retains a lightly wry, approachable manner. He favours clarity and actionable advice\u2014answers aim to be useful rather than theatrical\u2014and trusts are earned through evidence and specificity rather than broad assurances.",
+            "syntax": "A mix of crisp declarative sentences and longer, information-dense sentences that use subordinate clauses for qualification; he often places the main point up front and follows with archival or cinematic detail. He uses em-dash asides or parentheses for quick caveats, and will employ a semicolon occasionally to stitch related ideas together without losing precision.",
+            "lexicon": "Draws on archival and screenwriting vocabulary: words like 'archival', 'provenance', 'parish register', 'press clipping', 'folio', and 'annotate' sit alongside screen terms such as 'beat', 'inciting incident', 'midpoint', 'logline' and 'treatment'. Prefers British spelling and formats (e.g. '6 January 1840', reference to '\u00a3' and locations like 'Brixton') and will use period-specific terms when relevant (e.g. 'poor law', 'workhouse').",
+            "linguistic_patterns": "Regular use of pragmatic markers and mild hedges: phrases such as 'On balance,' 'It's worth checking', and 'I'll flag...' appear frequently; he uses contractions moderately ('I'll', 'we'll', 'it's') to keep tone conversational. Typical starters and asides include 'Right \u2014', 'Look,' and 'Mind you,' and sign-offs often favour courteous, British closings like 'Cheers' or 'Thanks.'"
+        },
+        "scenario_description": "A short, friendly story-style message to a close friend sharing a curious historical anecdote encountered in research.",
+        "detailed_style": "Conversational and lightly wry, this style presents the anecdote as a narrated vignette: an opening hook, a compact middle that sketches odd detail, and a closing line that invites a laugh or a follow-up. Sentences are brisk but punctuated with one or two asides\u2014em dashes or parentheses\u2014to keep the intimacy.",
+        "linguistic_patterns": "Use of conversational signposts and mild hedges; short declarative openings followed by colour: \"Right \u2014 you'll love this\", \"It's worth saying\", \"Mind you, the oddest thing was\". Casual contractions: \"I'll\", \"we'll\". Parenthetical asides: \"(not what you'd expect)\", rhythmic punchlines and a closing invite: \"Fancy a whiskey and I'll tell you more?\"",
+        "id": 2,
+        "seed": "A screenwriter for historical dramas, looking for unique stories and events to adapt for television or film."
+    },
+    {
+        "persona": {
+            "name": "Oliver Grant",
+            "age": 46,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; White British; raised in York, England; currently lives in South London, UK (Brixton)",
+            "profession": "Freelance Screenwriter and Historical Consultant (television and film)",
+            "education": "B.A. in History, University of York; M.A. in Historical Research, University of Manchester; MA in Screenwriting, National Film and Television School; BBC Writersroom alumni",
+            "socioeconomic_status": "Upper-middle income; Creative professional",
+            "brief_background": "Oliver spends mornings in archives and afternoons turning primary sources into scene outlines and beats for character arcs \u2014 he pitches projects to producers between research trips. When not drafting, he\u2019s compiling visual research boards and rehearsing pitch runs with friends; he prizes accuracy in dialogue and setting and will travel to small towns to interview descendants or inspect locations.",
+            "interests_lifestyle": "visiting local archives and heritage sites, reading 19th-century newspapers and letters, attending historical society talks, collecting reproduced period ephemera, theatre nights, producing short research films, weekend map-and-photos walls at home, whiskey tastings"
+        },
+        "global_style": {
+            "tone": "Measured, precise and professionally warm: Oliver writes with the confidence of someone used to defending factual detail but retains a lightly wry, approachable manner. He favours clarity and actionable advice\u2014answers aim to be useful rather than theatrical\u2014and trusts are earned through evidence and specificity rather than broad assurances.",
+            "syntax": "A mix of crisp declarative sentences and longer, information-dense sentences that use subordinate clauses for qualification; he often places the main point up front and follows with archival or cinematic detail. He uses em-dash asides or parentheses for quick caveats, and will employ a semicolon occasionally to stitch related ideas together without losing precision.",
+            "lexicon": "Draws on archival and screenwriting vocabulary: words like 'archival', 'provenance', 'parish register', 'press clipping', 'folio', and 'annotate' sit alongside screen terms such as 'beat', 'inciting incident', 'midpoint', 'logline' and 'treatment'. Prefers British spelling and formats (e.g. '6 January 1840', reference to '\u00a3' and locations like 'Brixton') and will use period-specific terms when relevant (e.g. 'poor law', 'workhouse').",
+            "linguistic_patterns": "Regular use of pragmatic markers and mild hedges: phrases such as 'On balance,' 'It's worth checking', and 'I'll flag...' appear frequently; he uses contractions moderately ('I'll', 'we'll', 'it's') to keep tone conversational. Typical starters and asides include 'Right \u2014', 'Look,' and 'Mind you,' and sign-offs often favour courteous, British closings like 'Cheers' or 'Thanks.'"
+        },
+        "scenario_description": "A formal written pitch summary sent to a television producer outlining a story idea in narrative form.",
+        "detailed_style": "Measured and persuasive, the style foregrounds the central throughline first, then layers in archival detail to evidence plausibility. Language is precise, avoiding flourish for flourish's sake; em dashes and semicolons connect dense clauses while retaining clarity.",
+        "linguistic_patterns": "Declarative lead followed by qualifying detail: \"At its heart this is...; drawing on...\", use of industry terms mixed with archival markers: \"logline\", \"inciting incident\", \"provenance\". Phrases that indicate confidence-with-evidence: \"On balance, this reads as\", \"I'll flag the key sources\". Formal closings: \"Best regards\" or \"Thanks\".",
+        "id": 2,
+        "seed": "A screenwriter for historical dramas, looking for unique stories and events to adapt for television or film."
+    },
+    {
+        "persona": {
+            "name": "Oliver Grant",
+            "age": 46,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; White British; raised in York, England; currently lives in South London, UK (Brixton)",
+            "profession": "Freelance Screenwriter and Historical Consultant (television and film)",
+            "education": "B.A. in History, University of York; M.A. in Historical Research, University of Manchester; MA in Screenwriting, National Film and Television School; BBC Writersroom alumni",
+            "socioeconomic_status": "Upper-middle income; Creative professional",
+            "brief_background": "Oliver spends mornings in archives and afternoons turning primary sources into scene outlines and beats for character arcs \u2014 he pitches projects to producers between research trips. When not drafting, he\u2019s compiling visual research boards and rehearsing pitch runs with friends; he prizes accuracy in dialogue and setting and will travel to small towns to interview descendants or inspect locations.",
+            "interests_lifestyle": "visiting local archives and heritage sites, reading 19th-century newspapers and letters, attending historical society talks, collecting reproduced period ephemera, theatre nights, producing short research films, weekend map-and-photos walls at home, whiskey tastings"
+        },
+        "global_style": {
+            "tone": "Measured, precise and professionally warm: Oliver writes with the confidence of someone used to defending factual detail but retains a lightly wry, approachable manner. He favours clarity and actionable advice\u2014answers aim to be useful rather than theatrical\u2014and trusts are earned through evidence and specificity rather than broad assurances.",
+            "syntax": "A mix of crisp declarative sentences and longer, information-dense sentences that use subordinate clauses for qualification; he often places the main point up front and follows with archival or cinematic detail. He uses em-dash asides or parentheses for quick caveats, and will employ a semicolon occasionally to stitch related ideas together without losing precision.",
+            "lexicon": "Draws on archival and screenwriting vocabulary: words like 'archival', 'provenance', 'parish register', 'press clipping', 'folio', and 'annotate' sit alongside screen terms such as 'beat', 'inciting incident', 'midpoint', 'logline' and 'treatment'. Prefers British spelling and formats (e.g. '6 January 1840', reference to '\u00a3' and locations like 'Brixton') and will use period-specific terms when relevant (e.g. 'poor law', 'workhouse').",
+            "linguistic_patterns": "Regular use of pragmatic markers and mild hedges: phrases such as 'On balance,' 'It's worth checking', and 'I'll flag...' appear frequently; he uses contractions moderately ('I'll', 'we'll', 'it's') to keep tone conversational. Typical starters and asides include 'Right \u2014', 'Look,' and 'Mind you,' and sign-offs often favour courteous, British closings like 'Cheers' or 'Thanks.'"
+        },
+        "scenario_description": "A short social media story caption (Twitter/X or Instagram) to promote a new short research film.",
+        "detailed_style": "Concise, punchy and image-led: the style opens with a hook, gives a clear immediate line about what to expect, and ends with a call-to-action or personal note. Tone is warm but economical; historical vocabulary is used sparingly so as not to crowd the platform's brevity.",
+        "linguistic_patterns": "Short sentences and fragments: \"A lost letter. One map. A small revelation.\" Use of hashtags sparingly and strategically: \"#archivalfind #shortfilm\". Imperatives and invites: \"Watch now\", \"Tell me what you think\". Occasional colloquial opener: \"Look \u2014\"",
+        "id": 2,
+        "seed": "A screenwriter for historical dramas, looking for unique stories and events to adapt for television or film."
+    },
+    {
+        "persona": {
+            "name": "Oliver Grant",
+            "age": 46,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; White British; raised in York, England; currently lives in South London, UK (Brixton)",
+            "profession": "Freelance Screenwriter and Historical Consultant (television and film)",
+            "education": "B.A. in History, University of York; M.A. in Historical Research, University of Manchester; MA in Screenwriting, National Film and Television School; BBC Writersroom alumni",
+            "socioeconomic_status": "Upper-middle income; Creative professional",
+            "brief_background": "Oliver spends mornings in archives and afternoons turning primary sources into scene outlines and beats for character arcs \u2014 he pitches projects to producers between research trips. When not drafting, he\u2019s compiling visual research boards and rehearsing pitch runs with friends; he prizes accuracy in dialogue and setting and will travel to small towns to interview descendants or inspect locations.",
+            "interests_lifestyle": "visiting local archives and heritage sites, reading 19th-century newspapers and letters, attending historical society talks, collecting reproduced period ephemera, theatre nights, producing short research films, weekend map-and-photos walls at home, whiskey tastings"
+        },
+        "global_style": {
+            "tone": "Measured, precise and professionally warm: Oliver writes with the confidence of someone used to defending factual detail but retains a lightly wry, approachable manner. He favours clarity and actionable advice\u2014answers aim to be useful rather than theatrical\u2014and trusts are earned through evidence and specificity rather than broad assurances.",
+            "syntax": "A mix of crisp declarative sentences and longer, information-dense sentences that use subordinate clauses for qualification; he often places the main point up front and follows with archival or cinematic detail. He uses em-dash asides or parentheses for quick caveats, and will employ a semicolon occasionally to stitch related ideas together without losing precision.",
+            "lexicon": "Draws on archival and screenwriting vocabulary: words like 'archival', 'provenance', 'parish register', 'press clipping', 'folio', and 'annotate' sit alongside screen terms such as 'beat', 'inciting incident', 'midpoint', 'logline' and 'treatment'. Prefers British spelling and formats (e.g. '6 January 1840', reference to '\u00a3' and locations like 'Brixton') and will use period-specific terms when relevant (e.g. 'poor law', 'workhouse').",
+            "linguistic_patterns": "Regular use of pragmatic markers and mild hedges: phrases such as 'On balance,' 'It's worth checking', and 'I'll flag...' appear frequently; he uses contractions moderately ('I'll', 'we'll', 'it's') to keep tone conversational. Typical starters and asides include 'Right \u2014', 'Look,' and 'Mind you,' and sign-offs often favour courteous, British closings like 'Cheers' or 'Thanks.'"
+        },
+        "scenario_description": "An email to an agent negotiating terms for a new assignment, framed as a narrative of intended outcomes.",
+        "detailed_style": "Professional, precise and lightly persuasive: the style sets clear objectives up front, then narrates the proposed workflow and expected milestones. Language balances contractual clarity with amiable tone\u2014measured hedges and specific timelines appear throughout.",
+        "linguistic_patterns": "Direct, time-bound phrases: \"I propose a six-week research phase\", \"deliverables: treatment, first draft\". Contract-adjacent vocabulary: \"rights\", \"commission\", \"provenance of material\". Moderate hedging: \"It's worth checking\", \"On balance, I'd suggest\". Sign-off formalities: \"Kind regards\" or \"Thanks\".",
+        "id": 2,
+        "seed": "A screenwriter for historical dramas, looking for unique stories and events to adapt for television or film."
+    },
+    {
+        "persona": {
+            "name": "Oliver Grant",
+            "age": 46,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; White British; raised in York, England; currently lives in South London, UK (Brixton)",
+            "profession": "Freelance Screenwriter and Historical Consultant (television and film)",
+            "education": "B.A. in History, University of York; M.A. in Historical Research, University of Manchester; MA in Screenwriting, National Film and Television School; BBC Writersroom alumni",
+            "socioeconomic_status": "Upper-middle income; Creative professional",
+            "brief_background": "Oliver spends mornings in archives and afternoons turning primary sources into scene outlines and beats for character arcs \u2014 he pitches projects to producers between research trips. When not drafting, he\u2019s compiling visual research boards and rehearsing pitch runs with friends; he prizes accuracy in dialogue and setting and will travel to small towns to interview descendants or inspect locations.",
+            "interests_lifestyle": "visiting local archives and heritage sites, reading 19th-century newspapers and letters, attending historical society talks, collecting reproduced period ephemera, theatre nights, producing short research films, weekend map-and-photos walls at home, whiskey tastings"
+        },
+        "global_style": {
+            "tone": "Measured, precise and professionally warm: Oliver writes with the confidence of someone used to defending factual detail but retains a lightly wry, approachable manner. He favours clarity and actionable advice\u2014answers aim to be useful rather than theatrical\u2014and trusts are earned through evidence and specificity rather than broad assurances.",
+            "syntax": "A mix of crisp declarative sentences and longer, information-dense sentences that use subordinate clauses for qualification; he often places the main point up front and follows with archival or cinematic detail. He uses em-dash asides or parentheses for quick caveats, and will employ a semicolon occasionally to stitch related ideas together without losing precision.",
+            "lexicon": "Draws on archival and screenwriting vocabulary: words like 'archival', 'provenance', 'parish register', 'press clipping', 'folio', and 'annotate' sit alongside screen terms such as 'beat', 'inciting incident', 'midpoint', 'logline' and 'treatment'. Prefers British spelling and formats (e.g. '6 January 1840', reference to '\u00a3' and locations like 'Brixton') and will use period-specific terms when relevant (e.g. 'poor law', 'workhouse').",
+            "linguistic_patterns": "Regular use of pragmatic markers and mild hedges: phrases such as 'On balance,' 'It's worth checking', and 'I'll flag...' appear frequently; he uses contractions moderately ('I'll', 'we'll', 'it's') to keep tone conversational. Typical starters and asides include 'Right \u2014', 'Look,' and 'Mind you,' and sign-offs often favour courteous, British closings like 'Cheers' or 'Thanks.'"
+        },
+        "scenario_description": "A feedback note on a colleague's short screenplay draft, written as a short, story-like critique.",
+        "detailed_style": "Constructive and tactful: open with a clear overall impression, then move through scene-by-scene beats using precise, example-led comments. Use a blend of declarative points and readerly questions to guide revision without prescribing every change.",
+        "linguistic_patterns": "Reader-response starters: \"I was intrigued by...\", \"This scene reads as...\". Use of screenwriting jargon to frame suggestions: \"the midpoint lacks stakes\", \"the inciting incident could be tightened\". Softening hedges: \"Perhaps consider\", \"It might help if\". Parenthetical clarifications: \"(see notes on page 3)\".",
+        "id": 2,
+        "seed": "A screenwriter for historical dramas, looking for unique stories and events to adapt for television or film."
+    },
+    {
+        "persona": {
+            "name": "Oliver Grant",
+            "age": 46,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; White British; raised in York, England; currently lives in South London, UK (Brixton)",
+            "profession": "Freelance Screenwriter and Historical Consultant (television and film)",
+            "education": "B.A. in History, University of York; M.A. in Historical Research, University of Manchester; MA in Screenwriting, National Film and Television School; BBC Writersroom alumni",
+            "socioeconomic_status": "Upper-middle income; Creative professional",
+            "brief_background": "Oliver spends mornings in archives and afternoons turning primary sources into scene outlines and beats for character arcs \u2014 he pitches projects to producers between research trips. When not drafting, he\u2019s compiling visual research boards and rehearsing pitch runs with friends; he prizes accuracy in dialogue and setting and will travel to small towns to interview descendants or inspect locations.",
+            "interests_lifestyle": "visiting local archives and heritage sites, reading 19th-century newspapers and letters, attending historical society talks, collecting reproduced period ephemera, theatre nights, producing short research films, weekend map-and-photos walls at home, whiskey tastings"
+        },
+        "global_style": {
+            "tone": "Measured, precise and professionally warm: Oliver writes with the confidence of someone used to defending factual detail but retains a lightly wry, approachable manner. He favours clarity and actionable advice\u2014answers aim to be useful rather than theatrical\u2014and trusts are earned through evidence and specificity rather than broad assurances.",
+            "syntax": "A mix of crisp declarative sentences and longer, information-dense sentences that use subordinate clauses for qualification; he often places the main point up front and follows with archival or cinematic detail. He uses em-dash asides or parentheses for quick caveats, and will employ a semicolon occasionally to stitch related ideas together without losing precision.",
+            "lexicon": "Draws on archival and screenwriting vocabulary: words like 'archival', 'provenance', 'parish register', 'press clipping', 'folio', and 'annotate' sit alongside screen terms such as 'beat', 'inciting incident', 'midpoint', 'logline' and 'treatment'. Prefers British spelling and formats (e.g. '6 January 1840', reference to '\u00a3' and locations like 'Brixton') and will use period-specific terms when relevant (e.g. 'poor law', 'workhouse').",
+            "linguistic_patterns": "Regular use of pragmatic markers and mild hedges: phrases such as 'On balance,' 'It's worth checking', and 'I'll flag...' appear frequently; he uses contractions moderately ('I'll', 'we'll', 'it's') to keep tone conversational. Typical starters and asides include 'Right \u2014', 'Look,' and 'Mind you,' and sign-offs often favour courteous, British closings like 'Cheers' or 'Thanks.'"
+        },
+        "scenario_description": "A longer historical vignette intended for a local heritage society newsletter, written as a compact narrative.",
+        "detailed_style": "Engaging, scholarly and accessible: open with a small, evocative detail, then expand with precise dates, archival references and context. Sentences mix crisp statements with longer explanatory clauses; tone remains courteous and informative.",
+        "linguistic_patterns": "Archival signposting: \"according to the parish register dated 6 January 1840\", \"press clipping from the York Gazette\". Use of evocative but restrained adjectives: \"spare\", \"unvarnished\", \"notable\". Phrases that invite local connection: \"you may recognise\", \"nearby\". Concluding suggestion: \"it's worth visiting\".",
+        "id": 2,
+        "seed": "A screenwriter for historical dramas, looking for unique stories and events to adapt for television or film."
+    },
+    {
+        "persona": {
+            "name": "Oliver Grant",
+            "age": 46,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; White British; raised in York, England; currently lives in South London, UK (Brixton)",
+            "profession": "Freelance Screenwriter and Historical Consultant (television and film)",
+            "education": "B.A. in History, University of York; M.A. in Historical Research, University of Manchester; MA in Screenwriting, National Film and Television School; BBC Writersroom alumni",
+            "socioeconomic_status": "Upper-middle income; Creative professional",
+            "brief_background": "Oliver spends mornings in archives and afternoons turning primary sources into scene outlines and beats for character arcs \u2014 he pitches projects to producers between research trips. When not drafting, he\u2019s compiling visual research boards and rehearsing pitch runs with friends; he prizes accuracy in dialogue and setting and will travel to small towns to interview descendants or inspect locations.",
+            "interests_lifestyle": "visiting local archives and heritage sites, reading 19th-century newspapers and letters, attending historical society talks, collecting reproduced period ephemera, theatre nights, producing short research films, weekend map-and-photos walls at home, whiskey tastings"
+        },
+        "global_style": {
+            "tone": "Measured, precise and professionally warm: Oliver writes with the confidence of someone used to defending factual detail but retains a lightly wry, approachable manner. He favours clarity and actionable advice\u2014answers aim to be useful rather than theatrical\u2014and trusts are earned through evidence and specificity rather than broad assurances.",
+            "syntax": "A mix of crisp declarative sentences and longer, information-dense sentences that use subordinate clauses for qualification; he often places the main point up front and follows with archival or cinematic detail. He uses em-dash asides or parentheses for quick caveats, and will employ a semicolon occasionally to stitch related ideas together without losing precision.",
+            "lexicon": "Draws on archival and screenwriting vocabulary: words like 'archival', 'provenance', 'parish register', 'press clipping', 'folio', and 'annotate' sit alongside screen terms such as 'beat', 'inciting incident', 'midpoint', 'logline' and 'treatment'. Prefers British spelling and formats (e.g. '6 January 1840', reference to '\u00a3' and locations like 'Brixton') and will use period-specific terms when relevant (e.g. 'poor law', 'workhouse').",
+            "linguistic_patterns": "Regular use of pragmatic markers and mild hedges: phrases such as 'On balance,' 'It's worth checking', and 'I'll flag...' appear frequently; he uses contractions moderately ('I'll', 'we'll', 'it's') to keep tone conversational. Typical starters and asides include 'Right \u2014', 'Look,' and 'Mind you,' and sign-offs often favour courteous, British closings like 'Cheers' or 'Thanks.'"
+        },
+        "scenario_description": "A brief, slightly jocular text message to a friend arranging a research visit together, cast as a miniature story.",
+        "detailed_style": "Informal, quick and wry: begin with a situational hook, suggest plans with clear times, and finish with a light, characterful sign-off. Sentences are short; contractions and colloquial markers are frequent.",
+        "linguistic_patterns": "Casual lead-ins and teases: \"Fancy a trip to the archives?\", \"Heads up \u2014 there's a corker\". Time and place concretes: \"Tuesday, 10.30 at the main desk\". Colloquial sign-offs: \"Cheers\", \"See you\". Ellipses or em dashes for rhythm: \"We'll grab a coffee \u2014 my shout.\"",
+        "id": 2,
+        "seed": "A screenwriter for historical dramas, looking for unique stories and events to adapt for television or film."
+    },
+    {
+        "persona": {
+            "name": "Oliver Grant",
+            "age": 46,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; White British; raised in York, England; currently lives in South London, UK (Brixton)",
+            "profession": "Freelance Screenwriter and Historical Consultant (television and film)",
+            "education": "B.A. in History, University of York; M.A. in Historical Research, University of Manchester; MA in Screenwriting, National Film and Television School; BBC Writersroom alumni",
+            "socioeconomic_status": "Upper-middle income; Creative professional",
+            "brief_background": "Oliver spends mornings in archives and afternoons turning primary sources into scene outlines and beats for character arcs \u2014 he pitches projects to producers between research trips. When not drafting, he\u2019s compiling visual research boards and rehearsing pitch runs with friends; he prizes accuracy in dialogue and setting and will travel to small towns to interview descendants or inspect locations.",
+            "interests_lifestyle": "visiting local archives and heritage sites, reading 19th-century newspapers and letters, attending historical society talks, collecting reproduced period ephemera, theatre nights, producing short research films, weekend map-and-photos walls at home, whiskey tastings"
+        },
+        "global_style": {
+            "tone": "Measured, precise and professionally warm: Oliver writes with the confidence of someone used to defending factual detail but retains a lightly wry, approachable manner. He favours clarity and actionable advice\u2014answers aim to be useful rather than theatrical\u2014and trusts are earned through evidence and specificity rather than broad assurances.",
+            "syntax": "A mix of crisp declarative sentences and longer, information-dense sentences that use subordinate clauses for qualification; he often places the main point up front and follows with archival or cinematic detail. He uses em-dash asides or parentheses for quick caveats, and will employ a semicolon occasionally to stitch related ideas together without losing precision.",
+            "lexicon": "Draws on archival and screenwriting vocabulary: words like 'archival', 'provenance', 'parish register', 'press clipping', 'folio', and 'annotate' sit alongside screen terms such as 'beat', 'inciting incident', 'midpoint', 'logline' and 'treatment'. Prefers British spelling and formats (e.g. '6 January 1840', reference to '\u00a3' and locations like 'Brixton') and will use period-specific terms when relevant (e.g. 'poor law', 'workhouse').",
+            "linguistic_patterns": "Regular use of pragmatic markers and mild hedges: phrases such as 'On balance,' 'It's worth checking', and 'I'll flag...' appear frequently; he uses contractions moderately ('I'll', 'we'll', 'it's') to keep tone conversational. Typical starters and asides include 'Right \u2014', 'Look,' and 'Mind you,' and sign-offs often favour courteous, British closings like 'Cheers' or 'Thanks.'"
+        },
+        "scenario_description": "A program note (story blurb) for a film festival catalogue summarising a research-led short film.",
+        "detailed_style": "Compact, authoritative and slightly lyrical: start with a one-line hook, follow with a sentence of contextual detail and one of methodological note. Language is economical but respectful of the festival audience; dates and provenance may be included parenthetically.",
+        "linguistic_patterns": "One-line logline style opener: \"A forgotten ledger becomes a map of a vanished street.\" Contextual clause with provenance: \"based on a folio held at... (c. 1890)\". Formal adjectives: \"evocative\", \"meticulous\". Avoidance of slang; measured praise: \"a quietly startling film\".",
+        "id": 2,
+        "seed": "A screenwriter for historical dramas, looking for unique stories and events to adapt for television or film."
+    },
+    {
+        "persona": {
+            "name": "Oliver Grant",
+            "age": 46,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; White British; raised in York, England; currently lives in South London, UK (Brixton)",
+            "profession": "Freelance Screenwriter and Historical Consultant (television and film)",
+            "education": "B.A. in History, University of York; M.A. in Historical Research, University of Manchester; MA in Screenwriting, National Film and Television School; BBC Writersroom alumni",
+            "socioeconomic_status": "Upper-middle income; Creative professional",
+            "brief_background": "Oliver spends mornings in archives and afternoons turning primary sources into scene outlines and beats for character arcs \u2014 he pitches projects to producers between research trips. When not drafting, he\u2019s compiling visual research boards and rehearsing pitch runs with friends; he prizes accuracy in dialogue and setting and will travel to small towns to interview descendants or inspect locations.",
+            "interests_lifestyle": "visiting local archives and heritage sites, reading 19th-century newspapers and letters, attending historical society talks, collecting reproduced period ephemera, theatre nights, producing short research films, weekend map-and-photos walls at home, whiskey tastings"
+        },
+        "global_style": {
+            "tone": "Measured, precise and professionally warm: Oliver writes with the confidence of someone used to defending factual detail but retains a lightly wry, approachable manner. He favours clarity and actionable advice\u2014answers aim to be useful rather than theatrical\u2014and trusts are earned through evidence and specificity rather than broad assurances.",
+            "syntax": "A mix of crisp declarative sentences and longer, information-dense sentences that use subordinate clauses for qualification; he often places the main point up front and follows with archival or cinematic detail. He uses em-dash asides or parentheses for quick caveats, and will employ a semicolon occasionally to stitch related ideas together without losing precision.",
+            "lexicon": "Draws on archival and screenwriting vocabulary: words like 'archival', 'provenance', 'parish register', 'press clipping', 'folio', and 'annotate' sit alongside screen terms such as 'beat', 'inciting incident', 'midpoint', 'logline' and 'treatment'. Prefers British spelling and formats (e.g. '6 January 1840', reference to '\u00a3' and locations like 'Brixton') and will use period-specific terms when relevant (e.g. 'poor law', 'workhouse').",
+            "linguistic_patterns": "Regular use of pragmatic markers and mild hedges: phrases such as 'On balance,' 'It's worth checking', and 'I'll flag...' appear frequently; he uses contractions moderately ('I'll', 'we'll', 'it's') to keep tone conversational. Typical starters and asides include 'Right \u2014', 'Look,' and 'Mind you,' and sign-offs often favour courteous, British closings like 'Cheers' or 'Thanks.'"
+        },
+        "scenario_description": "A direct message to a casting director proposing a character interpretation, written narratively.",
+        "detailed_style": "Focused and persuasive: outline the character's emotional throughline succinctly, ground it in a single archival or historical gesture, and propose a couple of practical acting notes. Tone is collaborative and concise.",
+        "linguistic_patterns": "Character-first declarative: \"She opens the scene by...\". Use of acting and script vocabulary: \"beat\", \"motivation\", \"objective\". Suggestive imperatives for choices: \"consider playing\", \"avoid the obvious\". Phrases indicating evidence: \"supported by\", \"as recorded in\".",
+        "id": 2,
+        "seed": "A screenwriter for historical dramas, looking for unique stories and events to adapt for television or film."
+    },
+    {
+        "persona": {
+            "name": "Oliver Grant",
+            "age": 46,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; White British; raised in York, England; currently lives in South London, UK (Brixton)",
+            "profession": "Freelance Screenwriter and Historical Consultant (television and film)",
+            "education": "B.A. in History, University of York; M.A. in Historical Research, University of Manchester; MA in Screenwriting, National Film and Television School; BBC Writersroom alumni",
+            "socioeconomic_status": "Upper-middle income; Creative professional",
+            "brief_background": "Oliver spends mornings in archives and afternoons turning primary sources into scene outlines and beats for character arcs \u2014 he pitches projects to producers between research trips. When not drafting, he\u2019s compiling visual research boards and rehearsing pitch runs with friends; he prizes accuracy in dialogue and setting and will travel to small towns to interview descendants or inspect locations.",
+            "interests_lifestyle": "visiting local archives and heritage sites, reading 19th-century newspapers and letters, attending historical society talks, collecting reproduced period ephemera, theatre nights, producing short research films, weekend map-and-photos walls at home, whiskey tastings"
+        },
+        "global_style": {
+            "tone": "Measured, precise and professionally warm: Oliver writes with the confidence of someone used to defending factual detail but retains a lightly wry, approachable manner. He favours clarity and actionable advice\u2014answers aim to be useful rather than theatrical\u2014and trusts are earned through evidence and specificity rather than broad assurances.",
+            "syntax": "A mix of crisp declarative sentences and longer, information-dense sentences that use subordinate clauses for qualification; he often places the main point up front and follows with archival or cinematic detail. He uses em-dash asides or parentheses for quick caveats, and will employ a semicolon occasionally to stitch related ideas together without losing precision.",
+            "lexicon": "Draws on archival and screenwriting vocabulary: words like 'archival', 'provenance', 'parish register', 'press clipping', 'folio', and 'annotate' sit alongside screen terms such as 'beat', 'inciting incident', 'midpoint', 'logline' and 'treatment'. Prefers British spelling and formats (e.g. '6 January 1840', reference to '\u00a3' and locations like 'Brixton') and will use period-specific terms when relevant (e.g. 'poor law', 'workhouse').",
+            "linguistic_patterns": "Regular use of pragmatic markers and mild hedges: phrases such as 'On balance,' 'It's worth checking', and 'I'll flag...' appear frequently; he uses contractions moderately ('I'll', 'we'll', 'it's') to keep tone conversational. Typical starters and asides include 'Right \u2014', 'Look,' and 'Mind you,' and sign-offs often favour courteous, British closings like 'Cheers' or 'Thanks.'"
+        },
+        "scenario_description": "A short, formal grant-application style narrative explaining the aims and impact of a research-led creative project.",
+        "detailed_style": "Formal, evidence-forward and impact-conscious: open with a clear aim, quantify where possible, and detail methods and anticipated outputs in tight, authoritative sentences. Tone remains measured and respectful of evaluators' time.",
+        "linguistic_patterns": "Aim-and-method framing: \"This project aims to... by conducting...\". Use of quantifiers and deliverables: \"one short film, three public screenings, digital archive\". Funding language: \"impact\", \"reach\", \"provenance\". Hedging for feasibility: \"likely\", \"projected\".",
+        "id": 2,
+        "seed": "A screenwriter for historical dramas, looking for unique stories and events to adapt for television or film."
+    },
+    {
+        "persona": {
+            "name": "Oliver Grant",
+            "age": 46,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; White British; raised in York, England; currently lives in South London, UK (Brixton)",
+            "profession": "Freelance Screenwriter and Historical Consultant (television and film)",
+            "education": "B.A. in History, University of York; M.A. in Historical Research, University of Manchester; MA in Screenwriting, National Film and Television School; BBC Writersroom alumni",
+            "socioeconomic_status": "Upper-middle income; Creative professional",
+            "brief_background": "Oliver spends mornings in archives and afternoons turning primary sources into scene outlines and beats for character arcs \u2014 he pitches projects to producers between research trips. When not drafting, he\u2019s compiling visual research boards and rehearsing pitch runs with friends; he prizes accuracy in dialogue and setting and will travel to small towns to interview descendants or inspect locations.",
+            "interests_lifestyle": "visiting local archives and heritage sites, reading 19th-century newspapers and letters, attending historical society talks, collecting reproduced period ephemera, theatre nights, producing short research films, weekend map-and-photos walls at home, whiskey tastings"
+        },
+        "global_style": {
+            "tone": "Measured, precise and professionally warm: Oliver writes with the confidence of someone used to defending factual detail but retains a lightly wry, approachable manner. He favours clarity and actionable advice\u2014answers aim to be useful rather than theatrical\u2014and trusts are earned through evidence and specificity rather than broad assurances.",
+            "syntax": "A mix of crisp declarative sentences and longer, information-dense sentences that use subordinate clauses for qualification; he often places the main point up front and follows with archival or cinematic detail. He uses em-dash asides or parentheses for quick caveats, and will employ a semicolon occasionally to stitch related ideas together without losing precision.",
+            "lexicon": "Draws on archival and screenwriting vocabulary: words like 'archival', 'provenance', 'parish register', 'press clipping', 'folio', and 'annotate' sit alongside screen terms such as 'beat', 'inciting incident', 'midpoint', 'logline' and 'treatment'. Prefers British spelling and formats (e.g. '6 January 1840', reference to '\u00a3' and locations like 'Brixton') and will use period-specific terms when relevant (e.g. 'poor law', 'workhouse').",
+            "linguistic_patterns": "Regular use of pragmatic markers and mild hedges: phrases such as 'On balance,' 'It's worth checking', and 'I'll flag...' appear frequently; he uses contractions moderately ('I'll', 'we'll', 'it's') to keep tone conversational. Typical starters and asides include 'Right \u2014', 'Look,' and 'Mind you,' and sign-offs often favour courteous, British closings like 'Cheers' or 'Thanks.'"
+        },
+        "scenario_description": "A warm, reflective personal essay-style note to family describing a meaningful archival discovery, written as a narrative snapshot.",
+        "detailed_style": "Intimate and descriptive: lead with a sensory detail, then narrate the discovery in short, vivid strokes before closing with the personal resonance. The voice is measured and candid; contractions used to preserve warmth.",
+        "linguistic_patterns": "Sensory openers: \"The paper smelled of...\", \"By lamplight I found...\". Personal reflection phrases: \"It felt as if\", \"I couldn't help but think\". Mild hedges: \"Perhaps\", \"It seems\". Familial closers: \"Love\", \"Cheers\".",
+        "id": 2,
+        "seed": "A screenwriter for historical dramas, looking for unique stories and events to adapt for television or film."
+    },
+    {
+        "persona": {
+            "name": "Oliver Grant",
+            "age": 46,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; White British; raised in York, England; currently lives in South London, UK (Brixton)",
+            "profession": "Freelance Screenwriter and Historical Consultant (television and film)",
+            "education": "B.A. in History, University of York; M.A. in Historical Research, University of Manchester; MA in Screenwriting, National Film and Television School; BBC Writersroom alumni",
+            "socioeconomic_status": "Upper-middle income; Creative professional",
+            "brief_background": "Oliver spends mornings in archives and afternoons turning primary sources into scene outlines and beats for character arcs \u2014 he pitches projects to producers between research trips. When not drafting, he\u2019s compiling visual research boards and rehearsing pitch runs with friends; he prizes accuracy in dialogue and setting and will travel to small towns to interview descendants or inspect locations.",
+            "interests_lifestyle": "visiting local archives and heritage sites, reading 19th-century newspapers and letters, attending historical society talks, collecting reproduced period ephemera, theatre nights, producing short research films, weekend map-and-photos walls at home, whiskey tastings"
+        },
+        "global_style": {
+            "tone": "Measured, precise and professionally warm: Oliver writes with the confidence of someone used to defending factual detail but retains a lightly wry, approachable manner. He favours clarity and actionable advice\u2014answers aim to be useful rather than theatrical\u2014and trusts are earned through evidence and specificity rather than broad assurances.",
+            "syntax": "A mix of crisp declarative sentences and longer, information-dense sentences that use subordinate clauses for qualification; he often places the main point up front and follows with archival or cinematic detail. He uses em-dash asides or parentheses for quick caveats, and will employ a semicolon occasionally to stitch related ideas together without losing precision.",
+            "lexicon": "Draws on archival and screenwriting vocabulary: words like 'archival', 'provenance', 'parish register', 'press clipping', 'folio', and 'annotate' sit alongside screen terms such as 'beat', 'inciting incident', 'midpoint', 'logline' and 'treatment'. Prefers British spelling and formats (e.g. '6 January 1840', reference to '\u00a3' and locations like 'Brixton') and will use period-specific terms when relevant (e.g. 'poor law', 'workhouse').",
+            "linguistic_patterns": "Regular use of pragmatic markers and mild hedges: phrases such as 'On balance,' 'It's worth checking', and 'I'll flag...' appear frequently; he uses contractions moderately ('I'll', 'we'll', 'it's') to keep tone conversational. Typical starters and asides include 'Right \u2014', 'Look,' and 'Mind you,' and sign-offs often favour courteous, British closings like 'Cheers' or 'Thanks.'"
+        },
+        "scenario_description": "A succinct executive summary (story-style) for a meeting with television executives, delivered as an email ahead of the session.",
+        "detailed_style": "Crisp, prioritised and action-oriented: present the core premise first, list three tight bullets of what will be shown or discussed (as narrative beats), and close with a clear call to action. Language is professional, with minimal flourish.",
+        "linguistic_patterns": "Priority-first sentences: \"Core premise:...\"; use of numbered concepts in prose (three beats): \"First, ..., Second, ..., Finally,...\". Corporate-friendly phrases: \"deliverables\", \"timescale\", \"next steps\". Firm but polite closing: \"Look forward to discussing\".",
+        "id": 2,
+        "seed": "A screenwriter for historical dramas, looking for unique stories and events to adapt for television or film."
+    },
+    {
+        "persona": {
+            "name": "Oliver Grant",
+            "age": 46,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; White British; raised in York, England; currently lives in South London, UK (Brixton)",
+            "profession": "Freelance Screenwriter and Historical Consultant (television and film)",
+            "education": "B.A. in History, University of York; M.A. in Historical Research, University of Manchester; MA in Screenwriting, National Film and Television School; BBC Writersroom alumni",
+            "socioeconomic_status": "Upper-middle income; Creative professional",
+            "brief_background": "Oliver spends mornings in archives and afternoons turning primary sources into scene outlines and beats for character arcs \u2014 he pitches projects to producers between research trips. When not drafting, he\u2019s compiling visual research boards and rehearsing pitch runs with friends; he prizes accuracy in dialogue and setting and will travel to small towns to interview descendants or inspect locations.",
+            "interests_lifestyle": "visiting local archives and heritage sites, reading 19th-century newspapers and letters, attending historical society talks, collecting reproduced period ephemera, theatre nights, producing short research films, weekend map-and-photos walls at home, whiskey tastings"
+        },
+        "global_style": {
+            "tone": "Measured, precise and professionally warm: Oliver writes with the confidence of someone used to defending factual detail but retains a lightly wry, approachable manner. He favours clarity and actionable advice\u2014answers aim to be useful rather than theatrical\u2014and trusts are earned through evidence and specificity rather than broad assurances.",
+            "syntax": "A mix of crisp declarative sentences and longer, information-dense sentences that use subordinate clauses for qualification; he often places the main point up front and follows with archival or cinematic detail. He uses em-dash asides or parentheses for quick caveats, and will employ a semicolon occasionally to stitch related ideas together without losing precision.",
+            "lexicon": "Draws on archival and screenwriting vocabulary: words like 'archival', 'provenance', 'parish register', 'press clipping', 'folio', and 'annotate' sit alongside screen terms such as 'beat', 'inciting incident', 'midpoint', 'logline' and 'treatment'. Prefers British spelling and formats (e.g. '6 January 1840', reference to '\u00a3' and locations like 'Brixton') and will use period-specific terms when relevant (e.g. 'poor law', 'workhouse').",
+            "linguistic_patterns": "Regular use of pragmatic markers and mild hedges: phrases such as 'On balance,' 'It's worth checking', and 'I'll flag...' appear frequently; he uses contractions moderately ('I'll', 'we'll', 'it's') to keep tone conversational. Typical starters and asides include 'Right \u2014', 'Look,' and 'Mind you,' and sign-offs often favour courteous, British closings like 'Cheers' or 'Thanks.'"
+        },
+        "scenario_description": "A playful, descriptive anecdote for a radio promo spot about a little-known historical incident.",
+        "detailed_style": "Vivid and rhythmic: a spoken-word cadence with short, emphatic sentences and one or two longer explanatory clauses; language chosen to sound good aloud. Tone is lively but retains scholarly credibility via a nod to sources.",
+        "linguistic_patterns": "Oral rhythm and repetition: \"It started with a knock. A knock at midnight.\". Spoken cues: \"Listen \u2014\", \"Imagine this\". Audible source nod: \"according to a letter found in...\". Economy of adjectives; emphasis via punctuation and spacing when read.",
+        "id": 2,
+        "seed": "A screenwriter for historical dramas, looking for unique stories and events to adapt for television or film."
+    },
+    {
+        "persona": {
+            "name": "Oliver Grant",
+            "age": 46,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; White British; raised in York, England; currently lives in South London, UK (Brixton)",
+            "profession": "Freelance Screenwriter and Historical Consultant (television and film)",
+            "education": "B.A. in History, University of York; M.A. in Historical Research, University of Manchester; MA in Screenwriting, National Film and Television School; BBC Writersroom alumni",
+            "socioeconomic_status": "Upper-middle income; Creative professional",
+            "brief_background": "Oliver spends mornings in archives and afternoons turning primary sources into scene outlines and beats for character arcs \u2014 he pitches projects to producers between research trips. When not drafting, he\u2019s compiling visual research boards and rehearsing pitch runs with friends; he prizes accuracy in dialogue and setting and will travel to small towns to interview descendants or inspect locations.",
+            "interests_lifestyle": "visiting local archives and heritage sites, reading 19th-century newspapers and letters, attending historical society talks, collecting reproduced period ephemera, theatre nights, producing short research films, weekend map-and-photos walls at home, whiskey tastings"
+        },
+        "global_style": {
+            "tone": "Measured, precise and professionally warm: Oliver writes with the confidence of someone used to defending factual detail but retains a lightly wry, approachable manner. He favours clarity and actionable advice\u2014answers aim to be useful rather than theatrical\u2014and trusts are earned through evidence and specificity rather than broad assurances.",
+            "syntax": "A mix of crisp declarative sentences and longer, information-dense sentences that use subordinate clauses for qualification; he often places the main point up front and follows with archival or cinematic detail. He uses em-dash asides or parentheses for quick caveats, and will employ a semicolon occasionally to stitch related ideas together without losing precision.",
+            "lexicon": "Draws on archival and screenwriting vocabulary: words like 'archival', 'provenance', 'parish register', 'press clipping', 'folio', and 'annotate' sit alongside screen terms such as 'beat', 'inciting incident', 'midpoint', 'logline' and 'treatment'. Prefers British spelling and formats (e.g. '6 January 1840', reference to '\u00a3' and locations like 'Brixton') and will use period-specific terms when relevant (e.g. 'poor law', 'workhouse').",
+            "linguistic_patterns": "Regular use of pragmatic markers and mild hedges: phrases such as 'On balance,' 'It's worth checking', and 'I'll flag...' appear frequently; he uses contractions moderately ('I'll', 'we'll', 'it's') to keep tone conversational. Typical starters and asides include 'Right \u2014', 'Look,' and 'Mind you,' and sign-offs often favour courteous, British closings like 'Cheers' or 'Thanks.'"
+        },
+        "scenario_description": "A professional but colloquial reply to an online critic questioning historical accuracy, fashioned as a concise corrective story.",
+        "detailed_style": "Measured, factual and courteous: acknowledge the critic, state the specific point, then supply a compact corrective supported by a cited source. Tone is firm yet composed, with hedges used to avoid confrontation.",
+        "linguistic_patterns": "Polite openings: \"Thanks \u2014 good question.\". Corrective structure: \"However, the record shows... (see...)\". Calming hedges: \"It's worth noting\", \"On balance\". Closing with invitation: \"Happy to share the source links\".",
+        "id": 2,
+        "seed": "A screenwriter for historical dramas, looking for unique stories and events to adapt for television or film."
+    },
+    {
+        "persona": {
+            "name": "Oliver Grant",
+            "age": 46,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; White British; raised in York, England; currently lives in South London, UK (Brixton)",
+            "profession": "Freelance Screenwriter and Historical Consultant (television and film)",
+            "education": "B.A. in History, University of York; M.A. in Historical Research, University of Manchester; MA in Screenwriting, National Film and Television School; BBC Writersroom alumni",
+            "socioeconomic_status": "Upper-middle income; Creative professional",
+            "brief_background": "Oliver spends mornings in archives and afternoons turning primary sources into scene outlines and beats for character arcs \u2014 he pitches projects to producers between research trips. When not drafting, he\u2019s compiling visual research boards and rehearsing pitch runs with friends; he prizes accuracy in dialogue and setting and will travel to small towns to interview descendants or inspect locations.",
+            "interests_lifestyle": "visiting local archives and heritage sites, reading 19th-century newspapers and letters, attending historical society talks, collecting reproduced period ephemera, theatre nights, producing short research films, weekend map-and-photos walls at home, whiskey tastings"
+        },
+        "global_style": {
+            "tone": "Measured, precise and professionally warm: Oliver writes with the confidence of someone used to defending factual detail but retains a lightly wry, approachable manner. He favours clarity and actionable advice\u2014answers aim to be useful rather than theatrical\u2014and trusts are earned through evidence and specificity rather than broad assurances.",
+            "syntax": "A mix of crisp declarative sentences and longer, information-dense sentences that use subordinate clauses for qualification; he often places the main point up front and follows with archival or cinematic detail. He uses em-dash asides or parentheses for quick caveats, and will employ a semicolon occasionally to stitch related ideas together without losing precision.",
+            "lexicon": "Draws on archival and screenwriting vocabulary: words like 'archival', 'provenance', 'parish register', 'press clipping', 'folio', and 'annotate' sit alongside screen terms such as 'beat', 'inciting incident', 'midpoint', 'logline' and 'treatment'. Prefers British spelling and formats (e.g. '6 January 1840', reference to '\u00a3' and locations like 'Brixton') and will use period-specific terms when relevant (e.g. 'poor law', 'workhouse').",
+            "linguistic_patterns": "Regular use of pragmatic markers and mild hedges: phrases such as 'On balance,' 'It's worth checking', and 'I'll flag...' appear frequently; he uses contractions moderately ('I'll', 'we'll', 'it's') to keep tone conversational. Typical starters and asides include 'Right \u2014', 'Look,' and 'Mind you,' and sign-offs often favour courteous, British closings like 'Cheers' or 'Thanks.'"
+        },
+        "scenario_description": "An evocative, short synopsis for an academic conference panel handout, framed as a narrative arc.",
+        "detailed_style": "Concise, scholarly and formally composed: sketch the central argument as a story arc in two or three sentences, name key archival sources parenthetically, and end with the research question. Tone is crisp and authoritative.",
+        "linguistic_patterns": "Argument-as-arc phrasing: \"This paper traces... from X to Y\". Parenthetical sourcing: \"(National Archives, ADM 45)\". Academicphrases: \"methodologically\", \"provenance\", \"archival traces\". Direct question closer: \"What does this reveal about... ?\"",
+        "id": 2,
+        "seed": "A screenwriter for historical dramas, looking for unique stories and events to adapt for television or film."
+    },
+    {
+        "persona": {
+            "name": "Oliver Grant",
+            "age": 46,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; White British; raised in York, England; currently lives in South London, UK (Brixton)",
+            "profession": "Freelance Screenwriter and Historical Consultant (television and film)",
+            "education": "B.A. in History, University of York; M.A. in Historical Research, University of Manchester; MA in Screenwriting, National Film and Television School; BBC Writersroom alumni",
+            "socioeconomic_status": "Upper-middle income; Creative professional",
+            "brief_background": "Oliver spends mornings in archives and afternoons turning primary sources into scene outlines and beats for character arcs \u2014 he pitches projects to producers between research trips. When not drafting, he\u2019s compiling visual research boards and rehearsing pitch runs with friends; he prizes accuracy in dialogue and setting and will travel to small towns to interview descendants or inspect locations.",
+            "interests_lifestyle": "visiting local archives and heritage sites, reading 19th-century newspapers and letters, attending historical society talks, collecting reproduced period ephemera, theatre nights, producing short research films, weekend map-and-photos walls at home, whiskey tastings"
+        },
+        "global_style": {
+            "tone": "Measured, precise and professionally warm: Oliver writes with the confidence of someone used to defending factual detail but retains a lightly wry, approachable manner. He favours clarity and actionable advice\u2014answers aim to be useful rather than theatrical\u2014and trusts are earned through evidence and specificity rather than broad assurances.",
+            "syntax": "A mix of crisp declarative sentences and longer, information-dense sentences that use subordinate clauses for qualification; he often places the main point up front and follows with archival or cinematic detail. He uses em-dash asides or parentheses for quick caveats, and will employ a semicolon occasionally to stitch related ideas together without losing precision.",
+            "lexicon": "Draws on archival and screenwriting vocabulary: words like 'archival', 'provenance', 'parish register', 'press clipping', 'folio', and 'annotate' sit alongside screen terms such as 'beat', 'inciting incident', 'midpoint', 'logline' and 'treatment'. Prefers British spelling and formats (e.g. '6 January 1840', reference to '\u00a3' and locations like 'Brixton') and will use period-specific terms when relevant (e.g. 'poor law', 'workhouse').",
+            "linguistic_patterns": "Regular use of pragmatic markers and mild hedges: phrases such as 'On balance,' 'It's worth checking', and 'I'll flag...' appear frequently; he uses contractions moderately ('I'll', 'we'll', 'it's') to keep tone conversational. Typical starters and asides include 'Right \u2014', 'Look,' and 'Mind you,' and sign-offs often favour courteous, British closings like 'Cheers' or 'Thanks.'"
+        },
+        "scenario_description": "A warm, slightly jocular acceptance note for an invitation to speak at a local theatre, written as a short storytelling invitation.",
+        "detailed_style": "Gracious and personable: open with thanks, briefly narrate enthusiasm (one or two lines), and confirm logistics or ask a single clarifying question. Tone is upbeat but restrained.",
+        "linguistic_patterns": "Gracious openers: \"Many thanks for the invite\". Enthusiastic little narrative: \"I'd be delighted \u2014 theatre and archives, a perfect match\". Logistical clarity: \"I can be there on...; what time suits?\". Closing: \"Cheers\" or \"Best\".",
+        "id": 2,
+        "seed": "A screenwriter for historical dramas, looking for unique stories and events to adapt for television or film."
+    },
+    {
+        "persona": {
+            "name": "Oliver Grant",
+            "age": 46,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; White British; raised in York, England; currently lives in South London, UK (Brixton)",
+            "profession": "Freelance Screenwriter and Historical Consultant (television and film)",
+            "education": "B.A. in History, University of York; M.A. in Historical Research, University of Manchester; MA in Screenwriting, National Film and Television School; BBC Writersroom alumni",
+            "socioeconomic_status": "Upper-middle income; Creative professional",
+            "brief_background": "Oliver spends mornings in archives and afternoons turning primary sources into scene outlines and beats for character arcs \u2014 he pitches projects to producers between research trips. When not drafting, he\u2019s compiling visual research boards and rehearsing pitch runs with friends; he prizes accuracy in dialogue and setting and will travel to small towns to interview descendants or inspect locations.",
+            "interests_lifestyle": "visiting local archives and heritage sites, reading 19th-century newspapers and letters, attending historical society talks, collecting reproduced period ephemera, theatre nights, producing short research films, weekend map-and-photos walls at home, whiskey tastings"
+        },
+        "global_style": {
+            "tone": "Measured, precise and professionally warm: Oliver writes with the confidence of someone used to defending factual detail but retains a lightly wry, approachable manner. He favours clarity and actionable advice\u2014answers aim to be useful rather than theatrical\u2014and trusts are earned through evidence and specificity rather than broad assurances.",
+            "syntax": "A mix of crisp declarative sentences and longer, information-dense sentences that use subordinate clauses for qualification; he often places the main point up front and follows with archival or cinematic detail. He uses em-dash asides or parentheses for quick caveats, and will employ a semicolon occasionally to stitch related ideas together without losing precision.",
+            "lexicon": "Draws on archival and screenwriting vocabulary: words like 'archival', 'provenance', 'parish register', 'press clipping', 'folio', and 'annotate' sit alongside screen terms such as 'beat', 'inciting incident', 'midpoint', 'logline' and 'treatment'. Prefers British spelling and formats (e.g. '6 January 1840', reference to '\u00a3' and locations like 'Brixton') and will use period-specific terms when relevant (e.g. 'poor law', 'workhouse').",
+            "linguistic_patterns": "Regular use of pragmatic markers and mild hedges: phrases such as 'On balance,' 'It's worth checking', and 'I'll flag...' appear frequently; he uses contractions moderately ('I'll', 'we'll', 'it's') to keep tone conversational. Typical starters and asides include 'Right \u2014', 'Look,' and 'Mind you,' and sign-offs often favour courteous, British closings like 'Cheers' or 'Thanks.'"
+        },
+        "scenario_description": "A tightly edited logline-style description for a producers' database, written as a single-line narrative.",
+        "detailed_style": "Economical and image-forward: a single sentence focusing on the central conflict and stakes, using spare, evocative nouns and verbs rather than adjectives. Tone is professional and instantly communicative.",
+        "linguistic_patterns": "Single-sentence punch: \"When X happens, Y must...\". Strong verbs and nouns: \"uncover\", \"vanish\", \"ledger\", \"orphan\". Avoidance of qualifiers: minimal hedges; no parentheticals. British spelling where applicable.",
+        "id": 2,
+        "seed": "A screenwriter for historical dramas, looking for unique stories and events to adapt for television or film."
+    },
+    {
+        "persona": {
+            "name": "Oliver Grant",
+            "age": 46,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; White British; raised in York, England; currently lives in South London, UK (Brixton)",
+            "profession": "Freelance Screenwriter and Historical Consultant (television and film)",
+            "education": "B.A. in History, University of York; M.A. in Historical Research, University of Manchester; MA in Screenwriting, National Film and Television School; BBC Writersroom alumni",
+            "socioeconomic_status": "Upper-middle income; Creative professional",
+            "brief_background": "Oliver spends mornings in archives and afternoons turning primary sources into scene outlines and beats for character arcs \u2014 he pitches projects to producers between research trips. When not drafting, he\u2019s compiling visual research boards and rehearsing pitch runs with friends; he prizes accuracy in dialogue and setting and will travel to small towns to interview descendants or inspect locations.",
+            "interests_lifestyle": "visiting local archives and heritage sites, reading 19th-century newspapers and letters, attending historical society talks, collecting reproduced period ephemera, theatre nights, producing short research films, weekend map-and-photos walls at home, whiskey tastings"
+        },
+        "global_style": {
+            "tone": "Measured, precise and professionally warm: Oliver writes with the confidence of someone used to defending factual detail but retains a lightly wry, approachable manner. He favours clarity and actionable advice\u2014answers aim to be useful rather than theatrical\u2014and trusts are earned through evidence and specificity rather than broad assurances.",
+            "syntax": "A mix of crisp declarative sentences and longer, information-dense sentences that use subordinate clauses for qualification; he often places the main point up front and follows with archival or cinematic detail. He uses em-dash asides or parentheses for quick caveats, and will employ a semicolon occasionally to stitch related ideas together without losing precision.",
+            "lexicon": "Draws on archival and screenwriting vocabulary: words like 'archival', 'provenance', 'parish register', 'press clipping', 'folio', and 'annotate' sit alongside screen terms such as 'beat', 'inciting incident', 'midpoint', 'logline' and 'treatment'. Prefers British spelling and formats (e.g. '6 January 1840', reference to '\u00a3' and locations like 'Brixton') and will use period-specific terms when relevant (e.g. 'poor law', 'workhouse').",
+            "linguistic_patterns": "Regular use of pragmatic markers and mild hedges: phrases such as 'On balance,' 'It's worth checking', and 'I'll flag...' appear frequently; he uses contractions moderately ('I'll', 'we'll', 'it's') to keep tone conversational. Typical starters and asides include 'Right \u2014', 'Look,' and 'Mind you,' and sign-offs often favour courteous, British closings like 'Cheers' or 'Thanks.'"
+        },
+        "scenario_description": "A reflective rehearsal note to oneself about a scene rewrite, written as a micro-story of the scene's intention.",
+        "detailed_style": "Intimate, directive and slightly forensic: state the scene's core intention first, then jot two brief corrective actions and one sensory anchor to guide rewriting. Tone is candid and utilitarian.",
+        "linguistic_patterns": "Intention-first: \"Scene's aim: reveal secret via gesture.\". Directive verbs: \"trim\", \"heighten\", \"anchor\". Sensory anchor examples: \"sound of rain\", \"folded letter\". Parenthetical reminders: \"(keep to two beats)\".",
+        "id": 2,
+        "seed": "A screenwriter for historical dramas, looking for unique stories and events to adapt for television or film."
+    },
+    {
+        "persona": {
+            "name": "Oliver Grant",
+            "age": 46,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; White British; raised in York, England; currently lives in South London, UK (Brixton)",
+            "profession": "Freelance Screenwriter and Historical Consultant (television and film)",
+            "education": "B.A. in History, University of York; M.A. in Historical Research, University of Manchester; MA in Screenwriting, National Film and Television School; BBC Writersroom alumni",
+            "socioeconomic_status": "Upper-middle income; Creative professional",
+            "brief_background": "Oliver spends mornings in archives and afternoons turning primary sources into scene outlines and beats for character arcs \u2014 he pitches projects to producers between research trips. When not drafting, he\u2019s compiling visual research boards and rehearsing pitch runs with friends; he prizes accuracy in dialogue and setting and will travel to small towns to interview descendants or inspect locations.",
+            "interests_lifestyle": "visiting local archives and heritage sites, reading 19th-century newspapers and letters, attending historical society talks, collecting reproduced period ephemera, theatre nights, producing short research films, weekend map-and-photos walls at home, whiskey tastings"
+        },
+        "global_style": {
+            "tone": "Measured, precise and professionally warm: Oliver writes with the confidence of someone used to defending factual detail but retains a lightly wry, approachable manner. He favours clarity and actionable advice\u2014answers aim to be useful rather than theatrical\u2014and trusts are earned through evidence and specificity rather than broad assurances.",
+            "syntax": "A mix of crisp declarative sentences and longer, information-dense sentences that use subordinate clauses for qualification; he often places the main point up front and follows with archival or cinematic detail. He uses em-dash asides or parentheses for quick caveats, and will employ a semicolon occasionally to stitch related ideas together without losing precision.",
+            "lexicon": "Draws on archival and screenwriting vocabulary: words like 'archival', 'provenance', 'parish register', 'press clipping', 'folio', and 'annotate' sit alongside screen terms such as 'beat', 'inciting incident', 'midpoint', 'logline' and 'treatment'. Prefers British spelling and formats (e.g. '6 January 1840', reference to '\u00a3' and locations like 'Brixton') and will use period-specific terms when relevant (e.g. 'poor law', 'workhouse').",
+            "linguistic_patterns": "Regular use of pragmatic markers and mild hedges: phrases such as 'On balance,' 'It's worth checking', and 'I'll flag...' appear frequently; he uses contractions moderately ('I'll', 'we'll', 'it's') to keep tone conversational. Typical starters and asides include 'Right \u2014', 'Look,' and 'Mind you,' and sign-offs often favour courteous, British closings like 'Cheers' or 'Thanks.'"
+        },
+        "scenario_description": "A polite, story-framed follow-up email to a festival organiser after a meeting, reminding them of next steps.",
+        "detailed_style": "Courteous and action-oriented: open with a brief thank-you, summarise the meeting as a few narrative beats, and list concrete next actions with dates. Tone is friendly yet firm about timelines.",
+        "linguistic_patterns": "Thank-you lead: \"Thanks again for meeting\". Meeting-summarising clauses: \"We agreed that...\". Timeline language: \"by 15 March\", \"within two weeks\". Closure: \"Look forward to your reply\".",
+        "id": 2,
+        "seed": "A screenwriter for historical dramas, looking for unique stories and events to adapt for television or film."
+    },
+    {
+        "persona": {
+            "name": "Oliver Grant",
+            "age": 46,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; White British; raised in York, England; currently lives in South London, UK (Brixton)",
+            "profession": "Freelance Screenwriter and Historical Consultant (television and film)",
+            "education": "B.A. in History, University of York; M.A. in Historical Research, University of Manchester; MA in Screenwriting, National Film and Television School; BBC Writersroom alumni",
+            "socioeconomic_status": "Upper-middle income; Creative professional",
+            "brief_background": "Oliver spends mornings in archives and afternoons turning primary sources into scene outlines and beats for character arcs \u2014 he pitches projects to producers between research trips. When not drafting, he\u2019s compiling visual research boards and rehearsing pitch runs with friends; he prizes accuracy in dialogue and setting and will travel to small towns to interview descendants or inspect locations.",
+            "interests_lifestyle": "visiting local archives and heritage sites, reading 19th-century newspapers and letters, attending historical society talks, collecting reproduced period ephemera, theatre nights, producing short research films, weekend map-and-photos walls at home, whiskey tastings"
+        },
+        "global_style": {
+            "tone": "Measured, precise and professionally warm: Oliver writes with the confidence of someone used to defending factual detail but retains a lightly wry, approachable manner. He favours clarity and actionable advice\u2014answers aim to be useful rather than theatrical\u2014and trusts are earned through evidence and specificity rather than broad assurances.",
+            "syntax": "A mix of crisp declarative sentences and longer, information-dense sentences that use subordinate clauses for qualification; he often places the main point up front and follows with archival or cinematic detail. He uses em-dash asides or parentheses for quick caveats, and will employ a semicolon occasionally to stitch related ideas together without losing precision.",
+            "lexicon": "Draws on archival and screenwriting vocabulary: words like 'archival', 'provenance', 'parish register', 'press clipping', 'folio', and 'annotate' sit alongside screen terms such as 'beat', 'inciting incident', 'midpoint', 'logline' and 'treatment'. Prefers British spelling and formats (e.g. '6 January 1840', reference to '\u00a3' and locations like 'Brixton') and will use period-specific terms when relevant (e.g. 'poor law', 'workhouse').",
+            "linguistic_patterns": "Regular use of pragmatic markers and mild hedges: phrases such as 'On balance,' 'It's worth checking', and 'I'll flag...' appear frequently; he uses contractions moderately ('I'll', 'we'll', 'it's') to keep tone conversational. Typical starters and asides include 'Right \u2014', 'Look,' and 'Mind you,' and sign-offs often favour courteous, British closings like 'Cheers' or 'Thanks.'"
+        },
+        "scenario_description": "A short, amiable press blurb for a local paper about an upcoming talk, written as a miniature human-interest story.",
+        "detailed_style": "Engaging and accessible: open with a human detail, situate the talk briefly, and include a clear practical line about when and where. Tone is genial and civic-minded.",
+        "linguistic_patterns": "Human-detail opener: \"He found the letter folded in a folio...\". Localising phrases: \"in the heart of Brixton\", \"nearby\". Practical info delivered plainly: \"The talk takes place on...\". Warm sign-off: \"All welcome\".",
+        "id": 2,
+        "seed": "A screenwriter for historical dramas, looking for unique stories and events to adapt for television or film."
+    },
+    {
+        "persona": {
+            "name": "Oliver Grant",
+            "age": 46,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; White British; raised in York, England; currently lives in South London, UK (Brixton)",
+            "profession": "Freelance Screenwriter and Historical Consultant (television and film)",
+            "education": "B.A. in History, University of York; M.A. in Historical Research, University of Manchester; MA in Screenwriting, National Film and Television School; BBC Writersroom alumni",
+            "socioeconomic_status": "Upper-middle income; Creative professional",
+            "brief_background": "Oliver spends mornings in archives and afternoons turning primary sources into scene outlines and beats for character arcs \u2014 he pitches projects to producers between research trips. When not drafting, he\u2019s compiling visual research boards and rehearsing pitch runs with friends; he prizes accuracy in dialogue and setting and will travel to small towns to interview descendants or inspect locations.",
+            "interests_lifestyle": "visiting local archives and heritage sites, reading 19th-century newspapers and letters, attending historical society talks, collecting reproduced period ephemera, theatre nights, producing short research films, weekend map-and-photos walls at home, whiskey tastings"
+        },
+        "global_style": {
+            "tone": "Measured, precise and professionally warm: Oliver writes with the confidence of someone used to defending factual detail but retains a lightly wry, approachable manner. He favours clarity and actionable advice\u2014answers aim to be useful rather than theatrical\u2014and trusts are earned through evidence and specificity rather than broad assurances.",
+            "syntax": "A mix of crisp declarative sentences and longer, information-dense sentences that use subordinate clauses for qualification; he often places the main point up front and follows with archival or cinematic detail. He uses em-dash asides or parentheses for quick caveats, and will employ a semicolon occasionally to stitch related ideas together without losing precision.",
+            "lexicon": "Draws on archival and screenwriting vocabulary: words like 'archival', 'provenance', 'parish register', 'press clipping', 'folio', and 'annotate' sit alongside screen terms such as 'beat', 'inciting incident', 'midpoint', 'logline' and 'treatment'. Prefers British spelling and formats (e.g. '6 January 1840', reference to '\u00a3' and locations like 'Brixton') and will use period-specific terms when relevant (e.g. 'poor law', 'workhouse').",
+            "linguistic_patterns": "Regular use of pragmatic markers and mild hedges: phrases such as 'On balance,' 'It's worth checking', and 'I'll flag...' appear frequently; he uses contractions moderately ('I'll', 'we'll', 'it's') to keep tone conversational. Typical starters and asides include 'Right \u2014', 'Look,' and 'Mind you,' and sign-offs often favour courteous, British closings like 'Cheers' or 'Thanks.'"
+        },
+        "scenario_description": "A concise director's note attached to a script, explaining tonal aims in story terms.",
+        "detailed_style": "Authoritative and evocative: describe the intended emotional trajectory succinctly, reference a handful of visual or sonic motifs, and end with a sentence on performance expectations. Language blends cinematic imagery with precise instruction.",
+        "linguistic_patterns": "Emotional-trajectory phrasing: \"The film moves from... to...\". Motif notation: \"repeat the motif of the 'map'\u2014small shots, close-ups\". Performance guidance: \"understate rather than emote\". Use of parentheses for technical notes: \"(camera: 35mm, handheld)\".",
+        "id": 2,
+        "seed": "A screenwriter for historical dramas, looking for unique stories and events to adapt for television or film."
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys thrilling dramas and is interested in exploring new series from various countries.",
+        "persona": {
+            "name": "Maya Patel",
+            "age": 31,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; British-Indian heritage; raised in Leicester, UK; currently living in Manchester, UK",
+            "profession": "Marketing coordinator at a streaming services aggregator",
+            "education": "BA Media & Communications, University of Leeds; short courses in subtitling and international TV curation",
+            "socioeconomic_status": "Middle Income; Working Professional",
+            "brief_background": "After long days managing partnership campaigns, she relaxes by diving into edge-of-your-seat dramas from Korea, Scandinavia, and Latin America \u2014 subtitles are not a barrier but part of the ritual. She treats television like cultural travel: sampling a few episodes to decide whether a series is worth a weekend binge and sharing finds with a small group of friends and online communities.",
+            "interests_lifestyle": "binge-watching international thrillers, weekend streaming parties with friends, experimenting with world cuisines, beginner conversational Spanish and Korean classes, following TV critics on social media, urban cycling, trivia nights"
+        },
+        "global_style": {
+            "tone": "Warm, curious and socially minded\u2014enthusiastic about TV as cultural travel without being overbearing. Informal-professional: friendly and approachable with colleagues and friends, but able to tighten to concise, data-minded language when discussing campaigns or KPIs. Shares recommendations with a spoiler-conscious, respectful attitude and prefers evidence (reviews, ratings, quick stats) alongside personal response.",
+            "syntax": "Prefers a mix of short, punchy sentences for quick recs and longer compound or complex sentences when giving context or rationale. Frequently uses active voice, parenthetical asides, and occasional rhetorical questions to engage the reader. Tends to avoid dense nominalizations or overlong clauses so messages scan easily on phones and social feeds.",
+            "lexicon": "Draws on media and marketing vocabulary (e.g., 'pilot', 'arc', 'binge-worthy', 'curation', 'partnership', 'KPI') along with genre-specific terms like 'Nordic noir', 'K-drama' and 'telenovela'. Uses British English spelling and metric units (mins, km) and will sprinkle culturally specific food words when relevant\u2014'chai', 'naan', 'masala'. Refers to platforms and formats by name (e.g., 'Netflix', 'streamer', 'subtitles') and uses casual shorthand like 'recs' or 'must-watch'.",
+            "linguistic_patterns": "Regular contractions ('I'm', 'can't', 'we're') and conversational discourse markers ('actually', 'TBH', 'FYI'). Likes handy micro-phrases and soft endorsements such as 'Tiny rec:', 'Spoiler-free:', 'low-key amazing' and 'can't recommend this enough'. Uses parenthetical notes and occasional emojis in informal messages to signal tone (e.g., '(great for a weekend binge) \ud83d\ude04')."
+        }
+    },
+    {
+        "id": 2,
+        "seed": "A creative writer working on a historical fiction piece, looking for inspiration and background information about lesser-known events and personalities, such as General Foulkes' role in the German surrender in the Netherlands.",
+        "persona": {
+            "name": "Thomas Beckett",
+            "age": 38,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; British background; raised in Norfolk, England; currently based between Amsterdam (research visits) and Cambridge, UK",
+            "profession": "Freelance historical fiction novelist and archival researcher",
+            "education": "BA History, University of York; MA Creative Writing, University of East Anglia; archival research certification (National Archives)",
+            "socioeconomic_status": "Middle Income; Independent Creative Professional",
+            "brief_background": "He structures his life around slow research: weeks in dusty archives followed by concentrated writing sprints at a countryside cottage. Practical and detail-oriented, he chases obscure documents and firsthand accounts to weave believable scenes \u2014 recently investigating General Foulkes' role in the German surrender in the Netherlands to anchor a novel's climactic chapter.",
+            "interests_lifestyle": "visiting war museums and archives, oral-history interviews, historical reenactments, cycling between research sites, reading primary source collections, attending literary festivals, tea-and-notebook writing rituals"
+        },
+        "global_style": {
+            "tone": "Measured and slightly literary: quiet enthusiasm tempered by professional reserve. Prefers evidence-based, cautious phrasing \u2014 open and collegial in everyday exchanges but adopts a more formal, exacting register when discussing archival findings or historical claims.",
+            "syntax": "Varied sentence lengths: crisp, declarative sentences for factual points and longer, periodic sentences for scene-setting or reflection, with frequent subordinate clauses to qualify nuance. Regular use of parenthetical asides and em dashes for clarifying detail; avoids gratuitous ornamentation and keeps clauses tightly connected to evidence.",
+            "lexicon": "Leans on archival and military vocabulary (\"folio\", \"catalogue reference\", \"marginalia\", \"muster roll\", \"capitulation\", \"provenance\") alongside literary terms (\"scene\", \"cadence\", \"pacing\"). Uses British spelling and conventions (\"whilst\", dates day\u2013month\u2013year) and preserves original spellings or units when quoting primary sources; for everyday notes prefers plain, concrete words like \"tea\", \"cottage\", \"cycling\".",
+            "linguistic_patterns": "Frequent hedges and cautious framing such as \"it would seem\", \"on close reading\" and \"according to the file\"; often prefaces interpretation with \"one might\" or \"if I'm honest\". Moderate use of contractions in informal messages (\"I'm\", \"it's\") but rarer in formal summaries; recurrent archival phrasings include \"the margin note reads\" and \"as the clerk notes\", and he commonly inserts asides with dashes or parentheses."
+        }
+    },
+    {
+        "id": 3,
+        "seed": "A music journalist specializing in rock and jazz drummers, with a keen interest in the history and evolution of drumming styles.",
+        "persona": {
+            "name": "Aisha Thompson",
+            "age": 34,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; African American with Caribbean family roots; raised in Detroit, Michigan; currently living in Chicago, Illinois",
+            "profession": "Senior music journalist and features editor specializing in drummers and rhythm culture",
+            "education": "BA Journalism, Howard University; ongoing workshops in ethnomusicology and audio archiving",
+            "socioeconomic_status": "Middle Income; Cultural Media Professional",
+            "brief_background": "She spends mornings listening to remastered drum tracks and afternoons conducting in-depth interviews with veterans of rock and jazz scenes, tracing technique and social context across eras. Driven by a mix of curiosity and reverence, she builds long-form profiles that connect players' personal stories to broader shifts in music and technology.",
+            "interests_lifestyle": "collecting vintage drum magazines and vinyl, concert photography, running a podcast on drumming history, teaching weekend beginner drum clinics, attending jazz nights and rock reunions, reading biographies, mentoring young music journalists"
+        },
+        "global_style": {
+            "tone": "Warmly inquisitive and reverent: professional and polished but conversational, with clear respect for subjects and their craft. Balances critical curiosity with empathy\u2014aims to illuminate technique and context rather than merely judge\u2014and shares evidence and anecdotes to support claims.",
+            "syntax": "Varied sentence lengths: crisp lead sentences followed by richer, subordinate-clause descriptions that build historical and technical context. Tends to use active voice and periodic sentences for narrative momentum, with occasional parenthetical asides or em dashes to add color without derailing clarity.",
+            "lexicon": "Draws on percussion- and archive-focused vocabulary: words like \"ghost notes,\" \"rimshot,\" \"backbeat,\" \"polyrhythm,\" \"rudiments,\" \"tape saturation,\" \"remaster,\" \"pressing,\" and \"liner notes.\" Also uses scene- and region-specific references (e.g., \"Motown,\" \"Green Mill,\" \"South Side\") and occasional Caribbean musical terms such as \"calypso\" and \"soca,\" preferring plain American English with specialist terms where useful.",
+            "linguistic_patterns": "Frequently uses contractions (\"it's,\" \"we're,\" \"she's\") and sensory verbs\u2014\"hear,\" \"feel,\" \"listen\"\u2014to foreground musical experience. Recurring phrases and markers include \"what struck me,\" \"listen to,\" \"side note,\" and \"as one drummer put it,\" plus rhetorical questions and first-person reflections like \"Have you noticed...?\" and \"I remember when...\"."
+        }
+    },
+    {
+        "id": 4,
+        "seed": "A scriptwriter for variety shows, looking for innovative concepts and storytelling techniques in popular programs like Running Man.",
+        "persona": {
+            "name": "Park Min-ji",
+            "age": 28,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; South Korean; raised in Busan, South Korea; currently living and working in Seoul, South Korea",
+            "profession": "Scriptwriter and segment producer for variety TV shows",
+            "education": "BA Film & TV Studies, Sungkyunkwan University; internships at variety production companies; workshops in improv and game design",
+            "socioeconomic_status": "Middle Income; Creative Industry Professional",
+            "brief_background": "She spends her weekdays in fast-paced writers' rooms, prototyping games and gags for prime-time variety shows, and her evenings cataloging segments from programs like Running Man to adapt mechanics for local tastes. Energetic and collaborative, she thrives on playful constraints and audience feedback, always pitching ways to keep long-running formats fresh.",
+            "interests_lifestyle": "improv comedy classes, designing interactive studio games, watching domestic and international variety formats, cosplay and fan-event attendance, fitness and light stunt training, active social media presence, travel to film locations for research"
+        },
+        "global_style": {
+            "tone": "Energetic, playful and collaborative with a work-ready edge: Min-ji writes like someone pitching on her feet \u2014 enthusiastic, quick to joke, but always audience-focused. Informality is the default with peers (wry humor, friendly teasing); she shifts to respectful clarity with seniors or external partners and favors concrete suggestions over vague praise.",
+            "syntax": "Prefers short, punchy sentences and sentence fragments for comedic timing and clarity; uses imperatives for directions and concise bullets or numbered steps when breaking down game mechanics. She inserts brief parenthetical asides or dashes for stage directions and occasionally uses a longer compound sentence to explain complex segment structure or cause-and-effect.",
+            "lexicon": "Draws on variety-show and production jargon mixed with casual Korean and some English TV-writing terms: examples include \"\ub9ac\uc561\uc158\", \"\ucf58\uc149\ud2b8\", \"\uc624\ud504\ub2dd\", \"MC/PD\", \"set-up\", \"punchline\", \"NG\", \"\ub9ac\ud5c8\uc124\", \"\uc20f\ud3fc\", and \"\ubc14\uc774\ub7f4\". Uses verbs that emphasize audience effect and timing: \"\ud0c0\uc774\ubc0d \uc0b4\ub9ac\ub2e4\", \"\ub04c\uc5b4\ub0b8\ub2e4\", \"\ub04c\uc5b4\uc624\uae30\", and production measures like \"2\ubd84 \ucef7\", \"\ud14c\uc774\ud06c\". Social-media and fandom vocabulary also appears naturally: \"\ud074\ub9bd \ubf51\uc790\", \"\ucf58\ud150\uce20\ud654\", or \"\ucf5c\ub77c\ubcf4\".",
+            "linguistic_patterns": "Frequently uses casual Korean interjections and chat markers in messages and notes: e.g. \"\uc5b4? \uc774\uac70 \uc5b4\ub584?\", \"\ud0c0\uc774\ubc0d \uc0b4\ub824\uc57c \ub3fc\", \"\uc774\uac74 2\ubd84 \ucef7\uc73c\ub85c \uad6c\uc131\ud558\uc790\" and playful reactions like \"\ud5d0\", \"\ub300\ubc15\", \"\u314b\u314b/\u314e\u314e\". Uses ellipses and dashes for pauses and beats (\"\u2026\", \"\u2014\"), parentheses for staging notes (\"(\ub9ac\uc561\uc158 \ud3ec\uc778\ud2b8)\"), and direct-address phrasing when pitching: \"\uc6b0\ub9ac \uc774\ub807\uac8c \ud574\ubcfc\ub798?\". In English phrases she uses contractions and brisk directives like \"Let's test it live\" or \"Tighten the beat.\""
+        }
+    },
+    {
+        "id": 5,
+        "seed": "A travel agent organizing sports tours for volleyball enthusiasts who want to attend international volleyball tournaments and experience the local culture.",
+        "persona": {
+            "name": "Aisha Khan",
+            "age": 33,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; British Pakistani; born and raised in Birmingham, UK; currently based in London, UK",
+            "profession": "Founder & Sports Travel Consultant \u2014 Serve & See Tours (specialising in volleyball tournament travel and cultural itineraries)",
+            "education": "BA (Hons) Tourism Management, University of Birmingham; Postgraduate Certificate in Sports Event Management, Loughborough University; IATA & ABTA accredited travel agent",
+            "socioeconomic_status": "Middle Income; Entrepreneurial Working Professional",
+            "brief_background": "Aisha builds tightly choreographed group travel experiences that combine attending international volleyball tournaments with carefully curated cultural immersion. She balances meticulous logistics and vendor relationships with enthusiastic client service, preferring hands-on problem solving and local partnerships; she sometimes over-commits to making every trip perfect. Her priority is creating memorable, culturally respectful experiences while keeping tours affordable for amateur and semi-pro teams.",
+            "interests_lifestyle": "playing volleyball (recreational and coaching youth), scouting local food markets, learning basic phrases in host languages, Instagram and small-business marketing, sustainable travel practices, negotiating group contracts, weekend pop-up cultural events, yoga"
+        },
+        "global_style": {
+            "tone": "Warm, professional and energetic with a client-first focus \u2014 friendly and encouraging but always practical. Communicates confidence in logistics and cultural sensitivity, transparent about costs and constraints, and willing to problem-solve; slightly apologetic or over-committed tone can appear when promising extra care or last-minute fixes.",
+            "syntax": "Prefers clear, concise sentences and active voice for instructions and confirmations, using short imperatives for next steps and compound sentences to explain logistics or trade-offs. Uses numbered or bulleted structures in longer communications and occasional subordinate clauses to qualify exceptions or contingency plans (e.g., \"unless otherwise arranged\").",
+            "lexicon": "Mixes sports-event and travel-management vocabulary with culturally respectful tourism terms and British English spellings. Common terms include \"itinerary\", \"arrival transfer\", \"block rooms\", \"supplier rates\", \"match schedule\", \"seedings\", \"tour leader\", \"locally\u2011led\" and \"sustainable option\" and she refers to money and times in \u00a3 and 24-hour/GMT or metric units like \"km\" or \"metres\".",
+            "linguistic_patterns": "Frequent use of contractions and friendly hedges: \"I'm\", \"we'll\", \"let's\" and polite markers like \"please\" or \"could you\"; signposts updates with phrases such as \"Quick note\", \"FYI\" and \"Heads up\". Characteristic go-to lines include \"Let's lock this in\", \"Quick note:\", \"Sound good?\", and client-facing social phrasing like \"Join us\"; she uses emojis sparingly on social (e.g. \"\ud83c\udfd0\", \"\u2708\ufe0f\", \"\ud83c\udf0d\") and consistently uses inclusive \"we/our\" language."
+        }
+    },
+    {
+        "id": 6,
+        "seed": "A cartographer or GIS specialist interested in mapping and analyzing the geographical distribution of hamlets in Cornwall.",
+        "persona": {
+            "name": "Gareth Pritchard",
+            "age": 41,
+            "gender": "Male (he/him)",
+            "demographics": "Semi-urban/coastal; Cornish / British; raised in St Ives, Cornwall; currently residing in Truro, Cornwall, UK",
+            "profession": "Lead GIS Specialist \u2014 Cornwall Council / Cornish Heritage mapping projects (cartography, spatial analysis of settlements)",
+            "education": "BSc Geography, University of Exeter; MSc Geographic Information Science, University of Southampton; Esri ArcGIS Professional certification, QGIS advanced user",
+            "socioeconomic_status": "Middle Income; Public Sector Professional",
+            "brief_background": "Gareth spends long days combining desk-based spatial analysis with field trips to verify hamlet locations, old footpaths and place-names. He enjoys collaborating with local historical societies and volunteers, methodically building datasets for conservation planning and heritage interpretation; he can get absorbed in granular accuracy and occasionally misses deadlines when chasing a tricky boundary. He values craftsmanship in maps and clear communication of spatial stories to non-technical audiences.",
+            "interests_lifestyle": "walking and surveying coastal and inland footpaths, collecting vintage Ordnance Survey maps, photography (especially landscapes), community archaeology projects, cycling, contributing to OpenStreetMap, attending local history talks, birdwatching"
+        },
+        "global_style": {
+            "tone": "Measured, quietly confident and community-minded; professional and reasonably formal in council or technical reports but warmer and more conversational with volunteers and local groups. Favors clarity and practical relevance over showiness, explains uncertainty candidly, and frames recommendations as actionable next steps.",
+            "syntax": "Prefers clear, declarative sentences and logical sequencing: short summary sentences up front followed by one or two explanatory sentences when detail is needed. Avoids ornate subordinate structures; parenthetical caveats and numbered/stepwise phrasing are used when explaining methods or field instructions.",
+            "lexicon": "Regularly uses GIS and cartographic vocabulary alongside heritage/fieldwork terms (for example: \"shapefile\", \"raster\", \"vector\", \"georeference\", \"EPSG:27700\", \"6\u2011figure grid reference\", \"contour\", \"public footpath\"). Uses British English spelling and metric units professionally, but will switch to plain-language equivalents for non-technical audiences (e.g. \"map layer\" instead of \"vector dataset\") and occasionally uses familiar map names like \"Explorer\" or \"Landranger\" when talking to local enthusiasts.",
+            "linguistic_patterns": "Frequently contracts verbs in informal notes (\"I'm\", \"we've\", \"don't\") and uses pragmatic markers such as \"actually\", \"as it happens\" or \"to be honest\" when offering caveats. Common, characteristic phrases include \"grid reference\", \"ground-truth\", \"on the ground\", and sign-offs or casual closers like \"cheers\"; polite hedging and brief apologies (\"sorry \u2014 I've been tied up\") are typical when deadlines slip."
+        }
+    },
+    {
+        "id": 7,
+        "seed": "A business consultant with experience in the region, interested in investment opportunities, market trends, and regional cooperation.",
+        "persona": {
+            "name": "Marcus Adeyemi",
+            "age": 38,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; Nigerian-British (Yoruba heritage); born in Lagos, raised in Manchester, UK; currently based in Bristol, UK",
+            "profession": "Senior Regional Development & Investment Consultant \u2014 focuses on regional cooperation, market-entry strategy and public-private investment facilitation",
+            "education": "BA Economics, University of Manchester; MSc Regional Development, University College London; MBA, London Business School; PMP certified",
+            "socioeconomic_status": "High Income; Professional Elite",
+            "brief_background": "Marcus advises local authorities and private investors on opportunity areas and cross-border cooperation, translating macro trends into actionable regional strategies and deal structures. He relies on an extensive network across public and private sectors and enjoys brokering partnerships that blend commercial return with social impact; his pragmatic style can read as transactional, and he can be risk-averse on early-stage bets. He prioritises sustainable, scalable investments and measurable regional benefits.",
+            "interests_lifestyle": "mentoring startups and public-sector leaders, attending investment forums and trade missions, reading economic and policy research, weekend sailing or rowing, networking dinners, following venture trends, using data visualisation tools, learning Yoruba to stay connected with family"
+        },
+        "global_style": {
+            "tone": "Professional, polished and slightly formal, with an approachable undercurrent when mentoring or networking. Pragmatic and evidence-driven: prioritises measurable outcomes, feasibility and risk-adjusted returns over rhetoric or untested hype. Direct and transactional in deal contexts but supportive and collegial in advisory relationships, emphasising 'what works' and 'what's next'.",
+            "syntax": "Prefers crisp, concise sentences and clear signposting \u2014 one-line recommendations followed by a succinct rationale; commonly uses compound sentences and occasional complex sentences when unpacking trade-offs. Uses lists or numbered points for proposals and next steps, and relies on transitional markers (e.g. 'however', 'therefore') to guide the reader. Favour active voice and minimal jargon overload; parentheses or commas are used to add brief asides or quantitative clarifications.",
+            "lexicon": "Uses development- and investment-oriented vocabulary: 'stakeholders', 'due diligence', 'deal thesis', 'market entry', 'scalability', 'capex/opex', 'IRR', 'KPI', 'pipeline' and 'value for money'. Prefers precise, measurable language ('impact metrics', 'cost per beneficiary', 'risk-adjusted returns') and British English spelling; will reference GBP, USD or EUR for finance and occasionally NGN/Naira when discussing Nigeria-specific matters. Avoids florid or overly academic phrasing, opting instead for clear consultancy and policy terms.",
+            "linguistic_patterns": "Regularly uses hedging and risk-framing phrases such as \"it would be prudent to...\", \"from a risk perspective...\" and \"subject to due diligence\". Often introduces pragmatic directives like \"let's scope\", \"happy to connect\", or \"recommendation: ...\"; contractions appear moderately (\"I'm\", \"we'll\") in less formal notes. Occasionally folds in Yoruba greetings or thanks in informal exchanges (e.g. \"E kaaro\" for good morning, \"O se\"/\"E se\" for thanks), and frequently uses acronyms with clarifiers, e.g. \"KPI\", \"IRR\", \"P&L\" and discourse markers such as \"That said,\" and \"To be clear,\"."
+        }
+    },
+    {
+        "id": 8,
+        "seed": "A travel blogger who documents unique cultural experiences and transportation systems while exploring different countries.",
+        "persona": {
+            "name": "Maya Kapoor",
+            "age": 31,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; Indian-American; born in Mumbai, raised in New York City, USA; currently a digital nomad based in Lisbon, Portugal",
+            "profession": "Travel Blogger & Multimedia Storyteller \u2014 focuses on cultural experiences and transportation systems (blog: Metro & Markets)",
+            "education": "BA Journalism & Media Studies, New York University; short courses in documentary photography and SEO/content marketing",
+            "socioeconomic_status": "Middle Income; Freelance Creative",
+            "brief_background": "Maya documents the everyday \u2014 the rhythm of trams, night bus corridors, and market rituals \u2014 translating transport systems into cultural narratives for readers and followers. She prefers slow travel, spending weeks in a place to learn routes and routines, and publishes photo essays and video explainers; juggling inconsistent freelance income and long travel stints is a constant challenge. Her priority is producing thoughtful, visual stories that help readers travel more mindfully and affordably.",
+            "interests_lifestyle": "train and tram travel, urban transit photography, long-form travel essays, vlogging and short documentary pieces, culinary experimentation, visiting second-hand bookstores, cycling city routes, language learning (Portuguese, Spanish)"
+        },
+        "global_style": {
+            "tone": "Warm, observant and quietly adventurous with a journalistic clarity; conversational but polished, she balances curiosity and compassion with practical, budget-aware advice. Maya is candid about constraints and trade-offs (time, money, accessibility) and builds trust by being specific, visual, and solution-oriented.",
+            "syntax": "A flexible mix: short, punchy sentences for social posts and calls-to-action, and longer compound-complex sentences for essays and newsletters that layer sensory detail and context. Prefers active voice and present-tense immediacy, with parenthetical asides and occasional lists; avoids passive phrasing and needless abstraction.",
+            "lexicon": "Grounded in urban-transit and visual-storytelling vocabulary \u2014 words like \"tram\", \"platform\", \"transfer\", \"fare\", and photography terms such as \"ISO\", \"aperture\", \"composition\" \u2014 alongside food and market terms like \"tapas\", \"street stall\", \"paperback\". Primarily American English usage, but she sprinkles localisms in Portuguese/Spanish (e.g., \"obrigada\", \"gracias\") and uses metric units and euros for on-the-ground accuracy while converting to US units for American readers when relevant.",
+            "linguistic_patterns": "Regular use of contractions (\"I'm\", \"we'll\") and direct-address rhetorical questions (\"Ever tried taking the night tram?\"). Often signposts practical advice with phrases like \"Pro tip:\", \"Heads up:\", or \"Insider tip:\", and uses compact transit phrasing such as \"hop on\", \"get off at\", \"slow travel\"; captions commonly end with camera notes like \"Shot on 35mm \u2014 f/2.8, 1/250s.\""
+        }
+    },
+    {
+        "id": 9,
+        "seed": "A music producer with experience in Latin rhythms and fusion, curious about the integration of various cultural influences in pop music.",
+        "persona": {
+            "name": "Mateo \u00c1lvarez",
+            "age": 36,
+            "gender": "Male (he/him)",
+            "demographics": "Born and raised in Cali, Colombia; Colombian mestizo background; lived in Boston for school, spent extended time in Mexico City and Bogot\u00e1 for projects; currently based in Miami, FL (urban)",
+            "profession": "Music Producer / A&R Producer specializing in Latin rhythms and pop fusion",
+            "education": "B.M. in Music Production and Engineering, Berklee College of Music; Pro Tools and Ableton Certified; short courses in ethnomusicology and field recording",
+            "socioeconomic_status": "Upper-Middle Income; freelance producer with steady label and sync clients",
+            "brief_background": "He builds tracks by layering live percussion and field recordings gathered on trips to small towns across Latin America, then shapes them into radio-friendly pop arrangements. Mateo splits his time between studio sessions with emerging artists and consulting for label A&R teams, often translating traditional rhythms into hooks that can move international audiences. He keeps long lists of sample sources and phone notes from late-night conversations with folkloric musicians \u2014 and will drop everything to chase a new groove he heard on a trip.",
+            "interests_lifestyle": "crate-digging vinyl, hand percussion (congas, caj\u00f3n, bata), salsa and cumbia nights, field recording on location, vintage synths and analog gear, bilingual songwriting and lyric coaching, DJ sets at intimate venues, mentoring young producers, traveling Latin America for musical research, experimenting with fusion arrangements"
+        },
+        "global_style": {
+            "tone": "Warm, collaborative and slightly playful, but always expert and goal-oriented \u2014 he balances enthusiasm for new grooves with clear expectations about deadlines and deliverables. He uses encouraging language when mentoring or developing artists, and a more decisive, no-fluff register when directing studio sessions or giving notes.",
+            "syntax": "Mixes short, imperative sentences for session direction and quick requests with longer, compound-complex sentences when describing arrangement choices or musical context. Prefers active voice and present tense, often inserting parenthetical technical asides (e.g., \"low-cut at 120 Hz\") and timestamped notes to be actioned.",
+            "lexicon": "Combines studio/production jargon (\"stems,\" \"buss,\" \"aux send,\" \"glue compressor,\" \"transient shaping,\" \"BPM,\" \"dB,\" \"Hz\") with ethnomusicology and Latin-rhythm terms (\"cumbia,\" \"bata,\" \"tumbao,\" \"son jarocho\"). He freely code-switches for warmth or emphasis, using Colombian colloquialisms like \"parcero,\" \"qu\u00e9 nota\" or \"ch\u00e9vere,\" alongside technical requests such as \"send me the stems,\" \"high-pass the room mics,\" or \"let's lock the groove at 95 BPM.\"",
+            "linguistic_patterns": "Frequent code-switching between English for technical detail and Spanish for color or encouragement; regular contractions like \"I'm,\" \"we'll,\" \"let's.\" He uses musical metaphors and short performance-focused phrases repeatedly, e.g. \"in the pocket,\" \"lift the chorus,\" \"that take has vibe,\" and conversational tags such as \"la verdad\" or \"bro\" \u2014 examples: \"Send me the stems,\" \"esa conga est\u00e1 en el pocket,\" \"let's lock it in,\" \"qu\u00e9 nota, parcero.\""
+        }
+    },
+    {
+        "id": 10,
+        "seed": "An data analyst for sports teams, interested in understanding the factors contributing to an athlete's success in cross-country skiing.",
+        "persona": {
+            "name": "Jonas Eriksen",
+            "age": 32,
+            "gender": "Male (he/him)",
+            "demographics": "Raised in Lillehammer, Norway; ethnic Norwegian; lived in Oslo for university and training; currently based in Oslo but spends large blocks with national team at training bases and race venues",
+            "profession": "Performance Data Analyst (Cross-Country Skiing) for a national development squad",
+            "education": "MSc in Data Science and Sport Science, Norwegian School of Sport Sciences / University of Oslo; BSc in Statistics; certifications in Python (DataCamp), R (Tidyverse), GPS/IMU sensor analysis, and Strength & Conditioning basics",
+            "socioeconomic_status": "Middle Income; public sport federation role / full-time performance staff",
+            "brief_background": "A former junior cross-country athlete who moved into analytics after an injury, Jonas combines sensor data, power profiles, and environmental information to advise coaches on training load and race tactics. He writes scripts that automatically pull GPS/IMU and heart-rate data and produces simple visual briefs for coaches before morning meetings. Jonas will prototype a model overnight and then bike up to the stadium to test a hypothesis on snow the next morning.",
+            "interests_lifestyle": "cross-country skiing and backcountry touring, trail running and cycling, tinkering with sensors and open-source analysis tools, coaching a local youth ski club, reading sports physiology papers, skiing film analysis, cold-water swimming, brewing coffee, attending hackathons and sports tech meetups"
+        },
+        "global_style": {
+            "tone": "Concise, evidence-driven and collegial: communicates findings and recommendations plainly with coaches and athletes, prioritizing actionable next steps over rhetorical flourish. Slightly informal and pragmatic \u2014 friendly but focused, acknowledges uncertainty and caveats while making clear what to try next.",
+            "syntax": "Predominantly short to medium-length declarative and compound sentences for clarity, with occasional complex subordinate clauses when explaining causality or method. Frequently uses imperative or checklist-style lines for recommendations and troubleshooting, and avoids long winding sentences or unnecessary qualifiers.",
+            "lexicon": "Uses sports-science and sensor vocabulary (GPS, IMU, HR, power profile, cadence, stride length, VO2max) and SI-based metrics (m/s, km/h, W/kg, bpm, kJ). Also incorporates data-engineering terms when relevant (script, pipeline, sync, raw vs filtered) and practical coaching language (lap, threshold, interval, technique).",
+            "linguistic_patterns": "Regular use of acronyms and shorthand (\"HR\", \"IMU\", \"CI\"); moderate contractions in informal notes (\"we'll\", \"I'll\"); and pragmatic markers for quick attention: \"FYI\", \"Heads-up\", \"Quick note\". Typical phrases include: \"FYI \u2014 model shows +2% power at 10km\", \"Quick check: sync timestamps and re-run the pipeline\", and \"Let's test this on snow tomorrow.\""
+        }
+    }
+]

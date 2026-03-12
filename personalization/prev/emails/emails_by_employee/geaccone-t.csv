@@ -1,0 +1,1936 @@
+file,date,from,to,subject,email
+geaccone-t/_sent_mail/1.,"Mon, 26 Feb 2001 21:27:00 -0800",tracy.geaccone@enron.com,julie.armstrong@enron.com,Re: Commercial Business Review dates,"Susan Zilker Salons of Post Oak.
+
+
+
+
+
+Julie Armstrong
+02/26/2001 02:45 PM
+To:	Tracy Geaccone/GPGFIN/Enron@ENRON
+cc:	 
+
+Subject:	Re: Commercial Business Review dates   
+
+Hope your day gets better and that you feel better.  Who styles/cuts your hair?
+
+
+
+
+Tracy Geaccone
+02/26/2001 02:01 PM
+To:	Julie Armstrong/Corp/Enron@ENRON
+cc:	 
+
+Subject:	Re: Commercial Business Review dates   
+
+I am not sure why John does not have a copy.
+
+
+
+
+
+
+
+
+<Embedded StdOleLink>
+<Embedded StdOleLink>"
+geaccone-t/_sent_mail/10.,"Mon, 26 Feb 2001 16:54:00 -0800",tracy.geaccone@enron.com,ruth.mann@enron.com,Re: Reports,"I was not aware that you were having  problems.  This is the first I have heard of them.  I do not know Cliff Jackson and I am unable to control his actions.  I am not even sure if he works for ETS.   In the future,  if you are having problems, please contact someone in my department, Judy Lin, Mary Botello or James Weitekamp.   Please provide me with a complete list of the things you need and we will be more than happy to work with you.
+
+Tracy
+
+
+From:	Ruth Mann/ENRON@enronXgate on 02/26/2001 10:32 AM
+To:	Tracy Geaccone/GPGFIN/Enron@ENRON
+cc:	 
+
+Subject:	Reports
+
+
+If these are reports (Property and EIS) that I can get from my computer then I need to know how to get them.  If they are reports that are to be sent to me, I don't understand why I am not getting them.  I did get the EIS report but the RC for Gina Taylor, Kimberly Nelson, and Alma Martinez also include Dave Schafer, Lisa Costello, and Jerry Harkbreaker.  I sent it back to Cliff Jackson and asked him to revise the people names on that RC.  I have not heard back from him.
+
+I need some answers.
+
+Tracey, it is almost time for the February reports and I have not gotten the Property Report or the Report that gives me the budget and actual figures for January.  I know these are monthly.  I don't know why it is so hard to get them but if I don't get some response this week, I am going to Rod Hayslett.
+
+
+I am getting flack so I am passing it on.
+
+Ruth"
+geaccone-t/_sent_mail/102.,"Wed, 07 Feb 2001 18:37:00 -0800",tracy.geaccone@enron.com,greg.mathews@enron.com,Re: Mark Up Rate,"I would think what you are charging should include benefits and payroll taxes as they are part of employee expenses.  I don't think there is a way in SAP to stop that from happening unless it is a manual entry.
+
+
+
+
+
+
+Greg Mathews@ENRON_DEVELOPMENT
+02/07/2001 11:05 AM
+To:	Elaine Concklin/ET&S/Enron@ENRON
+cc:	Vera Apodaca/ET&S/Enron@ENRON, Jerry D Martin/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Tracy Geaccone/GPGFIN/Enron@ENRON 
+
+Subject:	Mark Up Rate
+
+ 		
+
+
+Elaine:
+
+As discussed earlier,  the cost center accounts will have to be programmed such that only the Labor Cost move from the Cost Center out to the project.  It is my understanding that Labor Costs at ETS is defined as Base Salary plus Benefits/Burden/Taxes, and therefore, these costs follow with the base labor.
+
+When we define a markup rate in the general E&C business,  the markup is always on the base labor only.  I am asking that you also freeze the transfer of Benefits/taxes/Burdens so that our markup rate will be correct.
+
+Thanks,
+Greg"
+geaccone-t/_sent_mail/107.,"Tue, 06 Feb 2001 18:41:00 -0800",tracy.geaccone@enron.com,maura.o'neil@enron.com,,"Please take me off your distribution list for monthly close contacts. 
+
+
+Thanks 
+
+Tracy Geaccone"
+geaccone-t/_sent_mail/109.,"Tue, 06 Feb 2001 18:04:00 -0800",tracy.geaccone@enron.com,sap.security@enron.com,Re: SRF for Mary Botello: Eva: Remedy 336028,"approved
+
+
+
+
+SAP Security
+02/06/2001 01:36 PM
+Sent by:	Eva Tow
+To:	Mary Botello/NA/Enron@Enron
+cc:	Tracy Geaccone/GPGFIN/Enron@ENRON 
+
+Subject:	Re: SRF for Mary Botello: Eva: Remedy 336028   
+
+Mary,
+
+We have received you SAP Security Request Form.  However, before we continue processing this request, I need you to confirm several PS roles you requested for your.  I noticed you selected the following additional PS roles: FN PS Project Controls Engineer, FN PS Project Budget Controller, and FN PS Master Data Entry with FN IM Capital Budget Controller for yourself.  These roles are considered incompatible roles, because the combinations of the roles should not be jointly assigned to a user, as such would compromise segregation of duties and is considered a business risk.  Do you want me to continue requesting these roles for you?  If so, I would need approval from the Chief Accounting Officer (CAO) of your Business Unit.
+
+Attached below is the SAP Security-Internal Control Guidelines:
+
+ 
+
+Please advise.
+
+Thank you,
+SAP Security (Eva)
+
+
+
+
+
+SAP Security
+02/06/2001 01:28 PM
+Sent by:	Eva Tow
+To:	Elaine Concklin/ET&S/Enron@ENRON, Tracy Geaccone/GPGFIN/Enron@ENRON
+cc:	Mary Botello/NA/Enron@Enron 
+
+Subject:	Re: SRF for Mary Botello: Eva: Remedy 336028   
+
+
+Mary Botello, P00503184-GPG Corp-Job Title: Financial Analyst is requesting access to several GPG rols and it is pending your approval.  Please email your response to SAP Security.  If you have any questions, please Tracy Geaccone (x37372).
+
+Pending Elaine Concklin's Approval:
+FN IM Capital Budget Appropriation Requestor-GPG
+FN IM Capital Budget Approver-GPG
+FN IM Capital Budget Controller-GPG
+
+Pending Tracy Geaccone's Approval:
+FN PS Project Accountant-GPG
+FN PS Viewer-GPG
+
+Mary's Current Access:
+Global Counterparty Errors for London
+Std End-User profile for basis and prntg
+FN CO VIEWER GPG
+HR EMployee ESS CATS Enterprise HR
+FN CO ANALYST GPG
+FN CO CCA PLANNER GPG
+FN CO INTERNAL ORDER ANALYST GPG
+FN CO PCA PLANNER - GPG
+CO Master Data Creator - GPG
+AR MASTER RECORD CONTROL GROUP-Non-REG
+FN FI Consolidated Viewer-GPG
+
+Thank you,
+SAP Security (Eva)
+
+
+
+
+
+
+Mary Botello on 02/05/2001 12:48:25 PM
+To:	SAP Security@ENRON
+cc:	 
+
+Subject:	Additional Access Requested
+
+See attached form.
+
+ 
+
+
+
+
+
+
+
+
+<Embedded StdOleLink>
+<Embedded StdOleLink>"
+geaccone-t/_sent_mail/110.,"Tue, 06 Feb 2001 18:03:00 -0800",tracy.geaccone@enron.com,sap.security@enron.com,Re: SRF for Mary Botello: Eva: Remedy 336028,"approved
+
+
+
+
+SAP Security
+02/06/2001 01:28 PM
+Sent by:	Eva Tow
+To:	Elaine Concklin/ET&S/Enron@ENRON, Tracy Geaccone/GPGFIN/Enron@ENRON
+cc:	Mary Botello/NA/Enron@Enron 
+
+Subject:	Re: SRF for Mary Botello: Eva: Remedy 336028   
+
+
+Mary Botello, P00503184-GPG Corp-Job Title: Financial Analyst is requesting access to several GPG rols and it is pending your approval.  Please email your response to SAP Security.  If you have any questions, please Tracy Geaccone (x37372).
+
+Pending Elaine Concklin's Approval:
+FN IM Capital Budget Appropriation Requestor-GPG
+FN IM Capital Budget Approver-GPG
+FN IM Capital Budget Controller-GPG
+
+Pending Tracy Geaccone's Approval:
+FN PS Project Accountant-GPG
+FN PS Viewer-GPG
+
+Mary's Current Access:
+Global Counterparty Errors for London
+Std End-User profile for basis and prntg
+FN CO VIEWER GPG
+HR EMployee ESS CATS Enterprise HR
+FN CO ANALYST GPG
+FN CO CCA PLANNER GPG
+FN CO INTERNAL ORDER ANALYST GPG
+FN CO PCA PLANNER - GPG
+CO Master Data Creator - GPG
+AR MASTER RECORD CONTROL GROUP-Non-REG
+FN FI Consolidated Viewer-GPG
+
+Thank you,
+SAP Security (Eva)
+
+
+
+
+
+
+Mary Botello on 02/05/2001 12:48:25 PM
+To:	SAP Security@ENRON
+cc:	 
+
+Subject:	Additional Access Requested
+
+See attached form.
+
+ 
+
+
+
+
+
+
+<Embedded StdOleLink>"
+geaccone-t/_sent_mail/113.,"Tue, 06 Feb 2001 14:52:00 -0800",tracy.geaccone@enron.com,john.keiser@enron.com,Re:,"La Strada?  What about Sierra Grill on Montrose?  I don't much care for Michaelangelos.  Vincents or Ninos?
+
+
+
+
+
+John Keiser
+02/05/2001 04:52 PM
+To:	Tracy Geaccone/GPGFIN/Enron@ENRON
+cc:	 
+
+Subject:	
+
+How about Michaelangelo's at 307 Westheimer?  There is another good restaurant right across the street that I cannot remember the name but I will drive by it on the way home."
+geaccone-t/_sent_mail/116.,"Tue, 06 Feb 2001 14:36:00 -0800",tracy.geaccone@enron.com,karen.samples@chase.com,Re: v-day party,"I think its March 6.  I threw the letter away.
+
+
+
+
+
+
+<KAREN.SAMPLES@chase.com> on 02/06/2001 09:10:50 AM
+To:	<Tracy.Geaccone@enron.com>
+cc:	 
+
+Subject:	Re: v-day party
+
+
+
+When is it anyway? I know I wrote it down, but I forgot where!
+
+
+
+
+<Tracy.Geaccone@enron.com> on 02/05/2001 04:36:10 PM
+
+
+
+To:   Karen Samples/CHASE@CHASE
+cc:
+Subject:  Re: v-day party
+
+
+
+Are you going to the room parent meeting tomorrow morning?
+
+
+
+
+
+
+<KAREN.SAMPLES@chase.com> on 02/05/2001 03:31:39 PM
+
+To:   <Tracy.Geaccone@enron.com>
+cc:
+
+Subject:  Re: v-day party
+
+
+
+thanks!
+
+
+
+
+<Tracy.Geaccone@enron.com> on 02/05/2001 01:58:28 PM
+
+
+
+To:   Karen Samples/CHASE@CHASE
+cc:
+Subject:  Re: v-day party
+
+
+
+No problem.
+
+
+
+
+
+<KAREN.SAMPLES@chase.com> on 02/05/2001 10:19:01 AM
+
+To:   tracy.geaccone@enron.com
+cc:
+
+Subject:  v-day party
+
+
+I think everything is working for the Valentine's Day party. Julie backed
+out on the activity, but Robin Burks and Lorraine Lewis are going to
+oversee it. There is one problem though. The craft needs to be picked up
+and paid for on Thursday morning after carpool in the cafeteria. Both Robin
+and Lorraine are working and I will be in Chicago on business. Do you think
+you could drop by there?
+Thanks,
+Karen"
+geaccone-t/_sent_mail/118.,"Mon, 05 Feb 2001 20:36:00 -0800",tracy.geaccone@enron.com,karen.samples@chase.com,Re: v-day party,"Are you going to the room parent meeting tomorrow morning?
+
+
+
+
+
+
+<KAREN.SAMPLES@chase.com> on 02/05/2001 03:31:39 PM
+To:	<Tracy.Geaccone@enron.com>
+cc:	 
+
+Subject:	Re: v-day party
+
+
+
+thanks!
+
+
+
+
+<Tracy.Geaccone@enron.com> on 02/05/2001 01:58:28 PM
+
+
+
+To:   Karen Samples/CHASE@CHASE
+cc:
+Subject:  Re: v-day party
+
+
+
+No problem.
+
+
+
+
+
+<KAREN.SAMPLES@chase.com> on 02/05/2001 10:19:01 AM
+
+To:   tracy.geaccone@enron.com
+cc:
+
+Subject:  v-day party
+
+
+I think everything is working for the Valentine's Day party. Julie backed
+out on the activity, but Robin Burks and Lorraine Lewis are going to
+oversee it. There is one problem though. The craft needs to be picked up
+and paid for on Thursday morning after carpool in the cafeteria. Both Robin
+and Lorraine are working and I will be in Chicago on business. Do you think
+you could drop by there?
+Thanks,
+Karen"
+geaccone-t/_sent_mail/125.,"Mon, 05 Feb 2001 18:09:00 -0800",tracy.geaccone@enron.com,kathy.campos@enron.com,Re: HOUSTON RODEO 2001,Steve Harris has his group meeting some where and they have hired a bus to take them to and from the rodeo.  Just a suggestion.
+geaccone-t/_sent_mail/126.,"Mon, 05 Feb 2001 18:08:00 -0800",tracy.geaccone@enron.com,kathy.campos@enron.com,Re: HOUSTON RODEO 2001,"Put me in for Diana Ross.  Do we get to invite our spouses?
+
+
+
+
+
+
+Kathy Campos
+02/05/2001 02:04 PM
+To:	Pamela Daily/FGT/Enron@ENRON, James Saunders/FGT/Enron@ENRON, Tracy Geaccone/GPGFIN/Enron@ENRON, Morris Brassfield/OTS/Enron@ENRON, Caroline Barnes/FGT/Enron@ENRON, Bob Chandler/ET&S/Enron@ENRON, John Cobb/FGT/Enron@ENRON, Dan Fancler/ET&S/Enron@ENRON, Jennifer Lev/FGT/Enron@ENRON, Lisa Sutton/FGT/Enron@ENRON, John Keiser/FGT/Enron@ENRON, James Centilli/ET&S/Enron@ENRON, David Rosenberg/FGT/Enron@ENRON, Denis Tu/FGT/Enron@ENRON, Thomas Meers/GPGFIN/Enron@ENRON, Barney Brasher/FGT/Enron@ENRON, Larry Fenstad/OTS/Enron@ENRON, Elaine Concklin/ET&S/Enron@ENRON, Ellis Stern/GPGFIN/Enron@ENRON, Paul Cherry/GPGFIN/Enron@ENRON
+cc:	Rod Hayslett/FGT/Enron@ENRON 
+
+Subject:	HOUSTON RODEO 2001
+
+Rod has purchased two performances at the Houston Livestock Show & Rodeo in the Columbia Suites.  He would like to extend this offer to you and
+employees in your group.
+
+
+     Day  	   Date	Show Time	Performer
+
+   Friday      February 16	 7:00 PM	Diana Ross       
+
+   Sunday      March 4   	 3:35 PM	LeAnn Rimes & Billy Gilman
+
+
+
+
+I will need a reply by Thursday, February 8, 2001.  When you reply please specify what performance you are interested in.  Once all replies are in we will be having a drawing.
+
+FYI - Due to construction, there will be no parking at Reliant Park.
+
+
+
+Thank You,
+Kathy Campos"
+geaccone-t/_sent_mail/127.,"Mon, 05 Feb 2001 18:06:00 -0800",tracy.geaccone@enron.com,sheila.howard@enron.com,Re: EOTT December data,"In the future, please work with Jennifer Lev's group.  She handles the accounting for this entity for Enron.
+
+Thanks
+
+
+
+
+ 	Sheila Howard 02/05/2001 12:45 PM 	
+
+To:	Karl Jackson/Houston/Eott@EOTT
+cc:	Shawn Franks/Corp/Enron@ENRON, Tracy Geaccone/GPGFIN/Enron@ENRON 
+
+Subject:	Re: EOTT December data   
+
+FI close is the 8th workday after the Tax file comes back in.  I am assuming that you would not want to pick up any topside adjusting entries until they have hit FI which would be in the following month if the process is followed correctly.  Is the 8th workday sufficiant?
+
+
+
+
+
+ 	Karl Jackson @ EOTT 02/05/2001 12:09 PM 	
+
+To:	Shawn Franks/Corp/Enron@ENRON
+cc:	Sheila Howard/Corp/Enron@Enron, Tracy Geaccone/GPGFIN/Enron@Enron 
+
+Subject:	Re: EOTT December data   
+
+I'd like to have the information as soon as it is available each month.  I don't know what the regular close schedule is so I don't know when it would be safe to extract the data and be sure that you have the entire month's activity.  Our expense close is on the fifth workday so I'd like to aim for  a date as close to there as is possible.
+
+Karl
+
+
+
+	Shawn Franks@ENRON 02/05/01 05:40 AM 	  To: Karl Jackson/Houston/Eott@EOTT  cc:   Subject: Re: EOTT December data 	
+
+
+Karl,
+
+I'll take care of it for you.  I have to follow up on your ID and the job scheduling anyway.  Is there a certain day this will run each month? 5th workday perhaps?
+
+Shawn
+
+
+
+ 	Karl Jackson @ EOTT 02/02/2001 10:29 PM 	
+
+To:	Shawn Franks/Corp/Enron@ENRON
+cc:	David Horne/Corp/Enron@ENRON, Diem Pham/Corp/Enron@ENRON, Greg Lewis/GPGFIN/Enron@ENRON, John Berry/Houston/Eott@Eott, Margie McBath/GCO/Enron@ENRON, Sheila Howard/Corp/Enron@ENRON, Steve Findley/Houston/Eott@Eott, Brenda Brown/Houston/Eott@Eott 
+
+Subject:	Re: EOTT December data   
+
+Who will be the contact for getting the January 2001 file?  Assuming successful testing of the December data, I would like to have the January data next week.  We are scheduled to close expenses for the month of January on Wednesday Feb. 7 and would like to be able to interface the SAP file on that date.  (Not sure who's question this is, but when all else fails, I usually call Shelia.)  Thanks
+Karl
+
+
+
+	Shawn Franks@ENRON 02/02/01 05:52 AM 	   To: Karl Jackson/Houston/Eott@Eott  cc: David Horne/Corp/Enron@ENRON, Greg Lewis/GPGFIN/Enron@ENRON, John Berry/Houston/Eott@Eott, Margie McBath/GCO/Enron@ENRON, Sheila Howard/Corp/Enron@ENRON, Diem Pham/Corp/Enron@ENRON  Subject: EOTT December data	
+
+
+Karl,
+
+Here is a file with December's data from our QA environment.  The program that produces this data will be in production later today, so I'll get you a file from PR1 then.  I had to zip it up because it was too big to deliver.  I'll set you up with an userid and password so you can pick these up off our interface server once it is scheduled in production.
+
+I'm now settled in London.  If you need to reach me, I'm at 783-4269 (trunk+34269).
+
+Thanks,
+Shawn
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<Embedded StdOleLink>
+<Embedded StdOleLink>
+<Embedded StdOleLink>
+<Embedded StdOleLink>"
+geaccone-t/_sent_mail/130.,"Mon, 05 Feb 2001 17:58:00 -0800",tracy.geaccone@enron.com,karen.samples@chase.com,Re: v-day party,"No problem.  
+
+
+
+
+
+<KAREN.SAMPLES@chase.com> on 02/05/2001 10:19:01 AM
+To:	tracy.geaccone@enron.com
+cc:	 
+
+Subject:	v-day party
+
+
+I think everything is working for the Valentine's Day party. Julie backed
+out on the activity, but Robin Burks and Lorraine Lewis are going to
+oversee it. There is one problem though. The craft needs to be picked up
+and paid for on Thursday morning after carpool in the cafeteria. Both Robin
+and Lorraine are working and I will be in Chicago on business. Do you think
+you could drop by there?
+Thanks,
+Karen"
+geaccone-t/_sent_mail/131.,"Mon, 05 Feb 2001 14:10:00 -0800",tracy.geaccone@enron.com,james.saunders@enron.com,Re: FERC Reporting Issues in SAP,"I do not think I need to attend this.  Let me know if you feel otherwise.
+
+Thanks"
+geaccone-t/_sent_mail/143.,"Thu, 01 Feb 2001 21:07:00 -0800",tracy.geaccone@enron.com,elaine.concklin@enron.com,Re: Transition Issues,"We will be meeting on Wednesday, Feb. 7 from 9-11 in 47C2.
+
+
+   
+	  From:  Elaine Concklin                           01/31/2001 10:06 PM	
+		
+
+
+To:	Tracy Geaccone/GPGFIN/Enron@ENRON
+cc:	Steve Gilbert/ET&S/Enron@ENRON, John Cobb/FGT/Enron@ENRON, Bob Chandler/ET&S/Enron@ENRON, John Keiser/FGT/Enron@ENRON, Dan Fancler/ET&S/Enron@ENRON, Steve Kleb/ET&S/Enron@ENRON, Dana Jones/ET&S/Enron@ENRON, James Saunders/FGT/Enron@ENRON, James Weitekamp/GPGFIN/Enron@ENRON 
+
+Subject:	Re: Transition Issues   
+
+OK with me.
+
+
+
+
+Tracy Geaccone
+01/31/2001 06:10 PM
+To:	Steve Gilbert/ET&S/Enron@ENRON
+cc:	John Cobb/FGT/Enron@ENRON, Bob Chandler/ET&S/Enron@ENRON, John Keiser/FGT/Enron@ENRON, Dan Fancler/ET&S/Enron@ENRON, Elaine Concklin/ET&S/Enron@ENRON, Steve Kleb/ET&S/Enron@ENRON, Dana Jones/ET&S/Enron@ENRON, James Saunders/FGT/Enron@ENRON, James Weitekamp/GPGFIN/Enron@ENRON 
+
+Subject:	Re: Transition Issues   
+
+I would like to include Rod Hayslett as well.  I will book 49C2 on 2/7 from 9-11 if everyone is available.
+
+
+
+
+
+Steve Gilbert
+01/31/2001 04:22 PM
+To:	Tracy Geaccone/GPGFIN/Enron@ENRON
+cc:	John Cobb/FGT/Enron@ENRON, Bob Chandler/ET&S/Enron@ENRON, John Keiser/FGT/Enron@ENRON, Dan Fancler/ET&S/Enron@ENRON, Elaine Concklin/ET&S/Enron@ENRON, Steve Kleb/ET&S/Enron@ENRON, Dana Jones/ET&S/Enron@ENRON, James Saunders/FGT/Enron@ENRON 
+
+Subject:	Re: Transition Issues   
+
+Elaine forwarded the functional IBIT statement (sent by James W)  to me today.  I was wondering if we could now meet  for a couple of hours to discuss the transition issues.  I will be in Houston on Wednesday, February 7th.  I would like to meet with you or your representative sometime in the Morning (I suggest 9:00 to 11:00).
+
+Please let me know as soon as possible so we can book a room. 
+
+Thanks
+
+
+
+
+
+
+
+Tracy Geaccone
+01/26/2001 01:42 PM
+To:	Steve Gilbert/ET&S/Enron@ENRON
+cc:	John Cobb/FGT/Enron@ENRON, Bob Chandler/ET&S/Enron@ENRON, John Keiser/FGT/Enron@ENRON, Dan Fancler/ET&S/Enron@ENRON, Elaine Concklin/ET&S/Enron@ENRON, Steve Kleb/ET&S/Enron@ENRON, Dana Jones/ET&S/Enron@ENRON, James Saunders/FGT/Enron@ENRON 
+
+Subject:	Re: Transition Issues   
+
+I would rather we wait until the funtional income statements are complete.  I need to review with Rod and we will have some minor adjustments to make.  I will set up a meeting when we are ready.  It will probably be towards the end of next week.  We can also discuss the quarter forecast
+
+Thanks
+
+Tracy
+
+
+
+
+Steve Gilbert
+01/26/2001 08:28 AM
+To:	Tracy Geaccone/GPGFIN/Enron@ENRON, John Cobb/FGT/Enron@ENRON, Bob Chandler/ET&S/Enron@ENRON, John Keiser/FGT/Enron@ENRON, Dan Fancler/ET&S/Enron@ENRON, Elaine Concklin/ET&S/Enron@ENRON, Steve Kleb/ET&S/Enron@ENRON
+cc:	Dana Jones/ET&S/Enron@ENRON, James Saunders/FGT/Enron@ENRON 
+
+Subject:	Re: Transition Issues   
+
+
+
+
+
+ Dana Jones and I met with Steve Kleb last week for about 3 hours to go over the NNG Earnings model.  It was somewhat overwhelming  and I could easily see how it could absorb one or more full time equivalent.  I think there is still a great deal that is undefined right now regarding the amount of effort required to keep that model updated.   Some observations/comments.:
+Who will take the lead on updating the earnings model for actual?  Is this more of an Accounting responsilbility than Planning ? .  From talking to Steve Kleb its pretty clear that a significant amount of work is involved in getting actual accounting entries at an account level and splitting it into separate business events.
+Depreciation - Will Property Accounting take the lead in all aspects of the depreciation.  My impression is that this would be a change from  historical responsibilities.
+
+OTHER QUESTIONS:
+
+Who are the experts on these items?
+Carrying charges 
+Trackers
+Other Income
+Taxes
+
+
+What are the deadlines for reporting legal entity and functional IBIT ( I assume the first quarter forecast is the next one)
+
+I will be in Houston on  1/30 and hoping that we could get together for a couple of hours.  I am hoping we can start defining deadlines and deliverables for our respective groups.  
+
+Please let me know  if you are available on Tuesday 1/30
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<Embedded StdOleLink>
+<Embedded StdOleLink>
+<Embedded StdOleLink>
+<Embedded StdOleLink>
+<Embedded StdOleLink>"
+geaccone-t/_sent_mail/146.,"Thu, 01 Feb 2001 16:18:00 -0800",tracy.geaccone@enron.com,jan.moore@enron.com,Re: Discretionary Holiday,"okey
+
+
+
+
+
+
+Jan Moore
+02/01/2001 09:09 AM
+To:	Tracy Geaccone/GPGFIN/Enron@ENRON
+cc:	Pallavi Goradia/Corp/Enron@ENRON, Kathy Campos/GPGFIN/Enron@ENRON 
+
+Subject:	Discretionary Holiday
+
+I would like to take Wednesday, February 14th as my Discretionary Holiday.   This will allow me to schedule several appointments (doctors, dentist, etc.) and get them done all in one day.
+
+If this creates a problem, please let me know.
+
+Thanks!
+
+Jan"
+geaccone-t/_sent_mail/148.,"Wed, 31 Jan 2001 22:10:00 -0800",tracy.geaccone@enron.com,steve.gilbert@enron.com,Re: Transition Issues,"I would like to include Rod Hayslett as well.  I will book 49C2 on 2/7 from 9-11 if everyone is available.
+
+
+
+
+
+
+Steve Gilbert
+01/31/2001 04:22 PM
+To:	Tracy Geaccone/GPGFIN/Enron@ENRON
+cc:	John Cobb/FGT/Enron@ENRON, Bob Chandler/ET&S/Enron@ENRON, John Keiser/FGT/Enron@ENRON, Dan Fancler/ET&S/Enron@ENRON, Elaine Concklin/ET&S/Enron@ENRON, Steve Kleb/ET&S/Enron@ENRON, Dana Jones/ET&S/Enron@ENRON, James Saunders/FGT/Enron@ENRON 
+
+Subject:	Re: Transition Issues   
+
+Elaine forwarded the functional IBIT statement (sent by James W)  to me today.  I was wondering if we could now meet  for a couple of hours to discuss the transition issues.  I will be in Houston on Wednesday, February 7th.  I would like to meet with you or your representative sometime in the Morning (I suggest 9:00 to 11:00).
+
+Please let me know as soon as possible so we can book a room. 
+
+Thanks
+
+
+
+
+
+
+
+Tracy Geaccone
+01/26/2001 01:42 PM
+To:	Steve Gilbert/ET&S/Enron@ENRON
+cc:	John Cobb/FGT/Enron@ENRON, Bob Chandler/ET&S/Enron@ENRON, John Keiser/FGT/Enron@ENRON, Dan Fancler/ET&S/Enron@ENRON, Elaine Concklin/ET&S/Enron@ENRON, Steve Kleb/ET&S/Enron@ENRON, Dana Jones/ET&S/Enron@ENRON, James Saunders/FGT/Enron@ENRON 
+
+Subject:	Re: Transition Issues   
+
+I would rather we wait until the funtional income statements are complete.  I need to review with Rod and we will have some minor adjustments to make.  I will set up a meeting when we are ready.  It will probably be towards the end of next week.  We can also discuss the quarter forecast
+
+Thanks
+
+Tracy
+
+
+
+
+Steve Gilbert
+01/26/2001 08:28 AM
+To:	Tracy Geaccone/GPGFIN/Enron@ENRON, John Cobb/FGT/Enron@ENRON, Bob Chandler/ET&S/Enron@ENRON, John Keiser/FGT/Enron@ENRON, Dan Fancler/ET&S/Enron@ENRON, Elaine Concklin/ET&S/Enron@ENRON, Steve Kleb/ET&S/Enron@ENRON
+cc:	Dana Jones/ET&S/Enron@ENRON, James Saunders/FGT/Enron@ENRON 
+
+Subject:	Re: Transition Issues   
+
+
+
+
+
+ Dana Jones and I met with Steve Kleb last week for about 3 hours to go over the NNG Earnings model.  It was somewhat overwhelming  and I could easily see how it could absorb one or more full time equivalent.  I think there is still a great deal that is undefined right now regarding the amount of effort required to keep that model updated.   Some observations/comments.:
+Who will take the lead on updating the earnings model for actual?  Is this more of an Accounting responsilbility than Planning ? .  From talking to Steve Kleb its pretty clear that a significant amount of work is involved in getting actual accounting entries at an account level and splitting it into separate business events.
+Depreciation - Will Property Accounting take the lead in all aspects of the depreciation.  My impression is that this would be a change from  historical responsibilities.
+
+OTHER QUESTIONS:
+
+Who are the experts on these items?
+Carrying charges 
+Trackers
+Other Income
+Taxes
+
+
+What are the deadlines for reporting legal entity and functional IBIT ( I assume the first quarter forecast is the next one)
+
+I will be in Houston on  1/30 and hoping that we could get together for a couple of hours.  I am hoping we can start defining deadlines and deliverables for our respective groups.  
+
+Please let me know  if you are available on Tuesday 1/30
+
+
+
+
+
+
+
+
+
+
+
+<Embedded StdOleLink>
+<Embedded StdOleLink>
+<Embedded StdOleLink>"
+geaccone-t/_sent_mail/153.,"Wed, 31 Jan 2001 17:34:00 -0800",tracy.geaccone@enron.com,mhughes@paincarecenter.com,Re: Message,"Feb. 10?
+
+
+
+
+
+
+<mhughes@paincarecenter.com> on 01/31/2001 12:36:47 PM
+To:	<Tracy.Geaccone@enron.com>
+cc:	 
+
+Subject:	Re: Message
+
+
+When is it?
+Marsha
+----- Original Message -----
+From: <Tracy.Geaccone@enron.com>
+To: <mhughes@paincarecenter.com>
+Sent: Tuesday, January 30, 2001 2:45 PM
+Subject: Re: Message
+
+
+>
+> Are you guys going to the West U Park Lover's Ball?
+>
+>"
+geaccone-t/_sent_mail/154.,"Wed, 31 Jan 2001 15:44:00 -0800",tracy.geaccone@enron.com,jeannie.mandelker@enron.com,volumes for interstate pipelines,"1999 = 9,182 Bbtu/d
+  2000 = 9,130 Bbtu/d
+
+Decline due to Northern Natural Gas lower south end volumes and lower offshore volumes.  Lower volumes does not necessarily mean lower revenues.  NNG's revenues are over 85% fixed.  The south end volumes have a very low transport rate as well.
+
+Please let me know if you need anything else."
+geaccone-t/_sent_mail/157.,"Tue, 30 Jan 2001 21:15:00 -0800",tracy.geaccone@enron.com,lerea.pharr@enron.com,"Re: Class Request: PPT97-931 PowerPoint 97, Introduction, Jan Moore","approved
+
+
+
+
+LeRea Pharr@ECT
+01/30/2001 04:28 PM
+Sent by:	LeRea Pharr@ECT
+To:	Tracy Geaccone/GPGFIN/Enron@ENRON
+cc:	 
+
+Subject:	Class Request: PPT97-931 PowerPoint 97, Introduction,  Jan Moore
+
+Your approval is required for Jan Moore to attend the following class.
+To grant approval, send a reply to ""lpharr@enron.com"" (NotesMail: LeRea Pharr/HOU/ECT@ECT).
+  Be sure to include employee's name and class number in reply.
+
+PowerPoint 97, Introduction
+Session Dates & Times: 
+  2/7/2001  8:30:00 AM-4:00:00 PM
+Location: EB572
+No Show/Participant Fee: $ 175.00
+
+If you have any questions, please call the Technology Training Coordinator at 713-853-1816."
+geaccone-t/_sent_mail/159.,"Tue, 30 Jan 2001 18:45:00 -0800",tracy.geaccone@enron.com,mhughes@paincarecenter.com,Re: Message,Are you guys going to the West U Park Lover's Ball?
+geaccone-t/_sent_mail/160.,"Tue, 30 Jan 2001 18:34:00 -0800",tracy.geaccone@enron.com,john.keiser@enron.com,Re: Carryovers into 2001,"I am not speaking of capital, only O & M.  I really need a list of all items on the balance sheet for reserves, def. charges etc.  I need to know when they will turn, what they are for and if they are in your 2001 plan. 
+
+thanks
+
+
+
+
+John Keiser
+01/30/2001 11:50 AM
+To:	Tracy Geaccone/GPGFIN/Enron@ENRON
+cc:	 
+
+Subject:	Carryovers into 2001
+
+In the 2001 Capital Budget there are no true carryovers.
+
+However, in reality there are dollars that need to be spent on 2000 projects that will finish in 2001.  These will have to be funded with management approval by other identified 2001 projects that won't happen."
+geaccone-t/_sent_mail/167.,"Tue, 30 Jan 2001 13:17:00 -0800",tracy.geaccone@enron.com,kathy.campos@enron.com,Re: Exceptions,"no exceptions.  How is the calendar coming for my group.  I would like to review with you by the end of the week.
+
+Thanks"
+geaccone-t/_sent_mail/168.,"Mon, 29 Jan 2001 21:14:00 -0800",tracy.geaccone@enron.com,"elaine.concklin@enron.com, john.keiser@enron.com",carryovers,"I need a list of all 2000 dollars that we carried into 2001 by Wednesday.  You can round to the nearest $100,000.  Let me know if they are in the 2001 plan or not.
+
+Thanks
+
+Tracy"
+geaccone-t/_sent_mail/169.,"Mon, 29 Jan 2001 20:38:00 -0800",tracy.geaccone@enron.com,john.keiser@enron.com,Re: Adaytum Presentation,"Its being rescheduled.
+
+
+
+
+
+
+John Keiser
+01/29/2001 04:34 PM
+To:	Tracy Geaccone/GPGFIN/Enron@ENRON
+cc:	 
+
+Subject:	Re: Adaytum Presentation   
+
+There is a Plan Upload meeting set for 2/1/01 at 10-11:00 unfortunately.
+
+
+
+
+<Embedded StdOleLink>"
+geaccone-t/_sent_mail/173.,"Mon, 29 Jan 2001 15:45:00 -0800",tracy.geaccone@enron.com,sophie.patel@enron.com,Re: FW: Order for Tracy Geaccone,"I don't think I will be able to make it.  I talked to Shelley on Friday and she is sending Kim Nelson in her place.
+
+
+   
+	  From:  Sophie Patel                           01/29/2001 11:12 AM	
+		
+
+
+To:	Tracy Geaccone/GPGFIN/Enron@ENRON
+cc:	 
+
+Subject:	Re: FW: Order for Tracy Geaccone   
+
+Do you want to go to the breakfast on Wed  for March of Dimes?
+
+
+
+Tracy Geaccone
+01/29/2001 10:08 AM
+To:	Sophie Patel/ET&S/Enron@ENRON
+cc:	 
+
+Subject:	Re: FW: Order for Tracy Geaccone   
+
+thanks
+
+
+
+
+
+
+
+<Embedded StdOleLink>
+<Embedded StdOleLink>"
+geaccone-t/_sent_mail/177.,"Mon, 29 Jan 2001 13:26:00 -0800",tracy.geaccone@enron.com,caroline.barnes@enron.com,Re: PGAS allocation to HPL,"This should be charged to the ENA HPL not Co 584.
+
+
+
+
+
+
+Caroline Barnes
+01/28/2001 03:16 PM
+To:	Judy Lin/GPGFIN/Enron@ENRON
+cc:	Tracy Geaccone/GPGFIN/Enron@ENRON, James Saunders/FGT/Enron@ENRON, Sandra Jones/GPGFIN/Enron@ENRON, Ellis Stern/GPGFIN/Enron@ENRON, Nancy Carpenter/FGT/Enron@ENRON, Rod Hayslett/FGT/Enron@ENRON 
+
+Subject:	PGAS allocation to HPL
+
+Judy, please prepare to allocated HPL's share of the PGAS project for costs through 12/31/00.  Please work with Jim Saunders as to where within HPL this is to be charged.  We will need to set up a process to charge HPL monthly for costs incurred on the project for 2001 starting with January costs until further notice.  Please call if you have any questions - x36375.
+Thanks...cvb"
+geaccone-t/_sent_mail/18.,"Thu, 22 Feb 2001 19:57:00 -0800",tracy.geaccone@enron.com,steven.january@enron.com,Re: Maintenance Schedule for TW,"Lets meet and we will probably have some follow up.
+
+Thanks
+
+
+
+
+Steven January
+02/22/2001 03:15 PM
+To:	Tracy Geaccone/GPGFIN/Enron@ENRON
+cc:	Darrell Schoolcraft/ET&S/Enron@ENRON, Steven Harris/ET&S/Enron@ENRON, Kevin Hyatt/ET&S/Enron, John R Keller/OTS/Enron@Enron, Randy Rice/OTS/Enron, Pallavi Goradia/Corp/Enron, Audrey Robertson/ET&S/Enron, Cheryl Cole/OTS/Enron@Enron, Kim Ladish/OTS/Enron, Lindy Donoho/ET&S/Enron 
+
+Subject:	Re: Maintenance Schedule for TW   
+
+The main concern is that we won't have a schedule of when we are going to be performing the maintenance yet because that meeting won't be taking place until Tuesday. Since we weren't aware of your meeting until today, we had arranged for the Field people to be here on Tuesday. sj
+
+
+
+Tracy Geaccone
+02/22/2001 01:43 PM
+To:	Steven January/ET&S/Enron@ENRON
+cc:	Darrell Schoolcraft/ET&S/Enron@ENRON, Steven Harris/ET&S/Enron@ENRON, Kevin Hyatt/ET&S/Enron, John R Keller/OTS/Enron@Enron, Randy Rice/OTS/Enron, Pallavi Goradia/Corp/Enron, Audrey Robertson/ET&S/Enron, Cheryl Cole/OTS/Enron@Enron, Kim Ladish/OTS/Enron, Lindy Donoho/ET&S/Enron 
+
+Subject:	Re: Maintenance Schedule for TW   
+
+I think we really need to have this meeting.  We have some issues we need to discuss.  I have had a tough time getting these people together.  Do both of you need to attend the other meeting?
+
+
+
+
+
+Steven January
+02/22/2001 01:25 PM
+To:	Darrell Schoolcraft/ET&S/Enron@ENRON
+cc:	Tracy Geaccone/GPGFIN/Enron@ENRON, Steven Harris/ET&S/Enron@ENRON, Kevin Hyatt/ET&S/Enron, John R Keller/OTS/Enron@Enron, Randy Rice/OTS/Enron, Pallavi Goradia/Corp/Enron, Audrey Robertson/ET&S/Enron, Cheryl Cole/OTS/Enron@Enron, Kim Ladish/OTS/Enron, Lindy Donoho/ET&S/Enron 
+
+Subject:	Re: Maintenance Schedule for TW   
+
+Darrell and I also have a E&C Roundtable to attend on Monday afternoon that we have committed to previously. sj
+
+
+
+Darrell Schoolcraft
+02/22/2001 01:15 PM
+To:	Tracy Geaccone/GPGFIN/Enron@ENRON
+cc:	Steven Harris/ET&S/Enron@ENRON, Steven January/ET&S/Enron@ENRON, Kevin Hyatt/ET&S/Enron, John R Keller/OTS/Enron@Enron, Randy Rice/OTS/Enron, Pallavi Goradia/Corp/Enron, Audrey Robertson/ET&S/Enron, Cheryl Cole/OTS/Enron@Enron, Kim Ladish/OTS/Enron, Lindy Donoho/ET&S/Enron 
+
+Subject:	Re: Maintenance Schedule for TW   
+
+We are having a meeting Tuesday, February 27 at 10:00 till 3:00 to discuss the safety device checks and newly approved outage schedule.  Can we 
+look at doing this meeting after that and we will know the dates and volume impacts.
+
+DS
+
+
+
+Tracy Geaccone
+02/22/2001 12:52 PM
+To:	Steven Harris/ET&S/Enron@ENRON, Steven January/ET&S/Enron@ENRON, Kevin Hyatt/ET&S/Enron, John R Keller/OTS/Enron@Enron, Randy Rice/OTS/Enron, Darrell Schoolcraft/ET&S/Enron@ENRON, Pallavi Goradia/Corp/Enron
+cc:	Audrey Robertson/ET&S/Enron, Cheryl Cole/OTS/Enron@Enron, Kim Ladish/OTS/Enron, Lindy Donoho/ET&S/Enron 
+
+Subject:	Maintenance Schedule for TW
+
+Please plan to attend a meeting to discuss TW maintenance scheduled for this year.  We would like to discuss when the maintenance will be, the duration, and what will be done.  Please be prepared to discuss any savings we will have from the plan for maintenance that will not have to be done because of our planned expansion (capital and expense.)  We will be meeting on Monday, February 26 at 3:00.  I will send out the location later today.  
+
+Thanks
+
+Tracy Geaccone
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<Embedded StdOleLink>
+<Embedded StdOleLink>
+<Embedded StdOleLink>
+<Embedded StdOleLink>"
+geaccone-t/_sent_mail/183.,"Mon, 29 Jan 2001 12:41:00 -0800",tracy.geaccone@enron.com,john.keiser@enron.com,Re: McCarty Meeting of 1/30/01,"okey
+
+
+
+
+John Keiser
+01/25/2001 06:05 PM
+To:	Steve Gilbert/ET&S/Enron@ENRON, Tracy Geaccone/GPGFIN/Enron@ENRON
+cc:	 
+
+Subject:	Re: McCarty Meeting of 1/30/01   
+
+Steve, you are right.  I'll tell you, I am so preoccupied with the Plan Restatement, Plan Upload and performance reviews that I would like to postpone a meeting with McCarty to review report format another week or so.  How do you two feel about that?  Any objections?
+
+
+
+
+<Embedded StdOleLink>"
+geaccone-t/_sent_mail/2.,"Mon, 26 Feb 2001 21:26:00 -0800",tracy.geaccone@enron.com,slundquist@aoshouston.org,Garret,"Sharon,
+
+Garret will go home with Brett Gutstein on Tuesday, Feb. 27.
+
+Thanks
+
+Tracy Geaccone"
+geaccone-t/_sent_mail/20.,"Thu, 22 Feb 2001 17:43:00 -0800",tracy.geaccone@enron.com,steven.january@enron.com,Re: Maintenance Schedule for TW,"I think we really need to have this meeting.  We have some issues we need to discuss.  I have had a tough time getting these people together.  Do both of you need to attend the other meeting?
+
+
+
+
+
+
+Steven January
+02/22/2001 01:25 PM
+To:	Darrell Schoolcraft/ET&S/Enron@ENRON
+cc:	Tracy Geaccone/GPGFIN/Enron@ENRON, Steven Harris/ET&S/Enron@ENRON, Kevin Hyatt/ET&S/Enron, John R Keller/OTS/Enron@Enron, Randy Rice/OTS/Enron, Pallavi Goradia/Corp/Enron, Audrey Robertson/ET&S/Enron, Cheryl Cole/OTS/Enron@Enron, Kim Ladish/OTS/Enron, Lindy Donoho/ET&S/Enron 
+
+Subject:	Re: Maintenance Schedule for TW   
+
+Darrell and I also have a E&C Roundtable to attend on Monday afternoon that we have committed to previously. sj
+
+
+
+Darrell Schoolcraft
+02/22/2001 01:15 PM
+To:	Tracy Geaccone/GPGFIN/Enron@ENRON
+cc:	Steven Harris/ET&S/Enron@ENRON, Steven January/ET&S/Enron@ENRON, Kevin Hyatt/ET&S/Enron, John R Keller/OTS/Enron@Enron, Randy Rice/OTS/Enron, Pallavi Goradia/Corp/Enron, Audrey Robertson/ET&S/Enron, Cheryl Cole/OTS/Enron@Enron, Kim Ladish/OTS/Enron, Lindy Donoho/ET&S/Enron 
+
+Subject:	Re: Maintenance Schedule for TW   
+
+We are having a meeting Tuesday, February 27 at 10:00 till 3:00 to discuss the safety device checks and newly approved outage schedule.  Can we 
+look at doing this meeting after that and we will know the dates and volume impacts.
+
+DS
+
+
+
+Tracy Geaccone
+02/22/2001 12:52 PM
+To:	Steven Harris/ET&S/Enron@ENRON, Steven January/ET&S/Enron@ENRON, Kevin Hyatt/ET&S/Enron, John R Keller/OTS/Enron@Enron, Randy Rice/OTS/Enron, Darrell Schoolcraft/ET&S/Enron@ENRON, Pallavi Goradia/Corp/Enron
+cc:	Audrey Robertson/ET&S/Enron, Cheryl Cole/OTS/Enron@Enron, Kim Ladish/OTS/Enron, Lindy Donoho/ET&S/Enron 
+
+Subject:	Maintenance Schedule for TW
+
+Please plan to attend a meeting to discuss TW maintenance scheduled for this year.  We would like to discuss when the maintenance will be, the duration, and what will be done.  Please be prepared to discuss any savings we will have from the plan for maintenance that will not have to be done because of our planned expansion (capital and expense.)  We will be meeting on Monday, February 26 at 3:00.  I will send out the location later today.  
+
+Thanks
+
+Tracy Geaccone
+
+
+
+
+
+
+
+
+
+
+<Embedded StdOleLink>
+<Embedded StdOleLink>"
+geaccone-t/_sent_mail/22.,"Thu, 22 Feb 2001 16:52:00 -0800",tracy.geaccone@enron.com,"steven.harris@enron.com, steven.january@enron.com, kevin.hyatt@enron.com, john.keller@enron.com, randy.rice@enron.com, darrell.schoolcraft@enron.com, pallavi.goradia@enron.com",Maintenance Schedule for TW,"Please plan to attend a meeting to discuss TW maintenance scheduled for this year.  We would like to discuss when the maintenance will be, the duration, and what will be done.  Please be prepared to discuss any savings we will have from the plan for maintenance that will not have to be done because of our planned expansion (capital and expense.)  We will be meeting on Monday, February 26 at 3:00.  I will send out the location later today.  
+
+Thanks
+
+Tracy Geaccone"
+geaccone-t/_sent_mail/27.,"Wed, 21 Feb 2001 15:47:00 -0800",tracy.geaccone@enron.com,kathy.campos@enron.com,Re: EXPENSE REPORT,I thought we were supposed to use XMS new system?
+geaccone-t/_sent_mail/28.,"Wed, 21 Feb 2001 14:46:00 -0800",tracy.geaccone@enron.com,"difiore.love@enron.com, edifio@coair.com",Re: Sorry,"I understand.  I will call you for lunch later.
+
+thanks
+
+
+
+
+""DiFiore Love, Estelle"" <edifio@coair.com> on 02/21/2001 10:23:58 AM
+To:	""'tracy.geaccone@enron.com'"" <tracy.geaccone@enron.com>
+cc:	 
+
+Subject:	Sorry
+
+
+Sorry about that quick good bye!
+
+Anyway, if you don't make it tonight, let's try to get together for lunch
+the week of March 5.
+
+Take care!
+
+Estelle DiFiore Love
+Manager, National Sales Planning
+Continental Airlines, Inc.
+Phone (713)324-2643
+Fax (713)324-4647"
+geaccone-t/_sent_mail/3.,"Mon, 26 Feb 2001 21:09:00 -0800",tracy.geaccone@enron.com,dwylie@aoshouston.org,Zoo Field Trip,"Diane,
+
+I have all the parent volunteers for the zoo trip lined up.  Do you need anything else for the trip, i.e. juice boxes, etc.?  Let me know and we will have it for you.
+
+Tracy Geaccone"
+geaccone-t/_sent_mail/32.,"Wed, 21 Feb 2001 13:31:00 -0800",tracy.geaccone@enron.com,julie.armstrong@enron.com,"Re: Quarter Forecast, Current Estimate, Plan Meetings",thanks for the heads up!!!
+geaccone-t/_sent_mail/351.,"Mon, 29 Jan 2001 21:55:00 -0800",tracy.geaccone@enron.com,laura.wilkinson@enron.com,Judy Lin,"Laura,
+
+Judy should have been listed as CP17 in the PRC.  Her bonus shuld have been $5,600 which falls in the low range of the level for someone ranked a 3.  Please take care of this for me.
+
+
+Thanks
+
+Tracy Geaccone"
+geaccone-t/_sent_mail/36.,"Tue, 20 Feb 2001 16:33:00 -0800",tracy.geaccone@enron.com,john.keiser@enron.com,Re: 1st QTR Forecast Margin,"I think we should show margins and expense and come down to net contribution.  I think it be important to maintain the margin stuff separately.  We also should show the assets sales and others separately.
+
+
+
+
+
+
+John Keiser
+02/20/2001 11:18 AM
+To:	Tracy Geaccone/GPGFIN/Enron@ENRON
+cc:	Steve Gilbert/ET&S/Enron@ENRON 
+
+Subject:	Re: 1st QTR Forecast Margin   
+
+Tracy, I agree.  We just weren't there yet last week when we met with Danny.  
+
+Tracy and Steve, I want to substitute ""Net Contribution Commercial"" for the Net Margin on my combination schedule.  Do you have the other line items by Quarter that you can come to a Net Contribution Commercial number?
+
+
+
+
+<Embedded StdOleLink>"
+geaccone-t/_sent_mail/37.,"Tue, 20 Feb 2001 14:42:00 -0800",tracy.geaccone@enron.com,james.weitekamp@enron.com,Re: Qtr Forecast Meeting Date Change,Please make sure you inform the BUCs the new date it is due in to you.
+geaccone-t/_sent_mail/38.,"Tue, 20 Feb 2001 14:39:00 -0800",tracy.geaccone@enron.com,john.keiser@enron.com,Re: 1st QTR Forecast Margin,"I think you should include net commercial contribution as that is what Danny is responsible for.  Can you add to this schedule.
+
+
+
+
+
+
+John Keiser
+02/20/2001 08:04 AM
+To:	Steve Gilbert/ET&S/Enron@ENRON, Tracy Geaccone/GPGFIN/Enron@ENRON
+cc:	 
+
+Subject:	1st QTR Forecast Margin
+
+Please look at attached schedule.  Tracy, please fill in TW. 
+
+Steve, I have a $0.1 rounding problem.  Where should it be fixed?  I filled this in from your 2/16/01 file.
+
+I will begin keeping this schedule without explanations.  This is designed very similar to how Tracy keeps her IBIT and NI for ETS as a whole.  Explanations and story line should be included on your individual margin pages just as we showed Danny last week."
+geaccone-t/_sent_mail/4.,"Mon, 26 Feb 2001 21:01:00 -0800",tracy.geaccone@enron.com,robert.hayes@enron.com,Re: Enron Liquid Services,I thought this was resolved.  I will follow up.
+geaccone-t/_sent_mail/44.,"Tue, 20 Feb 2001 12:48:00 -0800",tracy.geaccone@enron.com,"steve.kleb@enron.com, jeanette.doll@enron.com, jan.moore@enron.com, pallavi.goradia@enron.com, james.weitekamp@enron.com, mary.botello@enron.com",staff meeting,I am having to reschedule because of Steve Harris' meeting.  I will let you know when I have a room.
+geaccone-t/_sent_mail/48.,"Fri, 16 Feb 2001 18:38:00 -0800",tracy.geaccone@enron.com,"michael.moran@enron.com, shelley.corman@enron.com, danny.mccarty@enron.com, gary.smith@enron.com, phil.lowry@enron.com, rod.hayslett@enron.com, julia.white@enron.com, steve.hotte@enron.com, bill.cordes@enron.com, james.prentice@enron.com","Quarter Forecast, Current Estimate, Plan Meetings","This year we will be looking at the income statement on a functional basis rather than a legal entity basis.  As such, it is important the you and/or your functional unit coordinator (BUC) attend these meetings.  Your BUC should be meeting with you prior to these meetings to review your numbers.  We sent a planning calendar out last week which shows when these meetings are scheduled.  You do not need to attend the pre-meetings.  
+
+Our first meeting with Stan for the first quarter is on Friday, February 23 at 3:30 in 49C2.
+
+Please let me know if you did not receive the calendar or could not find it on the intranet."
+geaccone-t/_sent_mail/49.,"Fri, 16 Feb 2001 17:16:00 -0800",tracy.geaccone@enron.com,mohannes@bellsouth.net,Re: New E:mail address,"How are you feeling?  Jon said you had some fluid removed from your lungs.  Did that go okey?  Lastest scoop.. Mike Moran is retiring.
+
+
+
+
+
+
+""Michael Ohannesian"" <mohannes@bellsouth.net> on 02/16/2001 11:48:21 AM
+To:	<ttowell@scidesign.com>, ""tracy geaccone"" <tracy_geaccone@enron.com>, <tmorgan@pel.com>, ""Steve W Craft"" <scraft@duke-energy.com>, ""steve hotte"" <steve_hotte@enron.com>, <Rwholtz21@aol.com>, ""russell gaull"" <RussGaull@excite.com>, ""rod hayslett"" <rod_hayslett@enron.com>, <Rita.Houser@enron.com>, ""rick ross"" <rwross@ibm.net>, ""Ray Hammond"" <ooak@mindspring.com>, ""pence rokker"" <pencethepainter@worldnet.att.net>, ""Pee Wee"" <willingtwoo@aol.com>, <OOHHAANN@aol.com>, ""marie heika"" <marie_heika@enron.com>, ""Kris"" <kjcmis@anadarko.COM>, ""jvp"" <jvporcelli@onebox.com>, ""jon"" <JTREVELISE@aol.com>, ""john kiest"" <jkiest@csc.com>, ""joeb"" <berchll@aol.com>, ""jane"" <jbhotz@gateway.net>, ""irwin"" <MFreed9917@aol.com>, ""irv"" <Grrbotts@aol.com>, ""hank rosh"" <hankrush@txsys.com>, ""gudeaw"" <gudeaw@email.msn.com>, ""george johnson"" <geo724@bellsouth.net>, ""Gene Diers"" <ddiers@earthlink.net>, ""eddy"" <ebrown@enron.com>, ""Ed Parks"" <eparks@livingston.net>, ""dave"" <DFV91548@aol.com>, <CHUCKKAYE@aol.com>, <CDMEADOWS@aol.com>, ""caroline"" <caroline_barnes@enron.com>, ""Bryce"" <bryce@genzlinger.net>, ""bob Hock"" <bobhoch@aol.com>, ""bill"" <WBHayes@aol.com>, ""als"" <astento@bristolhotels.com>, ""alan"" <Asm24@aol.com>, ""Alaina Metz"" <ametz@enron.com>, <mohannes@bellsouth.net>
+cc:	 
+
+Subject:	New E:mail address
+
+
+
+My new e:mail address is
+mohannes@bellsouth.net"
+geaccone-t/_sent_mail/51.,"Thu, 15 Feb 2001 22:08:00 -0800",tracy.geaccone@enron.com,steve.gilbert@enron.com,Re: Weekly Bullets for NNG Commercial Support Team,"Could you explain support for TW OBA reporting.
+
+
+
+
+
+
+Steve Gilbert
+02/15/2001 03:06 PM
+To:	Rod Hayslett/FGT/Enron@ENRON, James Saunders/FGT/Enron@ENRON, Tracy Geaccone/GPGFIN/Enron@ENRON, John Keiser/FGT/Enron@ENRON, Caroline Barnes/FGT/Enron@ENRON, James Centilli/ET&S/Enron@ENRON, Dave Waymire/Enron@EnronXGate
+cc:	 
+
+Subject:	Weekly Bullets for NNG Commercial Support Team
+
+
+
+Attached are some bullets for the NNG Commercial Support Team.  Lets talk at our Friday Staff meeting to see if this is the kind of information you are looking for and whether this is the right distribution list."
+geaccone-t/_sent_mail/52.,"Thu, 15 Feb 2001 21:39:00 -0800",tracy.geaccone@enron.com,john.keiser@enron.com,Re:,"John Keiser
+02/15/2001 05:04 PM
+To:	Tracy Geaccone/GPGFIN/Enron@ENRON
+cc:	 
+
+Subject:"
+geaccone-t/_sent_mail/55.,"Thu, 15 Feb 2001 19:36:00 -0800",tracy.geaccone@enron.com,mhughes@paincarecenter.com,Re: Message,"I will call and let Lucindas know.  I have left you a voicemail to call me and tell about the soccer deal.  My number is 713-853-7372.
+
+
+
+
+
+
+<mhughes@paincarecenter.com> on 02/15/2001 02:56:15 PM
+To:	<Tracy.Geaccone@enron.com>
+cc:	 
+
+Subject:	Re: Message
+
+
+I have left a message for Johanna. How about 6:30?  I would imagine it will
+be three of them and three of us.
+Marsha
+----- Original Message -----
+From: <Tracy.Geaccone@enron.com>
+To: <mhughes@paincarecenter.com>
+Sent: Thursday, February 15, 2001 2:02 PM
+Subject: Re: Message
+
+
+>
+> How many will we have on Sunday and what time should we go?
+>
+>
+>
+>
+>
+>
+> <mhughes@paincarecenter.com> on 02/15/2001 12:36:19 PM
+>
+> To:   <Tracy.Geaccone@enron.com>
+> cc:
+>
+> Subject:  Re: Message
+>
+>
+> I heard from the Keltings....that would love to have dinner on Sunday.
+> Sorry
+> we could not make the Rodeo. That would have been fun. Do we need to make
+> reservations at Lucinda's? What time shall we go? Jake got on Barry
+Loder's
+> soccer team. It was a strange deal. I will tell you about it Sunday or
+give
+> me a call when you get a chance.
+> Marsha
+> ----- Original Message -----
+> From: <Tracy.Geaccone@enron.com>
+> To: <mhughes@paincarecenter.com>
+> Sent: Monday, February 12, 2001 1:02 PM
+> Subject: Re: Message
+>
+>
+> >
+> > We had a great time Saturday.  I hope you guys had a good weekend.
+Would
+> > you like to go to Lucindas Friday or Sunday evening?  Maybe we can get
+> the
+> > other couple thats going skiing to go with us???
+> >
+> > Tracy
+> >
+> >
+>
+>
+>
+>
+>
+>"
+geaccone-t/_sent_mail/56.,"Thu, 15 Feb 2001 19:25:00 -0800",tracy.geaccone@enron.com,julie.armstrong@enron.com,Re: October 10th 2002-2004 Plan Meeting,"It could, but we don't know what Stan wants to talk about until we get closer.  It usually runs 5 or so hrs.  I would schedule 8 for now.
+
+
+
+
+Julie Armstrong
+02/15/2001 11:16 AM
+To:	Tracy Geaccone/GPGFIN/Enron@ENRON
+cc:	Kathy Campos/GPGFIN/Enron@ENRON 
+
+Subject:	October 10th 2002-2004 Plan Meeting
+
+The October 10th  2002-2004 Plan shows the meeting running 8 hours.  Please advise if that is accurate.  Thanks."
+geaccone-t/_sent_mail/57.,"Thu, 15 Feb 2001 19:18:00 -0800",tracy.geaccone@enron.com,mike.layne@enron.com,Meeting,The invitation Rocio sent did not mention where the meeting is to be held on 2/20 at 9:00??????
+geaccone-t/_sent_mail/59.,"Thu, 15 Feb 2001 18:02:00 -0800",tracy.geaccone@enron.com,mhughes@paincarecenter.com,Re: Message,"How many will we have on Sunday and what time should we go? 
+
+ 
+
+
+
+
+<mhughes@paincarecenter.com> on 02/15/2001 12:36:19 PM
+To:	<Tracy.Geaccone@enron.com>
+cc:	 
+
+Subject:	Re: Message
+
+
+I heard from the Keltings....that would love to have dinner on Sunday. Sorry
+we could not make the Rodeo. That would have been fun. Do we need to make
+reservations at Lucinda's? What time shall we go? Jake got on Barry Loder's
+soccer team. It was a strange deal. I will tell you about it Sunday or give
+me a call when you get a chance.
+Marsha
+----- Original Message -----
+From: <Tracy.Geaccone@enron.com>
+To: <mhughes@paincarecenter.com>
+Sent: Monday, February 12, 2001 1:02 PM
+Subject: Re: Message
+
+
+>
+> We had a great time Saturday.  I hope you guys had a good weekend.  Would
+> you like to go to Lucindas Friday or Sunday evening?  Maybe we can get the
+> other couple thats going skiing to go with us???
+>
+> Tracy
+>
+>"
+geaccone-t/_sent_mail/6.,"Mon, 26 Feb 2001 20:57:00 -0800",tracy.geaccone@enron.com,karen.samples@chase.com,Re:,"I called everyone today.  The trip is to the ZOO.  I will let you know if anyone can't make it.  I have spoken to some and left messages for other.
+
+
+
+
+
+
+KAREN.SAMPLES@chase.com on 02/26/2001 03:17:11 PM
+To:	Tracy.Geaccone@enron.com
+cc:	 
+
+Subject:	Re:
+
+
+
+Hi Tracy,
+Do we know what the March 7th field trip is? I guess we need to start
+contacting volunteers soon. I can't believe this month is already over!!!!
+This school year is flying by."
+geaccone-t/_sent_mail/61.,"Wed, 14 Feb 2001 18:21:00 -0800",tracy.geaccone@enron.com,gina.taylor@enron.com,Re: Enron Statistical Reports,"Welcome back.  All the statistical data is on the Investor relations website.  I don't have an extra one.  They are in the kitchen on 49.   Investor relations drafts that supplement and has in the past worked with me to get any data they don't already have and to review the content.  
+
+
+
+
+From:	Gina Taylor/ENRON@enronXgate on 02/14/2001 02:11 PM
+To:	Tracy Geaccone/GPGFIN/Enron@ENRON
+cc:	 
+
+Subject:	Enron Statistical Reports 
+
+Hi Tracy!
+
+How are things going?  I'm slowly getting back in the groove!
+
+I am currently working with the Annual Report writer on the ETS portion of the book.  Do you know who drafts the copy for the Enron statistical report?   Also, may I get a copy of the 1999 statistical report from you?
+
+Thanks for your help.
+
+Gina"
+geaccone-t/_sent_mail/65.,"Wed, 14 Feb 2001 13:53:00 -0800",tracy.geaccone@enron.com,lawyerclr@aol.com,Re: GO TIGERS!,"I will call everyone and remind them about Sat. at 9:00 and I will get shirt orders and money on Sat.  Let me know what size you will need.
+
+Thanks
+
+
+
+
+
+
+LawyerCLR@aol.com on 02/14/2001 09:29:12 AM
+To:	Tracy.Geaccone@enron.com
+cc:	 
+
+Subject:	Re: GO TIGERS!
+
+
+Blue, white, and orange are the colors.  I think blue or orange would be  
+good. Cliff and Lee will commit to one apiece.    Also you may want to call  
+all the parents about the practice shirts and remind them of the changed  
+practice time this Saturday which starts at 9am. Thanks Tracy!   CLR"
+geaccone-t/_sent_mail/66.,"Tue, 13 Feb 2001 21:27:00 -0800",tracy.geaccone@enron.com,lawyerclr@aol.com,Re: GO TIGERS!,"I was hoping to find out the team colors before odering practice shirts.  Do we know what they are?
+
+
+
+
+
+
+LawyerCLR@aol.com on 02/13/2001 03:48:45 PM
+To:	hale@equuscap.com, killelea@pogoproducing.com, tracy.geaccone@enron.com, debharp@earthlink.net, barbiehorowitz@hotmail.com, jprzybyl@fkp.com, quallsjd@prodigy.net, rbhale@msn.com, killelea@minutemaid.com
+cc:	 
+
+Subject:	GO TIGERS!
+
+
+What a great group of kids! All 11 kids showed and gave a great effort. 
+
+3 items to address: 
+
+      1. Practice each Saturday has now been changed to 9am not 9:30. Same  
+Location. Please show this Saturday at 9 so that we can start on time. 
+
+      2. Please fill out and bring your child's medical release this  
+Saturday if you haven't already. 
+       
+      3. Please contact Tracy (Team Mom) about ordering a practice jersey if  
+she doesn't contact you first. 
+
+P.S. I know Tracy is planning a fun team get together for the parents and  
+kids soon so if anyone has suggestions, now is the time! 
+
+       Thanks everyone, Cliff Lee Roberts"
+geaccone-t/_sent_mail/67.,"Tue, 13 Feb 2001 21:25:00 -0800",tracy.geaccone@enron.com,julie.armstrong@enron.com,Re: 1st Quarter Forecast Margin review,"James Weitekamp who works for me sent out my full year planning calendar last week via e-mail.  I have asked him to resend to you.
+
+
+
+
+
+Julie Armstrong
+02/13/2001 04:39 PM
+To:	Tracy Geaccone/GPGFIN/Enron@ENRON
+cc:	 
+
+Subject:	Re: 1st Quarter Forecast Margin review   
+
+Tracy:
+Interesting.  Who put a notice out on the Feb 23rd meeting ?  I do not have the meeting on Danny's calendar and unfortunately he is out of town that week.  I have gone through my meeting files and do not have any information.  
+
+
+
+
+Tracy Geaccone
+02/13/2001 03:47 PM
+To:	Julie Armstrong/Corp/Enron@ENRON
+cc:	 
+
+Subject:	Re: 1st Quarter Forecast Margin review   
+
+Does Danny want his VPs at the meeting with Stan on Feb. 23?
+
+
+
+Julie Armstrong
+02/13/2001 02:18 PM
+To:	Steven Harris/ET&S/Enron@ENRON, Robert Hayes/FGT/Enron@ENRON, Dave Neubauer/ET&S/Enron@ENRON, Steve Gilbert/ET&S/Enron@ENRON, John Keiser/FGT/Enron@ENRON, Tracy Geaccone/GPGFIN/Enron@ENRON
+cc:	Audrey Robertson/ET&S/Enron@ENRON, Tammy Kovalcik/FGT/Enron@ENRON, Deb Cappiello/ET&S/Enron@ENRON, Kathy Campos/GPGFIN/Enron@ENRON 
+
+Subject:	1st Quarter Forecast Margin review
+
+Please plan to attend the 1st Quarter Forecast Margin review meeting on Thursday, February 15th from 10:00 - 11:30 in video conference room 4102.  
+
+Thank you.
+
+
+
+
+
+
+
+
+
+
+<Embedded StdOleLink>
+<Embedded StdOleLink>"
+geaccone-t/_sent_mail/69.,"Tue, 13 Feb 2001 19:47:00 -0800",tracy.geaccone@enron.com,julie.armstrong@enron.com,Re: 1st Quarter Forecast Margin review,"Does Danny want his VPs at the meeting with Stan on Feb. 23?
+
+
+
+
+Julie Armstrong
+02/13/2001 02:18 PM
+To:	Steven Harris/ET&S/Enron@ENRON, Robert Hayes/FGT/Enron@ENRON, Dave Neubauer/ET&S/Enron@ENRON, Steve Gilbert/ET&S/Enron@ENRON, John Keiser/FGT/Enron@ENRON, Tracy Geaccone/GPGFIN/Enron@ENRON
+cc:	Audrey Robertson/ET&S/Enron@ENRON, Tammy Kovalcik/FGT/Enron@ENRON, Deb Cappiello/ET&S/Enron@ENRON, Kathy Campos/GPGFIN/Enron@ENRON 
+
+Subject:	1st Quarter Forecast Margin review
+
+Please plan to attend the 1st Quarter Forecast Margin review meeting on Thursday, February 15th from 10:00 - 11:30 in video conference room 4102.  
+
+Thank you."
+geaccone-t/_sent_mail/7.,"Mon, 26 Feb 2001 18:01:00 -0800",tracy.geaccone@enron.com,julie.armstrong@enron.com,Re: Commercial Business Review dates,I am not sure why John does not have a copy.
+geaccone-t/_sent_mail/71.,"Tue, 13 Feb 2001 17:01:00 -0800",tracy.geaccone@enron.com,jeanette.doll@enron.com,Re: System Files,"You might want to bring about 5 copies.
+
+Thanks"
+geaccone-t/_sent_mail/74.,"Tue, 13 Feb 2001 16:56:00 -0800",tracy.geaccone@enron.com,karen.gruesen@enron.com,Re: HPL Operations,"Not really, because assessments are run at the end of the month only.  We can bill 584 and then you guys can make an entry to move 1/2 to 012?
+
+
+
+
+
+
+Karen Gruesen@ECT
+02/13/2001 11:21 AM
+To:	Tracy Geaccone/GPGFIN/Enron@ENRON
+cc:	John Keiser/FGT/Enron@ENRON, Karry Kendall/HOU/ECT@ECT, James Eaves/ENRON@enronXgate 
+
+Subject:	Re: HPL Operations   
+
+Tracy,
+Is it possible to have the first half of the month flow to 584 and the second half to 012?  Please let me know.
+Thanks,
+Karen
+
+
+
+
+Tracy Geaccone@ENRON
+02/13/2001 09:12 AM
+To:	John Keiser/FGT/Enron@ENRON
+cc:	Vera Apodaca/ET&S/Enron@ENRON, Barney Brasher/FGT/Enron@ENRON, James Saunders/FGT/Enron@ENRON, Karen Gruesen/HOU/ECT@ECT, Caroline Barnes/FGT/Enron@ENRON, Terry West/Corp/Enron@ENRON, Kerry Roper/GPGFIN/Enron@ENRON, Billie Akhave/EPSC/HOU/ECT@ECT, Mary Botello/NA/Enron@Enron 
+Subject:	Re: HPL Operations   
+
+We will bill in February the full amount.  We will not bill any charges in March unless services are being provided.  
+This should apply to the Corporate charges as well.  The corporate charges should not be reallocated amongst only ETS companies.  They should be spread across all Enron Business units.
+
+Thanks
+
+Tracy
+
+
+
+
+John Keiser
+02/13/2001 08:13 AM
+To:	Tracy Geaccone/GPGFIN/Enron@ENRON, Vera Apodaca/ET&S/Enron@ENRON
+cc:	Barney Brasher/FGT/Enron@ENRON, James Saunders/FGT/Enron@ENRON, Karen Gruesen/HOU/ECT@ECT 
+
+Subject:	HPL Operations
+
+Effective 2/16/01, approximately 65 employees will move over to HPL Co. 0012.  Please have Corporate and ETS charges to Co. 0584 stop as soon as possible as we will not be able to charge them to ENA.  These should be charged instead to Co. 0012.
+
+Karen, if you have any specific comments on this please let me know as soon as possible.
+
+
+
+
+
+
+
+
+
+
+<Embedded StdOleLink>
+<Embedded StdOleLink>"
+geaccone-t/_sent_mail/76.,"Tue, 13 Feb 2001 13:44:00 -0800",tracy.geaccone@enron.com,jeanette.doll@enron.com,Re: System Files,"I like the reports.  I think we need a input section where it lists data by contract/shipper where we can manipulate and add  data for weekly/daily deals.  I also would like for there to be a section to extend to outer years.  We also need to the far right of the monthly a quarterly sum.
+
+Some IT people will be joining us at 4:00 today.
+
+Thanks 
+
+Tracy"
+geaccone-t/_sent_mail/77.,"Tue, 13 Feb 2001 13:13:00 -0800",tracy.geaccone@enron.com,elaine.concklin@enron.com,Re: Qtr Fcst Schedule,I just want to make sure it works !!!
+geaccone-t/_sent_mail/78.,"Tue, 13 Feb 2001 13:12:00 -0800",tracy.geaccone@enron.com,john.keiser@enron.com,Re: HPL Operations,"We will bill in February the full amount.  We will not bill any charges in March unless services are being provided.  
+This should apply to the Corporate charges as well.  The corporate charges should not be reallocated amongst only ETS companies.  They should be spread across all Enron Business units.
+
+Thanks
+
+Tracy
+
+
+
+
+
+John Keiser
+02/13/2001 08:13 AM
+To:	Tracy Geaccone/GPGFIN/Enron@ENRON, Vera Apodaca/ET&S/Enron@ENRON
+cc:	Barney Brasher/FGT/Enron@ENRON, James Saunders/FGT/Enron@ENRON, Karen Gruesen/HOU/ECT@ECT 
+
+Subject:	HPL Operations
+
+Effective 2/16/01, approximately 65 employees will move over to HPL Co. 0012.  Please have Corporate and ETS charges to Co. 0584 stop as soon as possible as we will not be able to charge them to ENA.  These should be charged instead to Co. 0012.
+
+Karen, if you have any specific comments on this please let me know as soon as possible."
+geaccone-t/_sent_mail/79.,"Tue, 13 Feb 2001 13:08:00 -0800",tracy.geaccone@enron.com,rod.hayslett@enron.com,Re: Meeting With NNG Commercial,Does that mean we will be taking the company plane???
+geaccone-t/_sent_mail/8.,"Mon, 26 Feb 2001 17:46:00 -0800",tracy.geaccone@enron.com,morris.brassfield@enron.com,Re: iBuyit - Next Phase,What exactly will we buy with ibuyit?  I am not sure what level and what dept I should choose from.
+geaccone-t/_sent_mail/84.,"Mon, 12 Feb 2001 17:02:00 -0800",tracy.geaccone@enron.com,mhughes@paincarecenter.com,Re: Message,"We had a great time Saturday.  I hope you guys had a good weekend.  Would you like to go to Lucindas Friday or Sunday evening?  Maybe we can get the other couple thats going skiing to go with us???
+
+Tracy"
+geaccone-t/_sent_mail/86.,"Mon, 12 Feb 2001 16:58:00 -0800",tracy.geaccone@enron.com,"jeanette.doll@enron.com, jan.moore@enron.com, pallavi.goradia@enron.com, steve.kleb@enron.com, mary.botello@enron.com, james.weitekamp@enron.com",Staff Meeting,"No staff meeting this week.  Please call me if you want to discuss anything.  FYI, next week I will only have from 10:00-10:30.
+
+Thanks
+
+Tracy"
+geaccone-t/_sent_mail/88.,"Fri, 09 Feb 2001 16:20:00 -0800",tracy.geaccone@enron.com,kerry.roper@enron.com,Lucent Phone Credit,"Is it okey for us to start billing the $3MM to you over the next 11months?  Just tell us where.
+
+Thanks
+
+Tracy"
+geaccone-t/_sent_mail/93.,"Thu, 08 Feb 2001 19:17:00 -0800",tracy.geaccone@enron.com,steve.hotte@enron.com,Re: Forecasting/Planning Software,We already on to this one.  I am not sure if it will handle the level of margin detail we need.  Mark Frank is supposed to set up demo for us.
+geaccone-t/sent_items/12.,"Mon, 01 Oct 2001 08:06:04 -0700",tracy.geaccone@enron.com,"michael.anderson@enron.com, l.garrison@enron.com, rod.hayslett@enron.com",Wessex 2002 Plan Review with Stan,"The 2002 Plan Review with Stan for Wessex will be from 8:30-11:00 in EB 5029 on Wednesday, October 3.
+
+Thanks
+
+Tracy"
+geaccone-t/sent_items/121.,"Tue, 16 Oct 2001 10:20:25 -0700",tracy.geaccone@enron.com,"danny.mccarty@enron.com, steven.harris@enron.com, robert.hayes@enron.com, dave.neubauer@enron.com, phil.lowry@enron.com, steve.hotte@enron.com, drew.fossum@enron.com, eric.gadd@enron.com, gary.smith@enron.com, bill.cordes@enron.com, rod.hayslett@enron.com",October 22 Meeting Canceled,"Some of you had a meeting with Stan on your calendars for Monday, October 22 from 3-5 to go over the plan presentations.  This meeting has been canceled. 
+
+Thanks
+
+Tracy Geaccone"
+geaccone-t/sent_items/13.,"Mon, 01 Oct 2001 08:07:26 -0700",tracy.geaccone@enron.com,michael.anderson@enron.com,Azurix 2002 Plan Review,"Rod mentioned to me last week that we would only review Wessex on Wednesday.  Do we need to schedule something for the rest of Azurix?
+
+Thanks
+
+Tracy"
+geaccone-t/sent_items/136.,"Thu, 18 Oct 2001 09:07:24 -0700",tracy.geaccone@enron.com,"danny.mccarty@enron.com, bill.cordes@enron.com, brian.stanley@enron.com, peggy.fowler@enron.com, l.garrison@enron.com, a..hughes@enron.com, adam.umanoff@enron.com",2002 Plan Lay Presentation Run Through,"Stan would like to have a run through of the presentation for the Lay reviews on November 1.  Please see the agenda attached below for your respective group's time.  We will be meeting in EB 49C2.  If you need to call in, the number is below.
+If you can not attend, please send a representative.  
+
+
+ 
+CALL IN:
+PARTICIPANT CODE:  277217
+  *  Toll Free Dial In Number:  (800)403-2002
+
+If you are calling in, please send your presentation to me ahead of time so I can make copies.   
+
+Please feel free to invite anyone else you want to attend.  If you have any questions, I can be reached at 713-853-7372.
+
+Thanks
+
+Tracy"
+geaccone-t/sent_items/138.,"Thu, 18 Oct 2001 09:48:13 -0700",tracy.geaccone@enron.com,"e..sommers@enron.com, kirk.stevens@enron.com, valerie.giles@enron.com, a..lindholm@enron.com, michael.anderson@enron.com, thomas.meers@enron.com, erin.copeland@enron.com, keith.dodson@enron.com",4 Quarter Update,"Rod and I are meeting with Stan Monday afternoon, October 22, to talk about the 4th Quarter.  I have listed below the latest IBIT impact to Enron for the 4th Quarter that I have.  Please let me know if there are any changes and provide any variance explanations if necessary.  
+
+PGG  $28.0
+EREC $53.2
+Azurix  ($24.2) including Marlin
+Clean fuels ($21.1)
+EGAS  ($14.1)
+EEOS ($26.6)
+
+Thanks
+
+Tracy"
+geaccone-t/sent_items/162.,"Mon, 22 Oct 2001 11:06:41 -0700",tracy.geaccone@enron.com,"steven.harris@enron.com, dave.neubauer@enron.com, robert.hayes@enron.com, eric.gadd@enron.com, kay.miller@enron.com, robert.kilmer@enron.com",2002 Plan Lay Review Run Through,"Please plan to attend a run through with Danny of your 2002 Plan Presentations for the Lay Reviews on Thursday, October 25 from 9:00-11:00 in 42C2.  For Omaha room 696.
+
+Thanks
+
+Tracy"
+geaccone-t/sent_items/175.,"Wed, 24 Oct 2001 07:19:47 -0700",tracy.geaccone@enron.com,steven.harris@enron.com,,"I really love you.  I can't wait to be with you this weekend.  I bet you are glad you listened to me and did not buy any Enron stock at $21, considering it is at $18 today!!!
+
+Love you,
+
+Tracy"
+geaccone-t/sent_items/176.,"Wed, 24 Oct 2001 08:49:10 -0700",tracy.geaccone@enron.com,"steven.harris@enron.com, kimberly.watson@enron.com, michelle.lokay@enron.com, lorraine.lindberg@enron.com, audrey.robertson@enron.com, rod.hayslett@enron.com, steve.gilbert@enron.com",Jan Moore 20 Years with Enron,"FYI Tuesday, October 23 was Jan's 20 year anniversary with Enron."
+geaccone-t/sent_items/187.,"Wed, 24 Oct 2001 15:10:01 -0700",tracy.geaccone@enron.com,rod.hayslett@enron.com,"Accepted: Kevin Hyatt, J.Centilli re Rates Struc for Sun Devil","It was on already on my calendar.
+
+Thanks"
+geaccone-t/sent_items/196.,"Fri, 26 Oct 2001 12:17:52 -0700",tracy.geaccone@enron.com,"agatha.tran@enron.com, a..lindholm@enron.com, cheryl.perchal@enron.com, blake.walker@enron.com, michael.anderson@enron.com, e..sommers@enron.com, jim.barnes@enron.com",Suggested Template for Lay Reviews,"Company name should be replaced by your business unit name.
+EGS in the page # should be replaced by the abbreviated name of your business unit, i.e. EGAS, EEOS, ETS, etc.  This works 	better if you do this in the View, Master, Slide Master area.
+The O&M/G&A graph should include your direct business unit expenses, Corporate costs and other significant allocated costs.
+  	Please break out the Corporate and allocated costs for the ones that have increased significantly.
+Please use the Arial font.
+It may work better if you insert your slides into this template.
+
+We are suggesting that for comparison purposes for financial data we only show 2001 Third CE and 2002 Plan.  If that does not tell the story you are trying to present, then do what you need to and we can discuss with Stan on Nov. 1.
+
+I will not need anything in advance of the Nov. 1 meeting with Stan.  However, I will need all presentations for the Lay Reviews at
+9:00 a.m. on Monday, November 5, or sooner, if possible.  I will need to make books and have them copied prior to the Lay Reviews on November 8.
+
+On Nov. 1, please bring a copy for Stan, Rod, myself and a few extras.
+
+If you need any help or have any questions, please give me a call at 713-853-7372."
+geaccone-t/sent_items/198.,"Fri, 26 Oct 2001 12:48:55 -0700",tracy.geaccone@enron.com,stephen.schwarzbach@enron.com,4th Q Revised,"ETS             102.0
+PGG              54.7  Includes GW adjustment $5.2
+EGAS           (29.8)  Includes tranfers in and out of other groups.  Do we need to go over this to make sure the other groups are 
+			adjusted appropriately?
+EEOS           (35.9)
+EREC            51.2
+AZURIX         (19.0)
+Clean Fuels   (21.1)
+                   ---------
+                    103.6"
+geaccone-t/sent_items/203.,"Mon, 29 Oct 2001 07:28:22 -0800",tracy.geaccone@enron.com,steven.harris@enron.com,,"I can't wait to see you tonight.  If you have alot of things to do at home, I don't mind driving to your house after Jackie's conference.   I have an Azurix 2002 Plan review from 2:30-4:30, so I will not be at your staff meeting.  I should be around until then.
+
+Love you,
+
+Red"
+geaccone-t/sent_items/207.,"Mon, 29 Oct 2001 09:17:12 -0800",tracy.geaccone@enron.com,gay.mayeux@enron.com,data requested,Qestion 3:  84% throughput utilization against contracted-for capacity for September YTD.
+geaccone-t/sent_items/21.,"Mon, 01 Oct 2001 13:13:42 -0700",tracy.geaccone@enron.com,rod.hayslett@enron.com,,Are we still going to do depreciation by function for the 2002 Plan?
+geaccone-t/sent_items/22.,"Mon, 01 Oct 2001 13:21:29 -0700",tracy.geaccone@enron.com,rod.hayslett@enron.com,Targets,"I also need to talk to you about EGS targets for 2002 today.
+
+Thanks"
+geaccone-t/sent_items/243.,"Tue, 30 Oct 2001 16:31:57 -0800",tracy.geaccone@enron.com,brian.stanley@enron.com,Nov. 1 Meeting with Stan,"I would plan on being at the meeting around 3:45 it shouldn' t take more than 15 or 20 minutes.
+
+Thanks
+
+Tracy Geaccone"
+geaccone-t/sent_items/247.,"Wed, 31 Oct 2001 12:52:45 -0800",tracy.geaccone@enron.com,greg.lewis@enron.com,"Accepted: Updated: Plan, Actuals, Data Warehouse, Adaytum",I am not sure if I will be able to be there the entire time.  I have an all afternoon meeting with Stan tomorrow that I will be preparing for.
+geaccone-t/sent_items/25.,"Tue, 02 Oct 2001 08:18:56 -0700",tracy.geaccone@enron.com,michael.anderson@enron.com,Azurix 2002 Plan Review,Stan is available October 18 from 1:00-3:00 in his office.  Will this work?
+geaccone-t/sent_items/257.,"Fri, 02 Nov 2001 14:26:35 -0800",tracy.geaccone@enron.com,enron@cingular.com,,"My cell phone number 713-408-0929 still has not been set up to be paid directly by Enron.  Please take care of as soon as possible.  My e-id is 10003537.
+
+
+Thanks
+
+Tracy Geaccone"
+geaccone-t/sent_items/258.,"Sat, 03 Nov 2001 09:48:42 -0800",tracy.geaccone@enron.com,a..howard@enron.com,Re: Additional bank requests,"I don't know if we have the Trailblazer info in house.  Mike McGowan in Omaha would be the only one who might know.  If he does not have it, we wii have to call Trailblazer directly.  I don't know how to get in touch with Mike outside of the office.  Can you wait until MOnday?  If not, I can try information in Omaha.
+--------------------------
+Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)"
+geaccone-t/sent_items/259.,"Sat, 03 Nov 2001 09:59:04 -0800",tracy.geaccone@enron.com,chris.samaniego@cingular.com,RE:,"I want the payment from the final bill to go to the Corp account as well.  I do not need the bill to go to my home address.  I would like it paid through I Buy It.
+
+Thanks
+--------------------------
+Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)"
+geaccone-t/sent_items/260.,"Sat, 03 Nov 2001 09:59:42 -0800",tracy.geaccone@enron.com,haysletr@flash.net,RE: Additional bank requests,"No problem
+--------------------------
+Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)"
+geaccone-t/sent_items/263.,"Sat, 03 Nov 2001 18:06:55 -0800",tracy.geaccone@enron.com,rod.hayslett@enron.com,Re:,"Are you sure?
+--------------------------
+Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)"
+geaccone-t/sent_items/264.,"Sat, 03 Nov 2001 18:20:21 -0800",tracy.geaccone@enron.com,rod.hayslett@enron.com,Re:,"Let me know if ICan do anything
+--------------------------
+Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)"
+geaccone-t/sent_items/265.,"Sun, 04 Nov 2001 08:07:22 -0800",tracy.geaccone@enron.com,rod.hayslett@enron.com,Re:,"What level of detail do you need?  I have a high level in my office.  Jan has a lot of detail.  Do you need today?  I can call Jan at home so I can get access.
+--------------------------
+Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)"
+geaccone-t/sent_items/266.,"Sun, 04 Nov 2001 08:33:07 -0800",tracy.geaccone@enron.com,,Re: FW: Rockne questions,"IMight have something at the office.  I can be there within the hour.
+--------------------------
+Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)"
+geaccone-t/sent_items/274.,"Mon, 05 Nov 2001 11:55:10 -0800",tracy.geaccone@enron.com,"rod.hayslett@enron.com, john.keiser@enron.com, steve.gilbert@enron.com, steve.kleb@enron.com, james.weitekamp@enron.com, jan.moore@enron.com, mary.botello@enron.com, caroline.barnes@enron.com, elaine.concklin@enron.com",,"I have vacation scheduled for Friday, November 9.  I will be back in the office on Monday, November 12.  I will have my cell phone (713-408-0929) and Blackberry with me if you need to reach me.  I will check voice mail a few times as well.
+
+Thanks
+
+Tracy"
+geaccone-t/sent_items/277.,"Tue, 06 Nov 2001 08:37:16 -0800",tracy.geaccone@enron.com,"rod.hayslett@enron.com, stanley.horton@enron.com",4 Quarter EEOS,Corp has been showing a previos IBIT of  a positive $15MM for EEOS.  I am not sure what you will see today.  The attached file explains from the $15MM to the previous forecast of ($35.9).
+geaccone-t/sent_items/28.,"Tue, 02 Oct 2001 08:57:20 -0700",tracy.geaccone@enron.com,phaney@aoshouston.org,Mother's Night Out,"Peggy,
+
+I have attached an invitation for Mother's Night Out for Mrs. Bryant's PreK class.  I would like to send them in this Thursday's Friday folder.  Please let me know if this is ok.
+
+
+
+ 
+
+Thanks
+
+Tracy Geaccone"
+geaccone-t/sent_items/286.,"Tue, 06 Nov 2001 15:26:15 -0800",tracy.geaccone@enron.com,rod.hayslett@enron.com,,"Do you think you will need me to come back into the office tonight?  I don't want to let my nanney go home if you think you need me
+--------------------------
+Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)"
+geaccone-t/sent_items/288.,"Wed, 07 Nov 2001 12:36:20 -0800",tracy.geaccone@enron.com,chris.samaniego@cingular.com,RE:,"Did you set up my Corporate.  account for me?  My mobile number is 7134080929.  Please transfer the balance from my personal to my corporate.  
+
+Thanks
+
+
+--------------------------
+Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)"
+geaccone-t/sent_items/289.,"Wed, 07 Nov 2001 13:28:15 -0800",tracy.geaccone@enron.com,"danny.mccarty@enron.com, steven.harris@enron.com, robert.hayes@enron.com, dave.neubauer@enron.com, steve.hotte@enron.com, bill.cordes@enron.com, phil.lowry@enron.com, shelley.corman@enron.com, drew.fossum@enron.com, gary.smith@enron.com, eric.gadd@enron.com, rod.hayslett@enron.com",4th Quarter Forecast Meetings Canceled,"The 4th quarter forecast meetings with Stan scheduled for Tuesday, November 13 at 1:30 and Thursday, December 13 at 1:30 have been canceled.  Rod and I will meet with Stan separately.
+
+Thanks
+
+Tracy"
+geaccone-t/sent_items/293.,"Thu, 08 Nov 2001 09:45:39 -0800",tracy.geaccone@enron.com,a..howard@enron.com,Re: Tpc form 2,"On its way
+--------------------------
+Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)"
+geaccone-t/sent_items/294.,"Thu, 08 Nov 2001 11:02:06 -0800",tracy.geaccone@enron.com,a..howard@enron.com,Re: Need 6 more tpc form2,"Working on it
+--------------------------
+Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)"
+geaccone-t/sent_items/295.,"Thu, 08 Nov 2001 14:02:45 -0800",tracy.geaccone@enron.com,rod.hayslett@enron.com,Re: EGS Presentation,"I like it.  I would like to make sure we know the definition per group.
+--------------------------
+Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)"
+geaccone-t/sent_items/296.,"Thu, 08 Nov 2001 17:13:00 -0800",tracy.geaccone@enron.com,rod.hayslett@enron.com,,"Is it over?
+--------------------------
+Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)"
+geaccone-t/sent_items/297.,"Fri, 09 Nov 2001 11:56:47 -0800",tracy.geaccone@enron.com,rod.hayslett@enron.com,,"Are you getting all the info you need?  'ames should be in and I can tell him or Steve where to get schedules.  I will leave my Blackberry on.  Good luck!
+
+
+
+--------------------------
+Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)"
+geaccone-t/sent_items/306.,"Tue, 13 Nov 2001 12:42:02 -0800",tracy.geaccone@enron.com,debbie.moore@enron.com,map,"Can you center map on slide for me.  Its slide 2.  I need this pretty quick.  Its for Danny McCarty for his presentation to Stan.
+
+ 
+
+Thanks
+
+Tracy"
+geaccone-t/sent_items/307.,"Tue, 13 Nov 2001 12:53:32 -0800",tracy.geaccone@enron.com,steven.harris@enron.com,,"Did you have a good work out?  I enjoyed watching Soap Operas while the Vietnamese ladies worked on my hands and feet.
+I really miss you.
+
+Love you,
+
+Tracy"
+geaccone-t/sent_items/310.,"Tue, 13 Nov 2001 14:48:31 -0800",tracy.geaccone@enron.com,john.ambler@enron.com,bio,I hope I am not too late.
+geaccone-t/sent_items/311.,"Tue, 13 Nov 2001 14:54:00 -0800",tracy.geaccone@enron.com,stephen.schwarzbach@enron.com,4th Q EGAS,"ETS             103.5
+PGG              54.7  Includes GW adjustment $5.2
+EGAS           (29.8)  
+EEOS           (74.7)
+EREC            53.2
+AZURIX         (19.0)
+Clean Fuels   (21.1)
+                   ---------
+                     66.8"
+geaccone-t/sent_items/312.,"Wed, 14 Nov 2001 09:49:47 -0800",tracy.geaccone@enron.com,rod.hayslett@enron.com,,"Are you going to join us for lunch?
+--------------------------
+Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)"
+geaccone-t/sent_items/313.,"Wed, 14 Nov 2001 10:00:45 -0800",tracy.geaccone@enron.com,rod.hayslett@enron.com,RE:,"Should I bring you something back?  Have you heard from Stan on the O and M?
+--------------------------
+Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)"
+geaccone-t/sent_items/315.,"Wed, 14 Nov 2001 15:33:49 -0800",tracy.geaccone@enron.com,rod.hayslett@enron.com,List of key employees,"Jan Moore
+Erin Copeland
+Steve Kleb
+Mary Botello
+James Weitekamp
+
+I know its all of my employees, however, they are all really good employees and have been considered as such throughout the PRC process.  They are key to getting the plan/forecast/estimates done within ETS.
+
+Thanks
+
+Tracy"
+geaccone-t/sent_items/331.,"Fri, 16 Nov 2001 14:00:30 -0800",tracy.geaccone@enron.com,"blake.walker@enron.com, chris.lambert@enron.com, jeff.poche@enron.com",Corp Request,"Thanks for all your help on the latest Corp firedrill.  Corp has notified me that they may call me over the weekend with questions.   Please e-mail with a number I can reach you at in case I need to contact you.
+
+Thanks
+
+Tracy"
+geaccone-t/sent_items/333.,"Mon, 19 Nov 2001 09:32:26 -0800",tracy.geaccone@enron.com,jeff.sommers@enron.com,,"Has your 4th Q changed?
+--------------------------
+Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)"
+geaccone-t/sent_items/334.,"Mon, 19 Nov 2001 12:26:57 -0800",tracy.geaccone@enron.com,stanley.horton@enron.com,Aviation,"I heard that you asked for this in staff meeting this morning.
+
+2002 Corporate aviation hours budgeted for:
+
+Stan  120 hours $510,000
+NNG    50 hours  $200,000"
+geaccone-t/sent_items/337.,"Tue, 20 Nov 2001 07:51:15 -0800",tracy.geaccone@enron.com,steven.harris@enron.com,,"It has been great to spend time with you.  I am really going to miss you this week.  I need a kiss before I leave. 
+Don't forget to order your ham.
+
+Love you."
+geaccone-t/sent_items/338.,"Tue, 20 Nov 2001 08:18:40 -0800",tracy.geaccone@enron.com,john.cobb@enron.com,,"Can you have someone run a project report for me on Monday for work order #014107 on TW.
+
+Thanks"
+geaccone-t/sent_items/343.,"Tue, 20 Nov 2001 09:21:23 -0800",tracy.geaccone@enron.com,rod.hayslett@enron.com,RE: FW:,"Thanks. You have a nice holiday too.
+--------------------------
+Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)"
+geaccone-t/sent_items/345.,"Tue, 20 Nov 2001 10:19:25 -0800",tracy.geaccone@enron.com,rod.hayslett@enron.com,,"Meeting with Whalley was interesting.  They are laying off 2000 people next week.  Shutting down EGM, EIM, possibly EEOS, alot of Networks, Broadband and Corporate.  I hope you are not working too much over the holidays.
+
+Have a good one.  You can reach me by Blackberry or cell phone."
+geaccone-t/sent_items/346.,"Tue, 20 Nov 2001 11:14:41 -0800",tracy.geaccone@enron.com,rod.hayslett@enron.com,RE: FW:,"Iet me know if I can help. I will be back friday
+--------------------------
+Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)"
+geaccone-t/sent_items/347.,"Wed, 21 Nov 2001 08:04:02 -0800",tracy.geaccone@enron.com,rod.hayslett@enron.com,Re: FW: Additional TW information request,"What is happening to the stock price?  I heard it was at 5?  Its not looking too good is it? 
+--------------------------
+Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)"
+geaccone-t/sent_items/358.,"Mon, 26 Nov 2001 14:00:27 -0800",tracy.geaccone@enron.com,rod.hayslett@enron.com,,"Red Rock capital spend estimated $72 million for the 120,000/d"
+geaccone-t/sent_items/359.,"Mon, 26 Nov 2001 14:10:33 -0800",tracy.geaccone@enron.com,rod.hayslett@enron.com,,I need you to sign something right away.  Where are you?
+geaccone-t/sent_items/365.,"Mon, 26 Nov 2001 15:14:47 -0800",tracy.geaccone@enron.com,steven.harris@enron.com,,Are you ready to go?
+geaccone-t/sent_items/371.,"Tue, 27 Nov 2001 10:20:25 -0800",tracy.geaccone@enron.com,rod.hayslett@enron.com,Re: FW: Cash Forecasting,"I was planning to attend.
+--------------------------
+Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)"
+geaccone-t/sent_items/373.,"Tue, 27 Nov 2001 10:31:43 -0800",tracy.geaccone@enron.com,caroline.barnes@enron.com,,"I will join your call around 1:30 and I will leave around 1:50.  Let me know if I miss anything.
+--------------------------
+Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)"
+geaccone-t/sent_items/374.,"Tue, 27 Nov 2001 10:37:52 -0800",tracy.geaccone@enron.com,jan.moore@enron.com,Re: FW: IM Meeting Agenda,"I will be listening in fr a little while
+--------------------------
+Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)"
+geaccone-t/sent_items/375.,"Tue, 27 Nov 2001 10:39:03 -0800",tracy.geaccone@enron.com,"a..howard@enron.com, rod.hayslett@enron.com",Re: NNG revenue backup,"Steve Gilbert is working on this.  How soon do you need it?
+--------------------------
+Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)"
+geaccone-t/sent_items/377.,"Tue, 27 Nov 2001 10:42:59 -0800",tracy.geaccone@enron.com,a..howard@enron.com,RE: NNG revenue backup,"I hope to have before the end of the day.
+--------------------------
+Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)"
+geaccone-t/sent_items/378.,"Tue, 27 Nov 2001 10:49:46 -0800",tracy.geaccone@enron.com,kim.watson@enron.com,Transpecos,"Is there a meeting with Kevin Howard today on this? I would like to attend if so.
+
+Thanks
+--------------------------
+Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)"
+geaccone-t/sent_items/385.,"Tue, 27 Nov 2001 14:48:47 -0800",tracy.geaccone@enron.com,jan.moore@enron.com,Re:  TW  imbal revaluation,"Ok.  Did you tell Steve?  I Guess that's additive to my stretch?
+--------------------------
+Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)"
+geaccone-t/sent_items/386.,"Tue, 27 Nov 2001 14:57:09 -0800",tracy.geaccone@enron.com,kimberly.watson@enron.com,Re: FW: Agave Letter,"I am in a due diligence meeting until 6:00.  I can review afterwards and get back to you tonight.  Is that ok?
+--------------------------
+Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)"
+geaccone-t/sent_items/388.,"Wed, 28 Nov 2001 05:33:12 -0800",tracy.geaccone@enron.com,sarah.taylor@enron.com,Re: TW information,"9:30 ok?
+--------------------------
+Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)"
+geaccone-t/sent_items/389.,"Wed, 28 Nov 2001 05:33:44 -0800",tracy.geaccone@enron.com,sarah.taylor@enron.com,Re: TW financials,"I can get them
+--------------------------
+Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)"
+geaccone-t/sent_items/390.,"Wed, 28 Nov 2001 05:34:36 -0800",tracy.geaccone@enron.com,sarah.taylor@enron.com,Re: TW financials,"Ok
+--------------------------
+Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)"
+geaccone-t/sent_items/4.,"Thu, 27 Sep 2001 06:45:06 -0700",tracy.geaccone@enron.com,steven.harris@enron.com,,"I really, really, really miss you!"
+geaccone-t/sent_items/44.,"Wed, 03 Oct 2001 15:57:16 -0700",tracy.geaccone@enron.com,"elaine.concklin@enron.com, caroline.barnes@enron.com, mary.botello@enron.com",O & M in categories by legal entity.,I passed out the Corp format last Friday at with some detail of O & M by legal entity.  I would like to have this by first thing by Monday.  Please let me know if you can't do this.
+geaccone-t/sent_items/6.,"Thu, 27 Sep 2001 14:00:33 -0700",tracy.geaccone@enron.com,steven.harris@enron.com,insurance,"Tricoast
+
+Doug Kelting 713-461-5255 ext.16
+
+I love you."
+geaccone-t/sent_items/71.,"Sat, 06 Oct 2001 12:11:23 -0700",tracy.geaccone@enron.com,j..detmering@enron.com,NEPCO Meeting Oct. 9,"Keith Dodson will be attending this meeting via telephone.  Please make sure he has any handouts ahead of time.
+
+Thanks"
+geaccone-t/sent_items/72.,"Sat, 06 Oct 2001 12:53:06 -0700",tracy.geaccone@enron.com,e..sommers@enron.com,EGAS 2002 Capital Budget Review,Stan said last week that he would like to do a EGAS 2002 Capital Budget Review.  When do you think we can do this?
+geaccone-t/sent_items/74.,"Mon, 08 Oct 2001 07:50:53 -0700",tracy.geaccone@enron.com,cindy.stark@enron.com,Lay Agenda,"Cindy,
+
+Please ask Stan if he is okey with the attached agenda for the Lay 2002 Plan Reviews."
+geaccone-t/sent_items/79.,"Mon, 08 Oct 2001 15:16:56 -0700",tracy.geaccone@enron.com,"jan.moore@enron.com, lindy.donoho@enron.com",,"I have attached examples from NNG presentation.  Lindy, you might want to use accountability slide format."
+geaccone-t/sent_items/8.,"Fri, 28 Sep 2001 07:06:36 -0700",tracy.geaccone@enron.com,e..lindsey@enron.com,4th Q IBIT,"ETS  103
+PGG  28
+EREC 53.2
+Azurix (not including Marlin) (5.2)
+Clean Fuels (21.1)  I need to double check this one this morning.
+
+We talked about EGAS yesterday.  Its their 2nd CE plus ( in this case minus) the assets we have picked up.  We will review updated 4Q with Stan on Tuesday afternoon.
+
+I will have to check with EEOS unless you already have.
+
+Sorry for the delay, I had to talk to Rod."
+geaccone-t/sent_items/84.,"Mon, 08 Oct 2001 17:06:21 -0700",tracy.geaccone@enron.com,"john.keiser@enron.com, cheryl.perchal@enron.com",SAP COSTS 2002,"The SAP costs were included in the ETS overhead in Adaytum.  We have taken that out and added to each pipes Corporate Direct.  The cost of $6.0 million will be divided equally amongst the four pipes.  Mary will change all but NBP.  Cheryl please make change for NBP.  This is per Rod's instructions.  When we get the user list we will revise.
+
+
+Thanks
+
+Tracy"
+geaccone-t/sent_items/97.,"Wed, 10 Oct 2001 12:16:32 -0700",tracy.geaccone@enron.com,"danny.mccarty@enron.com, steven.harris@enron.com, dave.neubauer@enron.com, robert.hayes@enron.com, bill.cordes@enron.com, shelley.corman@enron.com, drew.fossum@enron.com, steve.hotte@enron.com, phil.lowry@enron.com, gary.smith@enron.com, eric.gadd@enron.com",October 18 4th Quarter Forecast Review with Stan Canceled,"The 4th Quarter Forecast Meeting with Stan scheduled for Thursday, October 18 has been canceled.  Rod and I will meet with Stan separately.
+
+Thanks
+
+Tracy Geaccone"
+geaccone-t/sent_items/99.,"Wed, 10 Oct 2001 15:22:54 -0700",tracy.geaccone@enron.com,steve.gilbert@enron.com,ETS Commercial Summary Page,"Steve Harris was still working on the TW presentation.  You or Mary Kay will have to call and ask him for it tomorrow.
+
+Thanks
+
+Tracy"

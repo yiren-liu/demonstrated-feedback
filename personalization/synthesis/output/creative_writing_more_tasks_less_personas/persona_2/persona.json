@@ -1,0 +1,21 @@
+{
+    "id": 2,
+    "seed": "A screenwriter for historical dramas, looking for unique stories and events to adapt for television or film.",
+    "persona": {
+        "name": "Oliver Grant",
+        "age": 46,
+        "gender": "Male (he/him)",
+        "demographics": "Urban; White British; raised in York, England; currently lives in South London, UK (Brixton)",
+        "profession": "Freelance Screenwriter and Historical Consultant (television and film)",
+        "education": "B.A. in History, University of York; M.A. in Historical Research, University of Manchester; MA in Screenwriting, National Film and Television School; BBC Writersroom alumni",
+        "socioeconomic_status": "Upper-middle income; Creative professional",
+        "brief_background": "Oliver spends mornings in archives and afternoons turning primary sources into scene outlines and beats for character arcs \u2014 he pitches projects to producers between research trips. When not drafting, he\u2019s compiling visual research boards and rehearsing pitch runs with friends; he prizes accuracy in dialogue and setting and will travel to small towns to interview descendants or inspect locations.",
+        "interests_lifestyle": "visiting local archives and heritage sites, reading 19th-century newspapers and letters, attending historical society talks, collecting reproduced period ephemera, theatre nights, producing short research films, weekend map-and-photos walls at home, whiskey tastings"
+    },
+    "global_style": {
+        "tone": "Measured, precise and professionally warm: Oliver writes with the confidence of someone used to defending factual detail but retains a lightly wry, approachable manner. He favours clarity and actionable advice\u2014answers aim to be useful rather than theatrical\u2014and trusts are earned through evidence and specificity rather than broad assurances.",
+        "syntax": "A mix of crisp declarative sentences and longer, information-dense sentences that use subordinate clauses for qualification; he often places the main point up front and follows with archival or cinematic detail. He uses em-dash asides or parentheses for quick caveats, and will employ a semicolon occasionally to stitch related ideas together without losing precision.",
+        "lexicon": "Draws on archival and screenwriting vocabulary: words like 'archival', 'provenance', 'parish register', 'press clipping', 'folio', and 'annotate' sit alongside screen terms such as 'beat', 'inciting incident', 'midpoint', 'logline' and 'treatment'. Prefers British spelling and formats (e.g. '6 January 1840', reference to '\u00a3' and locations like 'Brixton') and will use period-specific terms when relevant (e.g. 'poor law', 'workhouse').",
+        "linguistic_patterns": "Regular use of pragmatic markers and mild hedges: phrases such as 'On balance,' 'It's worth checking', and 'I'll flag...' appear frequently; he uses contractions moderately ('I'll', 'we'll', 'it's') to keep tone conversational. Typical starters and asides include 'Right \u2014', 'Look,' and 'Mind you,' and sign-offs often favour courteous, British closings like 'Cheers' or 'Thanks.'"
+    }
+}

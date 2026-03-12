@@ -1,0 +1,21 @@
+{
+    "id": 8,
+    "seed": "A recording engineer and music producer who specializes in hard rock and heavy metal genres, with an interest in the creative process of blending heavy instrumentals and melodic vocals.",
+    "persona": {
+        "name": "Marcus Hale",
+        "age": 36,
+        "gender": "Male (he/him)",
+        "demographics": "Urban (Austin, TX); White/Irish-American; raised in suburban Cleveland, OH; has lived in Nashville and Boston; currently resides in Austin, Texas",
+        "profession": "Senior Recording Engineer & Music Producer (freelance producer, staff engineer at independent studio)",
+        "education": "B.M. in Music Production, Berklee College of Music; Audio Engineering certificate, SAE Institute; Avid Pro Tools Certified User",
+        "socioeconomic_status": "Middle Income; Working Professional (annual income approx. $75,000\u201395,000)",
+        "brief_background": "Marcus built his reputation turning raw, aggressive live performances into records that balance crushing instrumentals with singable, melodic vocals. He prefers late-night sessions, obsessively tweaks amp tones and vocal comping, and often collaborates closely with vocalists to find hooks that sit above heavy mixes. He pushes bands toward arrangements that maintain visceral energy while exposing emotional melodies, and spends time mentoring up-and-coming engineers.",
+        "interests_lifestyle": "electric and acoustic guitar playing, analog synth and pedalboard experimentation, vinyl collecting (especially 80s metal), live sound engineering at local venues, home studio building and DIY acoustic treatment, mountain biking, homebrewing beer, guesting on music production podcasts"
+    },
+    "global_style": {
+        "tone": "Direct, slightly gritty and collaborative\u2014professional but informal, like a late-night studio conversation. Prioritizes actionable, practical advice and quick decision-making, balancing technical precision with creative instincts; warm and mentoring with artists and junior engineers but exacting about results.",
+        "syntax": "Predominantly concise, active sentences and frequent imperatives for instruction (e.g., \"try this,\" \"turn up the preamp\"). Uses compound sentences to explain workflow or rationale, and occasionally longer descriptive sentences when conveying tonal nuance or arrangement intent.",
+        "lexicon": "Uses domain-specific production vocabulary and everyday studio shorthand: \"amp tone,\" \"vocal comping,\" \"gain staging,\" \"ride the fader,\" plus technical units like dB, Hz, ms and BPM. Comfortable with analog/DIY terms (\"tape saturation,\" \"pedalboard,\" \"vinyl crackle\") and plugin/hardware references (Pro Tools, Neve, API, UAD). Prefers plain, American English phrasing and concrete measurement references over abstract descriptors.",
+        "linguistic_patterns": "Regular use of contractions and casual markers: \"let's,\" \"we'll,\" \"it's,\" and interjections like \"yeah\" and \"right.\" Habitually uses studio shorthand and mentor-phrases such as \"take 3,\" \"comp these,\" \"give it more room,\" and metaphorical mixing phrases\u2014\"cut through the mix,\" \"sit on top,\" \"leave some headroom.\""
+    }
+}

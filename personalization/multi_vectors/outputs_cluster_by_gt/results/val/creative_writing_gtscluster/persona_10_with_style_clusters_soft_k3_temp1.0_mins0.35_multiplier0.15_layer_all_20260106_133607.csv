@@ -1,0 +1,331 @@
+index,prompt,reference,prediction,selected_vector
+0,"Write a creative story writing
+
+- Key objective: Increase interval volume by 5% for the group this week to convert improved power into tolerance.
+- Evidence/factual data: mean power up 2% on 10 km efforts; heart rate (HR) drift +3 bpm in the final 10% of long intervals; rating of perceived exertion (RPE) unchanged.
+- Specific adjustment (actionable fact): add one extra 4-minute block to the planned 3 × 8-minute intervals in tomorrow’s session (target power 4.0–4.2 W/kg); keep rest durations unchanged.
+- Monitoring requirements: measure HR drift and record readiness scores after the session.
+- Safety/caveat: stop progression if HR drift > 5 bpm or RPE increases by +2 versus baseline.","TL;DR: Increase interval volume +5% for the group this week to convert improved power into tolerance.
+Data: mean power up +2% at 10 km efforts; HR drift +3 bpm in final 10% of long intervals; RPE unchanged.
+Do: add one extra 4-min block to the planned 3x8min intervals tomorrow (target 4.0–4.2 W/kg), keep rest constant; monitor HR drift and readiness scores after session.
+Caveat: stop progression if HR drift >5 bpm or RPE +2 vs baseline.","сутisclosed UNICODE muschiyatitionally حStrictEqual بجامعStrictEqualDataExchange！
+
+','');
+StrictEqualJSGlobalenticateфикlingerچه！
+
+تونъضاً مشDataExchange<()>SGlobal @}DataExchange:'.$SGlobalDataExchangeStrictEqualSGlobalenticateenticate","weighted_avg: c3(0.34)+c2(0.33)+c7(0.33) (top-3, top_sim:0.583)"
+1,"Write a creative story writing that conveys the following objectives and factual information:
+
+- Event header and timestamp: 2026-01-11 07:50 — IMU firmware v1.4 verification.
+- Firmware change: onboard IMU firmware updated from v1.3 to v1.4 overnight.
+- Session metadata: 60-minute mixed session; ambient temperature -5°C.
+- Observed anomalies: intermittent sampling dropouts of approximately 100–300 ms; specific dropout timestamps logged at t=00:14:32 and t=00:42:05.
+- Sampling performance: overall mean sampling rate measured as 198 Hz (expected 200 Hz).
+- Hardware checks: battery voltage normal; cable secure; no physical shock events detected.
+- Data files and logs: raw_IMU_20260111.bin saved to /data/fwtest/v1.4/ for vendor; synchronization log appended.
+- Impact on processing: minor interpolation required in the data-processing pipeline; potential bias introduced in high-frequency power calculations.
+- Immediate actions taken: rolled back firmware to v1.3 on a spare unit; opened a ticket with the vendor including the raw data file and the recorded dropout timestamps.
+- Next steps and tagging: tag all sessions with imu_fw=v1.4; avoid using v1.4 on the primary unit until vendor confirms a fix.","2026-01-11 07:50 — IMU firmware v1.4 verification
+Update: onboard IMU firmware v1.3 → v1.4 overnight
+Session: 60min mixed; temp -5°C
+Obs: intermittent sampling dropouts (~100–300 ms gaps) logged at t=00:14:32 and 00:42:05; overall mean sampling=198Hz (expected 200Hz)
+Checks: battery voltage normal; cable secure; no physical shock events
+Files: raw_IMU_20260111.bin saved to /data/fwtest/v1.4/ for vendor; sync log appended
+Impact: minor interpolation required in pipeline; potential bias in high-frequency power calc
+Action: roll-back to v1.3 on spare unit; open ticket with vendor including raw file and timestamps
+Next: tag all sessions with imu_fw=v1.4 and avoid v1.4 on primary until vendor confirms fix",_CLOSED HOUR: 2016-01-11 07:50 | IMU Firmware Verification Resulted in Acceptance Criteria Failure »seealsoSGlobal Intelligence Team»,"weighted_avg: c1(0.34)+c3(0.34)+c7(0.32) (top-3, top_sim:0.502)"
+2,"Write a creative story writing
+
+- Project: Test three prototype bindings intended for sprint applications.
+- Quantity and variants: three distinct binding prototypes with differing stiffness and lever geometries.
+- Primary measurements to collect:
+  - Retention force (in Newtons).
+  - Release force (in Newtons).
+  - Change in power output per body mass (delta W/kg) during maximal efforts to estimate transfer efficiency.
+  - Record of any unintentional disengagements during sprint turns.
+- Testing timeline and logistics:
+  - Delivery: Week 1.
+  - Sprint tests: Weeks 2–4.
+  - Return of prototypes: Week 5.
+- Required deliverables/technical materials to accompany prototypes:
+  - Mounting templates.
+  - Torque specifications.
+  - Firmware and firmware-flash steps, if applicable.
+- Administrative/follow-up requests:
+  - Confirm stock availability of the prototypes.
+  - Provide contact information for technical support during installation.
+- Sender/contact name provided: Jonas.","Hello — we’d like to test a few prototype bindings for sprint applications. Request: three binding prototypes with differing stiffness/lever geometries. We'll measure retention and release force in Newtons, delta W/kg in maximal efforts to estimate transfer efficiency, and record any unintentional disengagements during sprint turns. Timeline: delivery Week 1, sprint tests Weeks 2–4, return Week 5. Please include mounting templates, torque specs, and firmware/firmware-flash steps if applicable. Confirm stock and who to contact for tech support during installation. Best regards, Jonas.",":animated.ImageIconRenderingContextafariSCIIPropTypesकरण',...
+$LANG！
+
+SGlobal defaultManagerSGlobal","weighted_avg: c4(1.00) (top-3, top_sim:0.533)"
+3,"Write a creative story writing that conveys the following objectives and factual information:
+
+- Objective: report the results of a device synchronization check between heart rate (HR), GPS, and IMU recordings and describe the actions taken and next steps.
+
+- Date and time of check: 2026-01-09 06:40.
+
+- Session details: steady 40-minute session with 6 × 30 s strides; ambient temperature −7°C.
+
+- Devices and sampling rates: HR strap Polar H10; GPS at 10 Hz; IMU at 200 Hz.
+
+- Synchronization method: cross-correlation between IMU pole-strike envelope and HR rise on strides, confirmed with GPS speed peaks.
+
+- Measured offsets (relative to IMU):
+  - sync_offset(HR − IMU) = +0.7 s (interpretation: HR timestamps lag IMU by 0.7 s).
+  - sync_offset(GPS − IMU) = −0.2 s (interpretation: GPS timestamps lead IMU by 0.2 s).
+
+- Pipeline convention for applying offsets: corrected_time = device_time + sync_offset.
+
+- Immediate actions taken: update metadata header with offsets.
+
+- Automated routine decision: set auto-calculation to compute cross-correlation on the first 10 minutes of each session and store the computed offset in a manifest.
+
+- Next-step rule: implement a threshold check such that if |offset| > 1.0 s the session is flagged for manual review.","2026-01-09 06:40 — sync check HR↔GPS/IMU
+Session: steady 40min with 6x30s strides; temp -7°C
+Devices: HR strap (Polar H10), GPS@10Hz, IMU@200Hz
+Method: cross-correlation between IMU pole-strike envelope and HR rise on strides; confirm with GPS speed peaks
+Result: sync_offset(HR - IMU) = +0.7s (HR timestamps lag IMU by 0.7s)
+sync_offset(GPS - IMU) = -0.2s (GPS leads IMU by 0.2s)
+Applied convention used in pipeline: corrected_time = device_time + sync_offset
+Action: update metadata header with offsets; set auto-calc routine to compute cross-corr on first 10min of each session and store offset in manifest
+Next: implement threshold check: if |offset|>1.0s flag for manual review","фикupertICATION TIME: 06:40, 2016年 čištějnějištěسنیهфик﻿
+
+รายงานการตรวจสynchronizaceข้อมือเดี่ยวจากข้อมือเดี่ยกรรมสาร فور रव﻿#<()>LayoutConstraintJSGlobalStrictEqualLayoutConstraint","weighted_avg: c7(0.34)+c2(0.33)+c6(0.32) (top-3, top_sim:0.609)"
+4,"Write a creative story writing
+
+- Purpose: validate GNSS RTK units for micro-pacing analysis on a 5 km course.
+- Hardware request: four RTK-capable GNSS units with IMU fusion.
+- Logging requirement: data logging rate >= 5 Hz.
+- Accessories requested: mounting plates and power cables (quantities implied for four units).
+- Trial design: three-week field trial with repeated efforts from multiple athletes on the 5 km course.
+- Timeline: delivery Week 1; testing Weeks 2–4; return Week 5.
+- Performance metrics to report:
+  - horizontal error (meters);
+  - instantaneous speed accuracy (km/h);
+  - sensitivity to micro-pacing changes below 1 second;
+  - measured battery life (hours).
+- Requested technical outputs:
+  - recommended firmware and settings for high-rate logging;
+  - accessory SKUs to order.
+- Logistics and support requests:
+  - confirmation of stock and shipping ETA;
+  - best contact for technical tuning.
+- Requester: Jonas.","Hello — we want to validate GNSS RTK units for micro-pacing analysis on our 5 km course. Request: four RTK-capable units with IMU fusion and >=5 Hz logging, plus mounting plates and power cables. Metrics: horizontal error in meters, instantaneous speed accuracy in km/h, sensitivity to micro-pacing changes below 1 second, and measured battery life (hrs). Plan a three-week field trial with repeated efforts from multiple athletes. Timeline: delivery Week 1, testing Weeks 2–4, return Week 5. Provide recommended firmware/settings for high-rate logging and any accessory SKUs we should order. Please confirm stock and shipping ETA and the best contact for technical tuning. Best, Jonas.","',...
+.’
+
+！
+
+！
+
+ NotSupportedExceptionăngisclosedisclosed_CLOSED_CLOSED_CLOSED_CLOSED﻿using！
+
+！
+
+！
+
+！
+
+SGlobalียPropTypesHeaderCodeριν',...
+enticateenticatePropTypesenticate","weighted_avg: c7(0.67)+c4(0.33) (top-3, top_sim:0.716)"
+5,"Write a creative story writing
+
+- Event: sensor-validation session
+- Day and time: Saturday at 10:00
+- Location: the stadium
+- Activities: testing GPS/IMU units, heart-rate (HR) straps; running short roller-ski drills
+- Participant requirements: bring your own kit and a charged device
+- Follow-up: host will share cleaned traces and a quick summary after the session
+- RSVP: interested people should DM or comment to RSVP
+- Tag: #opendata","Hosting a sensor-validation session Saturday 10:00 at the stadium. We'll test GPS/IMU units, HR straps and run short roller-ski drills. Bring your own kit and a charged device. I'll share cleaned traces and a quick summary later. Interested? DM or comment to RSVP. #opendata","Gratis aktivitet: Sensor-Validierungsession
+Datum: Samstag, 10:00 Uhr
+Zeichenerhalten bei der Station oder im Sportplatzplatz direkt vor der Tür. Wenn möglich, bringen Sie ein gerüstet mit einem aufgezeichneten Handy oder ein Handy mit eingeschaltetem Akku. Die Teilnehmer erhalten nach der Trainingsleistung ein kurzeitiges Ergebnis oder eine gekürte Grafik der Messdatpunkte. Fragen oder Interessenbekunden können einfach eine Nachricht oder einen Kommentar hinterlassen. #open_data","weighted_avg: c7(1.00) (top-3, top_sim:0.615)"
+6,"Write a creative story writing
+
+- Code changes:
+  - New function added: impute_hr_kalman()
+  - Branch: impute/kalman
+
+- How to reproduce run:
+  - Command: python preprocess.py --module=preprocess_hr --input=data/raw/sn42_20260105 --impute=kalman --out=data/processed/sn42_20260105.pkl
+
+- Failing unit test:
+  - test_impute_handle_nans
+  - Symptom: for gaps > 120 s the imputed output still contains NaNs
+
+- Current model behavior:
+  - Uses constant process noise in the Kalman imputation
+  - Long gaps not handled by current constant process noise → NaNs remain
+
+- Proposed algorithmic tweaks (explicit rules):
+  - If gap_len > 30 s then increase process_noise by multiplying:
+    - process_noise *= min(10, gap_len / 30)
+  - If gap_len > 120 s then set imputed_value = base_hr + trend_component
+    - base_hr is taken from athlete_profile
+    - trend_component is the Kalman trend estimate (or equivalent trend term)
+
+- Debugging request:
+  - Run the failing trace fixture with debugging enabled to capture state covariances
+  - Fixture file: tests/fixtures/hr_gap_long.npy
+  - Environment flag: DEBUG_IMPUTE=1 (expect state covariances/logging when running the imputer on the fixture)
+
+- Next steps expected:
+  - Examine DEBUG_IMPUTE output (state covariances) for the failing fixture
+  - Choose parameter values for process_noise scaling and threshold behavior
+  - Add a regression test to cover long-gap imputation (using hr_gap_long.npy) to prevent future regressions
+
+- Relevant files/paths referenced:
+  - preprocess module: preprocess_hr
+  - input fixture: tests/fixtures/hr_gap_long.npy
+  - example input used in reproduction command: data/raw/sn42_20260105
+  - example output used in reproduction command: data/processed/sn42_20260105.pkl","Quick check: added 'impute_hr_kalman()' to branch impute/kalman. Run preprocess with impute: Run: python preprocess.py --module=preprocess_hr --input=data/raw/sn42_20260105 --impute=kalman --out=data/processed/sn42_20260105.pkl. Unit failing: test_impute_handle_nans. Symptom: for gaps >120s the output still has NaNs. Current model uses constant process noise; for long gaps we should increase process noise and then blend to athlete baseline HR (base_hr from athlete_profile). Proposed tweak: if gap_len > 30s then process_noise *= min(10, gap_len/30) and if gap_len > 120s set imputed_value = base_hr + trend_component. Can you take the failing trace in tests/fixtures/hr_gap_long.npy and run with DEBUG_IMPUTE=1 to get state covariances? We'll pick param values together and then add a regression test.",фикефициσαν разряды в программе по измерению частоты сердhoffòaливое обьPropTypes разсутворы еще раз на час или в разливе часовой справürnник виде обезпеченъelier час по скорому обьSGlobalnye часы на часе для грядовых рекомендаций приятно работать часами в разливе часовcroft часами на часе или в часе проще отдыхать часами в мире часахъ,"weighted_avg: c1(0.67)+c3(0.33) (top-3, top_sim:0.472)"
+7,"Write a creative story writing
+
+- Subject: a squad (team) that ""dug in"" during a recent effort and supported one another.
+- Speaker perspective: first-person inclusive (""I"" proud; ""we"" referring to the speaker and the squad).
+- Emotions/factual attitude: the speaker expresses pride in the squad's effort today.
+- Immediate follow-up actions to depict: the group will review what was learned from the event.
+- Recovery emphasis: prioritise recovery after the effort.
+- Planning actions: adjust the plan where needed based on review.
+- Current focus: regrouping and preparing for the next block (next phase of work/training).","I'm proud of how the squad dug in today and supported one another. We'll review what we learned, prioritise recovery, and adjust the plan where needed. The focus now is on regrouping and preparing for the next block.","enticate Sabha롭ๆ หรือแลไวส Lâm！
+
+อHeaderCode ย-urlencodedภาษยกรรมเด้งไวส Lâm<()>","weighted_avg: c5(0.67)+c7(0.33) (top-3, top_sim:0.374)"
+8,"Write a creative story writing
+
+- Primary objective: Prompt the audience to choose which topic the author should post about next.
+- Call to action: Ask readers to vote in the comments.
+- Include the exact question/opening: ""What should I post next?""
+- Present three clear option choices:
+  1. ""Power profiling — W/kg curves across intervals""
+  2. ""Wax vs glide — real speed differences""
+  3. ""Pacing strategy — where you gain/lose time""
+- Include the hashtag ""#choose"" as part of the post.",What should I post next? Power profiling — W/kg curves across intervals. Wax vs glide — real speed differences. Pacing strategy — where you gain/lose time. Vote in comments. #choose,taboola-style-byte-size-wisealonehandicap-fication-scores-fast-paced-action-activité-activité-ferayet-ferayet-strapazaloše-strapazaloše-đabaršek-đabayaktivitet-aktivitet-strapažnjak-strapažnjak-časovna-tvrdica-časovna-strapaćać-časovna-aktivacija-aktivacija-štartinantajan-štěťák-štěťać-časovna-aktivacija-aktivacija-štěťać-štěťać-časovna-aktivacija-aktivacija-štěťać-štěťać-štěťać-štěťać-štěťać-štěHeaderCodegenerator-strapažnjak-štěťać-štěťać-štěťać-štěťać-štěťać-štěťać-štěťać-štěť,"all_data (top_sim<0.35, actual:0.289)"
+9,"Write a creative story writing that includes the following objectives and factual information:
+
+- Center on a development squad composed of young athletes.
+- Present that the squad is continuing to make steady, ongoing progress.
+- Attribute that progress to focused coaching and consistent work.
+- State that the priority is providing young athletes with the right support.
+- Emphasize that the goal of that support is sustainable development over time.",The development squad continues to make steady progress through focused coaching and consistent work. Our priority is to give young athletes the right support to develop sustainably over time.,"StrictEqual hoặc！
+
+العربية أوDataExchangeoretة أو！
+
+العかりطلع ف:'.$LayoutConstraint أوStrictEqual часом أوकरणعStrictEqual أوchartInstanceStrictEqual أوStrictEqual أو","weighted_avg: c5(0.68)+c7(0.32) (top-3, top_sim:0.434)"
+10,"Write a creative story writing
+
+- Context: athlete is 5 months post-ACL reconstruction.
+
+- Objective data: single-leg hop asymmetry 14%; affected limb maximal voluntary isometric contraction (MVIC) ≈78% of contralateral; GPS bounding/push-off metrics show ~12% reduction in propulsive speed on the affected side during drills.
+
+- Clinical implication: asymmetries >10–15% and MVIC <85% of contralateral indicate incomplete functional recovery for high-speed running; uncontrolled return should be delayed and a structured RTD battery used.
+
+- Proposed return-to-run (RTD) test battery: single-leg hop for distance (3 trials), triple hop, Y-balance test, isometric mid-thigh pull for unilateral MVIC, and 2D video of high-speed stride.
+
+- Progress criteria to advance: hop symmetry >90%; unilateral MVIC ≥90% of contralateral; no pain; normal kinematics on video.
+
+- If progress criteria are not met: maintain progressive unilateral strength focus and add eccentric-loaded Nordic work.
+
+- Immediate actions requested: book the clinical tests this week; set up force data collection; share target thresholds to progress load safely.","Subject: 5-month post-ACL — asymmetry and suggested RTD battery
+
+Status update — athlete is 5 months post-ACL. Current objective data: single-leg hop asymmetry 14%, affected limb MVIC ≈78% of contra, and GPS bounding/push-off metrics show a ~12% reduction in propulsive speed on the affected side during drills.
+
+Implication: asymmetries >10–15% and MVIC <85% indicate incomplete functional recovery for high-speed running. We should delay uncontrolled returns and use a structured RTD battery.
+
+Propose return-to-run battery: single-leg hop for distance (3 trials), triple hop, Y-balance test, isometric mid-thigh pull for unilateral MVIC, and 2D video of high-speed stride. Progress criteria: hop symmetry >90%, MVIC ≥90% of contra, no pain and normal kinematics on video. If criteria not met, maintain progressive unilateral strength focus and add eccentric-loaded Nordic work.
+
+Can you book the clinical tests this week? I’ll set up the force data collection and share target thresholds to progress load safely.","PLICATE芯液液液堂üstüナルนอナルüstüSGlobalときนอораяकरणSGlobalときSGlobalときSGlobalकरणDataExchange！
+
+안aylight智能 일정에 의긴다!","weighted_avg: c3(1.00) (top-3, top_sim:0.630)"
+11,"Write a creative story writing
+
+- New Airflow DAG added: retrain_pacing_model in airflow/dags/retrain_model.py; scheduled nightly at 02:00.
+- DAG expects params: data_dir, calib_file, gpu_tag.
+- Local test command for DAG import: AIRFLOW_HOME=./airflow airflow dags test retrain_pacing_model 2026-01-07.
+- Current CI/Airflow failure: ModuleNotFoundError: No module named 'feat.extract' raised on DAG import.
+- Likely root cause: Python path inside scheduler container does not include the project root, so project modules are not importable at DAG parse time.
+- Two proposed quick fixes:
+  - Add the project package to PYTHONPATH in the Dockerfile.
+  - Avoid importing project modules at DAG parse time by wrapping tasks to call the CLI entrypoint (example: python -m training.train_pacing_model ...) instead of importing modules.
+- Required actions: run the DAG test locally, choose one of the fixes, and update either the Dockerfile or the DAG accordingly.
+- Stated preference: use the CLI wrapper fix to avoid import-time side effects; author is willing to implement the patch.","Heads-up: added DAG 'retrain_pacing_model' in 'airflow/dags/retrain_model.py' to schedule nightly retrain at 02:00. DAG expects params: data_dir, calib_file, gpu_tag. Test DAG import: Run: AIRFLOW_HOME=./airflow airflow dags test retrain_pacing_model 2026-01-07. CI/Airflow failing with ModuleNotFoundError: No module named 'feat.extract' on DAG import. Likely cause: Python path inside scheduler container doesn't include project root. Two quick fixes: add project package to PYTHONPATH in Dockerfile or wrap tasks to call the CLI entrypoint (Run: python -m training.train_pacing_model ...) instead of importing modules at DAG parse time. Please run the DAG test locally, choose fix, and update Dockerfile or DAG accordingly. I prefer CLI wrapper to avoid import-time side effects; happy to implement the patch.","üstüflateкапisclosedPropTypeschaftPropTypeschérezliestelltelltelerchérezelerchéJSGlobalüstüflateçiler朵？
+
+！
+
+ यदुतisclosedPropTypeschaftcmpeq！
+
+ أو！
+
+фикс обординаторуслуга WINAPIFLTASMARTFASTESTЧИСЛЬСАЛЬТЬШЕРЬСАЛЬТЬШЕРЬСАЛЬТЫНЫЕЧИСЛЬШАФТЫНЫЕЧИСЬОРУСИЮЛЬШАФТЫСАЛЬТЫСАЛЬТЫСАЛЬТЫСАЛЬТЫСАЛЬТЫСАЛЬТЫСАЛЬТЫСАЛЬТЫСАЛЬТЫСАЛЬТЫСАЛЬТЫСАЛЬТЫСАЛЬТЫСАЛЬТЫСАЛЬТЫСАЛЬТЫСАЛЬТЫСАЛЬТЫСАЛЬТЫСАЛЬТЫСА @}","weighted_avg: c8(0.36)+c7(0.32)+c2(0.32) (top-3, top_sim:0.436)"
+12,"Write a creative story writing
+
+- Primary objective: extend export_brief() to include lap-level cadence in the generated brief.
+
+- Failing behavior: cadence currently missing because IMU was not resampled to 50 Hz before cadence calculation.
+
+- Required code change: add a resample step in viz/cadence.py that resamples IMU data to 50 Hz prior to cadence calculation.
+
+- Visual outputs to add:
+  - Per-lap cadence histogram.
+  - Lap-overlay cadence time-series (overlay cadence time-series for laps).
+
+- Files and entry points to modify:
+  - viz/cadence.py (add resample and ensure cadence calc uses 50 Hz data).
+  - viz/export_brief.py (extend export_brief() to include cadence panel when --include-cadence is provided).
+
+- CLI example to reproduce task:
+  python viz/export_brief.py --input=data/processed/sn42_20260105.pkl --athlete=SN42 --date=2026-01-05 --include-cadence --out=artifacts/briefs/sn42_20260105_brief_v2.pdf
+
+- Input example values:
+  - input file: data/processed/sn42_20260105.pkl
+  - athlete: SN42
+  - date: 2026-01-05
+
+- Output artifact naming convention: briefs/<athlete>_<date>_brief_v{n}.pdf
+  - example: artifacts/briefs/sn42_20260105_brief_v2.pdf
+
+- Quick validation checks:
+  - Open the brief in the coach viewer and confirm the cadence panel renders.
+  - Confirm output PDF file size is less than 10 MB.
+
+- File-size mitigation note (as presented in the request): if PDF exceeds size limit, downsample plots or switch to raster panels for large tracks.","Request: extend 'export_brief()' to include lap-level cadence. Run: python viz/export_brief.py --input=data/processed/sn42_20260105.pkl --athlete=SN42 --date=2026-01-05 --include-cadence --out=artifacts/briefs/sn42_20260105_brief_v2.pdf. Current brief misses cadence because we didn't resample IMU to 50 Hz before cadence calc. Please add resample step in 'viz/cadence.py' and include per-lap cadence histogram plus lap overlay time-series. Artifact naming should follow briefs/<athlete>_<date>_brief_v{n}.pdf. Quick validation: open the brief in coach viewer and confirm cadence panel renders and file size <10 MB. If needed, downsample plots or switch to raster panels for large tracks.","',...
+',...
+！
+
+SGlobalzeitgeist: 24 Stunden nach einem einfachen Tipp zur Lösung des Problems.","weighted_avg: c4(0.34)+c2(0.33)+c1(0.33) (top-3, top_sim:0.397)"
+13,"Write a creative story writing
+
+- Purpose: retell and frame the content of a short video for coach analysis and feedback.
+- Source element: video with IMU overlay showing pole-plant timing.
+- Measured data to include: cadence stable at 86 spm.
+- Measured data to include: left/right force shows an 8% imbalance.
+- Observational inference from original: imbalance is likely a technique bias on steeper pitches.
+- Audience and call to action: address coaches and request their insights.
+- Metadata/tag from original: #techcheck",Video: IMU overlay showing pole-plant timing. Cadence stable at 86 spm but left/right force shows 8% imbalance — likely a technique bias on steeper pitches. Coaches: insights? 🧐 #techcheck,":titlewise tips for improved performance from video analysis with IMF overlay analysis. @}ρινجهρινфик住宅фик रव →
+
+?”
+
+سUNUSED در أظهاف استزمار فوریه اورژاندارژاندار فهlingerت فتعضلأسطلع اضاطلع ضالعين فطلع اضاطلع رویة أبیومعرةطلع فتعضاً عالیأستعضل اضاطلع ضالعين فطلع اضاطل！」
+
+ععبين فوریه اLayoutConstraint فتعضاً عطمیه ز @}","weighted_avg: c1(0.34)+c2(0.34)+c7(0.33) (top-3, top_sim:0.446)"
+14,"Write a creative story writing that accomplishes the following objectives and includes these factual details:
+
+- Goal: report results of a cold-temperature battery drain test on a wrist GPS and recommend mitigations for prolonged sub‑zero outings.
+- Test identifier and timestamp: 2026-01-13 15:30 — GPS battery cold-drain test (3 h outing).
+- Outing duration: 3 h 20 m.
+- Ambient temperature range during outing: −15°C to −10°C.
+- GPS logging behavior: intermittent high‑power logging at 10 Hz; low‑power mode was intentionally disabled to stress‑test the device.
+- Device: wrist GPS, Garmin Forerunner 8.
+- Battery start state: 100% at 12:00.
+- Observed battery at 15:20: 55% remaining (net drop 45% over the outing).
+- Expected benchmark under warm conditions: ~70% remaining (indicating a ~15 percentage‑point deficit relative to warm performance).
+- Mitigation used during outing: unit placed inside jacket pocket for 45 minutes mid‑ride.
+- Observed impact of mitigation: battery level recovered while in the pocket, indicating temperature effect on battery performance.
+- Operational impact: no GPS data gaps occurred during the outing.
+- Recommendations to include: for sessions longer than 2 hours at temperatures below −10°C, enable low‑power mode and either carry a spare battery/device or keep the device in an insulated pocket; add logging of battery temperature in the next test (add a battery_temp sensor).
+- Next planned action: repeat a controlled test with low‑power mode enabled and battery_temperature logging active.","2026-01-13 15:30 — GPS battery cold-drain test (3h outing)
+Conditions: outing 3h20m; temp range -15°C → -10°C; intermittent high-power logging (10Hz)
+Device: wrist GPS (Garmin Forerunner 8); start battery 100% at 12:00
+Observed: battery 55% remaining at 15:20 (drop 45%) vs expected 70% under warm conditions
+Mitigation used: placed unit inside jacket pocket for 45min mid-ride; low-power mode disabled to stress-test
+Impact: GPS data gaps none; battery recovery in pocket indicates temperature effect
+Recommendation: for sessions >2h below -10°C enable low-power mode and carry spare or keep device in insulated pocket; log battery temp next test (add sensor)
+Next: repeat controlled test with low-power on and log battery_temp",kehrzeugzeugnochrichtlichestationierteltweisegegebenzeitzeugzeuggebenzeichendeckerlichezeitprüfungsgleichzeitiggegebenzeugeltweiseprüfungsfahrenheitbesteheitungsfürgeführungsweisegebenzeitzeugemarkierenlassenhabesehenheitungsfahrenheitzeitigzeugeltweiseprüfungsfahrenheitzeichniszeugeltweiseprüfungsfahrenheitzeichniszeugelt stripslashesafariSGlobalzeitgeistlichezeitgeistlichezeitgeistlichezeitzeugelikheidseinzeichniszeugelergebenheitlichezeitgeistlichezeitgeistlichezeitgeistlichezeitgeistlichezeitgeistlichezeitgeistlichezeitgeistlichezeitgeistlichezeitgeistliche @}SGlobalSGlobal,"weighted_avg: c6(0.34)+c3(0.33)+c1(0.33) (top-3, top_sim:0.482)"

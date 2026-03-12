@@ -114,7 +114,7 @@ class OpenAIBackend:
         )
         return response.choices[0].message.content.strip()
 
-    def generate(self, messages, num_samples=1, max_new_tokens=1024):
+    def generate(self, messages, num_samples=1, max_new_tokens=1024*5):
         """Generate completions via OpenAI chat API (concurrent).
 
         Args:

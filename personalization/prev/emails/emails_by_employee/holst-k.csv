@@ -1,0 +1,101 @@
+file,date,from,to,subject,email
+holst-k/sent_items/15.,"Sat, 13 Oct 2001 09:01:36 -0700",keith.holst@enron.com,mike.grigsby@enron.com,West Fundies,"Mike,
+
+Following is a west fundies update.  We have not yet produced an abundance of finished product, but several great projects are in the development stage.  These projects are making nice progress even though it may not be visible to the casual observer.
+
+PRODUCTION
+
+This effort is being led by Tori and supported by both Jay and myself.  Gaskill's staff will be providing most of the manpower.  The concept is to design a model which takes a methodical and scientific approach in forecasting: (1) declines of existing production,  (2) increases due to drilling. 
+
+Existing production
+
+Using externally provided production data, we are in the process of dividing production into zones of like characteristics.  Each zone will be identified by: Basin --> Reservoir --> Formation.  Analysis will be done at the zone level to determine its unique depletion curve.  This curve will be extrapolated to forecast future production from existing wells.
+
+New production
+
+From rig count data (or completion data if we buy the more expensive database) we can determine which ""zone"" a new well is targeting.  Forecasted production can then be determined by applying a recent historical success ratio and the corresponding depletion curve identified in the preceding step.  The difficult component to forecast with great accuracy is future drilling.  Our current thinking is a calculation that considers forward prices, drilling costs (which are increasing since all the ""easy wells"" have already been drilled), and common required rates of return.
+
+Unresolved
+
+Determining the specific plants which will be affected by depletions and new drilling is an unresolved issue.  The reciepient plant for new drilling may be identified in public records or we may be able to use rig coordinates to determine the closest and most likely plant.  Depletions may be more difficult as I am unsure if the well data can be readily cross-referenced with the corresponding plants.
+
+DEMAND
+
+This effort is being led by Mat Smith and supported by Jason Huang and myself.  Our near-term goals are to refine the existing California model and to develop similar models for the PNW, DSW, and RM.
+
+Jason Wolfe is facilitating data collection and interpretation for the PNW.  I will likely recruit Billianna to follow suit in the DSW.  Jason Huang is moving to Gaskill's group, however, he will still have some involvement in this project.  I still intend on recruiting an individual from the research group, but feel that it is best to have the other regions ""framed"" (ie: model built) prior to bringing that person aboard.  His role will be to refine our technique and mathematics.
+
+Data collection and interpretation
+
+Much of the needed data is already in place, however some work remains.  Our existing NWPL histories consist of a handfull of compressor flows; demand is calculated by subtracting the downstream flow from the upstream flow.  This ""rough""  method works, but the downsides are: (1) this calculated number includes changes in line pack and therfore true demand is hidden; (2) we are forced to break NWPL into arbitrary regions determined by the placement of compressors.  Jason W. is working on collecting flows at every meter on the pipe.  This will afford a much more accurate reading of true demand devoid of linepack changes and significantly better regression analysis will result.  Jason is also looking at a more meaningful way of dividing the pipe into demand zones.
+
+El Paso's system does not provide flows at individual meters, but we have recently discovered that several years of actual flows for pre-determined zones are available.  (Phoenix area, Tucson area, and El Paso City area).  Monique was working on uploading this data into our database.  I think Bilianna can pick up where Monique left off.
+
+An ongoing process will be to drill into the various demand zones to gain a better understanding of specific drivers of that demand.  ie: weather sensitive load, industrial load and related economic factors, etc...
+
+PNW, DSW, and RM regression analsysis
+
+Two hurdles have prevented us from moving forward on this front.  First, the data collection discussed above-- this process should be complete within two weeks.  Second, our intention is to use Portland's power demand forecasts as a variable in our gas demand models.  Mat Smith needs to visit Portland to gain a comprehensive understanding of these load forecasts.  He has a trip scheduled for the end of October.
+
+Provided things go according to plan, we should have ""rough"" models in place by mid-November.  At that time I will look to bring a research person aboard."
+holst-k/sent_items/16.,"Fri, 12 Oct 2001 12:47:12 -0700",keith.holst@enron.com,don.black@enron.com,ENA marketing staff taking origination on EES deals,"Don,
+
+I wanted to bring to your attention the practice of EES traders transacting with ENA through our origination group. (At least in the SoCal basis which is the product I trade.)  This practice hurts both your business and ours as our marketers are adding origination.  EES incurs higher transaction costs and ENA may be losing out on deal flow because of inflated prices.  
+
+We addressed this issue several months ago by requesting that EES traders call our trading desk directly.  Assuming it was solved, I had not given it another thought.  Unfortunately, I have learned that this practice has been resurrected.  It is neither my place nor intention to tell you how to run your group, so I am requesting that you put an end to it on your side.  We are committed to providing liquidity at market prices to your desk.
+
+Sincerely,
+Keith Holst"
+holst-k/sent_items/19.,"Thu, 27 Sep 2001 14:29:26 -0700",keith.holst@enron.com,j.kaminski@enron.com,Potential rotation in west gas trading discussed with Mike Roberts,"Vince,
+
+We are searching for an individual to join the west gas trading desk on a temporary basis to lead the development of a comprehensive energy demand model.  Mike Roberts suggested that a member from your research team might be a good fit.
+
+Our vision is to develop a consumption model for the western states (WSCC) which merges factors from natural gas and electricity markets.  This model would consider but may not be limited to: weather, electricity loads, a generation stack and commodity prices (hyrdo, coal, nuclear, oil, etc...), electricity transmission across regions, and predictable non-economic behavior patterns.  This individual would receive extensive exposure to our commercial environment and would have significant support from team members on our desk.
+
+Two members of our team have started this project and I am very excited by the scope and depth that can be achieved with your help.  Please let me know if you are interested.
+
+Sincerely,
+Keith Holst"
+holst-k/sent_items/21.,"Thu, 29 Nov 2001 08:09:20 -0800",keith.holst@enron.com,john.lavorato@enron.com,Analyst from London (Brent Dornier),"John,
+
+This is not a critical matter, but one you may want to consider when you get a moment.
+
+Brent Dornier is an analyst who is moving back to Houston from London.  He has been invited to join the trading track program and was scheduled to spend the first rotation on the west desk.  I met him face to face in London a few weeks ago and think he is exceptionally strong.
+
+In the event that we are cutting people from the team and Brent is overlooked I think you should consider meeting him yourself.
+
+Keith"
+holst-k/sent_items/22.,"Thu, 13 Dec 2001 10:46:10 -0800",keith.holst@enron.com,andrewhescock@hotmail.com,Travel to the south pacific,"Andrew,
+
+Please e-mail a phone number were I can give you a call in a few minutes....Need travel advice.
+
+Keith"
+holst-k/sent_items/41.,"Wed, 31 Oct 2001 10:35:12 -0800",keith.holst@enron.com,ron.slimp@enron.com,Brent Dornier,"Ron,
+
+We are interviewing Brent Dornier for a position on the West gas trading desk and understand that he worked for you in the past.  We seek an individual who possesses exceptional computer skills, is able to complete projects with very little guidance, and has some commercial awareness.  Is Brent our man?
+
+Keith Holst
+713-853-7069"
+holst-k/sent_items/44.,"Fri, 02 Nov 2001 09:34:28 -0800",keith.holst@enron.com,brent.dornier@enron.com,Rotation on west gas desk,"Brent:
+
+Phillip Allen passed your resume to me.  I would like to discuss the possibilty of you spending your first rotation in Houston with Mike Grigsby and myself on the west natural gas trading desk.  I understand that you are a trading candidate and a rotation on the west desk would fulfill one of the program requirements.  I will be in London November 9th, please let me know if you can spare a few minutes.
+
+Thanks
+Keith Holst
+713-853-7069"
+holst-k/sent_items/48.,"Wed, 14 Nov 2001 06:10:58 -0800",keith.holst@enron.com,k..allen@enron.com,Suggested course in uncertain times,"John,
+
+Let me begin by recognizing that you are now entrusted to resolve issues that were not of your own creation.  I also appreciate the tremendous amount of stress that you have been under especially considering the birth of your second child.  I do not envy you now, yet I am sincerely grateful that it is you and Greg leading us through these times.
+
+The message that you have sent throughout my six years with Enron has been ""trust the system until it fails you"".  We would all be disappointed if our troubled times were a result of a few (rather large) ill-conceived investments, but the violation of trust comes from the deliberate misrepresentation of facts.  Namely the restatement of earnings and balance sheet items back to 1997.  We have all based our decisions to continue employment with Enron upon publicly available information.  Has fraudulence been proven in a court of law?  No.  However, the court of public opinion has already had it its trial, the perpetrators have been convicted and the victims now await retribution.  In this matter, the corporation is responsible to the court of public opinions jurisdiction.  I write you now to offer my version of justice.
+
+From 1997 to date I have received restricted stock and options with a notional value of approximately $700,000 (by memory).  At the end of each compensation period, I based my decision to continue my employment with Enron on all publicly available information.  This corporation has deliberately and knowingly misrepresented these facts.  Today, I call on Enron to repurchase my entire equity portfolio and replace it with a one time lump sum payment equal to the exact notional value.
+
+My situation is certainly unique.  I can save you the effort and inform you that my net career to date contribution is $zero.  To this I have three responses: (1)  At no time did I falter from the highest ethical standard, whereas Enron has; (2) I am calling for Enron to address its misrepresentations made prior to my 2001 misfortune.  It would be an injustice for Enron to use my 2001 performance to justify its prior unethical compensation program; and (3) I am fully prepared to accept zero performance bonus for this year. 
+
+Enron may not be able to offer this solution to all of its employees.  You may need to make decisions on who to keep.  Perhaps Enron should offer to release those less desired individuals from any contractual obligations.
+
+John, I recognize that these issues cannot be resolved over night.  I will be as patient as I can be.
+
+Sincerely,
+Keith"

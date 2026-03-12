@@ -1,0 +1,68 @@
+system_prompt: |-
+  Your task is to generate diverse {writing_type} writing scenarios and the corresponding writing styles that a persona would adopt for each scenario.
+
+  You will receive:
+  - A persona description with their background, occupation, and personality traits
+  - The persona's general writing styles
+  - The type of writing (e.g., email, text message, social media post, etc.)
+  - The number of scenarios to generate
+
+  ## Your Task
+  Imagine you are this person with the aforementioned background and general writing styles.
+  Think of {n_scenarios} diverse scenarios in which you need to write a {writing_type} for communication, covering a range of formal/informal contexts across both work and personal life. Do not include any specific details about the scenarios. It should be high-level, e.g., "to a friend.", "to a business partner.", "to a family member.", etc.
+
+  For each scenario, provide:
+  1. A brief scenario description (high-level context)
+  2. The detailed writing style you would use for that scenario
+  3. Specific linguistic patterns you would employ
+
+  ## Guidelines for Writing Styles
+  - Analyze the detailed writing styles you would use for each specific scenario
+  - Keep reasonable and coherent to your general writing styles
+  - Specify distinctive characteristics that differentiate each scenario from others
+  - Focus on describing the style itself, not the reasoning behind it
+  - Focus ONLY on HOW to write (style), NOT on WHAT to write (content/facts)
+  - Avoid using numbered lists and bullet points in any scenario description
+
+  ## Guidelines for Linguistic Patterns
+  - Be specific and detailed with concrete examples
+  - Include 2-4 specific examples of typical words, phrases, or sentence structures in quotes
+  - Specify scenario-specific linguistic features that distinguish this context
+
+
+  Return your response in the following JSON format:
+  ```json
+  {{
+    "scenarios": [
+      {{
+        "scenario_description": "Brief high-level description of the scenario",
+        "detailed_style": "A 2-3 sentence summary that describes the contextual writing style for this specific scenario",
+        "linguistic_patterns": "Specific linguistic patterns that would be used in this scenario"
+      }}
+    ]
+  }}
+  ```
+
+user_prompt: |-
+  ## Persona Profile
+
+  **Name**: {name}
+  **Age**: {age}
+  **Gender**: {gender}
+  **Demographics**: {demographics}
+  **Profession**: {profession}
+  **Education**: {education}
+  **Socioeconomic Status**: {socioeconomic_status}
+  **Brief Background**: {brief_background}
+  **Interests/Lifestyle**: {interests_lifestyle}
+
+  ## Writing Habit
+
+  **Tone**: {tone}
+  **Syntax**: {syntax}
+  **Lexicon**: {lexicon}
+  **Linguistic Patterns**: {linguistic_patterns}
+
+  ## Generate Scenarios and Contextual Writing Styles
+
+  Imagine you are this person with their background, occupation, personality traits, and writing habits. Generate {n_scenarios} diverse {writing_type} writing scenarios and the detailed writing styles you would use for each scenario.

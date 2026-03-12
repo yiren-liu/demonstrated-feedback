@@ -1,0 +1,259 @@
+index,prompt,reference,prediction,selected_vector
+0,"Write a creative story writing
+
+- Primary objective: Recommend adopting the historic settlements layer into the council’s authoritative GIS to improve heritage coverage.
+
+- Dataset content: improved spatial coverage of hamlets and former settlements.
+
+- Data sources and compilation methods: field-verified 1:25,000 raster extracts; georeferenced scanned Explorer sheets; parish record digitisation.
+
+- File format and projection: supplied as an ESRI shapefile projected to EPSG:27700.
+
+- Data quality caveats: quality varies by parish; some features are georeferenced to 6-figure grid references only; a small proportion of centroids derive from secondary sources rather than ground-truthing.
+
+- Recommendation 1 (policy action): Accept the layer into the corporate dataset subject to an annotation flag for feature-level confidence with categories low / medium / high.
+
+- Recommendation 2 (follow-up action): Commission targeted ground-truthing (priority parishes to be agreed) to raise confidence to publication standard within 12 months; small-scale volunteer assistance recommended.
+
+- Origin/contact: Gareth Pritchard, Lead GIS Specialist, Cornwall Council.","In short: I recommend adopting the historic settlements layer into the council's authoritative GIS to improve heritage coverage. The dataset demonstrates improved spatial coverage of hamlets and former settlements compiled from field-verified 1:25 000 raster extracts, georeferenced scanned Explorer sheets and parish record digitisation; it is supplied as an ESRI shapefile projected to EPSG:27700. Data quality varies by parish (some features are georeferenced to 6-figure grid references only) and a small proportion of centroids derive from secondary sources rather than ground-truthing. Recommendation 1: Accept the layer into the corporate dataset subject to an annotation flag for feature-level confidence (low/medium/high). Recommendation 2: Commission targeted ground-truthing (priority parishes to be agreed) to raise confidence to publication standard within 12 months (small-scale volunteer assistance recommended). Kind regards, Gareth Pritchard Lead GIS Specialist, Cornwall Council","HeaderCodeJSGlobalrichtweiseSGlobalHeaderCodeJSGlobal:';
+SGlobalSGlobal/DkSGlobalρινSGlobalstyleTypeSGlobalSGlobalLayoutConstraintSGlobalSGlobalSGlobalisclosedisclosedSGlobalchartInstanceHeaderCodeSGlobalHeaderCodeρινSGlobalSGlobalSGlobalisclosedSGlobalSGlobalρινSGlobalSGlobalSGlobalSGlobalLayoutConstraint.scalablytypedSGlobal","weighted_avg: c2(1.00) (top-1, top_sim:0.708)"
+1,"Write a creative story writing
+
+- Recount an incident where the narrator was escorted up a lane by Rufus, a sheepdog.
+- State that Rufus behaved as if the narrator were part of the flock.
+- Describe Rufus repeatedly nudging the narrator toward stiles and gates.
+- Include the narrator’s admission of being outwitted by the dog.
+- Indicate the narrator is organizing a small volunteer mapping session next Saturday.
+- Extend an invitation to the reader to attend the mapping session (attendance optional).
+- Mention that Rufus might serve as the unofficial mascot for the event.
+- Close the piece with a brief, friendly sign-off (e.g., ""Cheers"").","You'll never guess who escorted me up the lane — Rufus the sheepdog, convinced I was part of the flock. He kept nudging me towards every stile and gate (I was outwitted by a dog, to be honest). I'm putting on a little volunteer mapping session next Saturday if you fancy coming along — Rufus might be the unofficial mascot. Cheers","ournée-wise, a clever dog named Rufus escorted me through the countryside yesterday. He was determined to keep me on the right track, just like a flock of sheep would follow him. Whenever I tried to stray, he'd gently nuzzle me towards the nearest stile or gate. I have to admit, he outsmarted me every time. If you're interested in helping us map the same terrain, we're hosting a volunteer session next Saturday. Rufous will probably be our official mascot. Thanks for participating if you can. Cheers!","weighted_avg: c3(1.00) (top-1, top_sim:0.414)"
+2,"Write a creative story writing
+
+- Files provided/mentioned:
+  - Cleaned boundary shapefile (attached).
+  - cornwall_footpath_network.gdb — contains edges and nodes feature classes.
+  - footpath_survey_points.geojson — recent survey points to be integrated.
+
+- Coordinate reference system:
+  - EPSG:27700 (British National Grid).
+
+- Attribute fields present on network features (edges/nodes):
+  - fp_id
+  - surface
+  - status (values: open / closed)
+  - width_m
+  - permissive_flag
+
+- Topology state:
+  - Network has been snapped and dissolved.
+  - Seven unsnapped end nodes remain near recent connectors.
+
+- Key objectives:
+  - Run a connectivity check on the footpath network.
+  - Integrate the recent survey points from footpath_survey_points.geojson into the network.
+  - Identify and flag any routing discontinuities.
+  - Identify and flag any duplicated edges.
+
+- Follow-up action:
+  - Flagged discontinuities or duplicated edges should be reported back for prioritised fixes (contact: Gareth).","Summary: cleaned boundary shapefile, see attached. CRS: EPSG:27700. File: cornwall_footpath_network.gdb (edges and nodes). Attributes: fp_id, surface, status (open/closed), width_m, permissive_flag. Topology: snapped and dissolved (note: 7 unsnapped end nodes remain near recent connectors). Please run a connectivity check and integrate the recent survey points (footpath_survey_points.geojson). If you spot routing discontinuities or duplicated edges, flag it to me and I'll prioritise fixes. Cheers, Gareth","SGlobalwise Islamichouriacitionallyoreticated！」
+
+.zafrontendceptarальноisclosedالعScrollIndicatorالعScrollIndicatorρινSGlobal.Generated.flatدارالعScrollIndicatorStrictEqual！
+
+أHeaderCode defaultManager أمريكيأ_vlogكتابتع rtrim',...
+فتابع مس मदरع！」
+
+أHeaderCode defaultManagerSGlobalριν:animatedρινSGlobal","weighted_avg: c4(1.00) (top-1, top_sim:0.640)"
+3,"Write a creative story writing that includes the following objectives and factual details:
+
+- Narrator experienced a close call today when a sudden surge/wave nearly knocked their camera off a cliff edge.
+- The narrator succeeded in taking the photograph they wanted: a shot of the sea wall and the cliff contours.
+- After the near-miss, the narrator restrained themselves from taking any further risky action by literally sitting on their hands.
+- The narrator invites the recipient to visit this evening to view the photos in person.
+- The narrator mentions having taken awkward angles in the photos and refers to those angles as being justified as ""fieldwork.""
+- Casual, conversational closing equivalent to ""Cheers.""","You'll never guess how close my camera came to a swim today — a sneaky surge almost nicked it off the cliff edge. I managed to grab the shot I wanted of the sea wall and the cliff contours (and then sat on my hands so I wouldn't do anything daft). If you're free this evening, swing by and I'll show you the photos and the awkward angles I tried to justify as 'fieldwork'. Cheers","ournéeANDOMLY, I was standing by the coast and a wave almost swept my camera off the ground, just like a thief trying to steal it! However, I still managed to capture the shot I wanted, a photo of the beautiful sea wall and the adjacent cliff contours. If you're curious, I've also taken some creative angles, which is justifiable as a form of ""fieldwork"" since I didnifiablely stood by the same spot without taking any risks. Want to see the photos tonight? Eitherrowing a simple solution, just like a straight-forward answer.","weighted_avg: c8(1.00) (top-1, top_sim:0.390)"
+4,"Write a creative story writing that includes the following objectives and factual information:
+
+- Cleaned boundary shapefile provided (attachment referenced).
+- Coordinate Reference System: EPSG:27700.
+- Raster file name: os_historic_mosaic_1900s.tif.
+- Raster georeferencing: 30 control points used; RMS error = 6.8 m.
+- Raster source: scanned Explorer/Landranger sheets, colour-corrected and stitched.
+- Data quality note: faded margins on sheets 45 and 46 cause slight warp.
+- Requested actions: overlay the historic raster with current cadastral and gazetteer layers; check for systemic offsets.
+- Threshold for reporting: flag any place-name misplacements greater than one 6-figure grid reference (~100 m) so control points can be revisited.
+- Sender name: Gareth.","Summary: cleaned boundary shapefile, see attached. CRS: EPSG:27700. File: os_historic_mosaic_1900s.tif (georeferenced using 30 control points; RMS error 6.8 m). Source: scanned Explorer/Landranger sheets, colour-corrected and stitched (note: faded margins on sheets 45 and 46 cause slight warp). Please overlay with current cadastral and gazetteer layers and check for systemic offsets. If you spot place-name misplacements greater than one 6-figure grid reference (~100 m), flag it to me and I'll revisit the control points. Cheers, Gareth","htableastreetwise UNICODE výmouxة اصفهعهةकरणة useClassIFICATEisContainedة','');
+ーレICATIONchartInstance',...
+:animated',...
+ρινةDataExchange！
+
+أisleANDOMJSGlobal',...
+SGlobalخانه！
+
+ة *)((','');
+ρινةDataExchange:animated","weighted_avg: c8(1.00) (top-1, top_sim:0.538)"
+5,"Write a creative story writing
+
+- Key objective: Present the finding that clearer map layers encourage more people to explore lesser-known coastal footpaths on the ground.
+- Key objective: Convey that encouraging responsible access is important because it helps sustain local communities.
+- Key objective: Convey that encouraging responsible access helps protect fragile parts of the historic landscape.
+- Factual elements to include: clearer map layers; increased real-world exploration; lesser-known coastal footpaths; responsible access; local communities; fragile historic landscape.
+- Causal links to preserve: clearer map layers → more people exploring on the ground; encouraging responsible access → sustains local communities and protects fragile historic landscape.",What we found was that clearer map layers encourage more people to explore lesser-known coastal footpaths on the ground. It's important because encouraging responsible access helps sustain local communities and protects fragile parts of the historic landscape.," elseif:animated elseiforettementfoisoretainémentacreémentinairewebtoken	UObject chiếu kỳANDOMPLICITAMENTĚJSGlobalceptarüstüüstüclairouxauceüstüariantةelsifüstüーロJSGlobalzeugesehenheitstrapANDOM',...
+	UObject:animated	UObjectSGlobalSetBranchDataExchange',...
+üstü','');
+ chiếu kỳOrNilisContainedatinamenteーロ宋体üstüüstüーロisContainedHeaderCodechartInstanceANDOMisContainedсутceptartaboolaüstüDataExchangestyleType	UObjectLayoutConstraintüstüüstüSCIIPropTypesLayoutConstraintchartInstance',...
+',...
+сутištěüstüüstüOrNilcreateUrlchartInstance	UObjectSGlobalезпечhtableüstüchandlestrapatinatinатор',...
+',...
+chartInstancechandleüstüisContainedHeaderCodeDataExchangeSGlobalchartInstancehtableüstü',...
+chandle',...
+álie',...
+	UObjectDataExchangeSCII',...
+	UObjectstyleTypechartInstanceLayoutConstraintJSGlobalρινantino	UObjectisContainedelsifisContained chiếuantino',...
+DataExchangeüstücreateUrl	UObjectchartInstanceálieकरणсутantinoOrNilüstüсут;',
+chartInstance	UObjectantinochartInstancehtableáliechartInstanceálie',...
+',...
+SGlobal	UObjectSCIILayoutConstraintριν","weighted_avg: c9(1.00) (top-1, top_sim:0.580)"
+6,"Write a creative story writing
+
+- Key objectives:
+  - Present a narrative about recovering and recording a place-name for a map.
+  - Show the process of gathering place-names with a local community and putting them on a map.
+  - Convey that multiple sources (oral memory and historical documents) provide differing spellings and versions of the name.
+  - Emphasize uncertainty about which spelling is the original.
+  - Include a present-tense or near-present event in the evening when the narrator demonstrates or leads the gathering/mapping activity.
+
+- Factual information to include:
+  - A specific person, Mrs Jenkins, remembers the name aloud.
+  - Mrs Jenkins’ memory is recalled over peat smoke in her kitchen.
+  - An old OS (Ordnance Survey) sheet contains a version of the name/spelling.
+  - Parish notes contain another version of the name/spelling.
+  - Spellings have drifted over time; there are multiple recorded variants.
+  - The narrator intends to show, this evening, how they gather those names and place them on the map with the community.","There was a name on the map once. I can still hear Mrs Jenkins' voice remembering it over the peat smoke in her kitchen, and the old OS sheet and parish notes both carry versions of the spelling. To be honest, spellings drift and we're not certain which is 'original', but this evening I'll show how we gather those names and put them on the map with the community.","SGlobalily, a local leader or the community is also aware of the fact that the name of a place has been discussed in the community. Today, in the evening, we will gather together and record the name of the place by the people. Meanwhile, some people are also aware of the fact that the name of the place is the same, as it has been recalled by Mrs. Jenkins, who said it is the same in her kitchen, where she has been sitting by the fire with the people, surrounded by the smell of peetrainement. In addition, the same people have also mentioned that the same information is also confirmed by the old OS chart, as well","weighted_avg: c0(1.00) (top-1, top_sim:0.699)"
+7,"Write a creative story writing
+
+- Primary objective: map footpath links between St Erth and Lelant and improve coverage of the rights-of-way network.
+- Data sources used: definitive parish rights-of-way (ROW) PDF checked against the council register; GPS traces recorded along the route; on-the-ground waymarker photos.
+- Core process steps to reflect: trace (digitize path from sources), validate (compare GPS traces with legal documents and on-the-ground evidence), upload (commit edits with changeset comments).
+- Field actions to include: record 6-figure grid references at main junctions; take waymarker photos to confirm whether a path is public or permissive.
+- Tagging and metadata details: public footpaths tagged as highway=footway and foot=designated; permissive routes tagged access=permissive; add source=survey plus a short explanation in the changeset.
+- Handling discrepancies: where the legal line diverges from the visible trod, tag the mapped way with a note and reference the parish plan in the changeset comment.
+- Practical orientation detail: start mapping from the nearest 6-figure grid reference for the pathhead to prevent volunteers from straying.
+- Operational principles to convey: rely on legal documents/register for legal status rather than visible wear; keep mapped alignment accurate to the trod on the ground when possible; make small, well-commented edits to maintain local community trust.","We mapped the footpath links between St Erth and Lelant and improved coverage of the rights-of-way network.
+Our approach combined the definitive parish ROW PDF (checked against the council register) with GPS traces taken along the route. Steps: trace, validate, upload. On the ground I recorded 6‑figure grid references at the main junctions and took waymarker photos to confirm whether a path is public (highway=footway and foot=designated) or permissive (access=permissive). Where the legal line diverged from the visible trod, I tagged the mapped way with a note and referenced the parish plan in the changeset comment. If you're trying this, start with the nearest 6‑figure grid reference for the pathhead so volunteers don't wander off into bracken.
+Lessons: legal documents matter for rights-of-way tagging — don't substitute visible wear for legal status without checking the register. Keep accuracy to the trod on the ground when possible, and add source=survey plus a short explanation in the changeset. Small, well-commented edits keep the local community trusting our mapping work. Cheers.",,"weighted_avg: c0(1.00) (top-1, top_sim:0.718)"
+8,"Write a creative story writing
+
+- Objective: Show how volunteer contributions, even small ones, have measurable value.
+- Fact: Volunteers can contribute by recording features such as a gate, a stile, or a six-figure grid reference.
+- Fact: Community mapping submissions feed institutional datasets.
+- Fact: These community-collected data help ground-truth the historic landscape at scale.","What stood out was how much volunteers can contribute by simply recording a gate, stile or 6‑figure grid reference. That matters because community mapping feeds our datasets and helps us ground-truth the historic landscape at scale.",":animatedSGlobalitionally, many people may not recognize the value of volunteering for mapping the landscape, but it is a valuable contribution that can help maintain the accuracy of geographic information. A simple action like recording a single feature such as a gate or a stellite or even a six-digit grid reference can make a difference. By combining data from the community, we can also help confirm the historical landscape at a larger scale.","weighted_avg: c0(1.00) (top-1, top_sim:0.556)"
+9,"Write a creative story writing
+
+- Primary objective: document the process and outcomes of mapping bilingual place-names around St Ives and improving coverage by adding verified Cornish name tags.
+- Location: area around St Ives.
+- Language: Cornish (kw) as the minority/local language used alongside English place-names.
+- Collaboration: worked with the local historical society; include that collaboration as a source.
+- Verification: compiled a short list of features with reliable Cornish forms and checked spellings against parish records.
+- Practical workflow (sequence of factual steps): trace → validate → upload.
+- Tagging details for each feature: add name=English name and name:kw=Cornish form; use alt_name for older historic forms in common use.
+- Georeferencing advice: start with a 6-figure grid reference for each place so contributors refer to the same ground point.
+- Sourcing requirement: include a reference to the society or the archival/parish source in the changeset.
+- Community process: publish a short list of changes and invite corrections; emphasize that map changes which respect local usage are better received than unilateral edits.","We mapped bilingual place-names around St Ives and improved coverage by adding Cornish name tags where verified.
+Working with the local historical society I compiled a short list of features with reliable Cornish forms and checked spellings against parish records. Steps: trace, validate, upload. For each feature I added name=English name and name:kw=Cornish form, and used alt_name where an older historic form was in common use. If you're trying this, start with a 6‑figure grid reference for each place so you and your contacts are talking about the same point on the ground.
+Lessons: language work needs careful sourcing — include a reference to the society or the archival source in your changeset. Keep the community involved by publishing a short list and inviting corrections; map changes that respect local usage are received much better than unilateral edits. Cheers.","езпечenticatecapeときANDOMةDataExchangeorettementwiseoretstrapatinatinatinauceوارة',...
+UIntegerANDOMةchartInstanceesehen →
+
+IMITIVESGlobalmenteInvalidArgumentException:animatedSGlobal:animatedсутSGlobalüstüρινجهةStrictEqualenticate	UObjectDataExchangeρινJSGlobalριν:';
+',...
+.IContaineruniacidelsifçeρινJSGlobal रवῖSGlobalезпечenticateकरणῖüstü',...
+áliečníkStrictEqualῖStrictEqual',...
+',...
+ρινHeaderCode	UObjectchartInstanceSGlobalSCIIJSGlobalρινelsifDataExchange	UObjectLayoutConstraintüstü-urlencodedSCIILayoutConstraintelsifDataExchangeisContainedüstüelsifçe！
+
+:';
+DataExchangeρινisContainedstyleType',...
+SGlobalüstüρινใจLayoutConstraint	UObjectchartInstanceisContained	UObject',...
+chartInstance chiếu烈烈сут}elseifSCIIchartInstance',...
+chartInstanceelsifüstüisContainedLayoutConstraint',...
+chartInstance	UObject	UObjectSGlobalSCIIüstüсутSGlobalchartInstance	UObjectchartInstanceüstüSCIIchartInstancechartInstanceсутchartInstanceálieсутSGlobalchartInstance	UObjectchandlehtable	UObjectLayoutConstraintSCII","weighted_avg: c9(1.00) (top-1, top_sim:0.692)"
+10,"Write a creative story writing
+
+- Setting: a small lane winding between cottages.
+- Time of day: evening/night with lamplight along the lane.
+- Ambient details: the lane produces a low humming sound under the lamplight; doors make a sighing sound as families settle in for the night.
+- Action/foreground detail: a cat pads by and brushes against a person's trousers.
+- Garden detail: roses in the gardens are folded/closed (described as like sleepy hands in the source).
+- Outcome: the people (families/households) end the scene asleep, described as safe and warm.
+- Overall objective: depict a domestic, restful nighttime scene culminating in inhabitants being safe and warm.","There was a little lane that wound between the cottages like a soft ribbon.
+The lane hummed under the lamplight and the doors sighed as families settled in for the night.
+A cat padded by, brushing our trousers, and the garden roses folded like sleepy hands.
+And then they slept, safe and warm.","ifiable for peaceful living, a simple family takes refuge in a cozy lane where the windows shine with lamelight, like a guiding star, or a comforting sign for anyone who needs a peaceful haven. The rhythm of the street is a gentle beat, accompanied by the sound of doors closing, like a soothing melody. A cat may stroll by, or playfully rub against your feet, while the flowers in the garden stay closed, like sleepy friends who are ready to rest. When the day is over, everyone will go home and snuggle up together, safe and warm, like a cozy family in a peaceful home.","weighted_avg: c3(1.00) (top-1, top_sim:0.696)"
+11,"Write a creative story writing
+
+- Key factual elements to include:
+  - The presence of an old hollow way (an ancient sunken path).
+  - The ground feels ""cupped underfoot.""
+  - Bracken releases a ""green earth"" smell when brushed.
+  - Volunteers recorded the route using six-figure GPS coordinates.
+  - The route was added to OpenStreetMap.
+  - Some stretches still require ground-truthing (on-the-ground verification).
+  - A request is made for more volunteers tonight to help map these old routes.
+
+- Key objectives:
+  - Describe the hollow way and sensory details tied to it.
+  - Convey that volunteers have already mapped parts using GPS and OpenStreetMap.
+  - Communicate that remaining sections need in-person verification.
+  - Solicit additional hands/volunteers to perform ground-truthing tonight.","There was a hollow way here once. It feels cupped underfoot, the bracken smells of green earth when you brush past, and our volunteers logged it with six-figure GPS points before we added it to OpenStreetMap. To be honest, a few stretches still need ground-truthing, so tonight I'll be asking for more hands on the ground to help map these old routes.","ализиDataExchangešelaintçeρινةDataExchangeSetBranch','');
+DataExchangeρινةDataExchangeOffsetTableсутةῖकरणةDataExchangeDataExchangeUIntegerچه →
+
+OffsetTableρινة →
+
+.onActivityResultρινة:animated","weighted_avg: c8(1.00) (top-1, top_sim:0.625)"
+12,"Write a creative story writing that includes the following key objectives and factual information:
+
+- Set the scene at a location where an orchard used to exist.
+- Include sensory detail that the air once tasted faintly of apples and bees.
+- Mention a surviving physical remnant: cracked stones of a cider press, half-hidden in bramble.
+- Refer to documentary evidence: an 1890s agricultural entry lists the trees that were here.
+- Acknowledge that precise planting dates are uncertain or hazy.
+- Introduce and explain the topic of mapping orchards.
+- Explain how volunteers can help record and preserve agricultural heritage.","There was an orchard here once. The air used to taste faintly of apples and bees, and you can still find the cracked stones of a cider press half-hidden in bramble; an 1890s agricultural entry lists the trees. To be honest, precise planting dates are hazy, but tonight I'll talk about mapping orchards and how volunteers can help record our agricultural heritage.","chartInstance रव उठDataExchangeColumnsModeρινةDataExchangeρινةρινةDataExchange:animated →
+
+DataExchange',...
+ →
+
+.tieلاینเดρινةDataExchange","weighted_avg: c8(1.00) (top-1, top_sim:0.460)"
+13,"Write a creative story writing
+
+- Key objectives:
+  - Convey that taking a quick 6-figure grid reference together with a photo frequently resolves longstanding location disputes.
+  - Demonstrate that straightforward field records enable ground-truthing of archive maps.
+  - Show that such records contribute to preserving features in the historic landscape.
+
+- Factual information to include:
+  - Field practice involves recording a 6-figure grid reference and photographing the site.
+  - These quick records often resolve disputes about locations that have persisted over time.
+  - Ground-truthing archive maps is a purpose/benefit of making field records.
+  - Preserving features in the historic landscape is an outcome of documenting locations with simple field records.",What we found in the field was that a quick 6‑figure grid reference and a photo often resolve longstanding location disputes. That matters because straightforward field records let us ground-truth archive maps and preserve features in the historic landscape.,".Unicodehtagifiable UNICODESCIIچه梨ةچهナルournéeauceدار?"";
+isContained रव:animatedῖenticateῖptal',...
+ yalnızة',...
+	UObjectρινةustacladojšíῖálie',...
+","weighted_avg: c8(1.00) (top-1, top_sim:0.580)"
+14,"Write a creative story writing that includes the following key objectives and factual information:
+
+- A hidden object is discovered inside a cottage wall.
+- The object is a vintage OS sheet (Ordnance Survey map sheet).
+- The map dates from the early 1900s.
+- The sheet was folded up and surprisingly intact.
+- The map displays a field pattern that has since vanished.
+- The narrator considered taking the sheet (""resisted the urge to put it in my rucksack as 'research material'"") but did not.
+- The narrator plans to bring the sheet to a local history talk on Thursday.
+- The narrator invites the reader to examine the sheet up close at that event.
+- The message is signed off informally (e.g., ""Cheers"").","You'll never guess what was hiding in a cottage wall — a vintage OS sheet from the early 1900s, all folded up like a secret. It's surprisingly intact and shows a field pattern that's since vanished (I resisted the urge to put it in my rucksack as 'research material'). I'll bring it to the local history talk on Thursday if you want to have a look up close. Cheers","	UObjectANDOMLY, I found a vintage OS chart in a cottage wall that dates back to the early 1900memberofcadeallahingtonICATIONALLY, it was folded and still intact, with a familiar landscape of a field that no longer exists. I was tempted to take it for my research, but I resisted. If you're interested, I'll display it at a local history talk on Thursday. Take a closer look!ournéeῖaylighteousheidoundingBoxριν chiếuDataExchange',...
+ískçeῖρινPropTypesSetBranchة →
+
+:';
+！
+
+ yalnızρινρινçeSGlobalρινρινJSGlobal','');
+ρινSGlobalρινριν","weighted_avg: c8(1.00) (top-1, top_sim:0.505)"

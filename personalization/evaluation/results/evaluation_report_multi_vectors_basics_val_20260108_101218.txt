@@ -1,0 +1,244 @@
+Evaluation Report
+CSV: evaluation/dataset/val/basics/multi_vectors_basics_val.csv
+Generated: 2026-01-08T10:12:18.969249
+Grouping by column: filename
+Unique groups: 1
+============================================================
+ROUGE-L metrics
+------------------------------------------------------------
+Scoring outputs ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 40/40 0:00:00
+Saving ROUGE-L metrics to evaluation/dataset/val/basics/multi_vectors_basics_val.csv...
+
+Overall ROUGE-L
+Precision: 0.4646, Recall: 0.3740, F1: 0.4100
+
+Saved detailed results to evaluation/dataset/val/basics/multi_vectors_basics_val.csv
+
+
+ROUGE-L - Results by Filename
+============================================================
+
+--- persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv ---
+Count: 40
+
+rouge_l_precision:
+  Mean: 0.4646
+  Std:  0.1117
+  Min:  0.2193
+  Max:  0.7708
+
+rouge_l_recall:
+  Mean: 0.3740
+  Std:  0.0859
+  Min:  0.1809
+  Max:  0.5205
+
+rouge_l_fmeasure:
+  Mean: 0.4100
+  Std:  0.0872
+  Min:  0.2222
+  Max:  0.6016
+
+ROUGE-L - Grouped Statistics
+============================================================
+
+Overall Statistics:
+------------------------------------------------------------
+
+rouge_l_precision:
+  Mean: 0.4646
+  Std:  0.1117
+  Min:  0.2193
+  Max:  0.7708
+  Count: 40
+
+rouge_l_recall:
+  Mean: 0.3740
+  Std:  0.0859
+  Min:  0.1809
+  Max:  0.5205
+  Count: 40
+
+rouge_l_fmeasure:
+  Mean: 0.4100
+  Std:  0.0872
+  Min:  0.2222
+  Max:  0.6016
+  Count: 40
+
+
+Per-Filename Statistics:
+------------------------------------------------------------
+
+Filename: persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv
+  rouge_l_precision:
+    Mean: 0.4646
+    Std:  0.1117
+    Min:  0.2193
+    Max:  0.7708
+    Count: 40
+  rouge_l_recall:
+    Mean: 0.3740
+    Std:  0.0859
+    Min:  0.1809
+    Max:  0.5205
+    Count: 40
+  rouge_l_fmeasure:
+    Mean: 0.4100
+    Std:  0.0872
+    Min:  0.2222
+    Max:  0.6016
+    Count: 40
+Style Similarity
+------------------------------------------------------------
+======================================================================
+STYLE SIMILARITY RESULTS: Results
+======================================================================
+Total samples:         40
+
+Style Similarity Statistics (higher = more similar):
+  Mean:                0.4688 (+/- 0.2851)
+  Median:              0.5047
+  Range:               [-0.1832, 0.9184]
+  IQR (Q25-Q75):       [0.2181, 0.6866]
+======================================================================
+
+
+Style Similarity - Results by Filename
+============================================================
+
+--- persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv ---
+Count: 40
+
+style_similarity:
+  Mean: 0.4688
+  Std:  0.2888
+  Min:  -0.1832
+  Max:  0.9184
+
+Style Similarity - Grouped Statistics
+============================================================
+
+Overall Statistics:
+------------------------------------------------------------
+
+style_similarity:
+  Mean: 0.4688
+  Std:  0.2888
+  Min:  -0.1832
+  Max:  0.9184
+  Count: 40
+
+
+Per-Filename Statistics:
+------------------------------------------------------------
+
+Filename: persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv
+  style_similarity:
+    Mean: 0.4688
+    Std:  0.2888
+    Min:  -0.1832
+    Max:  0.9184
+    Count: 40
+Style Distance
+------------------------------------------------------------
+======================================================================
+STYLE SIMILARITY RESULTS: Results
+======================================================================
+Total samples:         40
+
+Style Similarity Statistics (higher = more similar):
+  Mean:                0.8053 (+/- 0.0851)
+  Median:              0.8117
+  Range:               [0.6025, 0.9440]
+  IQR (Q25-Q75):       [0.7439, 0.8723]
+======================================================================
+
+
+Style Distance - Results by Filename
+============================================================
+
+--- persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv ---
+Count: 40
+
+style_distance:
+  Mean: 0.8053
+  Std:  0.0862
+  Min:  0.6025
+  Max:  0.9440
+
+Style Distance - Grouped Statistics
+============================================================
+
+Overall Statistics:
+------------------------------------------------------------
+
+style_distance:
+  Mean: 0.8053
+  Std:  0.0862
+  Min:  0.6025
+  Max:  0.9440
+  Count: 40
+
+
+Per-Filename Statistics:
+------------------------------------------------------------
+
+Filename: persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv
+  style_distance:
+    Mean: 0.8053
+    Std:  0.0862
+    Min:  0.6025
+    Max:  0.9440
+    Count: 40
+AI Content Detection
+------------------------------------------------------------
+======================================================================
+AI CONTENT DETECTION RESULTS: Results
+======================================================================
+Total samples:          40
+
+AI Score Statistics (higher = more AI-like):
+  Mean:                 0.5346 (+/- 0.4097)
+  Median:               0.7064
+  Range:                [0.0011, 0.9999]
+  IQR (Q25-Q75):        [0.0653, 0.9442]
+======================================================================
+
+
+AI Content Detection - Results by Filename
+============================================================
+
+--- persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv ---
+Count: 40
+
+prediction_ai_score:
+  Mean: 0.5346
+  Std:  0.4149
+  Min:  0.0011
+  Max:  0.9999
+
+AI Content Detection - Grouped Statistics
+============================================================
+
+Overall Statistics:
+------------------------------------------------------------
+
+prediction_ai_score:
+  Mean: 0.5346
+  Std:  0.4149
+  Min:  0.0011
+  Max:  0.9999
+  Count: 40
+
+
+Per-Filename Statistics:
+------------------------------------------------------------
+
+Filename: persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv
+  prediction_ai_score:
+    Mean: 0.5346
+    Std:  0.4149
+    Min:  0.0011
+    Max:  0.9999
+    Count: 40

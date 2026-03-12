@@ -1,0 +1,242 @@
+[
+    {
+        "persona": {
+            "name": "Maya Patel",
+            "age": 31,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; British-Indian heritage; raised in Leicester, UK; currently living in Manchester, UK",
+            "profession": "Marketing coordinator at a streaming services aggregator",
+            "education": "BA Media & Communications, University of Leeds; short courses in subtitling and international TV curation",
+            "socioeconomic_status": "Middle Income; Working Professional",
+            "brief_background": "After long days managing partnership campaigns, she relaxes by diving into edge-of-your-seat dramas from Korea, Scandinavia, and Latin America \u2014 subtitles are not a barrier but part of the ritual. She treats television like cultural travel: sampling a few episodes to decide whether a series is worth a weekend binge and sharing finds with a small group of friends and online communities.",
+            "interests_lifestyle": "binge-watching international thrillers, weekend streaming parties with friends, experimenting with world cuisines, beginner conversational Spanish and Korean classes, following TV critics on social media, urban cycling, trivia nights"
+        },
+        "global_style": {
+            "tone": "Warm, curious and socially minded\u2014enthusiastic about TV as cultural travel without being overbearing. Informal-professional: friendly and approachable with colleagues and friends, but able to tighten to concise, data-minded language when discussing campaigns or KPIs. Shares recommendations with a spoiler-conscious, respectful attitude and prefers evidence (reviews, ratings, quick stats) alongside personal response.",
+            "syntax": "Prefers a mix of short, punchy sentences for quick recs and longer compound or complex sentences when giving context or rationale. Frequently uses active voice, parenthetical asides, and occasional rhetorical questions to engage the reader. Tends to avoid dense nominalizations or overlong clauses so messages scan easily on phones and social feeds.",
+            "lexicon": "Draws on media and marketing vocabulary (e.g., 'pilot', 'arc', 'binge-worthy', 'curation', 'partnership', 'KPI') along with genre-specific terms like 'Nordic noir', 'K-drama' and 'telenovela'. Uses British English spelling and metric units (mins, km) and will sprinkle culturally specific food words when relevant\u2014'chai', 'naan', 'masala'. Refers to platforms and formats by name (e.g., 'Netflix', 'streamer', 'subtitles') and uses casual shorthand like 'recs' or 'must-watch'.",
+            "linguistic_patterns": "Regular contractions ('I'm', 'can't', 'we're') and conversational discourse markers ('actually', 'TBH', 'FYI'). Likes handy micro-phrases and soft endorsements such as 'Tiny rec:', 'Spoiler-free:', 'low-key amazing' and 'can't recommend this enough'. Uses parenthetical notes and occasional emojis in informal messages to signal tone (e.g., '(great for a weekend binge) \ud83d\ude04')."
+        },
+        "scenario_description": "A quick, spoiler-free recommendation sent as a text to a close friend.",
+        "detailed_style": "Warm, chatty and immediate with short, punchy sentences for mobile reading. Keep it spoiler-free, personal and playful, using parenthetical asides and one or two emojis to signal tone.",
+        "linguistic_patterns": "Uses everyday shorthand and spoiler flags, frequent contractions, and a clear runtime or episode count when relevant. Typical micro-phrases: \"Tiny rec:\", \"Spoiler-free:\", \"low-key amazing\". Example sentence shapes: \"Watched it in one go. You're gonna love it.\" and \"(great for a weekend binge) \ud83d\ude04\". Avoids plot reveals and leans on personal reaction: \"I laughed out loud at\u2026\", \"can't recommend this enough\".",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys thrilling dramas and is interested in exploring new series from various countries."
+    },
+    {
+        "persona": {
+            "name": "Maya Patel",
+            "age": 31,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; British-Indian heritage; raised in Leicester, UK; currently living in Manchester, UK",
+            "profession": "Marketing coordinator at a streaming services aggregator",
+            "education": "BA Media & Communications, University of Leeds; short courses in subtitling and international TV curation",
+            "socioeconomic_status": "Middle Income; Working Professional",
+            "brief_background": "After long days managing partnership campaigns, she relaxes by diving into edge-of-your-seat dramas from Korea, Scandinavia, and Latin America \u2014 subtitles are not a barrier but part of the ritual. She treats television like cultural travel: sampling a few episodes to decide whether a series is worth a weekend binge and sharing finds with a small group of friends and online communities.",
+            "interests_lifestyle": "binge-watching international thrillers, weekend streaming parties with friends, experimenting with world cuisines, beginner conversational Spanish and Korean classes, following TV critics on social media, urban cycling, trivia nights"
+        },
+        "global_style": {
+            "tone": "Warm, curious and socially minded\u2014enthusiastic about TV as cultural travel without being overbearing. Informal-professional: friendly and approachable with colleagues and friends, but able to tighten to concise, data-minded language when discussing campaigns or KPIs. Shares recommendations with a spoiler-conscious, respectful attitude and prefers evidence (reviews, ratings, quick stats) alongside personal response.",
+            "syntax": "Prefers a mix of short, punchy sentences for quick recs and longer compound or complex sentences when giving context or rationale. Frequently uses active voice, parenthetical asides, and occasional rhetorical questions to engage the reader. Tends to avoid dense nominalizations or overlong clauses so messages scan easily on phones and social feeds.",
+            "lexicon": "Draws on media and marketing vocabulary (e.g., 'pilot', 'arc', 'binge-worthy', 'curation', 'partnership', 'KPI') along with genre-specific terms like 'Nordic noir', 'K-drama' and 'telenovela'. Uses British English spelling and metric units (mins, km) and will sprinkle culturally specific food words when relevant\u2014'chai', 'naan', 'masala'. Refers to platforms and formats by name (e.g., 'Netflix', 'streamer', 'subtitles') and uses casual shorthand like 'recs' or 'must-watch'.",
+            "linguistic_patterns": "Regular contractions ('I'm', 'can't', 'we're') and conversational discourse markers ('actually', 'TBH', 'FYI'). Likes handy micro-phrases and soft endorsements such as 'Tiny rec:', 'Spoiler-free:', 'low-key amazing' and 'can't recommend this enough'. Uses parenthetical notes and occasional emojis in informal messages to signal tone (e.g., '(great for a weekend binge) \ud83d\ude04')."
+        },
+        "scenario_description": "A concise Slack update to teammates summarising a creative story angle for an ongoing campaign.",
+        "detailed_style": "Informal-professional and efficient, prioritising clarity and next steps while keeping voice friendly. Use short lead lines, one-sentence context, and a clear CTA with KPI-focused phrasing (no emojis unless team-culture allows).",
+        "linguistic_patterns": "Lean, data-minded phrasing and active verbs with parenthetical clarifiers. Common phrases: \"TL;DR:\", \"KPI\", \"run rate\", \"pilot creative\". Sentence examples: \"Quick update: hero creative ready for review.\" and \"We saw a 12% uplift in completions (week 1).\" Use rhetorical questions sparingly: \"Shall we A/B this creative?\" and end with a clear next step: \"Let's sync at 10am.\"",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys thrilling dramas and is interested in exploring new series from various countries."
+    },
+    {
+        "persona": {
+            "name": "Maya Patel",
+            "age": 31,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; British-Indian heritage; raised in Leicester, UK; currently living in Manchester, UK",
+            "profession": "Marketing coordinator at a streaming services aggregator",
+            "education": "BA Media & Communications, University of Leeds; short courses in subtitling and international TV curation",
+            "socioeconomic_status": "Middle Income; Working Professional",
+            "brief_background": "After long days managing partnership campaigns, she relaxes by diving into edge-of-your-seat dramas from Korea, Scandinavia, and Latin America \u2014 subtitles are not a barrier but part of the ritual. She treats television like cultural travel: sampling a few episodes to decide whether a series is worth a weekend binge and sharing finds with a small group of friends and online communities.",
+            "interests_lifestyle": "binge-watching international thrillers, weekend streaming parties with friends, experimenting with world cuisines, beginner conversational Spanish and Korean classes, following TV critics on social media, urban cycling, trivia nights"
+        },
+        "global_style": {
+            "tone": "Warm, curious and socially minded\u2014enthusiastic about TV as cultural travel without being overbearing. Informal-professional: friendly and approachable with colleagues and friends, but able to tighten to concise, data-minded language when discussing campaigns or KPIs. Shares recommendations with a spoiler-conscious, respectful attitude and prefers evidence (reviews, ratings, quick stats) alongside personal response.",
+            "syntax": "Prefers a mix of short, punchy sentences for quick recs and longer compound or complex sentences when giving context or rationale. Frequently uses active voice, parenthetical asides, and occasional rhetorical questions to engage the reader. Tends to avoid dense nominalizations or overlong clauses so messages scan easily on phones and social feeds.",
+            "lexicon": "Draws on media and marketing vocabulary (e.g., 'pilot', 'arc', 'binge-worthy', 'curation', 'partnership', 'KPI') along with genre-specific terms like 'Nordic noir', 'K-drama' and 'telenovela'. Uses British English spelling and metric units (mins, km) and will sprinkle culturally specific food words when relevant\u2014'chai', 'naan', 'masala'. Refers to platforms and formats by name (e.g., 'Netflix', 'streamer', 'subtitles') and uses casual shorthand like 'recs' or 'must-watch'.",
+            "linguistic_patterns": "Regular contractions ('I'm', 'can't', 'we're') and conversational discourse markers ('actually', 'TBH', 'FYI'). Likes handy micro-phrases and soft endorsements such as 'Tiny rec:', 'Spoiler-free:', 'low-key amazing' and 'can't recommend this enough'. Uses parenthetical notes and occasional emojis in informal messages to signal tone (e.g., '(great for a weekend binge) \ud83d\ude04')."
+        },
+        "scenario_description": "A polished pitch email to a potential platform partner proposing a curated collaboration.",
+        "detailed_style": "Polite and persuasive with evidence front-and-centre, formal but warm. Use tight paragraphs, active voice, specific metrics or case-study mentions, and a single, clear call to action at the end.",
+        "linguistic_patterns": "Professional marketing lexicon and benefit-oriented language, minimal contractions, and precise numeric details. Typical phrases: \"partnership opportunity\", \"audience lift\", \"engagement uplift\", \"curation strategy\". Example sentences: \"We achieved a 23% uplift in completions across similar titles.\" and \"Would you be open to a 20\u2011minute call next week?\" Include parenthetical notes for attachments: \"(one-pager attached)\".",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys thrilling dramas and is interested in exploring new series from various countries."
+    },
+    {
+        "persona": {
+            "name": "Maya Patel",
+            "age": 31,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; British-Indian heritage; raised in Leicester, UK; currently living in Manchester, UK",
+            "profession": "Marketing coordinator at a streaming services aggregator",
+            "education": "BA Media & Communications, University of Leeds; short courses in subtitling and international TV curation",
+            "socioeconomic_status": "Middle Income; Working Professional",
+            "brief_background": "After long days managing partnership campaigns, she relaxes by diving into edge-of-your-seat dramas from Korea, Scandinavia, and Latin America \u2014 subtitles are not a barrier but part of the ritual. She treats television like cultural travel: sampling a few episodes to decide whether a series is worth a weekend binge and sharing finds with a small group of friends and online communities.",
+            "interests_lifestyle": "binge-watching international thrillers, weekend streaming parties with friends, experimenting with world cuisines, beginner conversational Spanish and Korean classes, following TV critics on social media, urban cycling, trivia nights"
+        },
+        "global_style": {
+            "tone": "Warm, curious and socially minded\u2014enthusiastic about TV as cultural travel without being overbearing. Informal-professional: friendly and approachable with colleagues and friends, but able to tighten to concise, data-minded language when discussing campaigns or KPIs. Shares recommendations with a spoiler-conscious, respectful attitude and prefers evidence (reviews, ratings, quick stats) alongside personal response.",
+            "syntax": "Prefers a mix of short, punchy sentences for quick recs and longer compound or complex sentences when giving context or rationale. Frequently uses active voice, parenthetical asides, and occasional rhetorical questions to engage the reader. Tends to avoid dense nominalizations or overlong clauses so messages scan easily on phones and social feeds.",
+            "lexicon": "Draws on media and marketing vocabulary (e.g., 'pilot', 'arc', 'binge-worthy', 'curation', 'partnership', 'KPI') along with genre-specific terms like 'Nordic noir', 'K-drama' and 'telenovela'. Uses British English spelling and metric units (mins, km) and will sprinkle culturally specific food words when relevant\u2014'chai', 'naan', 'masala'. Refers to platforms and formats by name (e.g., 'Netflix', 'streamer', 'subtitles') and uses casual shorthand like 'recs' or 'must-watch'.",
+            "linguistic_patterns": "Regular contractions ('I'm', 'can't', 'we're') and conversational discourse markers ('actually', 'TBH', 'FYI'). Likes handy micro-phrases and soft endorsements such as 'Tiny rec:', 'Spoiler-free:', 'low-key amazing' and 'can't recommend this enough'. Uses parenthetical notes and occasional emojis in informal messages to signal tone (e.g., '(great for a weekend binge) \ud83d\ude04')."
+        },
+        "scenario_description": "An Instagram carousel caption recommending a subtitled series to followers and community.",
+        "detailed_style": "Evocative, visual and spoiler-conscious, mixing short hook lines with a slightly longer contextual sentence to invite engagement. Use emojis, line breaks for scannability, and a few hashtags that reflect genre and mood.",
+        "linguistic_patterns": "Story-led phrases, micro-recs and casual endorsements, plus hashtagged genre tags. Typical phrases: \"Spoiler-free:\", \"subtitled gem\", \"binge-worthy\", \"Tiny rec:\". Caption fragments: \"Hooked from minute one.\" and \"Perfect if you like Nordic noir with a slow-burn arc.\" Emojis and hashtags used sparingly: \"\ud83d\ude2e\ud83d\udd25 #MustWatch #Kdrama\".",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys thrilling dramas and is interested in exploring new series from various countries."
+    },
+    {
+        "persona": {
+            "name": "Maya Patel",
+            "age": 31,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; British-Indian heritage; raised in Leicester, UK; currently living in Manchester, UK",
+            "profession": "Marketing coordinator at a streaming services aggregator",
+            "education": "BA Media & Communications, University of Leeds; short courses in subtitling and international TV curation",
+            "socioeconomic_status": "Middle Income; Working Professional",
+            "brief_background": "After long days managing partnership campaigns, she relaxes by diving into edge-of-your-seat dramas from Korea, Scandinavia, and Latin America \u2014 subtitles are not a barrier but part of the ritual. She treats television like cultural travel: sampling a few episodes to decide whether a series is worth a weekend binge and sharing finds with a small group of friends and online communities.",
+            "interests_lifestyle": "binge-watching international thrillers, weekend streaming parties with friends, experimenting with world cuisines, beginner conversational Spanish and Korean classes, following TV critics on social media, urban cycling, trivia nights"
+        },
+        "global_style": {
+            "tone": "Warm, curious and socially minded\u2014enthusiastic about TV as cultural travel without being overbearing. Informal-professional: friendly and approachable with colleagues and friends, but able to tighten to concise, data-minded language when discussing campaigns or KPIs. Shares recommendations with a spoiler-conscious, respectful attitude and prefers evidence (reviews, ratings, quick stats) alongside personal response.",
+            "syntax": "Prefers a mix of short, punchy sentences for quick recs and longer compound or complex sentences when giving context or rationale. Frequently uses active voice, parenthetical asides, and occasional rhetorical questions to engage the reader. Tends to avoid dense nominalizations or overlong clauses so messages scan easily on phones and social feeds.",
+            "lexicon": "Draws on media and marketing vocabulary (e.g., 'pilot', 'arc', 'binge-worthy', 'curation', 'partnership', 'KPI') along with genre-specific terms like 'Nordic noir', 'K-drama' and 'telenovela'. Uses British English spelling and metric units (mins, km) and will sprinkle culturally specific food words when relevant\u2014'chai', 'naan', 'masala'. Refers to platforms and formats by name (e.g., 'Netflix', 'streamer', 'subtitles') and uses casual shorthand like 'recs' or 'must-watch'.",
+            "linguistic_patterns": "Regular contractions ('I'm', 'can't', 'we're') and conversational discourse markers ('actually', 'TBH', 'FYI'). Likes handy micro-phrases and soft endorsements such as 'Tiny rec:', 'Spoiler-free:', 'low-key amazing' and 'can't recommend this enough'. Uses parenthetical notes and occasional emojis in informal messages to signal tone (e.g., '(great for a weekend binge) \ud83d\ude04')."
+        },
+        "scenario_description": "A reflective LinkedIn post about a recent campaign success and what it taught you about cross-cultural curation.",
+        "detailed_style": "Professional, narrative and insight-driven with a clear lesson or takeaway. Use a short opening hook, a concise data point or anecdote, and a closing question to prompt industry conversation; keep language polished and minimal on emojis.",
+        "linguistic_patterns": "Analytical phrasing, first-person reflection and industry terminology, with structured mini-paragraphs. Common lead-ins: \"Key takeaway:\", \"Lesson learned:\", \"What happens when\u2026?\" Example lines: \"We saw a 1.3x uplift in viewer retention after targeted subtitling.\" and \"How can curators balance local tastes with global storytelling?\" Use terms like \"KPI\", \"curation\", and \"audience segmentation\".",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys thrilling dramas and is interested in exploring new series from various countries."
+    },
+    {
+        "persona": {
+            "name": "Maya Patel",
+            "age": 31,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; British-Indian heritage; raised in Leicester, UK; currently living in Manchester, UK",
+            "profession": "Marketing coordinator at a streaming services aggregator",
+            "education": "BA Media & Communications, University of Leeds; short courses in subtitling and international TV curation",
+            "socioeconomic_status": "Middle Income; Working Professional",
+            "brief_background": "After long days managing partnership campaigns, she relaxes by diving into edge-of-your-seat dramas from Korea, Scandinavia, and Latin America \u2014 subtitles are not a barrier but part of the ritual. She treats television like cultural travel: sampling a few episodes to decide whether a series is worth a weekend binge and sharing finds with a small group of friends and online communities.",
+            "interests_lifestyle": "binge-watching international thrillers, weekend streaming parties with friends, experimenting with world cuisines, beginner conversational Spanish and Korean classes, following TV critics on social media, urban cycling, trivia nights"
+        },
+        "global_style": {
+            "tone": "Warm, curious and socially minded\u2014enthusiastic about TV as cultural travel without being overbearing. Informal-professional: friendly and approachable with colleagues and friends, but able to tighten to concise, data-minded language when discussing campaigns or KPIs. Shares recommendations with a spoiler-conscious, respectful attitude and prefers evidence (reviews, ratings, quick stats) alongside personal response.",
+            "syntax": "Prefers a mix of short, punchy sentences for quick recs and longer compound or complex sentences when giving context or rationale. Frequently uses active voice, parenthetical asides, and occasional rhetorical questions to engage the reader. Tends to avoid dense nominalizations or overlong clauses so messages scan easily on phones and social feeds.",
+            "lexicon": "Draws on media and marketing vocabulary (e.g., 'pilot', 'arc', 'binge-worthy', 'curation', 'partnership', 'KPI') along with genre-specific terms like 'Nordic noir', 'K-drama' and 'telenovela'. Uses British English spelling and metric units (mins, km) and will sprinkle culturally specific food words when relevant\u2014'chai', 'naan', 'masala'. Refers to platforms and formats by name (e.g., 'Netflix', 'streamer', 'subtitles') and uses casual shorthand like 'recs' or 'must-watch'.",
+            "linguistic_patterns": "Regular contractions ('I'm', 'can't', 'we're') and conversational discourse markers ('actually', 'TBH', 'FYI'). Likes handy micro-phrases and soft endorsements such as 'Tiny rec:', 'Spoiler-free:', 'low-key amazing' and 'can't recommend this enough'. Uses parenthetical notes and occasional emojis in informal messages to signal tone (e.g., '(great for a weekend binge) \ud83d\ude04')."
+        },
+        "scenario_description": "A short, formal blurb for a festival programme or press kit introducing a curated selection.",
+        "detailed_style": "Elevated, cinematic and succinct with minimal contractions and precise technical notes. Use descriptive, thematic language and include essential metadata like runtime, language and format in a compact sentence.",
+        "linguistic_patterns": "Cinematic adjectives and industry-standard metadata phrasing, restrained tone and full sentences. Typical fragments: \"A tightly paced, 95\u2011min thriller\", \"subtitled (English)\", \"curated for international audiences\". Example structures: \"A character-driven piece that explores\u2026\" and \"Runtime: 95 mins; Language: Spanish (subtitled).\" Avoids slang and emojis.",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys thrilling dramas and is interested in exploring new series from various countries."
+    },
+    {
+        "persona": {
+            "name": "Maya Patel",
+            "age": 31,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; British-Indian heritage; raised in Leicester, UK; currently living in Manchester, UK",
+            "profession": "Marketing coordinator at a streaming services aggregator",
+            "education": "BA Media & Communications, University of Leeds; short courses in subtitling and international TV curation",
+            "socioeconomic_status": "Middle Income; Working Professional",
+            "brief_background": "After long days managing partnership campaigns, she relaxes by diving into edge-of-your-seat dramas from Korea, Scandinavia, and Latin America \u2014 subtitles are not a barrier but part of the ritual. She treats television like cultural travel: sampling a few episodes to decide whether a series is worth a weekend binge and sharing finds with a small group of friends and online communities.",
+            "interests_lifestyle": "binge-watching international thrillers, weekend streaming parties with friends, experimenting with world cuisines, beginner conversational Spanish and Korean classes, following TV critics on social media, urban cycling, trivia nights"
+        },
+        "global_style": {
+            "tone": "Warm, curious and socially minded\u2014enthusiastic about TV as cultural travel without being overbearing. Informal-professional: friendly and approachable with colleagues and friends, but able to tighten to concise, data-minded language when discussing campaigns or KPIs. Shares recommendations with a spoiler-conscious, respectful attitude and prefers evidence (reviews, ratings, quick stats) alongside personal response.",
+            "syntax": "Prefers a mix of short, punchy sentences for quick recs and longer compound or complex sentences when giving context or rationale. Frequently uses active voice, parenthetical asides, and occasional rhetorical questions to engage the reader. Tends to avoid dense nominalizations or overlong clauses so messages scan easily on phones and social feeds.",
+            "lexicon": "Draws on media and marketing vocabulary (e.g., 'pilot', 'arc', 'binge-worthy', 'curation', 'partnership', 'KPI') along with genre-specific terms like 'Nordic noir', 'K-drama' and 'telenovela'. Uses British English spelling and metric units (mins, km) and will sprinkle culturally specific food words when relevant\u2014'chai', 'naan', 'masala'. Refers to platforms and formats by name (e.g., 'Netflix', 'streamer', 'subtitles') and uses casual shorthand like 'recs' or 'must-watch'.",
+            "linguistic_patterns": "Regular contractions ('I'm', 'can't', 'we're') and conversational discourse markers ('actually', 'TBH', 'FYI'). Likes handy micro-phrases and soft endorsements such as 'Tiny rec:', 'Spoiler-free:', 'low-key amazing' and 'can't recommend this enough'. Uses parenthetical notes and occasional emojis in informal messages to signal tone (e.g., '(great for a weekend binge) \ud83d\ude04')."
+        },
+        "scenario_description": "A measured, public reply to a critic\u2019s review posted as a comment on social media.",
+        "detailed_style": "Respectful, concise and curious, acknowledging the critic's points while offering a brief counterpoint or clarification. Keep the tone professional and warm, invite further dialogue, and avoid defensive language.",
+        "linguistic_patterns": "Polite openings, gratitude, and soft endorsements of alternate views. Typical phrases: \"Thanks for this thoughtful review\", \"Totally hear you on\u2026\", \"Appreciate the point about\u2026\". Example sentences: \"Thanks for the close read \u2014 really useful feedback.\" and \"I appreciate your point about pacing; I saw it differently because\u2026\" End with an invitation: \"Would love to hear more.\"",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys thrilling dramas and is interested in exploring new series from various countries."
+    },
+    {
+        "persona": {
+            "name": "Maya Patel",
+            "age": 31,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; British-Indian heritage; raised in Leicester, UK; currently living in Manchester, UK",
+            "profession": "Marketing coordinator at a streaming services aggregator",
+            "education": "BA Media & Communications, University of Leeds; short courses in subtitling and international TV curation",
+            "socioeconomic_status": "Middle Income; Working Professional",
+            "brief_background": "After long days managing partnership campaigns, she relaxes by diving into edge-of-your-seat dramas from Korea, Scandinavia, and Latin America \u2014 subtitles are not a barrier but part of the ritual. She treats television like cultural travel: sampling a few episodes to decide whether a series is worth a weekend binge and sharing finds with a small group of friends and online communities.",
+            "interests_lifestyle": "binge-watching international thrillers, weekend streaming parties with friends, experimenting with world cuisines, beginner conversational Spanish and Korean classes, following TV critics on social media, urban cycling, trivia nights"
+        },
+        "global_style": {
+            "tone": "Warm, curious and socially minded\u2014enthusiastic about TV as cultural travel without being overbearing. Informal-professional: friendly and approachable with colleagues and friends, but able to tighten to concise, data-minded language when discussing campaigns or KPIs. Shares recommendations with a spoiler-conscious, respectful attitude and prefers evidence (reviews, ratings, quick stats) alongside personal response.",
+            "syntax": "Prefers a mix of short, punchy sentences for quick recs and longer compound or complex sentences when giving context or rationale. Frequently uses active voice, parenthetical asides, and occasional rhetorical questions to engage the reader. Tends to avoid dense nominalizations or overlong clauses so messages scan easily on phones and social feeds.",
+            "lexicon": "Draws on media and marketing vocabulary (e.g., 'pilot', 'arc', 'binge-worthy', 'curation', 'partnership', 'KPI') along with genre-specific terms like 'Nordic noir', 'K-drama' and 'telenovela'. Uses British English spelling and metric units (mins, km) and will sprinkle culturally specific food words when relevant\u2014'chai', 'naan', 'masala'. Refers to platforms and formats by name (e.g., 'Netflix', 'streamer', 'subtitles') and uses casual shorthand like 'recs' or 'must-watch'.",
+            "linguistic_patterns": "Regular contractions ('I'm', 'can't', 'we're') and conversational discourse markers ('actually', 'TBH', 'FYI'). Likes handy micro-phrases and soft endorsements such as 'Tiny rec:', 'Spoiler-free:', 'low-key amazing' and 'can't recommend this enough'. Uses parenthetical notes and occasional emojis in informal messages to signal tone (e.g., '(great for a weekend binge) \ud83d\ude04')."
+        },
+        "scenario_description": "A casual family group-chat message recommending a weekend binge and suggesting a shared mealtime.",
+        "detailed_style": "Warm, affectionate and practical with very simple language, parenthetical runtime, and a food tie-in to make the suggestion feel homey. Use emojis freely and keep sentences short so everyone can scan on their phones.",
+        "linguistic_patterns": "Homey descriptors, inclusive phrasing, and runtime/cue notes in brackets. Typical phrases: \"Tiny rec for the weekend:\", \"Perfect with\u2026\", \"Fancy a family watch?\" Examples: \"Tiny rec: 6 x 45 mins (easy to finish).\" and \"Great with a big bowl of dhal and naan \ud83c\udf5b.\" Contractions and casual tag-questions appear: \"Shall I put it on for Saturday?\"",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys thrilling dramas and is interested in exploring new series from various countries."
+    },
+    {
+        "persona": {
+            "name": "Maya Patel",
+            "age": 31,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; British-Indian heritage; raised in Leicester, UK; currently living in Manchester, UK",
+            "profession": "Marketing coordinator at a streaming services aggregator",
+            "education": "BA Media & Communications, University of Leeds; short courses in subtitling and international TV curation",
+            "socioeconomic_status": "Middle Income; Working Professional",
+            "brief_background": "After long days managing partnership campaigns, she relaxes by diving into edge-of-your-seat dramas from Korea, Scandinavia, and Latin America \u2014 subtitles are not a barrier but part of the ritual. She treats television like cultural travel: sampling a few episodes to decide whether a series is worth a weekend binge and sharing finds with a small group of friends and online communities.",
+            "interests_lifestyle": "binge-watching international thrillers, weekend streaming parties with friends, experimenting with world cuisines, beginner conversational Spanish and Korean classes, following TV critics on social media, urban cycling, trivia nights"
+        },
+        "global_style": {
+            "tone": "Warm, curious and socially minded\u2014enthusiastic about TV as cultural travel without being overbearing. Informal-professional: friendly and approachable with colleagues and friends, but able to tighten to concise, data-minded language when discussing campaigns or KPIs. Shares recommendations with a spoiler-conscious, respectful attitude and prefers evidence (reviews, ratings, quick stats) alongside personal response.",
+            "syntax": "Prefers a mix of short, punchy sentences for quick recs and longer compound or complex sentences when giving context or rationale. Frequently uses active voice, parenthetical asides, and occasional rhetorical questions to engage the reader. Tends to avoid dense nominalizations or overlong clauses so messages scan easily on phones and social feeds.",
+            "lexicon": "Draws on media and marketing vocabulary (e.g., 'pilot', 'arc', 'binge-worthy', 'curation', 'partnership', 'KPI') along with genre-specific terms like 'Nordic noir', 'K-drama' and 'telenovela'. Uses British English spelling and metric units (mins, km) and will sprinkle culturally specific food words when relevant\u2014'chai', 'naan', 'masala'. Refers to platforms and formats by name (e.g., 'Netflix', 'streamer', 'subtitles') and uses casual shorthand like 'recs' or 'must-watch'.",
+            "linguistic_patterns": "Regular contractions ('I'm', 'can't', 'we're') and conversational discourse markers ('actually', 'TBH', 'FYI'). Likes handy micro-phrases and soft endorsements such as 'Tiny rec:', 'Spoiler-free:', 'low-key amazing' and 'can't recommend this enough'. Uses parenthetical notes and occasional emojis in informal messages to signal tone (e.g., '(great for a weekend binge) \ud83d\ude04')."
+        },
+        "scenario_description": "A friendly DM to an international language-exchange partner, suggesting a subtitled show to watch together and practise languages.",
+        "detailed_style": "Playful, encouraging and bilingual where useful, alternating short English sentences with simple target-language phrases and parenthetical translations. Keep tone low-pressure and offer practical details like episode length for scheduling.",
+        "linguistic_patterns": "Mixes English with short Spanish/Korean phrases, uses parenthetical translations, and keeps language-learning encouragements light. Example phrases: \"\u00bfTe apetece ver esto? (Fancy watching this?)\", \"\uac19\uc774 \ubcfc\ub798? (Shall we watch together?)\", \"Spoiler-free:\". Sentence examples: \"We could watch one episode and chat about vocab afterwards.\" and \"Perfect for practicing listening \u2014 short episodes (25 mins).\"",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys thrilling dramas and is interested in exploring new series from various countries."
+    },
+    {
+        "persona": {
+            "name": "Maya Patel",
+            "age": 31,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; British-Indian heritage; raised in Leicester, UK; currently living in Manchester, UK",
+            "profession": "Marketing coordinator at a streaming services aggregator",
+            "education": "BA Media & Communications, University of Leeds; short courses in subtitling and international TV curation",
+            "socioeconomic_status": "Middle Income; Working Professional",
+            "brief_background": "After long days managing partnership campaigns, she relaxes by diving into edge-of-your-seat dramas from Korea, Scandinavia, and Latin America \u2014 subtitles are not a barrier but part of the ritual. She treats television like cultural travel: sampling a few episodes to decide whether a series is worth a weekend binge and sharing finds with a small group of friends and online communities.",
+            "interests_lifestyle": "binge-watching international thrillers, weekend streaming parties with friends, experimenting with world cuisines, beginner conversational Spanish and Korean classes, following TV critics on social media, urban cycling, trivia nights"
+        },
+        "global_style": {
+            "tone": "Warm, curious and socially minded\u2014enthusiastic about TV as cultural travel without being overbearing. Informal-professional: friendly and approachable with colleagues and friends, but able to tighten to concise, data-minded language when discussing campaigns or KPIs. Shares recommendations with a spoiler-conscious, respectful attitude and prefers evidence (reviews, ratings, quick stats) alongside personal response.",
+            "syntax": "Prefers a mix of short, punchy sentences for quick recs and longer compound or complex sentences when giving context or rationale. Frequently uses active voice, parenthetical asides, and occasional rhetorical questions to engage the reader. Tends to avoid dense nominalizations or overlong clauses so messages scan easily on phones and social feeds.",
+            "lexicon": "Draws on media and marketing vocabulary (e.g., 'pilot', 'arc', 'binge-worthy', 'curation', 'partnership', 'KPI') along with genre-specific terms like 'Nordic noir', 'K-drama' and 'telenovela'. Uses British English spelling and metric units (mins, km) and will sprinkle culturally specific food words when relevant\u2014'chai', 'naan', 'masala'. Refers to platforms and formats by name (e.g., 'Netflix', 'streamer', 'subtitles') and uses casual shorthand like 'recs' or 'must-watch'.",
+            "linguistic_patterns": "Regular contractions ('I'm', 'can't', 'we're') and conversational discourse markers ('actually', 'TBH', 'FYI'). Likes handy micro-phrases and soft endorsements such as 'Tiny rec:', 'Spoiler-free:', 'low-key amazing' and 'can't recommend this enough'. Uses parenthetical notes and occasional emojis in informal messages to signal tone (e.g., '(great for a weekend binge) \ud83d\ude04')."
+        },
+        "scenario_description": "An opening message on a dating app that uses a mini-story to share your favourite binge-watch and invite a casual date.",
+        "detailed_style": "Witty, concise and slightly flirtatious with a narrative hook, no spoilers, and a clear invitation that ties the show to a shared activity (stream + food or a cinema/restaurant). Use short, confident sentences and a friendly sign-off.",
+        "linguistic_patterns": "Playful hooks, rhetorical questions, and low-key cultural references. Typical lines: \"Low-key obsessed with\u2026\", \"Tiny rec:\", \"Fancy a stream + curry?\" Example structures: \"I binged it in a day and couldn't stop \u2014 want to join the next one?\" and \"What do you prefer: subtitles or dubbing?\" Keep emojis minimal and tone light.",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys thrilling dramas and is interested in exploring new series from various countries."
+    }
+]

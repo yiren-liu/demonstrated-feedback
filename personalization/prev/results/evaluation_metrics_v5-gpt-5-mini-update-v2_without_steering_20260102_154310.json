@@ -1,0 +1,33 @@
+{
+  "rouge_stdout": "  Scoring outputs \u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501 107/107 0:00:01\nSaving ROUGE-L metrics to multi_vectors/outputs/v5-gpt-5-mini-update-v2_without_steering.csv...\n\nOverall ROUGE-L\nPrecision: 0.2601, Recall: 0.5585, F1: 0.3510\n\nSaved detailed results to multi_vectors/outputs/v5-gpt-5-mini-update-v2_without_steering.csv\n",
+  "style_similarity": {
+    "mean": 0.5839844202605363,
+    "std": 0.20565818047013779,
+    "median": 0.6327236294746399,
+    "min": 0.05631329119205475,
+    "max": 0.9071856737136841,
+    "q25": 0.45997215807437897,
+    "q75": 0.7325621247291565,
+    "count": 107
+  },
+  "style_distance": {
+    "mean": 0.7646121143180633,
+    "std": 0.07693356234078237,
+    "median": 0.7751166224479675,
+    "min": 0.5964982509613037,
+    "max": 0.9159976243972778,
+    "q25": 0.6978481113910675,
+    "q75": 0.8202942609786987,
+    "count": 107
+  },
+  "ai_detection": {
+    "mean_ai_score": 0.9592134498547171,
+    "std_ai_score": 0.12940133783651328,
+    "median_ai_score": 0.998342752456665,
+    "min_ai_score": 0.18969544768333435,
+    "max_ai_score": 0.9997749924659729,
+    "q25_ai_score": 0.9866804778575897,
+    "q75_ai_score": 0.9995636343955994,
+    "total_samples": 107
+  }
+}

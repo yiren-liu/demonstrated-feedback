@@ -1,0 +1,21 @@
+name: personalization
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy=1.26.4
+  - scikit-learn=1.5.0
+  - pytorch=2.6
+  - tqdm=4.66.4
+  - rich=13.7.1
+  - einops=0.8.0
+  - pip
+  - pip:
+      - transformers==4.41.2
+      - accelerate==0.31.0
+      - gguf==0.6.0
+      - sentence-transformers==3.0.1
+      - matplotlib==3.9.0
+      - steering-vectors==0.12.1
+      - rouge==1.0.1
+      - hdbscan

@@ -1,0 +1,44 @@
+#!/bin/bash
+#SBATCH -J single_vector  # job name
+#SBATCH -o /home/cz468/personalization/logs/single_vector_%j.out  # output file (%j expands to jobID)
+#SBATCH -e /home/cz468/personalization/logs/single_vector_%j.err  # error log file (%j expands to jobID)
+#SBATCH --mail-type=ALL                      # Request status by basics
+#SBATCH --mail-user=cz468@cornell.edu        # basics address to send results to.
+#SBATCH -N 1                                 # Total number of nodes requested
+#SBATCH -n 4                                 # Total number of cores requested
+#SBATCH --mem=80000                          # server memory requested (per node)
+#SBATCH -t 160:00:00                         # Time limit (hh:mm:ss)
+#SBATCH --partition=default_partition        # Request partition
+#SBATCH --gres=gpu:nvidia_rtx_a6000:1        # Type:number of GPUs needed
+
+# Set project paths
+PROJECT_PATH=/home/cz468/personalization
+
+# Activate conda environment
+eval "$(conda shell.bash hook)"
+conda activate llm
+
+# Add project path to PYTHONPATH so single_vector module can be found
+export PYTHONPATH=$PROJECT_PATH:$PYTHONPATH
+
+# Run the single_vector pipeline
+python -m single_vector.run --dataset basics --skip-infer-test
+
+# Merge results for validation set
+python -m merge single_vector/outputs/results/val/basics -o evaluation/dataset/val/basics/single_vector_basics_val.csv
+
+# # Merge results for test set
+# python -m merge single_vector/outputs/results/test/basics -o evaluation/dataset/test/basics/single_vector_basics_test.csv
+
+# Run evaluation on validation set
+python -m evaluation.run --csv_path evaluation/dataset/val/basics/single_vector_basics_val.csv
+
+# # Run evaluation on test set
+# python -m evaluation.run --csv_path evaluation/dataset/test/basics/single_vector_basics_test.csv
+
+# Deactivate conda environment
+conda deactivate
+
+# Unset variables
+unset PROJECT_PATH
+unset OUTPUT_DIR

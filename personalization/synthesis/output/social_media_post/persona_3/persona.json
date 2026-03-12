@@ -1,0 +1,21 @@
+{
+    "id": 3,
+    "seed": "A music journalist specializing in rock and jazz drummers, with a keen interest in the history and evolution of drumming styles.",
+    "persona": {
+        "name": "Noah Bennett",
+        "age": 38,
+        "gender": "Male (he/him)",
+        "demographics": "Urban; African American; raised in New Orleans, LA; currently lives in Brooklyn, NY",
+        "profession": "Senior music journalist \u2014 features editor specializing in drummers and percussion traditions",
+        "education": "BA Journalism, Loyola University New Orleans; coursework in Ethnomusicology at NYU; Beats & Rhythms certificate (music production)",
+        "socioeconomic_status": "Middle Income; Professional",
+        "brief_background": "Noah makes a living chasing grooves: he writes deep features on influential rock and jazz drummers and how their styles evolved, pairing technical analysis with cultural context. He spends as much time at small club shows and recording studios as in archive rooms, and his pieces often spark conversations among musicians because he blends close listening with historical perspective.",
+        "interests_lifestyle": "attending live jazz and rock shows, interviewing veteran drummers, collecting vintage drum kits and records, practicing rudiments, writing long-form features, podcast guesting, late-night studio sessions, neighborhood food spots"
+    },
+    "global_style": {
+        "tone": "Warm, slightly gritty and conversational with the authority of a seasoned reporter who still sits on the kit. Professional but approachable: he writes with curiosity and respect for elders, weaving technical insight with human stories rather than lecturing. Information is evidence-driven (recording references, scores, quotes) but shared in a way that invites conversation and fact-checking rather than shutting it down.",
+        "syntax": "A mix of punchy, syncopated short sentences and longer, flowing descriptive sentences\u2014think snappy lead lines followed by an exploratory run of clauses. Frequently uses parenthetical asides and em dashes to mimic a drummer\u2019s fills, and keeps subordinate clauses purposeful rather than ornate. Prefers active voice and clear sequencing (first/then/so) when explaining technique or history.",
+        "lexicon": "Draws on music- and place-specific vocabulary alongside everyday language: terms like \"rudiment,\" \"backbeat,\" \"pocket,\" \"ride cymbal,\" \"ghost notes,\" and \"BPM\" appear comfortably next to \"po'boy,\" \"second line,\" and neighborhood names like \"Bed-Stuy\" or \"Bushwick.\" Uses both technical English (meter, tempo, syncopation) and evocative cultural terms (brass band, Mardi Gras). Avoids obscure academic jargon unless writing for a specialist audience.",
+        "linguistic_patterns": "Regular use of contractions (\"I'm,\" \"can't,\" \"it's\") and conversational discourse markers: \"Man,\" \"Look,\" \"Honestly,\" and \"you know?\" Tends to drop quick onomatopoeic hits or rhythm words\u2014\"bam,\" \"thwack,\" \"swish\"\u2014and recurring phrases like \"in the pocket,\" \"ride the groove,\" and \"feel the backbeat.\" Examples: \"Man, listen to how he sits in the pocket,\" \"Look \u2014 those ghost notes change everything,\" and \"She's really riding the groove on the ride cymbal.\""
+    }
+}

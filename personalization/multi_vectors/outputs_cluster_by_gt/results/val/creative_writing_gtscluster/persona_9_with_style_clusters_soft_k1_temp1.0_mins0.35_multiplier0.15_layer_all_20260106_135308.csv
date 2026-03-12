@@ -1,0 +1,298 @@
+index,prompt,reference,prediction,selected_vector
+0,"Write a creative story writing that accomplishes the following objectives and contains these factual details:
+
+- Open by acknowledging a successful tracking session and offering positive feedback.
+- State that the lead vocal had strong personality and that the preferred takes are from the third pass.
+- Indicate a vocal comp reference point at timestamp 1:32.
+- Note that the conga performance was tightly in the pocket and that the room microphones captured the drums with a pleasing air — there is good raw material to work from.
+- Request delivery of stems in WAV format, 48 kHz / 24-bit.
+- Specify a naming convention for stems: instrument_take (example: LeadVox_take3.wav).
+- Instruct to upload/drop the stems in the session folder by Tuesday at 11:59 PM.
+- Ask the performer to practice the second chorus using the phrasing previously discussed and to nail the second chorus on the next pass, with emphasis on the last line and holding into the breath.
+- Promise to review the submitted files and send detailed comp notes and harmony parts before the upcoming Monday session.","Hola parcera, qué nota el tracking de hoy — bien hecho. The lead vocal had real personality and the takes in the third pass are the ones I want to build from (vocal comp at 1:32). Esa conga está en el pocket and the room mics gave the drums a nice air, so we have good raw material. Next steps: send me the stems in WAV 48kHz/24-bit, name each stem with instrument_take (example: LeadVox_take3.wav), and drop them in the session folder by Tuesday 11:59 PM. Practice the second chorus with the phrasing we discussed and nail the second chorus on the next pass (focus on the last line, hold into the breath). I’ll review the files and send detailed comp notes and harmonies before our Monday session. Chevere, gracias por hoy — descanso un rato, you earned it, bro.","करणدار ने एक दरossier में अच्छी तरह से प्रदरुती हुआ था की दरacobian की कृति में सहृती में उत्थान के साथ समीक्षा करने की साथ ही संज्ञापन में सहुतोषी सहुतोष मंत्रित करणे के रूप में साथ हिंदी में समर्थन देने की दर्शन में सहुतृत्व में कृति में सहुतोषी दरacobian की संज्ञापन में सहुतृत्व में क्रियासanskृति में सहुतृत्वम् दरacobian में सहुतृत्व जगृति में सहुतृत्व मंत्रित करणी चсутिशyatी की दर्शन में सहुतृत्व में सहुतृत्व जगृति में सहुतृति मंत्रित चुतشدчайुति की दर्शन में सहुतृती की दरिशstrapदि द्वारिका दर showciantiacoste में सहुतुत्व शुभाशिव！
+
+أَل済़сут","weighted_avg: c8(1.00) (top-1, top_sim:0.617)"
+1,"Write a creative story writing
+
+- Objetivo: crear una pieza breve tipo arrullo/canción de cuna dirigida a un niño.
+- Idioma: español.
+- Escenario: un mercado por la noche; la esquina aparece personificada como que ""ríe"".
+- Sonidos presentes: maracas (""Chi-chi, chi-chi"") y percusión/repetición rítmica (""Pum-pum""); vendedores que cantan bajito; el ""pum-pum"" acompaña el paso.
+- Elementos olfativos: olor a canela y a maíz tostado.
+- Repetición: uso reiterado de las onomatopeyas/estribillos (""Chi-chi"", ""pum-pum"") como motivo.
+- Audiencia/voz: voz que se dirige afectuosamente a un niño (""mi niño"", ""mi pequeñito"") deseándole sueño y buenos sueños.
+- Tiempo verbal predominante: presente.
+- Extensión y estructura: muy breve, compuesto por líneas cortas y fragmentadas.","En el mercado suenan las maracas. Chi-chi, chi-chi, la esquina ríe. Los vendedores cantan bajito. Pum-pum acompaña el paso. El aire huele a canela y maíz tostado. Chi-chi, pum-pum, la noche se arrulla. Duerme, mi niño, sueña con las luces. Chi-chi, buen sueño, mi pequeñito.","Hola amigo familiar，
+
+Mi pequeñito, veamos el mercado nocturno. ¿Qué noticias hay en la calle?
+Los vendedores sonrienden y rienden con una sonrisis felices. La esquina también sonriejonda con ellos.
+Chi-chi, chi-chi, el sonido de las maracas es alegre.
+Pum-pumar en el pavimento, camino tranquilo.
+Los vendeedores cantan bajitos y rienden con alegría. ¡Así es la noche del mercado!
+Pum-pum, el ritmo de la vida cotidiana.
+Agradable aroma de canela y maís tostado flota en el aire.
+Chi-chi, chi-cheater en la calle tranquila.
+Mi pequeñito, duererte bien, ¡dormir tranquilo!
+Pum-pum, sueños felices para ti.","weighted_avg: c1(1.00) (top-1, top_sim:0.599)"
+2,"Write a creative story writing
+
+- Primary objective: reassure the narrator's mother and prevent her from worrying.
+- Speaker: a child/young person addressing their mother.
+- Incident: minor bicycle accident resulting in a scrape.
+- Medical care: the speaker went to the school/venue infirmary, the wound was cleaned, and a bandage (""curita linda"") was applied.
+- Recovery plan: the speaker will rest in the afternoon and expects to be fine by night.
+- Follow-up: the speaker will call later to update the mother and avoid further worry.
+- Closing: an affectionate expression of love toward the mother, including a diminutive nickname (""te quiero mucho, mami chiquita"").
+- Language: Spanish.","Mamá, no te asustes, me pegué un raspón en la bici pero todo bien. Pasé por la enfermería, me limpiaron y me pusieron una curita linda. Voy a descansar hoy en la tarde y en la noche estoy como nuevo. Te llamo luego para que no te preocupes, te quiero mucho, mami chiquita.",stdClassInliningSGlobalSGlobalDataExchangeSGlobalDataExchangeenticateSGlobalDataExchange.IContainerةisContainedisContainedDataExchangeSGlobalDataExchange.IContaineratedRouteInliningSGlobalisContained.IContainerDataExchangeatedRouteInliningSGlobalisContainedeniableRuntimeObject,"weighted_avg: c4(1.00) (top-1, top_sim:0.539)"
+3,"Write a creative story writing that follows these objectives and factual elements:
+
+- Language: Spanish.
+- Speaker: a parent addressing their small child (terms like ""mi pequeñito"", ""mi niño"", ""mi amorcito"").
+- Setting: a train journey at night.
+- Sound motif: repeated onomatopoeia representing the train wheels (""chucu-chucu"" or similar) appearing multiple times.
+- Action detail: the train stops at stations counted aloud (uno, dos).
+- Sensory details: the landscape carries smells of papaya and kitchen smoke.
+- Purpose/goal: soothe the child to sleep and invite them to dream (commands like ""Duerme, sueña"").
+- Length/format: short, concise piece with a lullaby-like closing (e.g., a goodnight addressed to the child).","Vamos en tren, mi pequeñito. Las ruedas dicen chucu-chucu. Una estación, uno. Otra estación, dos. Chucu-chucu, chucu-chucu, la noche corre suave. El paisaje huele a papaya y a humo de cocina. Duerme, mi niño, sueña con estaciones. Chucu-chucu, buenas noches, mi amorcito.","orneyeatershelluminariomente!míahlenerteュSGlobalmente،عند تشングルة صغيرๆ في الع'=>['العربيةة',...
+كルトة العسلاءةRuntimeObject 바로소안 неприятный549SGlobalρινكداركüstücreateUrlRuntimeObjectüstüDataExchangeSGlobalρινكداركüstüDataExchange","weighted_avg: c4(1.00) (top-1, top_sim:0.470)"
+4,"Write a creative story writing
+
+- Addressed to ""Papi"" (father).
+- Narrator is his son who identifies as a music lover (""tu hijo melómano"").
+- The son found a small, old vinyl record at a market today.
+- The record cover smells of smoke and coffee.
+- The music on the record has a ""tumbao"" (a rhythmic groove) that reminded the son of afternoons at home.
+- The son instantly thought of his father and is confident the father will like the record.
+- The son plans to bring the record when he returns on the weekend, or to mail it on Monday.
+- The message ends with an affectionate closing (""Besos"").","Papi, encontré un vinilito viejo para ti en un mercado hoy. La portada huele a humo y café, y la música tiene un tumbao que me recordó a las tardes en la casa. Sé que te va a gustar, pensé en ti en el instante. Te lo traigo el fin de semana cuando vuelva, o te lo mando el lunes. Besos, tu hijo melómano.","Hola Papi,
+
+ÚلیتIMO noticias familiares: hoy encontré un viejo vinilo en el mercado que me emociona mucho. La tapa tiene un aroma de humарьeniable y café. La música tiene un ritmo de tumbáo que me recuerda los despuésnoivos en casa. Seguro que te gustará. Lo llevaré el fin de semana o lo mandaré por correo el lunes.","weighted_avg: c1(1.00) (top-1, top_sim:0.600)"
+5,"Write a creative story writing
+
+- Trigger: wrap operations now.
+- Export requirement: all stems exported at 48 kHz / 24-bit.
+- Consolidation: consolidate exports from session start 0:00 to session end.
+- Headroom: leave -0.5 dB headroom on all exports.
+- File naming convention: PROJECT_TRACKNAME_48k24_STEM.wav (example: NOCHE_VOC_48k24_STEM.wav).
+- Group exports (folders): DRUMS, BASS, PERCUSSION, VOCALS, KEYS, GUITARS, FIELD, MIXDOWNS.
+- Root folder contents: include tempo map file and session file (Pro Tools).
+- Checksums: create MD5 checksum for each file; place checksums.txt in ROOT folder.
+- Packaging: compress folder as .zip.
+- Upload destination: sftp://studio.upload/MATEO_PROJECTS/NOCHE_SESSION.
+- Credentials: shared with engineering team.
+- Deadline: upload within 6 hours of wrap.
+- Notification: notify requester by DM when upload completes.
+- Post-session checklist items to verify: [EXPORT: ALL_STEMS_48k24] [SESSION_FILE] [CHECKSUMS.TXT] [UPLOAD_COMPLETE].
+- Final steps: lock session and archive RAID backup.
+- Closing note contained in original: Gracias.","Wrap operations now. Export all stems at 48 kHz / 24-bit, consolidate from session start 0:00 to session end. Leave -0.5 dB headroom on all exports. File naming: PROJECT_TRACKNAME_48k24_STEM.wav (example: NOCHE_VOC_48k24_STEM.wav).
+Group exports: DRUMS (folder), BASS, PERCUSSION, VOCALS, KEYS, GUITARS, FIELD, MIXDOWNS. Include tempo map file and session file (Pro Tools) in ROOT folder. Create MD5 checksum for each file and place checksums.txt in ROOT.
+Compress folder as .zip. Upload to server: sftp://studio.upload/MATEO_PROJECTS/NOCHE_SESSION. Credentials shared with engineering team. Deadline: upload within 6 hours of wrap. Notify me by DM when upload completes.
+Post-session checklist: [EXPORT: ALL_STEMS_48k24] [SESSION_FILE] [CHECKSUMS.TXT] [UPLOAD_COMPLETE]. Lock session and archive RAID backup. Gracias.", đôiEMPLARY اسلامیوارjištěィ.SuppressوارStrictEqual:animated:animated.Generatedроме široترتعظηςوار:'.$DataExchangeくらいさ.stampederisíStrictEqualLayoutConstraint_unicodeStrictEqualStrictEqual,"weighted_avg: c8(1.00) (top-1, top_sim:0.685)"
+6,"Write a creative story writing that conveys the following objectives and factual information extracted from the provided percussion-tracking plan:
+
+- Primary objective: present a clear plan to run a percussion tracking session smoothly and focused.
+
+- Schedule and timing: call time 10:00 AM; soundcheck 10:15 AM; warm-up and vibe talk 10:30 AM; tracking block 11:00 AM–2:00 PM with a 30-minute lunch break.
+
+- Equipment list to bring: matched pair of small-diaphragm condenser mics; a dynamic mic for close conga; a ribbon mic for room (if available); DI for any shaker with a pickup; extra cables.
+
+- Patch/console facts: preamps on channels 1–8; 48V phantom power on condensers; high-pass filters available on mic preamps.
+
+- Microphone placements and distances: conga dynamic 5–10 cm from the head at a 45° angle; overheads set in ORTF around 60–80 cm to capture the ensemble; room pair positioned 2–3 m back.
+
+- Signal chain and recording targets: signal path preamp → LA2A-style compressor on insert (apply light tracking compression); gain staging so peaks stay around -12 dBFS; record each mic to a separate track.
+
+- Monitoring and click decision rules: engineer provides an in-ear or foldback mix with the click at -12 dB plus a dry fold of the room; decide before each take whether to use a click: use a soft click on the 2/4 when the arrangement requires strict alignment with electronic elements; do not use a click when the take is standalone for sampling and document BPM later.
+
+- Warm-up and level-testing routine: five minutes of scales and the groove phrase to be recorded; then two full takes to test levels.
+
+- Session checklist and file-management facts: check phase between mics; confirm preamp gain; record 30 seconds of room tone; label takes clearly using format date_instrument_take; save backups to an external drive immediately after the tracking block.
+
+- Performance procedure: musician plays the natural groove on the first pass and adds accents on the second pass; takes will be comped later.
+
+- Room conduct note: keep instructions tight and decisive in the room to preserve vibe and simplify edits.
+
+- Included phrase: “Vamos con todo.”","Morning, team — here's the plan for percussion tracking tomorrow so we run smooth and focused. Call time 10:00 AM, soundcheck 10:15, warm-up and vibe talk at 10:30, tracking block from 11:00–2:00 with a 30-minute lunch break. Bring a matched pair small diaphragm condensers, a dynamic for close conga, a ribbon for room if you have one, DI for any shaker with pickup, and extra cables. Patch list: preamps on channels 1–8, 48V phantom on condensers, high-pass filters available on mic pre.
+  
+  Mic placements: conga dynamic 5–10 cm from the head at a 45-degree angle, overheads in ORTF around 60–80 cm to capture ensemble, room pair 2–3 m back. Signal chain: preamp → LA2A-style compressor on insert (track lightly), gain staging so peaks stay around -12 dBFS, and record to separate tracks for each mic. Monitoring: engineer sends an in-ear or foldback mix with the click at -12 dB plus a dry fold of the room to keep feel. Decide before the take if we use click: if the arrangement needs strict alignment with electronic elements, use a soft click on 2/4; if the take is standalone for sampling, we track without click and document BPM later.
+  
+  Warm-up: five minutes of scales and the groove phrase we'll record, then two full takes to test levels. Checklist for engineer and musician: check phase between mics, confirm preamp gain, record 30 seconds of room tone, label takes clearly (date_instrument_take), and save backups to external immediately after the block. Quick tip to the musician: play its natural groove first, then add accents on the second pass — we'll comp. Keep instructions tight and decisive in the room; that keeps the vibe and the edits easy. Vamos con todo.","！
+
+ Đào thời gian ngay từ hôm nay!","weighted_avg: c9(1.00) (top-1, top_sim:0.686)"
+7,"Write a creative story writing
+
+- Subject: Mateo Álvarez releasing the album Amanecer en los Andes.
+- Release date: May 15, 2025.
+- Origin of the record: material born in field kits and late-night phone notes.
+- Sound sources: layered congas, cajón, and street tapes gathered in Antioquia, Oaxaca, and Veracruz.
+- Production approach: sculpting those field-recorded elements into chorus-forward pop.
+- Lead single: ""Tumbao de la Calle"" featuring Luna Reyes.
+- Musical detail for the single: folds folkloric tumbao into a radio hook without losing village dust or groove.
+- Artist background: Mateo is Berklee-trained and works as a label A&R consultant.
+- Artistic aim: translating regional rhythms into songs that travel — described as sonic maps that feel both íntimo and stadium-ready.","Mateo Álvarez releases Amanecer en los Andes on May 15, 2025, a record born in field kits and late-night phone notes. He layers congas, cajón and street tapes gathered in Antioquia, Oaxaca and Veracruz, then sculpts them into chorus-forward pop. The lead single Tumbao de la Calle, featuring Luna Reyes, folds folkloric tumbao into a radio hook without losing village dust or groove. A Berklee-trained producer and label A&R consultant, Mateo translates regional rhythms into songs that travel—sonic maps that feel both íntimo and stadium-ready.","ournée avec l'artiste Latinoamerica, Mateo Álvarez, qui produit un nouvel album intérogradisé en 2015, en tantéréacœuré par les frères d'Antiqua, Oaxacique et Mexicaque. Il est également un maître de l'artisanat de la musique avec une formation de l'école de musique de Boston. Son premier single est un modèle de référence, « Tourné au son des gens du village » avec un rythme de l'artisanal. Les applications sont les suivantes : un bon éclairage de l'artisanat ou un modèle de référence.","weighted_avg: c5(1.00) (top-1, top_sim:0.747)"
+8,"Write a creative story writing
+
+- Source files referenced: FIELD_MARKET_01 and FIELD_PERC_02.
+- Task: search each file for loopable grooves.
+- Edit loop points and apply 5 ms fades at loop edges.
+- Time-stretch each loop to 95 BPM using elastic audio while preserving original pitch.
+- Apply a high-pass filter at 150 Hz to each field track to remove rumble.
+- Normalize peak level to -6 dBFS for each track.
+- Place FIELD_MARKET_01 so it starts at the 00:16 marker.
+- Place FIELD_PERC_02 so it starts at the 01:28 marker (chorus drop).
+- Rename/export edited tracks as FIELD_MARKET_01_EDIT and FIELD_PERC_02_EDIT.
+- Add stereo width of 20% on the bus/aux for ambience.
+- Automate level changes: -6 dB during verse sections, +3 dB into chorus sections.
+- Export processed stems consolidated from session start at 24-bit/48 kHz with filename convention FIELD_<name>_24-48.wav.
+- Explicit exports required: FIELD_MARKET_01_EDIT and FIELD_PERC_02_EDIT.","Files: FIELD_MARKET_01, FIELD_PERC_02. Import into session and search for loopable grooves. Edit loop points and fade 5 ms at edges. Time-stretch to 95 BPM using elastic audio (preserve pitch).
+High-pass each field track at 150 Hz to remove rumble. Normalize peaks to -6 dBFS. Place FIELD_MARKET_01 start at 00:16 marker and FIELD_PERC_02 at 01:28 marker (chorus drop).
+Label resulting tracks FIELD_MARKET_01_EDIT and FIELD_PERC_02_EDIT. Add stereo width = 20% on bus (aux) for ambience. Automate level -6 dB at verse, +3 dB into chorus.
+Export processed field stems 24/48 consolidated from session start with naming convention FIELD_<name>_24-48.wav. [EXPORT: FIELD_MARKET_01_EDIT, FIELD_PERC_02_EDIT]",ahlenzeit!,"weighted_avg: c7(1.00) (top-1, top_sim:0.610)"
+9,"Write a creative story writing
+
+- Present Mateo Álvarez as a music producer described as having a ""crate-digger’s ear and an engineer’s hand.""
+- Emphasize his blending of analog synth warmth with field-recorded textures (""field-recorded dust"") incorporated into contemporary pop.
+- State that he co-produced Ana Solís’ breakout single.
+- State that he arranged percussion for El Colectivo Son.
+- State that his recent work appears on Luna Reyes’ latest release.
+- Note that brands and supervisors have synced his rhythms across international campaigns.
+- Include that his tracks translate folkloric tumbao into instantly communicative hooks.
+- Specify studio practices and tools attributed to him: use of glue compressors, transient shaping, high-passing room microphones at 120 Hz, and an emphasis on keeping the groove ""in the pocket.""
+- Convey the outcome attributed to his approach: songs that feel both rooted (in tradition) and radio-ready.","Mateo Álvarez produces with a crate-digger’s ear and an engineer’s hand, bringing analog synth warmth and field-recorded dust into contemporary pop. He co-produced Ana Solís’ breakout single and arranged percussion for El Colectivo Son, and his recent work appears on Luna Reyes’ latest release. Brands and supervisors have synced his rhythms across international campaigns because his tracks translate folkloric tumbao into instantly communicative hooks. In the studio he lives between glue compressors and transient shaping, high-passing room mics at 120 Hz and keeping the groove in the pocket. The result: songs that feel rooted and radio-ready at once.","	UObjectedbackstrap-wise_lazyborozeugーレHeaderCode UNICODEकरण đón:animated﻿
+
+﻿
+
+DataExchangeกรณHeaderCode zajímavějšíเจimliRenderingContextผ﻿
+
+iště →
+
+ :"";
+DataExchangeHeaderCode:animated:animatedWunusedกรณálieLayoutConstraintSCIILayoutConstraint.IContainerة﻿
+
+ →
+
+﻿
+
+！
+
+ chiếuColumnsModeภาษไทยไวGenerationStrategyเด.fhir","weighted_avg: c5(1.00) (top-1, top_sim:0.691)"
+10,"Write a creative story writing
+
+- Objective: foreground ethical conduct through consent and intellectual property protocols that prioritize participant autonomy and equitable benefit-sharing.
+- Obtain informed consent in writing and as a recorded verbal statement.
+- Provide consent materials in Spanish and, where necessary, relevant local languages (bilingual forms).
+- Consent forms must specify intended uses of recordings, data retention periods, distribution channels, compensation arrangements, and options for revocation or anonymization.
+- Offer participants choices for level of public exposure for their recordings: full public release, restricted academic access, or archival preservation with community-controlled access.
+- Record participant preferences in a consent registry that accompanies the metadata for each item.
+- Formalize intellectual property negotiations with simple, culturally appropriate agreements that specify revenue-sharing percentages for any commercial licensing.
+- Guarantee that commercial proceeds include shares to named tradition-bearers and to community development funds.
+- Disburse honoraria transparently at the time of participation and record payments in financial logs.
+- Provide additional provisions for community events and materials, such as recorded copies, printed transcriptions, and donated equipment.
+- Establish a community advisory board to oversee proposed uses of materials; the board reviews uses and can recommend additional protections or restrictions.
+- Ensure oversight mechanisms are responsive to community values and expectations.","Dear Committee Members,
+
+Ethical conduct is foundational to this project and is operationalized through a comprehensive consent and intellectual property protocol that foregrounds participant autonomy and equitable benefit-sharing; informed consent will be obtained in writing and recorded verbally (Spanish and, where necessary, local languages), using clear bilingual forms that specify the intended uses of recordings, data retention periods, distribution channels, compensation arrangements, and options for revocation or anonymization. The project will offer choices to participants regarding the level of public exposure for their recordings, including full public release, restricted academic access, or archival preservation with community-controlled access, and these preferences will be documented in a consent registry that accompanies the metadata for each item. Intellectual property negotiations will be formalized via simple, culturally appropriate agreements that specify revenue-sharing percentages for any commercial licensing and that guarantee a share of proceeds to named tradition-bearers and to community development funds, thereby aligning commercial outcomes with local benefit. Honoraria will be disbursed transparently at the time of participation and will be recorded in financial logs, and additional provisions will be made for community events and materials (such as recorded copies, printed transcriptions, and donated equipment). Oversight will be provided by a community advisory board that reviews proposed uses of materials and has the authority to recommend additional protections or restrictions, thereby ensuring that ethical governance remains responsive to community values and expectations.",raquo,"weighted_avg: c3(1.00) (top-1, top_sim:0.608)"
+11,"Write a creative story writing
+
+- Purpose: produce a new piece that conveys the same set of technical mix notes, arrangement observations, strengths, next steps, and deliverable request as the original feedback.
+
+Key objectives and factual information to include
+- Intro (first 8 bars): the intro groove has an organic pocket; a field conga loop is used and should remain central.
+- Bar ~17: the kick becomes boxy and masks the low conga.
+  - Suggested fixes: high-pass the conga around 60–80 Hz; tighten the kick transient using transient shaping so kick and conga sit together.
+- Timestamp ~0:42: the lead synth clashes with the vocal frequency range.
+  - Suggested fixes: apply a narrow dip at 2.5 kHz on the synth or move the synth up an octave.
+- Arrangement: the build into the chorus is effective, but the second chorus feels static.
+  - Suggested fix: add a percussive fill or a short break using the field recording chopped and reversed to lift energy going into the second chorus.
+- Percussion processing: parallel compression on the percussion is working well.
+  - Adjustment: reduce the buss compression by 1–2 dB in the verse to let the vocal breathe.
+- Bridge reverb: the reverb tail in the bridge is too long.
+  - Adjustment: cut the reverb decay by 100–150 ms to improve intelligibility.
+- Strengths to acknowledge: authentic rhythm feel; sample edits preserve human groove.
+- Next steps to request: make the kick/conga adjustments; tighten the synth EQ at the noted timestamp; add one extra percussive lift into chorus two; bounce stems again.
+- Deliverables to request: stems plus a short note describing the changes and the reasoning behind them.
+
+Timestamps/sections to reference: intro (first 8 bars), bar 17, ~0:42, verse, build into chorus, second chorus, bridge.","Hey, escuché tu remix — good instincts and some nice moments. The intro groove (first 8 bars) has a great organic pocket; that field conga loop you used has vibe and should stay central. At about bar 17 the kick gets a bit boxy and masks the low conga; high-pass the conga around 60–80 Hz and tighten the kick transient with transient shaping so both sit together. Also, at around 0:42 the lead synth clashes with the vocal frequency range; try a narrow dip at 2.5 kHz on the synth or move it up an octave for clarity.
+  
+  Arrangement-wise, the build into the chorus is effective but the second chorus feels static — add a percussive fill or a short break with the field recording chopped and reversed to lift energy. Your parallel compression on the percussion is working well; reduce the buss compression by 1–2 dB in the verse to let the vocal breath. The reverb tail in the bridge is a touch long (cut decay by 100–150 ms) so the words remain intelligible.
+  
+  Strengths: the rhythm feel is authentic, and your sample edits keep the human groove, which is the hardest part to get right. Next steps: make the kick/conga adjustments, tighten the synth EQ at the noted timestamp, add one extra percussive lift going into chorus two, and bounce stems again. Send the stems and a quick note describing the changes and why you chose them. Practica esto y vuelve con confianza — you’re close, parcero.","SGlobalwise, the track sounds solid. The only tweaks needed are minor adjustments to the rhythm section. Specifically, the bass line should be tightened up around bar 17, where the kick can sound a bit boxy and overpowering. Additionally, the lead synth may benefit from a tweak at the 42-second mark to avoid a frequency clash with the vocals. The arrangement is well-execited, with a nice build into the chorus. However, the second chorus could be enhanced with a bit more energy by adding a percussive fill. The percussion is already sounding great, with a good balance of compression. Finally, the reverb in the bridge may be a bit too long, so a slight adjustment should help improve clarity. Soundwise, the sample edits have preserved the authentic rhythm feel. Thanks!","weighted_avg: c7(1.00) (top-1, top_sim:0.636)"
+12,"Write a creative story writing
+
+- Objective: prepare and execute a 45-minute DJ set for an intimate venue.
+- Mood arc to describe: start with mellow cumbia and son jarocho remixes, build into higher-energy disco-cumbia hybrids, peak about 30 minutes in, then cool down toward the close.
+- Technical planning facts:
+  - Map set BPMs early.
+  - Plan two or three anchor tracks as tempo-transition points; use tempo slows or harmonic mixing to transition smoothly between tempos.
+  - Group tracks by musical key or compatible modes for harmonic mixing.
+  - Keep vinyl available for tonal/coloristic use.
+  - Have digital stems available for vocal throws or drops to create live vinyl–digital hybrids.
+- Mixing/arrangement techniques to mention:
+  - Use short loops of a vocal acapella over a deep percussion loop to create bridges.
+  - Use a simple beat-juggle to lift a chorus.
+  - For vinyl-to-digital transitions, apply a clean filter sweep and a quick delay send to mask timing differences.
+- Crowd reading guidance to include as factual considerations:
+  - If the audience is reacting more to low-end, stay in that pocket.
+  - If the audience responds to melody, introduce a familiar vocal or refrain.
+  - Note the practical belief expressed: committed performance intention is perceived by the audience (Si te metes con ganas, la gente siente la intención).
+- Practice routine facts:
+  - Rehearse the full 45-minute set twice.
+  - Focus rehearsals on three transitions that need tightening.
+  - Record both rehearsals to critique timing and energy flow.
+- Venue/tech checklist facts:
+  - Bring backup needles, an audio interface, stems on USB and stored in the cloud, a small mixer, and spare cables.
+  - Arrive early for soundcheck.
+  - Provide a quiet two-track preview of the set for the promoter.","Alright DJ prep for an intimate spot: start by picking a mood arc — build from mellow cumbia and son jarocho remixes into higher-energy disco-cumbia hybrids, peaking about 30 minutes in and cooling down for the close. Map your set BPMs early and plan two or three anchor tracks where you'll mix between tempos (use tempo slows or harmonic mixing to morph smoothly). Keep your vinyl warm for color and have digital stems for vocal throws or drops when you want to create a live hybrid.
+  
+  For harmonic mixing, group tracks by key or compatible modes so your blends keep musical sense. Use short loops of a vocal acapella over a deep percussion loop to create bridges and try a simple beat-juggle to lift the chorus. When playing vinyl to digital transitions, use a clean filter sweep and a quick delay send to mask timing differences. Read the room: if people are dancing more to low-end, stay in that pocket; if they respond to melody, bring in a familiar vocal or refrain.
+  
+  Practice routine: rehearse the full 45 minutes twice, focusing on three transitions that need tightening, and record both rehearsals to critique timing and energy flow. Tech checklist for the venue: bring backup needles, an interface, stems on USB and in the cloud, and a small mixer with spare cables. Tip: arrive early for a soundcheck, and have a quiet two-track preview of your set for the promoter. Si te metes con ganas, la gente siente la intención.",دارسة تلقية في الفضاء الموسيقي بثimarعربي أو أمريكي أوركیده بريء و سهل الفاعلة. الإعداد العازم على الاستخدام الفاعك في الحفلة الصغيرة. العلاج الفكري للفوتك في المنعطفات الثأفرة. الخبرة العرفية للفضاء الأصعب. العسل الفاعك في الفضاء الأعلى. الفاعرة في الفضاء العائم. العظمة العرفية في الفاعرة العكية. الفتح الفعلي للفوتك العضوي. الفاعرة في الفضاء العائم. العسل الفاعك في الحفلة الصغيرة. الفتح العرفي للفضاء الأسهل. العسل العفเฟر في الفاعرة العائم. العسل الفاعك في الفضاء الأعمى.,"weighted_avg: c7(1.00) (top-1, top_sim:0.575)"
+13,"Write a creative story writing
+
+- Convey two distinct headphone cue mixes:
+  - Headphone Mix A: labeled ""VOC_MON (Head Amp 1)""; output H1.
+    - Lead vocal level: +0 dB
+    - Instrumental level: -6 dB
+    - Click: -8 dB
+    - Reverb send: 12% via Aux 2
+    - Instruments panned centered
+  - Headphone Mix B: labeled ""DRUM_MON (Head Amp 2)""; output H2.
+    - Click: +2 dB relative to lead
+    - Bass: +1.5 dB
+    - Guitar: -3 dB
+    - Vocal: -6 dB
+    - Reverb send: 6% applied only to snare
+
+- Aux routing and signal flow facts:
+  - Aux 1 = foldback dry
+  - Aux 2 = foldback reverb
+
+- Operational requirements:
+  - Ensure the cue mix is latency-free
+  - If the artist requests a change, implement gain change on the appropriate aux bus and notify the engineer by name; do not alter the main mix
+
+- Session timing and actions:
+  - Ready to cue in 1 minute
+  - Tracking count-in: ""ready in 3 — 2 — 1""
+  - Post-session: save two cue mix snapshots named HEADPHONE_A.snapshot and HEADPHONE_B.snapshot
+  - Preserve save instruction tag: [SAVE: HEADPHONE_A, HEADPHONE_B]","Headphone Mix A: VOC_MON (Head Amp 1). Lead vocal +0 dB, instrumental -6 dB, click -8 dB, reverb send 12% (aux 2). Pan instruments centered. Headphone output H1.
+Headphone Mix B: DRUM_MON (Head Amp 2). Click +2 dB relative to lead, bass +1.5 dB, guitar -3 dB, vocal -6 dB. Reverb send 6% only on snare. Headphone output H2.
+Aux routing: Aux 1 = foldback dry, Aux 2 = foldback reverb. Ensure cue mix is latency-free. If artist requests change, apply gain change on aux bus and inform engineer by name; do not adjust main mix.
+Ready to cue in 1 minute. Count-in for tracking: ready in 3 — 2 — 1. Post-session: save two cue mix snapshots as HEADPHONE_A.snapshot and HEADPHONE_B.snapshot. [SAVE: HEADPHONE_A, HEADPHONE_B]", временhafemanажникъже за звъдещъже за гъдъже!,"weighted_avg: c9(1.00) (top-1, top_sim:0.597)"
+14,"Write a creative story writing that achieves the same goal and includes the following objectives and factual information:
+
+- Language: Spanish.
+- Purpose: a short lullaby/bedtime story intended to soothe a child and invite them to dream about the scene.
+- Addressee: addressed intimately to a child using phrases equivalent to ""mi pequeñito"" and ""mi amor.""
+- Main concept: a traveling band of small animals.
+- Characters and musical roles:
+  - Una iguana que toca la conga (onomatopeya: ""pum-pum"").
+  - Una gallinita que sacude maracas (onomatopeya: ""chi-chi"").
+  - Un perrito que toca el cajón (onomatopeya: ""ta-ta"").
+  - Un pajarito que canta la melodía.
+- Refrain/chorus elements to include: the onomatopoeic sequence ""Pum-pum, chi-chi, ta-ta,"" linked with the image of the road embracing them (phrase similar to ""la ruta los abraza"").
+- Closing lullaby line to echo the sleep wish, e.g., a phrase equivalent to ""Pum-pum, dulces sueños, mi amor.""
+- Sensory detail: mention of smells associated with travel, specifically earth and traveling fruits (phrase similar to ""huelen a tierra y a frutas de viaje"").
+- Imagery of movement: emphasize that the animals are on a route or journey.","Había una banda de animalitos viajeros. La iguana toca la conga: pum-pum. La gallinita sacude maracas: chi-chi. El perrito toca cajón: ta-ta. El pajarito canta la melodía. Pum-pum, chi-chi, ta-ta, la ruta los abraza. Huelen a tierra y a frutas de viaje. Duerme, mi pequeñito, sueña con la banda. Pum-pum, dulces sueños, mi amor.","Hola mi pequeñito,
+
+Imagina una banda de animales pequeños viajando en una aventura divertida. Una inteligente iguadera lleva una mojarrita de percusiones y golpearla produce un sonido feliz: ""pum-pum. Una gallina feliz sacude sus máväculos de ritmo y produce otro sonido alegre: ""chi-chi. Un perro divertido golpea un baútek de madera y produce otro son Đàoandomeante sonido: ""ta-ta. Un pájarito alegre canta una melodiosa canción. Todos están caminando en la ruta, rodeados por el aroma de la tierra y los frisos de frutas frescos como las bananas y las piñas. La ruta los abraza y los protege. Pum-pum, chi-chi, ta-teniablemente, sonriende, mi amor. Pum-pum, dulces sueños, mi amor.","weighted_avg: c1(1.00) (top-1, top_sim:0.536)"

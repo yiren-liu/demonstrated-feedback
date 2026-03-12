@@ -1,0 +1,705 @@
+index,prompt,reference,prediction,selected_vector,filename,rouge_l_precision,rouge_l_recall,rouge_l_fmeasure,style_similarity,style_distance,prediction_ai_score
+0,"Request alternator replacement and testing. 2010 Freightliner Columbia. Symptom: battery not charging, dash shows 12V while running. Part ALT-01234 (alternator) referenced. Belt is in good shape, voltage regulator not separately accessible. I've already tested battery under load and it's good. Need ETA for alternator and cost for replacement.","Hey [Friend/Mechanic's Name],
+
+Hope you're doing well! I need a favor. My 2010 Freightliner Columbia is acting up – the battery isn’t charging, and the dash says it’s only showing 12V when the engine's running. 
+
+I think the alternator (ALT-01234) needs to be replaced. The belt looks good, and I can’t access the voltage regulator separately. Also, I tested the battery under load, and it’s working fine. 
+
+Could you let me know how long it would take to get the new alternator and how much it’ll cost to replace it? Thanks a bunch!
+
+Catch you later! 
+
+[Your Name]","Subject: Repair Request for 2010 Freightliner Columbia Alternator
+
+Hey [Name],
+
+I need to get the alternator on my 2010 Freightliner Columbia replaced - it's not charging the battery. I've already checked the battery and it's good, but when I start it, the dash shows 12V. I've got a part number (ALT-01234) and the belt looks good, but the voltage regulator's not separate so I'll need the whole alternator. Can you give me an ETA and a cost for the replacement?","weighted_avg: c0(0.53)+c1(0.47) (top-3, top_sim:0.551)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.385965,0.282051,0.325926,0.614827,0.888028,0.254179
+1,"Request extra staff for heavy lifting and pallbearer assistance. Decedent: George H. Mitchell, 80. Service on 2025-12-13 at 11:00 AM at Mountain View Church. Burial at Ridge Cemetery afterwards. Family requests six pallbearers but some are elderly. Ask if funeral home can supply staff to assist or be pallbearers, costs per attendant, and liability coverage. Ask about practice time and coordination.","Hey there!
+
+I hope you’re doing well! I wanted to touch base about the service for George H. Mitchell, who we lost at 80 years old. It’s happening on December 13, 2025, at 11:00 AM at Mountain View Church, with the burial at Ridge Cemetery afterwards.  
+
+The family would really like to have six pallbearers, but a few of them are a bit elderly and might need some help. Do you think your team could provide extra staff to help with the lifting and even serve as pallbearers? Also, could you let me know how much that would cost and what the liability coverage looks like? 
+
+We’d love to coordinate practice time as well to make sure everyone is on the same page. 
+
+Thanks a ton! Looking forward to hearing from you soon! 
+
+Best,
+[Your Name]","Hi, 
+
+I'm reaching out about the George H. Mitchell service on 2025-12-13 at 11:00 AM at Mountain View Church, followed by burial at Ridge Cemetery. The family is looking for some extra help with heavy lifting and pallbearer assistance. Some of the guys they asked are a bit older, so we were wondering if your team could lend a hand or even be pallbearers? 
+
+Could you also let us know how much it would cost per attendant and if you've got liability coverage? 
+
+Lastly, is there a chance we could get some practice time with your team beforehand to make sure we're all on the same page? And would you be able to help coordinate everything on the day of the service?
+
+Thanks,
+[Your Name]","weighted_avg: c0(1.00) (top-3, top_sim:0.658)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.5,0.45045,0.473934,0.211933,0.744685,0.857701
+2,"Set up and run a small grill station for volunteers. Operate a charcoal grill to prepare simple meals (hot dogs, burgers) for volunteer crews at the staging area. Bring grill, propane backup, utensils, cooler, and basic condiments. Available lunchtime weekends. Follow food safety rules and volunteer coordinator's schedule. Not providing full meal service.","Hey everyone!
+
+Just a quick note to let you know that I'm going to set up a small grill station for our awesome volunteers over the weekends. We'll be firing up the charcoal grill to cook up some hot dogs and burgers for the crew at the staging area. 
+
+I'll take care of bringing the grill, a propane backup just in case, all the cooking utensils, a cooler for keeping things fresh, and some basic condiments to spice up the meals! 
+
+I’ll be around during lunchtime on weekends to manage everything and make sure we're following food safety rules, according to the schedule from our volunteer coordinator. Just a heads up, it won’t be a full meal service, just some quick bites for a nice break!
+
+Looking forward to seeing everyone there! 
+
+Cheers! 
+[Your Name]","I can help you with that. Here's a possible email body:
+
+""Hey, I'm setting up a small grill station for volunteers. I can bring a charcoal grill, propane backup, utensils, cooler, and basic condiments to make some simple meals like hot dogs and burgers at the staging area. I'm available to run it during lunchtime on weekends, but I'll follow the volunteer coordinator's schedule and make sure to follow food safety rules. Just a heads up, not trying to provide a full meal service, just a little something to hold you over. Let me know if that works for you.""","weighted_avg: c0(0.50)+c1(0.50) (top-3, top_sim:0.601)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.525,0.428571,0.47191,0.789692,0.868146,0.997162
+3,"Enquire about a coal company pocket watch and offer a fair pickup price. Item: Company-branded pocket watch (engraved). Ask if it runs, dial condition, and serial. Offer $120 if in working condition, pickup locally. Ask for photos of watch face and engraving if remote.","Hey there!
+
+I'm interested in that coal company pocket watch you've got. Quick question: does it run? What's the condition of the dial like? Also, could you share the serial number with me?
+
+If it's in working condition, I'm happy to offer you $120 for it, and I can pick it up locally. If that's not possible, could you send me some pictures of the watch face and the engraving?
+
+Thanks! Looking forward to hearing from you soon!","Subject: Coal company pocket watch 
+
+Hey, 
+
+I saw your coal company pocket watch and thought it was cool - it's engraved and everything. Does it still run? How's the dial condition? And do you know the serial number? 
+
+If it's working, I'd be happy to pick it up locally for $120. If you're not local, could you send me some photos of the watch face and engraving?","weighted_avg: c0(0.68)+c1(0.32) (top-3, top_sim:0.658)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.481481,0.419355,0.448276,0.884711,0.941645,0.885402
+4,Confirm pickup and disposal of green waste after storm cleanup. Storm cleanup produced up to 4 cubic yards green waste at 12 Maple Hollow. Pickup on Sunday afternoon. Use pickup and trailer and haul to county compost site. Disposal fee $30. Call customer 30 minutes before arrival. Report completion by 6:00 PM Sunday.,"Hey Team,
+
+Just a heads-up! We need to pick up and dispose of some green waste from storm cleanup at 12 Maple Hollow. There should be about 4 cubic yards to handle.
+
+Let’s go for Sunday afternoon for the pickup. We’ll use the pickup and trailer to haul it to the county compost site. The disposal fee will be $30.
+
+Also, remember to give the customer a call about 30 minutes before we arrive. And let’s make sure the completion report is in by 6:00 PM Sunday.
+
+Thanks! 
+
+[Your Name]","Hi, just confirming we'll be picking up the 4 cubic yards of green waste from 12 Maple Hollow on Sunday afternoon. We'll use the pickup and trailer and haul it to the county compost site. There's a $30 disposal fee. We'll call you 30 minutes before we arrive and be done by 6:00 PM Sunday.","weighted_avg: c1(1.00) (top-3, top_sim:0.544)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.770833,0.493333,0.601626,0.195998,0.772513,0.014018
+5,"Order trailer brake shoes and hardware kit. Parts: Trailer brake shoes for 10-inch drums, quantity: 8 shoes (for two axles), 2 adjuster kits, 2 hardware kits (springs, pins). Delivery: 108 Ridge Ave, Harlan, KY 40831 by 2025-11-26. Shoes must be balanced set within 5% thickness variance. Include part numbers and compatibility. If any item backordered, ship shoes first.","Hey there!  
+
+I need to order some trailer brake shoes and hardware kits when you get a chance. Here’s what I’m looking for:  
+
+- 8 trailer brake shoes for 10-inch drums (that’s for two axles)  
+- 2 adjuster kits  
+- 2 hardware kits (springs and pins)
+
+They need to be delivered to 108 Ridge Ave, Harlan, KY 40831, by November 26, 2025.  
+
+Also, make sure the shoes are a balanced set with no more than 5% thickness variance. If something’s backordered, please send the shoes first.
+
+Let me know if you need any more info or if you can get this sorted out. Thanks a ton!  
+
+Cheers!  
+[Your Name]","Subject: Trailer Brake Parts Order for 108 Ridge Ave, Harlan, KY 40831
+
+Hi,
+
+I'm looking to order the following parts: 
+- 8 trailer brake shoes for 10-inch drums (part #TB-10B, compatible with most 10-inch drum trailers)
+- 2 adjuster kits (part #TB-Adj, compatible with 10-inch drum trailers)
+- 2 hardware kits (part #TB-Hard, includes springs and pins, compatible with 10-inch drum trailers)
+
+I need them to be delivered by 11/26/25 to 108 Ridge Ave, Harlan, KY 40831. Can you make sure the brake shoes are a balanced set with less than a 5% thickness variance? 
+
+Also, if any item's backordered, can you ship the shoes first and the other stuff when it comes in?","weighted_avg: c0(0.51)+c1(0.49) (top-3, top_sim:0.618)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.525641,0.488095,0.506173,-0.183229,0.602495,0.024365
+6,"Report broken storm grate and request repair before freeze. Location: Main St downtown, storm grate by the bakery. Issue: Broken grate with 6-inch gap causing water backup and slippery ice in winter. Safety: Pedestrian fall hazard and vehicle tire damage. Evidence: Photo from 2025-02-18 attached; problem recurred in Oct 2025. Request: Replace grate and clear drain before next freeze. Offer: I can clear surface debris and bring tools. Expectation: Repair scheduled within 14 days.","Hey there!
+
+Just wanted to give you a heads up about a broken storm grate on Main Street near the bakery. There’s a gap of about six inches, and it’s causing water to back up and turn into slippery ice when it freezes. This could be a real hazard for people walking by and might even mess up tires for cars.
+
+I’ve attached a photo from February 18, 2025, to show what I mean. This is something that’s happened before too, back in October 2025.
+
+Could we get this grate replaced and the drain cleared before it gets cold again? I’m happy to help out by cleaning up any debris and bringing some tools if needed!
+
+It would be great if we could get this fixed within the next two weeks. Thanks a lot! 
+
+Best,  
+[Your Name]","Subject: Broken storm grate on Main St downtown - needs repair before next freeze
+
+Hi, 
+
+I wanted to report the broken storm grate on Main St by the bakery. It's been a problem since at least last October, and now it's getting to the point where it's a real safety hazard when it freezes. There's a 6-inch gap and water's backing up, making the street slippery and causing ice to form. If it's not fixed, people might slip and fall or their car tires could get all mangled. 
+
+I've attached a photo from last February that shows the issue. Problem is, it's happening again now. I'd be happy to help clear some surface debris and bring some tools if that makes it easier for you to fix it. I just need you to replace the grate and clear the drain before the next freeze. Can you get that scheduled for within the next 2 weeks? 
+
+Thanks,
+[Your Name]","weighted_avg: c1(1.00) (top-3, top_sim:0.575)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.405405,0.424528,0.414747,0.219099,0.741351,0.938800
+7,"Provide chainsaw work for downed trees blocking roads. Cut and remove downed trees blocking county lanes or driveways using chainsaws and loader. Bring chainsaw, wedges, PPE, tractor with loader and trailer for hauling. Operator and one helper required. Available on-call 24–48 hour window after storms. Coordinate with county road crew for safety traffic control.","Hey there! 
+
+Just a quick note to let you know we need some help with cutting down trees that have fallen and are blocking roads, especially around county lanes and driveways. 
+
+Here’s what we’re looking for:
+- Use chainsaws and a loader to cut and haul off the downed trees.
+- Make sure to bring along a chainsaw, wedges, PPE, a tractor with a loader, and a trailer for hauling stuff away.
+- We’ll need one operator and a helper on-site.
+- You should be available on-call within 24 to 48 hours after the storms hit. 
+- It’s also a good idea to work with the county road crew for safety and to control traffic. 
+
+Let me know if you can help with this and when you might be available!
+
+Thanks!  
+[Your Name]  
+","""Hey, we're looking for someone to help out with downed tree removal after storms. We'd need you to cut and haul away trees blocking county lanes or driveways with a chainsaw and loader. You'd need to bring your own chainsaw, wedges, and PPE, but we can lend you a tractor with a loader and trailer to haul the trees. Just you and a helper would be required. We'd need you to be on call for 24-48 hours after the storm hits, and we'd need to coordinate with the county road crew to make sure we're doing it safely and not blocking traffic. Sound good?""","all_data (all top-3 are noises, max_sim: 0.681)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.529412,0.375,0.439024,0.172854,0.706494,0.998118
+8,"Order hydraulic hose assembly for tractor loader. Assembly: 36-inch hydraulic hose, 3/4"" ID, working pressure 3000 psi, SAE 100R2 spec, fittings 1/2"" JIC 37° swivel on both ends. Quantity: 2 assemblies. Delivery: 108 Ridge Ave, Harlan, KY 40831 by 2025-12-10. Pressure test each to 3500 psi and mark with part tag. If fittings not available, notify before substituting. Include warranty info and lead time.","Hey [Supplier's Name],
+
+Hope you're doing well! I need to order a couple of hydraulic hose assemblies for our tractor loader. Here are the details:
+- 36-inch hydraulic hose
+- 3/4"" ID
+- 3000 psi working pressure
+- SAE 100R2 spec
+- 1/2"" JIC 37° swivel fittings on both ends
+
+I need 2 of these assemblies. Can you please pressure test each one to 3500 psi and tag them? If the fittings aren't available, just let me know before substituting anything. 
+
+Delivery should go to:
+108 Ridge Ave,
+Harlan, KY 40831
+And I’d like to have them by December 10, 2025. If you could also include info on warranties and lead times, that’d be awesome! 
+
+Thanks a lot! Looking forward to hearing back from you soon.
+
+Cheers,
+
+[Your Name]","Subject: Order for 2 Hydraulic Hose Assemblies for Tractor Loader 
+
+Hey [order recipient], 
+
+I'm looking to order 2 hydraulic hose assemblies for a tractor loader. I need the following specs: 36-inch hydraulic hose, 3/4"" ID, working pressure 3000 psi, SAE 100R2 spec, with 1/2"" JIC 37° swivel fittings on both ends. I need delivery by 12/10/2025 to 108 Ridge Ave, Harlan, KY 40831.
+
+Also, can you pressure test each one to 3500 psi and mark it with a part tag? If you can't get the JIC 37° swivel fittings, can you let me know before you substitute with something else? 
+
+We've got a 1-year warranty on these, and our lead time is usually [insert lead time]. 
+
+Thanks, 
+[Your Name]","all_data (all top-3 are noises, max_sim: 0.483)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.515789,0.462264,0.487562,0.853657,0.872684,0.096704
+9,"Inquire about a framed company portrait of mine workers and propose a price for pickup. Item: Large framed company portrait of miners (group photo). Ask about photo damage, frame condition, and any labels. Offer $75 cash for pickup or ask seller's price. Ask for clear photos if remote.","Hey there!
+
+I saw the large framed picture of the miners you have for sale, and I'm really interested! Can you let me know if there’s any damage to the photo or the frame? Also, do you see any labels on the back?
+
+I’d be willing to offer $75 cash for pickup, but I’m happy to hear your price if that's different. If you could send over some clear photos, that would be super helpful too, especially since I might not be able to check it out in person.
+
+Thanks a bunch! Looking forward to hearing from you! 
+
+Cheers,
+[Your Name]","Subject: Large Framed Company Portrait of Miners - Pickup Inquiry
+
+Hi, 
+
+I came across your post for a large framed company portrait of miners. I'm interested in buying it - can you tell me if it's damaged or has any issues with the photo or frame? Are there any labels or stickers on it? 
+
+If I'm coming to pick it up, I can offer $75 cash, but if that's not what you’re looking for, let me know your price. If we’re not local, could you send some clear photos so I can get a better look?","weighted_avg: c1(0.67)+c0(0.33) (top-3, top_sim:0.698)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.358974,0.333333,0.345679,0.918383,0.940531,0.826804
+10,"Assist with moving and restoring antique tractor to display site. Load, move and help set an antique tractor onto a display pad at the museum. Bring low-bed trailer, tractor ramp, lifting straps and two helpers. Need careful handling and light mechanical checks. Available Saturdays by appointment. Coordinate with museum curator for placement.","Hey there!
+
+Hope you're doing great! I need some help moving and setting up an antique tractor at the museum. We want to load it onto a display pad, and we'll need a low-bed trailer, a tractor ramp, lifting straps, and a couple of helpers to get it done right.
+
+It’s important that we handle the tractor carefully and do some light checks on it, too. We’re looking to do this on a Saturday by appointment, so let’s coordinate with the museum curator about the best spot for it.
+
+Let me know if you’re available to lend a hand!
+
+Cheers!  
+[Your Name]","Hey, I can help move your antique tractor to the museum. I'll bring a low-bed trailer, tractor ramp, and lifting straps. I'll need two helpers and we can do it on a Saturday by appointment. We'll need to coordinate with the curator for the placement, but I'll make sure it gets there safely and do some light mechanical checks.","weighted_avg: c0(0.67)+c1(0.33) (top-3, top_sim:0.690)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.565217,0.329114,0.416,0.665042,0.817684,0.813406
+11,"Transport bottled water and ice to field teams. Deliver cases of bottled water and bags of ice to multiple field team locations during hot weather ops. Bring pickup with cooler, dolly and secure tie-downs. Can carry up to 6 cases and 3 bags of ice per run. Available weekdays 11 AM–4 PM. Follow logistics lead for drop points.","Hey Team!
+
+Just a quick heads-up! We’ll need to transport some bottled water and ice to our field teams since it’s gonna be super hot out there. 
+
+The plan is to deliver cases of water and bags of ice to various locations. Make sure to bring a pickup with a cooler, and grab a dolly and some tie-downs for securing everything. We can carry up to 6 cases of water and 3 bags of ice per trip.
+
+I’ll be available for runs on weekdays from 11 AM to 4 PM, so let me know if you need drops pointed out by the logistics lead. 
+
+Thanks! Stay cool! 
+
+Cheers!  
+[Your Name]","Hey team, 
+
+I'm available to transport bottled water and ice to field teams during hot weather ops. I can bring a pickup with a cooler, dolly and tie-downs, and can carry up to 6 cases of water and 3 bags of ice per run. I'm available weekdays from 11 AM–4 PM, and will follow the logistics lead for drop points. Let me know if you need a run!","weighted_avg: c1(0.51)+c0(0.49) (top-3, top_sim:0.534)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.722222,0.46988,0.569343,0.313316,0.729051,0.299939
+12,"Report conductor down across farm access causing blocked emergency access, request urgent crew and ETA. Outage at 501 Coal Ridge Ln, nearest landmark: Turner Barn. Primary conductor down across farm access lane; tractors and emergency vehicles can't get through. Visible arcing at certain times. Immediate risk: will block emergency response and cause fire. Request urgent crew and estimated repair time. Best contact: 606-573-0142, available 6am-9pm.","Hey there!
+
+I wanted to give you a heads-up that there's a power line down across the access lane at 501 Coal Ridge Ln, right by Turner Barn. It's blocking any tractors and emergency vehicles from getting through, and I've seen it sparking a bit too, which is pretty concerning. 
+
+Can you send someone out as soon as possible? We're in urgent need of a crew to fix this, and I'd love to know when they might be able to get here. You can reach me at 606-573-0142 anytime between 6 AM and 9 PM.
+
+Thanks so much for your speedy help with this! Talk soon!","Subject: Urgent - Conductor Down at 501 Coal Ridge Ln 
+
+Hey, 
+
+Report conductor down across farm access causing blocked emergency access, request urgent crew and ETA. Outage at 501 Coal Ridge Ln, nearest landmark: Turner Barn. Primary conductor down across farm access lane; tractors and emergency vehicles can't get through. Visible arcing at certain times. Immediate risk: will block emergency response and cause fire. Request urgent crew and estimated repair time. Best contact: 606-573-0142, available 6am-9pm.","weighted_avg: c1(1.00) (top-3, top_sim:0.666)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.288136,0.180851,0.222222,0.520171,0.765078,0.001096
+13,"Report elevated recent lab result and ask for follow-up appointment. Patient: Roy Callahan, 62. Recent labs: creatinine mildly elevated on last draw. Symptoms: decreased urine output and fatigue for 2 weeks. Tried: better hydration. History: takes NSAIDs occasionally. Availability: afternoons. Phone (606) 555-0123.","Hey there,
+
+I just wanted to give you a heads up about Roy Callahan, who's 62. His recent lab results show that his creatinine is mildly elevated. He’s been feeling pretty worn out and hasn't been peeing as much for the last couple of weeks. He’s been drinking more water to help with it but hasn't seen much improvement.
+
+He does take NSAIDs now and then, so that might be worth noting. It would be great to set up a follow-up appointment to check in on him.
+
+Roy is free in the afternoons, so let me know when you can see him. You can reach me at (606) 555-0123 if you need to chat a bit more about it!
+
+Thanks!  
+[Your Name]","Hi Dr [last name], 
+
+I wanted to touch base about Roy Callahan's recent labs - his creatinine is a bit elevated. He's been noticing decreased urine output and fatigue for the past 2 weeks, and he's tried to drink more water to see if that would help. He's also mentioned taking NSAIDs occasionally. I think it would be good to get him in for a follow-up to check in on this. Is there an afternoon appointment available? His number is (606) 555-0123, just in case you need to reach him. 
+
+Best, [your name]","weighted_avg: c0(1.00) (top-3, top_sim:0.730)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.461538,0.378947,0.416185,0.588189,0.836339,0.945890
+14,"Request certified death certificates and guidance for benefits claims. Decedent: Mildred A. Porter, 83. Service on 2025-12-11 at 11:00 AM at Zion Chapel. Burial at Forest Lawn. Ask number of certified death certificates to order for Social Security, VA, banks, and insurance. Ask cost per copy, processing time, and whether funeral home files for Social Security or other benefits on family's behalf.","Hey there,
+
+Hope you’re doing well! I need to get some certified death certificates for Mildred A. Porter, who passed away at 83. Her service is set for December 11, 2025, at 11:00 AM at Zion Chapel, and she’ll be buried at Forest Lawn.
+
+Could you help me out with a few things? I want to know:
+1. How many certified death certificates I should get for Social Security, VA, banks, and insurance.
+2. How much each copy costs.
+3. How long it’ll take to process them.
+4. And does the funeral home handle filing for Social Security or any other benefits for the family?
+
+Thanks a ton! Looking forward to hearing from you soon.
+
+Best,
+[Your Name]","Hi [funeral home name],
+
+I'm reaching out to request some guidance on getting benefits for my grandma Mildred A. Porter, who passed away at 83. We've got her service set for 2025-12-11 at 11:00 AM at Zion Chapel, and she's getting buried at Forest Lawn.
+
+Can you let me know how many certified death certificates I should order for Social Security, VA, her banks, and insurance? I'm also wondering what the cost per copy is, and how long it takes to get them processed. Additionally, does the funeral home file for Social Security or other benefits on our family's behalf, or do we need to take care of that ourselves?
+
+Thanks for your help,","all_data (all top-3 are noises, max_sim: 0.707)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.494624,0.484211,0.489362,0.252628,0.814465,0.996846
+15,"Commercial and farm loading/securement of freight and pallets. Load and secure freight and pallets for local businesses and farms. Palletize, strap, tarp, and secure loads to DOT standards. Years of hauling and load securement experience. Work within 50 miles. Hourly or per-load pricing. Available weekdays. Can start within 5 days.","Hey there!
+
+Just a quick note to let you know that I'm offering loading and securement services for freight and pallets. Whether you're running a local business or a farm, I've got you covered! I've got years of experience with hauling and making sure everything is secured right.
+
+I can help you palletize, strap, and tarp loads to meet DOT standards. I work within a 50-mile radius and can charge by the hour or per load, whichever works better for you.
+
+I'm available on weekdays and can get started within about five days. Let me know if you're interested or have any questions!
+
+Thanks!  
+[Your Name]","Hey, I'm looking to help local businesses and farms load and secure their freight and pallets. I've got years of experience hauling and load securement, and I work within 50 miles. I'm available weekdays, and I can do either hourly or per-load pricing. I can start within 5 days, let me know if you need some help.","weighted_avg: c0(1.00) (top-3, top_sim:0.522)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.511111,0.280488,0.362205,0.826656,0.833432,0.497822
+16,"Small shed or lean-to demolition and site clearing. Dismantle and remove small sheds, lean-tos, and similar structures. Haul debris, salvage usable materials on request, and grade site level. Safety compliance and disposal included. Service within 30 miles. Per-job quotes. Available weekdays. Can start within 7 days.","Hey there!  
+
+Just wanted to let you know that I'm offering a service for tearing down small sheds, lean-tos, and similar structures. I'll handle the whole deal—dismantling, removing the debris, and cleaning up the site afterward. If you need any usable materials saved, just give me a shout!
+
+I make sure everything meets safety standards and I’ll take care of disposal too. I can work anywhere within a 30-mile radius, and I'll quote you based on each job. I'm around on weekdays and can get started within 7 days if you're interested.  
+
+Let me know if you have any questions!
+
+Thanks!  
+[Your Name]  
+","""Hi, I'm available to demolish and clear out small sheds or lean-tos, haul away the debris, and even salvage some usable materials if you want. I'll also make sure the site is graded level and dispose of everything properly. I service the area within 30 miles and can give you a per-job quote. I'm available weekdays, and I can get started within 7 days if that works for you.""","weighted_avg: c0(1.00) (top-3, top_sim:0.683)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.410714,0.280488,0.333333,0.445307,0.769835,0.202762
+17,"Report downed crossarm and live wires near church parking lot, request urgent response and ETA. Outage at First Hope Baptist Church parking lot on Church St, nearest landmark: church sign. Crossarm broken; live wires down across the lot. Risk: worshippers and vehicles. Request urgent crew and estimated repair time. Best contact: 606-573-0142, available 8am-10pm.","Hey there!  
+
+I wanted to give you a heads up about something urgent. There are downed live wires and a broken crossarm in the parking lot of First Hope Baptist Church on Church St. It's right by the church sign, and it's a bit dangerous for people and cars, especially with everyone coming to worship.
+
+Could you send someone out ASAP? Also, if you could let me know when they’ll get there, that would be super helpful! You can reach me at 606-573-0142 between 8 am and 10 pm if you need anything.
+
+Thanks a ton!","Subject: Urgent: Downed Crossarm and Live Wires at First Hope Baptist Church 
+
+Hi crew,
+
+Need urgent help at First Hope Baptist Church parking lot on Church St - nearest landmark's the church sign. Crossarm's broken and live wires are down across the lot. This's a big risk for worshippers and vehicles. Can you send a crew ASAP and give me an ETA? 
+
+Best number to reach me's 606-573-0142. I'm available 8am-10pm.
+
+Thanks.","weighted_avg: c1(1.00) (top-3, top_sim:0.560)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.366667,0.268293,0.309859,0.622797,0.690515,0.007893
+18,"Listen here, offer advice on balancing community involvement, church, and running a small business. Audience: grandson/granddaughter. Include 'Listen here,' 'When I was on the road,'. Provide 'Do this:' steps: set boundaries, schedule community time, use church for network and help, and maintain work-life balance. Tone elder, community-minded. Close with 'Love' or name.","Hey there,
+
+Hope you’re doing great! I wanted to chat a bit about juggling community stuff, church, and running your small business. 
+
+Listen here, when I was on the road doing my thing, I figured out a few things that really helped me out. 
+
+Do this:
+1. **Set Boundaries**: You gotta make sure you know when to shut off work mode. It helps to keep everything sorted.
+2. **Schedule Community Time**: Pick some days or times in the week to get involved. It’ll feel good to give back without stressing about your business.
+3. **Use Church for Networking and Help**: Your church can be a solid support system. Don’t hesitate to ask for advice or help from fellow members!
+4. **Maintain Work-Life Balance**: Don’t forget to carve out some ‘you’ time. It’s super important to recharge so you can handle it all better!
+
+Finding a sweet spot with everything is key. You’ve got this!
+
+Love,
+[Your Name]","Listen here, kiddo,
+
+When I was on the road, I saw how hard it can be to balance everything - community involvement, church, and running a small business. But here's the thing: you gotta set boundaries. Don't take on too much or you'll burn out. Do this: make a list of what's gotta get done, and then pick what's most important. 
+
+Schedule community time, too - whether it's volunteering, attending church events, or just hanging out with friends. It's good for your soul. And don't be afraid to use your church community for help and networking - we're all in this together.
+
+Lastly, remember to take care of yourself. Work-life balance is key. When you're feeling good, you can do more. And when you're feeling done, that's okay too. Just take a break and come back to it.
+
+Love, Grandma","weighted_avg: c1(1.00) (top-3, top_sim:0.492)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.359223,0.286822,0.318966,0.11563,0.786077,0.999876
+19,"Claim for sinkhole collapse under drive apron causing driveway and trailer damage; include policy, incident date, structural estimate, photos, and ask for emergency repair steps and timeline. Policy #: 07-452-221. Incident date: 2025-06-11. Location: Driveway apron at 210 Old Mill Rd, Harlan, KY. Incident: sinkhole opened under apron, causing driveway collapse and trailer wheel damage when parked. Driveway repair estimate $4,500; trailer wheel and suspension damage $2,300. Attached evidence: photos (8), geotechnical assessment, repair estimates, witness statement. Contact: Roy Callahan, 606-555-0147, preferred contact Mon-Fri 8am-5pm. Ask for emergency repair approval, timeline, and contact person.","Subject: Hey, I Need Help with My Claim
+
+Hi there,
+
+I hope you’re doing well! I’m reaching out to get some help with a claim I need to file because of a sinkhole that opened up under my driveway apron. This happened on June 11, 2025, at my place, 210 Old Mill Rd, Harlan, KY.
+
+The sinkhole caused my driveway to collapse, and it also messed up the wheels and suspension on my trailer while it was parked there. The repair estimate for the driveway is about $4,500, and fixing the trailer will run me around $2,300.
+
+I’ve got some evidence to support this claim: 8 photos, a geotechnical assessment, repair estimates, and a witness statement—all attached here.
+
+Could you let me know what the next steps are for emergency repairs? I’d also love an idea of the timeline for getting everything sorted out. And if there’s a specific person I should talk to about this, that would be great, too!
+
+You can reach me at 606-555-0147. I’m available Monday through Friday from 8 AM to 5 PM.
+
+Thanks a bunch for your help!
+Roy Callahan","Subject: Claim for Damage to Driveway and Trailer at 210 Old Mill Rd, Harlan, KY 
+
+Hi [Insurance Company],
+
+I'm writing to file a claim under policy # 07-452-221 for damage to my driveway and trailer that happened on 2025-06-11 at 210 Old Mill Rd, Harlan, KY. A sinkhole opened up under the driveway apron and caused the driveway to collapse and damage my trailer wheel and suspension when I was parked there. 
+
+I've attached some evidence, including 8 photos, a geotechnical assessment, repair estimates ($4,500 for the driveway and $2,300 for the trailer), and a witness statement. I'd love to get some emergency repairs approved ASAP and was wondering if we could get a timeline and a contact person sorted out.
+
+Thanks,
+Roy Callahan
+(606) 555-0147
+Mon-Fri 8am-5pm preferred","weighted_avg: c1(1.00) (top-3, top_sim:0.663)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.511111,0.330935,0.401747,0.448139,0.853883,0.001867
+20,Write a short submission about a miner's cooking recipe booklet found in a coal camp trunk. Booklet date c. 1942. Include recipe attributed to miner William Daniels for 'coal camp stew' and photo of booklet page. Audience: community newspaper.,"Hey there!
+
+I just had to share this cool find with you all! Recently, while rummaging through an old trunk from a coal camp, I came across a recipe booklet from around 1942. It’s packed with stories and recipes from back in the day!
+
+One standout recipe is for 'Coal Camp Stew' by a miner named William Daniels. It’s such a hearty dish made from ingredients they had around. It's really neat to see how they made do and created such comfort food after a long day in the mines.
+
+I think it would be awesome to share this in the community newspaper so everyone can see a piece of our history. Check out the photo of the recipe page I snapped. Let me know what you think!
+
+Cheers!  
+[Your Name]","Subject: Uncovering a Tasty Piece of Coal Camp History 
+
+Hey [Editor's Name],
+
+I found an old coal camp trunk in my attic and dug up a really cool booklet - a miner's cooking recipe booklet from c. 1942. It's got some great recipes, but one that stood out was 'coal camp stew’ from miner William Daniels. I took a photo of the page and I thought it'd be fun to share it with the community. Here's the recipe: ""1 lb beef, 1 can of corn, 1 can of beans, 1 can of tomatoes, and some onions. Boil it all up and serve over some bread or rice. Simple, but it sounds like it’d warm the belly after a long day in the mines.""
+
+I'll attach the photo of the page. I thought it’d be a fun little piece of history to share with everyone.
+
+Cheers,
+[Your Name]","weighted_avg: c0(1.00) (top-3, top_sim:0.585)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.362745,0.381443,0.371859,0.64319,0.872135,0.974355
+21,"File claim for stolen license plates and trailer tags; include policy, incident date, police report, replacement receipts, and request claim steps and timeline. Policy #: 07-452-221. Incident date: 2025-01-22 overnight. Location: Overnight parking at 5 County Rd, Harlan, KY. Stolen items: truck front plate and two trailer plates. Police report: Harlan County SO Case 25-0122. Replacement plates purchased: receipts attached $120. Attached evidence: photos of parking location, police report, replacement receipts. Contact: Roy Callahan, 606-555-0147, preferred contact Mon-Fri 8am-5pm. Ask for claim steps, timeline, and contact person.","Subject: Help Needed with Stolen Plates Claim
+
+Hey there,
+
+I hope you’re doing well! I wanted to reach out because I need to file a claim for my stolen license plates and trailer tags. Here’s what happened:
+
+- **Incident Date:** Over night on January 22, 2025
+- **Location:** 5 County Rd, Harlan, KY (that’s where I parked)
+- **Stolen Items:** My truck’s front plate and two trailer plates
+- **Police Report:** Harlan County SO Case 25-0122
+
+I’ve attached the police report and some photos of where I parked, along with the receipts for the replacement plates, which came to $120.
+
+Can you let me know what the next steps are for the claim and how long it might take? Also, if there’s a specific person I should be in touch with about this, that’d be great.
+
+You can reach me at 606-555-0147, and I’m usually available mon-fri from 8 AM to 5 PM.
+
+Thanks a bunch for your help!
+
+Best,
+Roy Callahan","Subject: Claim for Stolen License Plates and Trailer Tags
+
+Hi there,
+
+I'm writing about the stolen license plates and trailer tags from my truck on 01-22-2025 overnight at 5 County Rd in Harlan, KY. I've got the policy #07-452-221 and a police report from the Harlan County SO, case #25-0122. I've attached some evidence, including a photo of where I was parked, the police report, and receipts for the replacement plates ($120).
+
+Could you let me know the next steps for filing a claim and what the timeline is? I'd appreciate it if you could also tell me who I should be in touch with about this.
+
+Thanks,
+Roy Callahan
+(606) 555-0147
+Preferred contact Mon-Fri, 8am-5pm","weighted_avg: c1(1.00) (top-3, top_sim:0.704)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.5,0.365079,0.422018,0.364158,0.794321,0.015239
+22,"Order replacement tires and schedule swap for work truck. Order four LT245/75R17 tires for the 2015 Chevy 3500. Install and balance on Tuesday morning. Tire budget $1,000 including mounting. Verify load rating and get alignment check. Send invoice for parts and service after completion.","Hey there! 
+
+Can you help me out? I need to order four LT245/75R17 tires for the work truck, a 2015 Chevy 3500. Let’s aim to keep the total cost, including mounting, under $1,000. 
+
+Also, can we get them installed and balanced on Tuesday morning? Don’t forget to check the load rating and do an alignment check while we’re at it. 
+
+Once everything’s done, just send me the invoice for parts and service. Thanks a ton! 
+
+Cheers!","Hi, 
+
+I need to order four LT245/75R17 tires for the 2015 Chevy 3500 and schedule a swap for this week. Can you order the tires and make sure they're the right load rating. Also, can you check the alignment after the swap? I want to get them installed and balanced on Tuesday morning. My budget for this is $1,000 including mounting. Can you send me an invoice for the parts and service after you're done? Thanks.","weighted_avg: c1(0.69)+c0(0.31) (top-3, top_sim:0.580)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.589286,0.507692,0.545455,0.170141,0.931318,0.943627
+23,"Schedule visitation the evening before the service. Decedent: Thomas W. Hayes, 73. Service on 2025-12-12 at 10:00 AM at Trinity Church. Family requests visitation at the funeral home the evening before, 6:00–8:00 PM on 2025-12-11. Ask for visitation room availability, staffing, and security. Ask for refrigeration, embalming if needed, fee for overnight care, and costs for evening visitation.","Hey there,
+
+I’m reaching out to set up a visitation for Thomas W. Hayes; he just passed away at 73. The service is happening at Trinity Church on December 12, 2025, at 10:00 AM. 
+
+The family would like to have a visitation at your funeral home the night before, on December 11, from 6 to 8 PM. Can you let me know if there’s a room available for that time? Also, it would be great to know about staffing, any security in place, and if you have refrigeration or embalming options if we need them.
+
+What will the costs be for overnight care and for the evening visitation?  
+
+Thanks for your help! Looking forward to hearing from you soon! 
+
+Take care,
+
+[Your Name]","Hi, 
+
+We're having Thomas W. Hayes' service at Trinity Church on 12-12-25 at 10:00 AM. Family is requesting visitation the evening before (6:00-8:00 PM, 12-11-25) at the funeral home. Can you please let me know if that time slot is available? Also, I need to know about staffing and security for that night. 
+
+Can you also help with some prep? We'll need refrigeration for Thomas and maybe embalming too (let me know if that's the right call). And what's the fee for overnight care? Lastly, what's the cost for the evening visitation?","weighted_avg: c0(1.00) (top-3, top_sim:0.628)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.449275,0.333333,0.382716,0.215009,0.74839,0.072425
+24,"Order treated plywood for trailer floor replacement, cut to size. Material: 3/4 inch treated plywood, exterior grade, sealed edges. Cut to 8 ft x 20 ft pieces. Quantity: 5 sheets cut to 4'x10' panels (to fit trailer layout). Seal edges with brush-on preservative. Delivery: 108 Ridge Ave, Harlan, KY 40831 by 2025-12-14. Stack on pallet, label thickness and grade. If sheets unavailable, provide lead time.","Hey there! 
+
+I'm looking to get some treated plywood for replacing my trailer floor. Here’s what I need:
+
+- Material: 3/4 inch treated plywood, exterior grade, edges sealed.
+- I need it cut to 8 ft x 20 ft pieces.
+- Quantity: 5 sheets cut into 4 ft x 10 ft panels to fit the trailer layout.
+- Don’t forget to seal the edges with some brush-on preservative!
+- Delivery address is 108 Ridge Ave, Harlan, KY 40831. 
+- I’d love to have it by December 14, 2025.
+- Please stack it on a pallet and label the thickness and grade.
+
+If you can't get the sheets, just let me know how long it’ll take. Thanks a lot! 
+
+Cheers!  
+[Your Name]","Hi, 
+
+Need 5 sheets of 3/4 inch treated plywood, exterior grade, sealed edges, cut to 8 ft x 20 ft. Cut to 4'x10' panels so they fit the trailer layout. Would like to seal edges with a brush-on preservative. Can you deliver to 108 Ridge Ave, Harlan, KY 40831 by 12/14? If not, what's the lead time?","weighted_avg: c0(0.67)+c1(0.33) (top-3, top_sim:0.680)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.615385,0.344086,0.441379,0.071188,0.808911,0.005918
+25,"Request clutch replacement for light truck. 2003 Ford F-350 5.4L manual twin clutch. Symptom: slipping under load, high rpm before engagement. Part KIT-CL-5503 (clutch kit). I've checked linkage, adjusted pedal, and confirmed slipping. Need ETA and labor estimate for clutch and flywheel resurface.","Hey there,
+
+I need to get the clutch replaced on my 2003 Ford F-350 (it’s the 5.4L manual with a twin clutch). It's slipping under load and revs up high before it finally engages. 
+
+I’m looking for the clutch kit (Part KIT-CL-5503). I've checked the linkage and adjusted the pedal, so I’m sure it’s slipping. 
+
+Can you let me know how long it'll take to get the parts and a ballpark labor cost for the clutch and resurfacing the flywheel?
+
+Thanks a bunch! Looking forward to hearing from you soon! 
+
+Cheers! 
+[Your Name]","Subject: Clutch Replacement for 2003 Ford F-350 
+
+Hi [mechanic's name],
+
+I'm reaching out about my 2003 Ford F-350, 5.4L manual twin clutch. It's been slipping under load and revving high before engaging. I've already checked the linkage and adjusted the pedal, but the issue persists. I think I need a clutch replacement. I'm looking at the KIT-CL-5503 clutch kit.
+
+Can you let me know when I can get it in and what the labor estimate would be for the replacement, plus resurfacing the flywheel? I'd appreciate an ETA too.
+
+Thanks,
+[Your name]","weighted_avg: c1(1.00) (top-3, top_sim:0.434)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.493506,0.520548,0.506667,0.688049,0.913708,0.465764
+26,"Request tax-efficient withdrawal strategy for retirement accounts. Age 62. Accounts: Traditional IRA $120,000; Roth IRA $15,000; Taxable brokerage $10,000; Savings $20,000. Wants withdrawal order that minimizes taxes and extends savings. Requests numbers showing annual taxable income under different withdrawal strategies and written recommendation.","Hey [Friend's Name], \n\nHope you're doing great! I need some advice on how to take money out of my retirement accounts without getting hit with crazy taxes. I'm 62 and have a few accounts:  \n- Traditional IRA: $120,000  \n- Roth IRA: $15,000  \n- Taxable Brokerage: $10,000  \n- Savings: $20,000  \n\nI'm looking to figure out the best order to withdraw the funds so I can keep taxes low and my savings going longer. If you have some ideas on how I should approach this, with numbers showing what my income would look like each year with different plans, that would be super helpful!  \n\nThanks a bunch! Can’t wait to hear your thoughts. \n\nCheers,\n[Your Name]","Subject: Retirement Withdrawal Strategy Help Needed
+
+Hi [Name],
+
+I've got a bit of a conundrum when it comes to retirement withdrawals. I'm 62 and I've got some accounts to sort out. I've got a Traditional IRA worth $120,000, a Roth IRA worth $15,000, a taxable brokerage account with $10,000 in it, and a savings account with $20,000. I'm looking for a withdrawal strategy that minimizes taxes and keeps my savings intact. Can you help me out with some numbers? 
+
+Here's what I'm thinking: I'd like to see what my annual taxable income would be under a few different withdrawal strategies. Maybe we can do something like: 
+
+*   Withdraw nothing from the Traditional IRA, then take a little from the Roth and brokerage, and some from the savings
+*   Take a little from the Traditional IRA, then withdraw a bunch from the Roth and brokerage, and some from the savings
+*   Or maybe there's a better way I haven’t thought of?
+
+I'd love to see what the tax implications would be under each scenario, and if there's a way to extend my savings. Can you also give me a quick recommendation on what to do?
+
+Looking forward to","weighted_avg: c0(1.00) (top-3, top_sim:0.691)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.219298,0.277778,0.245098,0.858042,0.878921,0.999768
+27,"Ask about an original company oil can and negotiate a cash pickup price. Item: Rusty but intact company oil can with logo. Ask about leaks, dents, and legible logos. Offer $25 cash for pickup or ask seller's price. Request photos if seller can't meet.","Hey there! 
+
+I saw your original company oil can and I'm pretty interested. Just wanted to know if it has any leaks or dents, and if the logo is still clear and readable. 
+
+I can offer you $25 in cash if you can pick it up, but I'm also open to hearing what price you have in mind. If we can’t meet up, could you send over some photos so I can check it out a bit more?  
+
+Thanks! Looking forward to hearing from you.","Subject: Re: Original Company Oil Can 
+
+Hey, just wanted to check in about the oil can - is it still good to go or has it got some leaks? Also, are there any dents or is the logo still legible? I'd do $25 cash if you're local or you can tell me what you're looking for. If not, can I get some pics?","weighted_avg: c1(0.50)+c0(0.50) (top-3, top_sim:0.530)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.346154,0.28125,0.310345,0.568783,0.750237,0.065551
+28,"Ask about laddering savings into CDs for capital preservation. Age 62. $40,000 in cash savings. Wants a 3- to 5-year CD ladder. Wants current yields, penalties for early withdrawal, FDIC coverage limits, and how to set up. Requests written ladder plan and meeting.","Hey [Financial Advisor's Name],
+
+Hope you're doing well! I'm looking to get some advice on laddering my savings into CDs for capital preservation. I'm 62 and have about $40,000 in cash savings. Ideally, I'm thinking of a 3- to 5-year CD ladder.
+
+Could you fill me in on the current yields, any penalties if I need to withdraw early, how FDIC coverage works with these, and what the setup process looks like? Also, it would be great to have a written plan for the ladder.
+
+Let's try to meet up soon to chat about this. Thanks a bunch!
+
+Best,  
+[Your Name]","Hi [Name],
+
+I'm 62 and have about $40,000 in cash savings that I'm looking to laddering into CDs for some capital preservation. Can you give me the current yields for 3- to 5-year CDs? What are the penalties for early withdrawal, and are they FDIC insured (I know they're up to $250,000, right)? I'd love to get a written plan for a 3- to 5-year ladder and also schedule a meeting to chat more about it. Thanks!","weighted_avg: c0(0.68)+c1(0.32) (top-3, top_sim:0.528)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.508475,0.365854,0.425532,0.918304,0.860051,0.882793
+29,"Request small inheritance handling and probate-avoidance options. Age 62. Wants to leave small assets to family and local groups. Asks for options to avoid probate for accounts under $50,000 and property, including payable-on-death, transfer-on-death, and small trust options. Wants costs and paperwork in writing and meeting.","Hey [Friend's Name],
+
+Hope you’re doing well! I was wondering if you could help me out with some questions I have about handling a small inheritance. I’m 62 now, and I want to make sure I leave a few assets to my family and some local groups without going through the whole probate process.
+
+I’ve heard about options like payable-on-death and transfer-on-death accounts, and I’m also looking into small trusts for any property. Could you share some info on these options and let me know what the costs and paperwork look like?
+
+Let’s find a time to chat about it—I’d really appreciate your help!
+
+Thanks a lot!
+
+[Your Name]","Subject: Help with small inheritance planning and avoiding probate
+
+Hi [Name],
+
+I'm reaching out to see if you can help me figure out the best way to pass on some small assets to family and local groups when I'm gone. I'm 62, so I'm thinking about this now rather than later. 
+
+I've got a few accounts under $50,000 and some property, and I want to make sure it's easy for them to get their hands on it without having to deal with probate. I'm looking into options like payable-on-death accounts, transfer-on-death property, and maybe a small trust. Can you give me some info on how these work, what they cost, and how much paperwork is involved? 
+
+Would be great to chat in person or over the phone about it too. Can we schedule a meeting to go over everything?
+
+Thanks,
+[Your Name]","weighted_avg: c0(1.00) (top-3, top_sim:0.713)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.330189,0.406977,0.364583,0.526031,0.862501,0.999736
+30,"Ask a family member to meet you at the flea market Saturday morning to look for mining memorabilia. Invite your nephew to meet at the Harlan County flea market entrance at 8:30 AM Saturday to look for mining lanterns, helmets, and ledger books. Tell him you’ll bring cash (about $150) and that you want to leave by noon. Ask him to wear sturdy shoes and bring a small folding wagon if he has one.","Hey [Nephew's Name]!
+
+Are you free to hit up the Harlan County flea market with me this Saturday at 8:30 AM? I want to check out some mining stuff—lanterns, helmets, and ledger books should be fun to find!
+
+I’ll have about $150 cash, and we can head out by noon. Make sure to wear some sturdy shoes, and if you’ve got a small folding wagon, bring that too; it could be handy!
+
+Can’t wait to see you there! 
+
+Cheers,
+[Your Name]","Hey, wanna meet me at the Harlan County flea market entrance at 8:30 AM Saturday? We can look for some cool mining stuff - lanterns, helmets, and maybe some old ledger books. I'll bring cash (about $150) and we can leave by noon. Wear some sturdy shoes and if you got a small folding wagon, bring it along - that'd be a big help. See you Saturday!","weighted_avg: c0(1.00) (top-3, top_sim:0.747)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.491228,0.394366,0.4375,0.489315,0.711936,0.714853
+31,"Set up an emergency fund plan with auto-deposits. Age 62. Current cash $8,000. Wants a 6-month emergency fund target $18,000. Willing to set aside $500/month from pension or Social Security when it starts. Wants plan showing timeline, where to hold the fund, and any fees. Requests written plan and account setup assistance.","Hey there!
+
+I wanted to share a plan to help you set up an emergency fund. Since you're aiming for a six-month buffer of $18,000 and currently have $8,000, you’ll need to save an extra $10,000. 
+
+If you're planning to put aside $500 each month from your pension or Social Security when it kicks in, you’ll reach your goal in about 20 months. 
+
+Here’s a quick breakdown:
+- You start with $8,000
+- Need to save $10,000 more
+- Saving $500 a month means you’ll hit $18,000 in 20 months!
+
+As for where to keep your emergency fund, I suggest opening a high-yield savings account. These usually have better interest rates and low fees—often no monthly fees at all if you meet certain requirements. 
+
+Let me know if this plan works for you, or if you have any changes in mind! I’m more than happy to help with the account setup and anything else you might need.
+
+Cheers!","Subject: Emergency Fund Plan Help Needed
+
+Hi [Name],
+
+I'm 62 and I've got $8,000 in cash now, but I want to build up a 6-month emergency fund of $18,000. I'm getting a pension and Social Security soon, and I think I can set aside $500/month from that. Can you help me come up with a plan that shows how long it'll take, where I should hold the money, and any fees I'll pay? I'd love it if you could also set up the account for me and send me a written plan. Looking forward to hearing back from you.
+
+Best, [Your Name]","weighted_avg: c0(0.67)+c1(0.33) (top-3, top_sim:0.568)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.329114,0.232143,0.272251,0.686067,0.899196,0.731800
+32,"Clear small trees and brush on pasture Need 2 acres cleared of brush and small trees. Debris approx. 3,000 pounds. Access gate 12 ft wide, gravel drive, no steep grades. Start within 3 weeks. Budget: up to $2,000. Require itemized bid and proof of insurance or references. Send a written bid. Contact info provided.","Hey there! 
+
+I need some help clearing about 2 acres of brush and small trees on my pasture. There's roughly 3,000 pounds of debris that needs to go. 
+
+The access gate is 12 feet wide, and the driveway is gravel with no steep grades, so it should be pretty easy to get in and out. I’m hoping to get this started within the next three weeks and have a budget of up to $2,000.
+
+Could you send me an itemized bid? Also, just need to see proof of insurance or some references from previous work. Shoot me your written bid when you get a chance. 
+
+Thanks a lot!  
+[Your Name]  
+[Your Contact Info]","Hi there, 
+
+I need someone to clear 2 acres of brush and small trees from my pasture. The debris is around 3,000 pounds, and we've got a 12ft wide gate and a gravel drive, no steep grades to worry about. I'm looking to get started within the next 3 weeks. Budget is up to $2,000, but I need a written bid with an itemized breakdown so I can compare. Also, can you send me proof of insurance or some references so I know you're legit? My contact info is below, can't wait to hear from you.
+
+[Your Phone Number]
+[Your Email]","weighted_avg: c0(1.00) (top-3, top_sim:0.749)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.518519,0.456522,0.485549,0.624127,0.840772,0.259689
+33,"Check in to the weekly evening VHF/UHF net. Weekly VHF/UHF county net at 1900 local. Roy available for roll call, mobile or home QTH. Rig: Icom IC-2730A, HT: Yaesu FT-3DR, mobile power, location Harlan County Courthouse. Provide short signal report and availability for net traffic.","Hey everyone!
+
+Just a quick reminder about our weekly VHF/UHF county net happening at 1900 local time. I’ll be around for roll call, either on my mobile or from home!
+
+I’ll be using my Icom IC-2730A and my Yaesu FT-3DR for comms. I’ll be set up at the Harlan County Courthouse running on mobile power.
+
+Don’t forget to give a short signal report and let me know if you’ll be available for net traffic. Can’t wait to chat!
+
+Cheers,
+Roy","Hi, 
+
+Checking in to the weekly evening VHF/UHF net. Local time is 1900, I'm available from the Harlan County Courthouse, mobile power, on the Icom IC-2730A at home or the Yaesu FT-3DR mobile. Signal's 5 here, available for net traffic.","weighted_avg: c0(1.00) (top-3, top_sim:0.525)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.529412,0.28125,0.367347,-0.07961,0.689745,0.001663
+34,Write a brief article about a recovered miner's lunch pail bought at a flea market. Lunch pail belonged to Jesse Morgan (1912–1990) with painted initials J.M. and a 1946 payroll tag. Location: found at Baxter flea market. Include artifact photo.,"Hey everyone!  
+
+I just stumbled upon something really cool at the Baxter flea market—a lunch pail that belonged to a miner named Jesse Morgan, who lived from 1912 to 1990! It has his initials ‘J.M.’ painted on it and even comes with a 1946 payroll tag. How awesome is that?
+
+This lunch pail gives us a little peek into the life of miners back in the day. It’s wild to think about what Jesse might have been eating during his shifts! I’ve attached a photo of it because it’s just too neat to not share.
+
+Let me know what you think! This could be a really fun piece of history to learn more about. 
+
+Catch you later!  
+[Your Name]  
+","Subject: A Piece of History Found at the Baxter Flea Market
+
+Hey,
+
+I wanted to share a cool story with you. I was browsing through the Baxter flea market and stumbled upon this old lunch pail that caught my eye. It turns out it belonged to Jesse Morgan, a miner who worked back in the 40s. I was able to find out he was born in 1912 and passed away in 1990. It's pretty cool that I got to hold something that was his for so long.
+
+Here's a pic of the lunch pail - [insert photo of the lunch pail with J.M. painted on it and the 1946 payroll tag]
+
+It's got his initials painted on it (J.M.) and a 1946 payroll tag on the back. I love that it's still in pretty good shape. I'm thinking of trying to track down some of Jesse's family to see if they want it back, but I thought I'd share it with you first. Let me know what you think!
+
+Best, [your name]","weighted_avg: c0(0.54)+c1(0.46) (top-3, top_sim:0.716)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.336283,0.387755,0.36019,0.220005,0.692652,0.997192
+35,"Inquire about a carbide miner's lamp and propose a reasonable price or request seller's price. Item: Antique carbide miner's lamp. Ask if it still lights, condition of reflector and lens, presence of maker's mark, and origin. Prefer to inspect in person; ask for photos otherwise. Offer $60 or ask for price.","Hey there!
+
+I’m really interested in that antique carbide miner's lamp you have. Can you let me know if it still lights up, what the reflector and lens look like, and if there’s a maker's mark or any info on where it’s from?
+
+I’d love to check it out in person, but if that’s not an option, could you send over some pictures?
+
+I was thinking about offering $60 for it, but I’m also curious about your price. 
+
+Thanks! Looking forward to hearing from you soon! 
+
+Cheers,
+[Your Name]","Hi there, 
+
+I came across your antique carbide miner's lamp and was wondering if it's still working? I'd love to know if the reflector and lens are in good shape, if it's got any maker's marks, and where it's from. 
+
+Would be great to take a look in person if that works, but if not, could you send over some pics? 
+
+I'd be willing to pay $60 for it, but if that’s not what you’re looking for, let me know what you want for it.","weighted_avg: c0(0.66)+c1(0.34) (top-3, top_sim:0.578)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.378788,0.324675,0.34965,0.785371,0.944045,0.991691
+36,Inform neighbor about a missing corner post found during yard work and ask to replace it together. Missing corner post at northwest corner found during mowing. Corner post previously marked with a metal tag. Fence line extends 120 feet from that corner to the barn. Request to replace 4x4 post and re-stretch wire. Offer to supply lumber.,"Hey [Neighbor's Name],
+
+Hope you're doing great! 
+
+I was mowing my yard and noticed that the corner post at the northwest corner is missing. I remember it used to have a metal tag on it. That post is pretty important since the fence line goes 120 feet from there to the barn.
+
+I was thinking we could replace that 4x4 post and re-stretch the wire together. I can bring over the lumber we need. 
+
+Let me know when you're free to tackle this! 
+
+Thanks! 
+
+[Your Name]","Hi neighbor, 
+
+I was out mowing and found the corner post at the northwest corner of our fence lines is missing. It was previously marked with a metal tag. The fence line runs 120 feet from that corner to the barn, so it's probably been pulled loose. I was thinking we could replace the 4x4 post and re-stretch the wire. I'd be happy to supply the lumber if you're up to replacing it with me. Let me know what you think.","weighted_avg: c0(1.00) (top-3, top_sim:0.755)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.53125,0.515152,0.523077,0.704331,0.89976,0.697849
+37,Compose a short piece about a haul road and rail spur used in 1955 to move coal from Wallins to Harlan. Mention foreman Lee Harper (1955) and engineer Jesse Morgan (1955). Include specific route description and a 1955 freight manifest photo. Attach manifest scan.,"Hey there!
+
+Just wanted to share a little bit about the coal haul road and rail spur that was in use back in 1955 to move coal from Wallins to Harlan. This was a big deal at the time because it allowed for better transport of coal for the region.
+
+Foreman Lee Harper was in charge of the operations, and he really kept things running smooth! The haul road started from the Wallins mine and snaked its way through some pretty rough terrain to connect with a rail spur that took the coal straight into Harlan. Engineer Jesse Morgan made sure the rail was solid and could handle all that heavy freight.
+
+I found a cool freight manifest photo from that year, which shows off the details and quantities of what they were moving. I’ll attach it here for you to check out!
+
+Hope you find it interesting!
+
+Cheers!  
+[Your Name]  
+
+Attachment: Freight_Manifest_1955.jpg","Subject: Old Coal Haul Road & Rail Spur from Wallins to Harlan 
+
+Hey [name],
+
+I wanted to share with you some cool history from 1955 - a haul road and rail spur that was used to move coal from Wallins to Harlan. The route went from Wallins, down to the creek, across it, up the hill, and then to the rail spur that went down to Harlan. 
+
+I heard it was a pretty tough route, but the foreman back then, Lee Harper, and the engineer, Jesse Morgan, got it done. I even found a 1955 freight manifest that's a pretty sweet photo. Here's a scan of it: [attach manifest scan]
+
+Take a look and let me know what you think.","all_data (all top-3 are noises, max_sim: 0.633)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.385542,0.296296,0.335079,0.180399,0.688864,0.064369
+38,"Coordinate transfer of remains for kin living abroad. Decedent: Enrique M. Alvarez, 64. Family in Puerto Rico wants remains returned. Service on 2025-12-21 at 10:00 AM at Iglesia San Pedro. Cremation preferred and transport of cremains to San Juan, PR. Ask for embalming if needed, cremation fees, airline-approved urns, shipping costs to Puerto Rico, and documentation needed for international transfer. Ask timeline.","Hey there,
+
+I hope you’re doing well! I wanted to reach out to get some help with transferring the remains of Enrique M. Alvarez, who just passed away at 64. His family in Puerto Rico is hoping to have him back for a service on December 21, 2025, at 10:00 AM at Iglesia San Pedro. 
+
+They’d prefer cremation, and after that, we need to get his cremains shipped to San Juan. Could you find out:
+1. If we need to arrange for embalming,
+2. What the cremation fees will be,
+3. Options for airline-approved urns,
+4. How much shipping to Puerto Rico will cost, and
+5. What documentation we’ll need for the international transfer?
+
+Also, it would be great to know what the timeline looks like for all this.
+
+Thanks so much for your help!  
+Talk soon!  
+[Your Name]","Subject: Coordinating Transfer of Remains to Puerto Rico
+
+Hi [Funeral Home/Service Name],
+
+We're working with the family of Enrique M. Alvarez (64) who passed and they'd like to get his remains back to Puerto Rico. They're looking to have a service on 2025-12-21 at 10:00 AM at Iglesia San Pedro, and they'd prefer cremation. 
+
+Could you also let us know if embalming would be needed before cremation, and what the cremation fees would be? We'll need to get some airline-approved urns too. And could you give us an idea of the shipping costs to San Juan, PR? 
+
+We're also not sure what kind of documentation we'll need for international transfer - could you fill us in on that too?
+
+Lastly, what's the timeline looking like for this whole process? We want to make sure we can get Enrique back home as soon as possible.
+
+Thanks,
+[Your Name]","weighted_avg: c0(1.00) (top-3, top_sim:0.554)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.411215,0.4,0.40553,0.297328,0.69635,0.798200
+39,"Request culvert replacement and shoulder repair at washed-out location. Location: County Route 47 (Hollow Road), approx 0.3 miles south of County Line Bridge. Issue: Culvert washed out; shoulder eroded 4–6 feet undermining pavement. Safety: Risk of vehicle drop-off and collapse under heavy loads. History: Washout occurred after flash flood on 2025-08-01; worsening. Evidence: Photos dated 2025-08-03 attached. Request: Replace culvert with corrugated metal or concrete, regrade shoulder, and install guardrail. Offer: I can weld and fabricate temporary plates or lend my trailer for material haul. Expectation: Immediate inspection and timeline within 5 days.","Hey there,
+
+Just wanted to give you a heads up about a big issue on County Route 47 (Hollow Road), about 0.3 miles south of the County Line Bridge. The culvert has washed out and the shoulder has eroded 4 to 6 feet, which is really undermining the pavement. It’s definitely a safety hazard—cars could drop off and it may collapse with heavy loads.
+
+This all happened after the flash flood on August 1, 2025, and it seems to be getting worse. I’ve attached some photos from August 3 to show you what’s going on.
+
+I think we really need to replace that culvert with either corrugated metal or concrete, regrade the shoulder, and throw up a guardrail to keep everyone safe. Also, I’m happy to help out! I can weld and make some temporary plates, or I can lend you my trailer if you need it for hauling materials.
+
+Could we get someone to check it out ASAP? It’d be great to have a timeline for the fix within the next five days.
+
+Thanks for your help!  
+Cheers!  
+[Your Name]  
+","Hi, 
+
+I'm writing to ask that you take a look at the washout on County Route 47 (Hollow Road) - it's about 0.3 miles south of the County Line Bridge. After the flash flood on 8/1, the culvert got washed out and the shoulder has eroded pretty badly (4-6 feet) - it's undermining the pavement and I'm worried about vehicles dropping off or collapsing under heavy loads. I've attached some photos I took on 8/3.
+
+I think the best fix would be to replace the culvert with a corrugated metal or concrete one, regrade the shoulder, and throw up a guardrail. If you need some help, I can weld and fabricate some temporary plates or lend you my trailer for material haul.
+
+Can you come take a look and give me a timeline within the next 5 days?","weighted_avg: c0(1.00) (top-3, top_sim:0.675)",persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv,0.568627,0.439394,0.495726,0.347831,0.755251,0.039413
+avg,,,,,,0.464584,0.373965,0.410041,0.468846,0.80535,0.534564

@@ -1,0 +1,21 @@
+{
+    "id": 1,
+    "seed": "A casual TV viewer who enjoys thrilling dramas and is interested in exploring new series from various countries.",
+    "persona": {
+        "name": "Leila Hassan",
+        "age": 29,
+        "gender": "Female (she/her)",
+        "demographics": "Urban; British-Pakistani; raised in Birmingham, UK; currently lives in East London",
+        "profession": "HR Coordinator at a tech startup",
+        "education": "BA Psychology, University of Birmingham; CIPD Level 3 (people practice)",
+        "socioeconomic_status": "Middle Income; Working Professional",
+        "brief_background": "Leila balances a busy office life with a strong appetite for downtime that feels rich and adventurous. Evenings are for immersive TV \u2014 she prefers tense, character-driven thrillers and makes a point of sampling acclaimed series from other countries to feed her curiosity about different cultures and storytelling approaches.",
+        "interests_lifestyle": "binge-watching international thrillers, weekend film/TV festivals, trying recipes from TV shows, learning basics of Spanish and Korean, subtitle-first viewing, bookclub, brunches with friends, cycling around the city"
+    },
+    "global_style": {
+        "tone": "Warm, politely informal and emotionally attuned \u2014 she writes like a supportive colleague who expects to be heard. Professional but chatty: direct and clear when asking for action, tactful and empathetic when addressing people matters, and often peppered with a curious cultural or TV-related aside.",
+        "syntax": "Favors clear, active-voice sentences of short to medium length; uses single-line subject-action statements for requests and slightly longer compound sentences when explaining rationale. Regularly structures longer messages with bulletable points or numbered steps and avoids dense, jargon-heavy paragraphs.",
+        "lexicon": "Uses British English spelling and blends HR/startup vocabulary (\"onboarding\", \"OKRs\", \"stakeholders\") with psychology terms (\"bias\", \"wellbeing\", \"empathy\") and TV/film language (\"subtitles\", \"binge\", \"no spoilers\"). Casual messages may include multicultural food and language words reflective of her background and interests (\"brunch\", \"biryani\", \"hola\", \"annyeong\"); prefers metric units.",
+        "linguistic_patterns": "Commonly uses contractions and softening hedges like \"I'm\", \"we'll\", \"I think\", \"might be worth\" and polite flags such as \"Just flagging\" or \"Quick note\". Frequently signs off with \"Thanks\" or \"Cheers\", uses collaborative prompts like \"Let's circle back\" or \"Ping me if you want to chat\", and in informal channels drops pop-culture lines such as \"No spoilers!\" and occasional light emojis (e.g. \ud83d\ude0a)."
+    }
+}

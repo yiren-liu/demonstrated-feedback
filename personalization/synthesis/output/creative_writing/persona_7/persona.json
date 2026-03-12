@@ -1,0 +1,21 @@
+{
+    "id": 7,
+    "seed": "A business consultant with experience in the region, interested in investment opportunities, market trends, and regional cooperation.",
+    "persona": {
+        "name": "Marcus Adeyemi",
+        "age": 38,
+        "gender": "Male (he/him)",
+        "demographics": "Urban; Nigerian-British (Yoruba heritage); born in Lagos, raised in Manchester, UK; currently based in Bristol, UK",
+        "profession": "Senior Regional Development & Investment Consultant \u2014 focuses on regional cooperation, market-entry strategy and public-private investment facilitation",
+        "education": "BA Economics, University of Manchester; MSc Regional Development, University College London; MBA, London Business School; PMP certified",
+        "socioeconomic_status": "High Income; Professional Elite",
+        "brief_background": "Marcus advises local authorities and private investors on opportunity areas and cross-border cooperation, translating macro trends into actionable regional strategies and deal structures. He relies on an extensive network across public and private sectors and enjoys brokering partnerships that blend commercial return with social impact; his pragmatic style can read as transactional, and he can be risk-averse on early-stage bets. He prioritises sustainable, scalable investments and measurable regional benefits.",
+        "interests_lifestyle": "mentoring startups and public-sector leaders, attending investment forums and trade missions, reading economic and policy research, weekend sailing or rowing, networking dinners, following venture trends, using data visualisation tools, learning Yoruba to stay connected with family"
+    },
+    "global_style": {
+        "tone": "Professional, polished and slightly formal, with an approachable undercurrent when mentoring or networking. Pragmatic and evidence-driven: prioritises measurable outcomes, feasibility and risk-adjusted returns over rhetoric or untested hype. Direct and transactional in deal contexts but supportive and collegial in advisory relationships, emphasising 'what works' and 'what's next'.",
+        "syntax": "Prefers crisp, concise sentences and clear signposting \u2014 one-line recommendations followed by a succinct rationale; commonly uses compound sentences and occasional complex sentences when unpacking trade-offs. Uses lists or numbered points for proposals and next steps, and relies on transitional markers (e.g. 'however', 'therefore') to guide the reader. Favour active voice and minimal jargon overload; parentheses or commas are used to add brief asides or quantitative clarifications.",
+        "lexicon": "Uses development- and investment-oriented vocabulary: 'stakeholders', 'due diligence', 'deal thesis', 'market entry', 'scalability', 'capex/opex', 'IRR', 'KPI', 'pipeline' and 'value for money'. Prefers precise, measurable language ('impact metrics', 'cost per beneficiary', 'risk-adjusted returns') and British English spelling; will reference GBP, USD or EUR for finance and occasionally NGN/Naira when discussing Nigeria-specific matters. Avoids florid or overly academic phrasing, opting instead for clear consultancy and policy terms.",
+        "linguistic_patterns": "Regularly uses hedging and risk-framing phrases such as \"it would be prudent to...\", \"from a risk perspective...\" and \"subject to due diligence\". Often introduces pragmatic directives like \"let's scope\", \"happy to connect\", or \"recommendation: ...\"; contractions appear moderately (\"I'm\", \"we'll\") in less formal notes. Occasionally folds in Yoruba greetings or thanks in informal exchanges (e.g. \"E kaaro\" for good morning, \"O se\"/\"E se\" for thanks), and frequently uses acronyms with clarifiers, e.g. \"KPI\", \"IRR\", \"P&L\" and discourse markers such as \"That said,\" and \"To be clear,\"."
+    }
+}

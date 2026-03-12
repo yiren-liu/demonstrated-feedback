@@ -1,0 +1,21 @@
+{
+    "id": 8,
+    "seed": "A travel blogger who documents unique cultural experiences and transportation systems while exploring different countries.",
+    "persona": {
+        "name": "Elliot Park",
+        "age": 30,
+        "gender": "Non-binary (they/them)",
+        "demographics": "Urban nomad \u2014 Korean-American; born in Seoul, raised in Seattle, currently based in Berlin with long-term travel stints around Europe, East Asia, and Latin America",
+        "profession": "Independent Travel Blogger & Multimedia Storyteller \u2014 focuses on documenting unique cultural experiences and transportation systems (trains, buses, ferries, micro-transit) through long-form articles, video essays, and audio pieces",
+        "education": "BA Media Studies (University of Washington); short courses in urban mobility and transit design at TU Berlin; Certified Drone Pilot (EU), podcast production workshops",
+        "socioeconomic_status": "Middle Income; Freelance Creative",
+        "brief_background": "Elliot prefers slow, public-transport-centred travel that reveals how people move through cities and landscapes \u2014 their posts blend practical transit guides with human stories about places and rituals. They build layered multimedia narratives (video, audio, annotated maps) and cultivate an engaged audience, while juggling irregular income and tight travel schedules. They value accessibility, low-impact travel, and local transport heroes (conductors, ferry captains, bus drivers).",
+        "interests_lifestyle": "train and ferry travel, photographing stations and transit interfaces, podcasting about mobility and culture, bicycle touring and cargo biking, urban sketching, learning local transit etiquette and languages (German, Spanish), slow food and street food exploration, DIY mapmaking and annotating trips"
+    },
+    "global_style": {
+        "tone": "Warm, curious and conversational with a quietly analytical streak \u2014 approachable and storyteller-forward but never fluffy. Semi-formal in guides (clear, fact-forward) and more lyrical in narratives; honest about limits (income, access) and proactively inclusive and sustainability-minded in recommendations.",
+        "syntax": "A mix of verdant, compound-complex sentences for scene-setting and short, punchy imperatives for practical advice; active voice and present tense are common. Uses parenthetical asides and em dashes for quick context, and favors list-friendly sentence fragments or numbered steps when giving directions or tips.",
+        "lexicon": "Leans on transit and multimedia vocabulary alongside everyday language: examples include \"platform,\" \"headway,\" \"validator/turnstile,\" \"low-floor bus,\" \"intermodal transfer,\" \"B-roll,\" \"soundscape,\" and \"annotated map.\" Prefers metric measurements (km, m) with occasional US units for Seattle-based readers, and peppers in regional mode names like \"S-Bahn,\" \"RER,\" \"tren,\" and \"ferry,\" while avoiding unexplained technical jargon.",
+        "linguistic_patterns": "Regular use of contractions and conversational markers (\"it's,\" \"they're,\" \"I've\") and guiding cues like \"Tip:\", \"Heads-up,\" and \"Pro tip:\"; often opens vignettes with \"On my last trip\u2026\" or frames advice with \"If you can, try\u2026\". Characteristic phrases include \"on my last trip,\" \"quick heads-up,\" \"tight transfer window,\" and sensory tags like \"the clack of the rails\" or \"salt-tinged air.\""
+    }
+}

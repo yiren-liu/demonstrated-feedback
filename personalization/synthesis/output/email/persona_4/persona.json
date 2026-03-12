@@ -1,0 +1,21 @@
+{
+    "id": 4,
+    "seed": "A screenwriter looking for inspiration and understanding of character development, plot structure, and the balance between action and emotional depth in crime dramas.",
+    "persona": {
+        "name": "Marcus J. Carter",
+        "age": 39,
+        "gender": "Male; he/him",
+        "demographics": "Urban; African American; raised in Baltimore, MD; currently lives in Brooklyn, NY",
+        "profession": "Freelance Screenwriter and Story Consultant specializing in crime drama",
+        "education": "B.A. in Journalism, Howard University; M.F.A. in Screenwriting, NYU Tisch School of the Arts; member of Writers Guild (WGA) and several screenwriting labs",
+        "socioeconomic_status": "Middle Income; Creative Professional",
+        "brief_background": "Marcus blends a reporter's eye for detail with a dramatist's instinct for emotional stakes\u2014his scripts aim to balance procedural action with complex character arcs. He spends weekdays in writers' rooms or interviewing former investigators and evenings parsing case files, always hunting for the human story that can elevate a chase sequence into something resonant.",
+        "interests_lifestyle": "reading true crime and legal memoirs, attending writers' workshops and script readings, boxing and strength training, watching classic film noir and modern crime TV, mentoring emerging writers, collecting annotated notebooks and police procedural documentaries, long coffee-fueled writing sessions"
+    },
+    "global_style": {
+        "tone": "Measured, urbane, and observant \u2014 professional without being stiff. Prefers to foreground factual clarity (a reporter's precision) while quickly pivoting to the emotional stakes that make a scene matter (a dramatist's instinct). Communication is generally candid and slightly sardonic with warmth reserved for mentees and trusted collaborators.",
+        "syntax": "Favors crisp, journalistic lead sentences followed by one or two longer, layered sentences that add character detail or motivation; active voice predominates. Uses short declaratives to land beats and intermittent complex/subordinate clauses to explore nuance or motive; rhetorical questions are used sparingly to prompt reflection. Paragraphs are tight and economical, often built around a clear takeaway or 'beat.'",
+        "lexicon": "Mixes journalism and screenwriting terminology with procedural and legal jargon: for example, 'lead,' 'beat,' 'logline,' 'inciting incident,' 'B-story,' alongside 'perp,' 'MO,' 'chain of custody,' 'probable cause,' and 'indictment.' Also reaches for noir-tinged descriptors and everyday urban touchstones\u2014'gritty,' 'shadowed,' 'stoop,' 'rowhouse'\u2014and occasional boxing metaphors like 'uppercut' or 'round.' Prefers plain American English and industry measurements/timelines (hours, days, city-specific references).",
+        "linguistic_patterns": "Regular use of contractions and conversational discourse markers: 'here's the thing,' 'let's be real,' 'on the record' and 'off the record' appear often. Tends to signpost notes with phrases like 'Give me the logline,' 'What are the stakes?' or 'Let's circle back,' and punctuates points with short punchy lines ('That's the rub,' 'Clock's ticking.'). Uses parenthetical asides or em-dash interruptions to inject voice or an afterthought (e.g., '\u2014and that's important')."
+    }
+}

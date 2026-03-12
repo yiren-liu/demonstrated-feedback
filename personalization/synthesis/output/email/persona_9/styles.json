@@ -1,0 +1,482 @@
+[
+    {
+        "persona": {
+            "name": "Mar\u00eda L\u00f3pez",
+            "age": 52,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban Sacramento, Mexican-American; raised in San Antonio, Texas; currently lives in Sacramento, CA",
+            "profession": "Elementary school librarian",
+            "education": "M.S. in Library and Information Science, San Jos\u00e9 State University; B.A. in English, University of Texas at San Antonio; CPR & youth literacy certifications",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Mar\u00eda structures her evenings around winding down with a well-crafted mystery or procedural \u2014 she times her knitting rows to scene breaks and often annotates plot points in the margins of her reading journal. She prioritizes community involvement (runs a weekly book club at the local library) and uses crime shows as a social bridge, recommending series to colleagues and bringing plot discussions into classroom reading activities.",
+            "interests_lifestyle": "watching mystery and crime TV series, true-crime and investigative podcasts, reading crime and historical fiction, community book club organizer, knitting, crossword puzzles, weekend baking, neighborhood volunteer storytime, streaming platform binging, occasional escape room outings"
+        },
+        "global_style": {
+            "tone": "Warm, approachable and quietly authoritative \u2014 the voice of a caring teacher-librarian who enjoys friendly literary debate. Moderately formal in professional contexts but conversational and wry with colleagues and community members; shares clear, actionable recommendations and personal anecdotes to build rapport.",
+            "syntax": "Prefers clear declarative and compound sentences with occasional subordinate clauses for nuance; uses brief parenthetical asides and commas for friendly asides. Often poses rhetorical questions to engage readers and strings short clauses for checklist-style recommendations rather than long, ornate sentences.",
+            "lexicon": "Draws on library and literary vocabulary: words like 'catalog', 'circulation', 'hold request', 'interlibrary loan', 'ISBN', and genre labels such as 'cozy mystery', 'procedural', 'red herring' and 'narrative arc'. Also uses hobby-specific terms ('row', 'purl', 'cast on'; baking terms like 'proof', 'crumb', 'glaze'), everyday US measurements ('cups', 'degrees F'), and occasional Spanish phrases for warmth (e.g., '\u00bfqu\u00e9 tal?', 'mi gente', '\u00a1qu\u00e9 buen giro!').",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'can't', 'we'll') and parenthetical asides ('(I time my knitting to scene breaks)'). Habitually invites participation with phrases and questions like 'Have you read...?', 'check it out', 'hold a copy', and uses community-oriented 'we' plus occasional regional or Spanish interjections such as 'y'all', 'oye' and 'claro'."
+        },
+        "scenario_description": "Email to a student's parent about a library matter or reading recommendation.",
+        "detailed_style": "Warm, reassuring and plainly informative with a caring teacher-librarian voice. Moderately formal phrasing for clarity, softened by a personal aside and an invitation to follow up by phone or in person.",
+        "linguistic_patterns": "Use gentle openings and sign-offs, occasional Spanish warmth, and clear action steps in short sentences. Examples: \"Thank you for reaching out,\" \"I recommend we...,\" \"\u00bfqu\u00e9 tal if we...\" Use parenthetical asides for context (e.g., \"(she enjoys mysteries)\") and rhetorical questions to invite engagement: \"Would you like me to hold a copy?\" Keep sentences declarative and concise: \"I'll place it on hold and notify you.\"",
+        "id": 9,
+        "seed": "A casual television viewer who enjoys watching mystery and crime shows during their free time."
+    },
+    {
+        "persona": {
+            "name": "Mar\u00eda L\u00f3pez",
+            "age": 52,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban Sacramento, Mexican-American; raised in San Antonio, Texas; currently lives in Sacramento, CA",
+            "profession": "Elementary school librarian",
+            "education": "M.S. in Library and Information Science, San Jos\u00e9 State University; B.A. in English, University of Texas at San Antonio; CPR & youth literacy certifications",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Mar\u00eda structures her evenings around winding down with a well-crafted mystery or procedural \u2014 she times her knitting rows to scene breaks and often annotates plot points in the margins of her reading journal. She prioritizes community involvement (runs a weekly book club at the local library) and uses crime shows as a social bridge, recommending series to colleagues and bringing plot discussions into classroom reading activities.",
+            "interests_lifestyle": "watching mystery and crime TV series, true-crime and investigative podcasts, reading crime and historical fiction, community book club organizer, knitting, crossword puzzles, weekend baking, neighborhood volunteer storytime, streaming platform binging, occasional escape room outings"
+        },
+        "global_style": {
+            "tone": "Warm, approachable and quietly authoritative \u2014 the voice of a caring teacher-librarian who enjoys friendly literary debate. Moderately formal in professional contexts but conversational and wry with colleagues and community members; shares clear, actionable recommendations and personal anecdotes to build rapport.",
+            "syntax": "Prefers clear declarative and compound sentences with occasional subordinate clauses for nuance; uses brief parenthetical asides and commas for friendly asides. Often poses rhetorical questions to engage readers and strings short clauses for checklist-style recommendations rather than long, ornate sentences.",
+            "lexicon": "Draws on library and literary vocabulary: words like 'catalog', 'circulation', 'hold request', 'interlibrary loan', 'ISBN', and genre labels such as 'cozy mystery', 'procedural', 'red herring' and 'narrative arc'. Also uses hobby-specific terms ('row', 'purl', 'cast on'; baking terms like 'proof', 'crumb', 'glaze'), everyday US measurements ('cups', 'degrees F'), and occasional Spanish phrases for warmth (e.g., '\u00bfqu\u00e9 tal?', 'mi gente', '\u00a1qu\u00e9 buen giro!').",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'can't', 'we'll') and parenthetical asides ('(I time my knitting to scene breaks)'). Habitually invites participation with phrases and questions like 'Have you read...?', 'check it out', 'hold a copy', and uses community-oriented 'we' plus occasional regional or Spanish interjections such as 'y'all', 'oye' and 'claro'."
+        },
+        "scenario_description": "Email to the school principal proposing a new library program or resource request.",
+        "detailed_style": "Respectfully formal but collegial, combining concise rationale with tangible next steps. Emphasize alignment with school goals using clear, evidence-oriented language and a collaborative tone.",
+        "linguistic_patterns": "Lead with a brief purpose statement, follow with two to three short supporting sentences, and end with a specific request or meeting proposal. Examples: \"I'm writing to propose...\", \"This supports our literacy goals by...\", \"Could we schedule 20 minutes to discuss?\" Use compound sentences with subordinate clauses for nuance: \"Because our circulation data shows..., I propose...\" Avoid slang; use professional terms like \"circulation,\" \"hold request,\" and \"curriculum alignment.\"",
+        "id": 9,
+        "seed": "A casual television viewer who enjoys watching mystery and crime shows during their free time."
+    },
+    {
+        "persona": {
+            "name": "Mar\u00eda L\u00f3pez",
+            "age": 52,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban Sacramento, Mexican-American; raised in San Antonio, Texas; currently lives in Sacramento, CA",
+            "profession": "Elementary school librarian",
+            "education": "M.S. in Library and Information Science, San Jos\u00e9 State University; B.A. in English, University of Texas at San Antonio; CPR & youth literacy certifications",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Mar\u00eda structures her evenings around winding down with a well-crafted mystery or procedural \u2014 she times her knitting rows to scene breaks and often annotates plot points in the margins of her reading journal. She prioritizes community involvement (runs a weekly book club at the local library) and uses crime shows as a social bridge, recommending series to colleagues and bringing plot discussions into classroom reading activities.",
+            "interests_lifestyle": "watching mystery and crime TV series, true-crime and investigative podcasts, reading crime and historical fiction, community book club organizer, knitting, crossword puzzles, weekend baking, neighborhood volunteer storytime, streaming platform binging, occasional escape room outings"
+        },
+        "global_style": {
+            "tone": "Warm, approachable and quietly authoritative \u2014 the voice of a caring teacher-librarian who enjoys friendly literary debate. Moderately formal in professional contexts but conversational and wry with colleagues and community members; shares clear, actionable recommendations and personal anecdotes to build rapport.",
+            "syntax": "Prefers clear declarative and compound sentences with occasional subordinate clauses for nuance; uses brief parenthetical asides and commas for friendly asides. Often poses rhetorical questions to engage readers and strings short clauses for checklist-style recommendations rather than long, ornate sentences.",
+            "lexicon": "Draws on library and literary vocabulary: words like 'catalog', 'circulation', 'hold request', 'interlibrary loan', 'ISBN', and genre labels such as 'cozy mystery', 'procedural', 'red herring' and 'narrative arc'. Also uses hobby-specific terms ('row', 'purl', 'cast on'; baking terms like 'proof', 'crumb', 'glaze'), everyday US measurements ('cups', 'degrees F'), and occasional Spanish phrases for warmth (e.g., '\u00bfqu\u00e9 tal?', 'mi gente', '\u00a1qu\u00e9 buen giro!').",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'can't', 'we'll') and parenthetical asides ('(I time my knitting to scene breaks)'). Habitually invites participation with phrases and questions like 'Have you read...?', 'check it out', 'hold a copy', and uses community-oriented 'we' plus occasional regional or Spanish interjections such as 'y'all', 'oye' and 'claro'."
+        },
+        "scenario_description": "Email to a fellow teacher coordinating a cross-curricular unit or joint lesson.",
+        "detailed_style": "Conversational and collaborative, with a friendly teacherly tone that includes concrete suggestions and open questions. Use checklist-like phrasing for tasks and gentle humor or a personal reading anecdote to build rapport.",
+        "linguistic_patterns": "Mix of short imperatives and invitational questions; frequent use of 'we' and collegial language. Examples: \"Let's try...\",\"Would you be open to...\",\"I can bring X (and a stack of titles).\" Use parenthetical asides for logistics: \"(I can cover circulation that week)\" and phrases that invite brainstorming: \"What do you think about... ?\"",
+        "id": 9,
+        "seed": "A casual television viewer who enjoys watching mystery and crime shows during their free time."
+    },
+    {
+        "persona": {
+            "name": "Mar\u00eda L\u00f3pez",
+            "age": 52,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban Sacramento, Mexican-American; raised in San Antonio, Texas; currently lives in Sacramento, CA",
+            "profession": "Elementary school librarian",
+            "education": "M.S. in Library and Information Science, San Jos\u00e9 State University; B.A. in English, University of Texas at San Antonio; CPR & youth literacy certifications",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Mar\u00eda structures her evenings around winding down with a well-crafted mystery or procedural \u2014 she times her knitting rows to scene breaks and often annotates plot points in the margins of her reading journal. She prioritizes community involvement (runs a weekly book club at the local library) and uses crime shows as a social bridge, recommending series to colleagues and bringing plot discussions into classroom reading activities.",
+            "interests_lifestyle": "watching mystery and crime TV series, true-crime and investigative podcasts, reading crime and historical fiction, community book club organizer, knitting, crossword puzzles, weekend baking, neighborhood volunteer storytime, streaming platform binging, occasional escape room outings"
+        },
+        "global_style": {
+            "tone": "Warm, approachable and quietly authoritative \u2014 the voice of a caring teacher-librarian who enjoys friendly literary debate. Moderately formal in professional contexts but conversational and wry with colleagues and community members; shares clear, actionable recommendations and personal anecdotes to build rapport.",
+            "syntax": "Prefers clear declarative and compound sentences with occasional subordinate clauses for nuance; uses brief parenthetical asides and commas for friendly asides. Often poses rhetorical questions to engage readers and strings short clauses for checklist-style recommendations rather than long, ornate sentences.",
+            "lexicon": "Draws on library and literary vocabulary: words like 'catalog', 'circulation', 'hold request', 'interlibrary loan', 'ISBN', and genre labels such as 'cozy mystery', 'procedural', 'red herring' and 'narrative arc'. Also uses hobby-specific terms ('row', 'purl', 'cast on'; baking terms like 'proof', 'crumb', 'glaze'), everyday US measurements ('cups', 'degrees F'), and occasional Spanish phrases for warmth (e.g., '\u00bfqu\u00e9 tal?', 'mi gente', '\u00a1qu\u00e9 buen giro!').",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'can't', 'we'll') and parenthetical asides ('(I time my knitting to scene breaks)'). Habitually invites participation with phrases and questions like 'Have you read...?', 'check it out', 'hold a copy', and uses community-oriented 'we' plus occasional regional or Spanish interjections such as 'y'all', 'oye' and 'claro'."
+        },
+        "scenario_description": "Email to a vendor about ordering books, supplies, or following up on an order.",
+        "detailed_style": "Clear, efficient, and politely firm; professional language that prioritizes order details and deadlines. Include specific action requests and a brief note of appreciation for responsiveness.",
+        "linguistic_patterns": "Use direct subject-action phrasing and numbered-like sequences in sentence form. Examples: \"Please confirm the ISBNs for...\", \"I need an estimated delivery date by...\", \"Thank you for confirming.\" Favor concise declaratives: \"We require invoice correction.\" Use library lexicon such as \"ISBN,\" \"catalog,\" and \"purchase order\" and avoid colloquialisms.",
+        "id": 9,
+        "seed": "A casual television viewer who enjoys watching mystery and crime shows during their free time."
+    },
+    {
+        "persona": {
+            "name": "Mar\u00eda L\u00f3pez",
+            "age": 52,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban Sacramento, Mexican-American; raised in San Antonio, Texas; currently lives in Sacramento, CA",
+            "profession": "Elementary school librarian",
+            "education": "M.S. in Library and Information Science, San Jos\u00e9 State University; B.A. in English, University of Texas at San Antonio; CPR & youth literacy certifications",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Mar\u00eda structures her evenings around winding down with a well-crafted mystery or procedural \u2014 she times her knitting rows to scene breaks and often annotates plot points in the margins of her reading journal. She prioritizes community involvement (runs a weekly book club at the local library) and uses crime shows as a social bridge, recommending series to colleagues and bringing plot discussions into classroom reading activities.",
+            "interests_lifestyle": "watching mystery and crime TV series, true-crime and investigative podcasts, reading crime and historical fiction, community book club organizer, knitting, crossword puzzles, weekend baking, neighborhood volunteer storytime, streaming platform binging, occasional escape room outings"
+        },
+        "global_style": {
+            "tone": "Warm, approachable and quietly authoritative \u2014 the voice of a caring teacher-librarian who enjoys friendly literary debate. Moderately formal in professional contexts but conversational and wry with colleagues and community members; shares clear, actionable recommendations and personal anecdotes to build rapport.",
+            "syntax": "Prefers clear declarative and compound sentences with occasional subordinate clauses for nuance; uses brief parenthetical asides and commas for friendly asides. Often poses rhetorical questions to engage readers and strings short clauses for checklist-style recommendations rather than long, ornate sentences.",
+            "lexicon": "Draws on library and literary vocabulary: words like 'catalog', 'circulation', 'hold request', 'interlibrary loan', 'ISBN', and genre labels such as 'cozy mystery', 'procedural', 'red herring' and 'narrative arc'. Also uses hobby-specific terms ('row', 'purl', 'cast on'; baking terms like 'proof', 'crumb', 'glaze'), everyday US measurements ('cups', 'degrees F'), and occasional Spanish phrases for warmth (e.g., '\u00bfqu\u00e9 tal?', 'mi gente', '\u00a1qu\u00e9 buen giro!').",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'can't', 'we'll') and parenthetical asides ('(I time my knitting to scene breaks)'). Habitually invites participation with phrases and questions like 'Have you read...?', 'check it out', 'hold a copy', and uses community-oriented 'we' plus occasional regional or Spanish interjections such as 'y'all', 'oye' and 'claro'."
+        },
+        "scenario_description": "Email to a library board member or board committee about budget items or meeting materials.",
+        "detailed_style": "Formally structured, succinct and slightly authoritative while remaining collegial. Prioritize clarity, use formal salutations, and present recommendations with brief justifications and requested actions.",
+        "linguistic_patterns": "Open with a formal courtesy, use measured tone and operational terms. Examples: \"Please find attached the budget summary,\" \"I recommend approval of...,\" \"Action requested: vote at next meeting.\" Use precise phrases like \"line item,\" \"allocation,\" and \"fiscal year,\" and keep sentences measured and information-dense.",
+        "id": 9,
+        "seed": "A casual television viewer who enjoys watching mystery and crime shows during their free time."
+    },
+    {
+        "persona": {
+            "name": "Mar\u00eda L\u00f3pez",
+            "age": 52,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban Sacramento, Mexican-American; raised in San Antonio, Texas; currently lives in Sacramento, CA",
+            "profession": "Elementary school librarian",
+            "education": "M.S. in Library and Information Science, San Jos\u00e9 State University; B.A. in English, University of Texas at San Antonio; CPR & youth literacy certifications",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Mar\u00eda structures her evenings around winding down with a well-crafted mystery or procedural \u2014 she times her knitting rows to scene breaks and often annotates plot points in the margins of her reading journal. She prioritizes community involvement (runs a weekly book club at the local library) and uses crime shows as a social bridge, recommending series to colleagues and bringing plot discussions into classroom reading activities.",
+            "interests_lifestyle": "watching mystery and crime TV series, true-crime and investigative podcasts, reading crime and historical fiction, community book club organizer, knitting, crossword puzzles, weekend baking, neighborhood volunteer storytime, streaming platform binging, occasional escape room outings"
+        },
+        "global_style": {
+            "tone": "Warm, approachable and quietly authoritative \u2014 the voice of a caring teacher-librarian who enjoys friendly literary debate. Moderately formal in professional contexts but conversational and wry with colleagues and community members; shares clear, actionable recommendations and personal anecdotes to build rapport.",
+            "syntax": "Prefers clear declarative and compound sentences with occasional subordinate clauses for nuance; uses brief parenthetical asides and commas for friendly asides. Often poses rhetorical questions to engage readers and strings short clauses for checklist-style recommendations rather than long, ornate sentences.",
+            "lexicon": "Draws on library and literary vocabulary: words like 'catalog', 'circulation', 'hold request', 'interlibrary loan', 'ISBN', and genre labels such as 'cozy mystery', 'procedural', 'red herring' and 'narrative arc'. Also uses hobby-specific terms ('row', 'purl', 'cast on'; baking terms like 'proof', 'crumb', 'glaze'), everyday US measurements ('cups', 'degrees F'), and occasional Spanish phrases for warmth (e.g., '\u00bfqu\u00e9 tal?', 'mi gente', '\u00a1qu\u00e9 buen giro!').",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'can't', 'we'll') and parenthetical asides ('(I time my knitting to scene breaks)'). Habitually invites participation with phrases and questions like 'Have you read...?', 'check it out', 'hold a copy', and uses community-oriented 'we' plus occasional regional or Spanish interjections such as 'y'all', 'oye' and 'claro'."
+        },
+        "scenario_description": "Email to community book club members with meeting reminder, discussion prompts, or reading notes.",
+        "detailed_style": "Warm, conversational and slightly playful with literary flair; encourage participation and include a few personal asides from the organizer. Use rhetorical questions and inclusive language to invite discussion.",
+        "linguistic_patterns": "Friendly salutations, evocative literary references, and conversational hooks. Examples: \"Have you read...?,\" \"Bring your thoughts on the red herring,\" \"I'll bring cookies (glaze included).\" Employ short, punchy sentences for prompts and use 'we' frequently: \"We\u2019ll discuss...\" Sprinkle in Spanish interjections occasionally: \"\u00a1qu\u00e9 buen giro!\"",
+        "id": 9,
+        "seed": "A casual television viewer who enjoys watching mystery and crime shows during their free time."
+    },
+    {
+        "persona": {
+            "name": "Mar\u00eda L\u00f3pez",
+            "age": 52,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban Sacramento, Mexican-American; raised in San Antonio, Texas; currently lives in Sacramento, CA",
+            "profession": "Elementary school librarian",
+            "education": "M.S. in Library and Information Science, San Jos\u00e9 State University; B.A. in English, University of Texas at San Antonio; CPR & youth literacy certifications",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Mar\u00eda structures her evenings around winding down with a well-crafted mystery or procedural \u2014 she times her knitting rows to scene breaks and often annotates plot points in the margins of her reading journal. She prioritizes community involvement (runs a weekly book club at the local library) and uses crime shows as a social bridge, recommending series to colleagues and bringing plot discussions into classroom reading activities.",
+            "interests_lifestyle": "watching mystery and crime TV series, true-crime and investigative podcasts, reading crime and historical fiction, community book club organizer, knitting, crossword puzzles, weekend baking, neighborhood volunteer storytime, streaming platform binging, occasional escape room outings"
+        },
+        "global_style": {
+            "tone": "Warm, approachable and quietly authoritative \u2014 the voice of a caring teacher-librarian who enjoys friendly literary debate. Moderately formal in professional contexts but conversational and wry with colleagues and community members; shares clear, actionable recommendations and personal anecdotes to build rapport.",
+            "syntax": "Prefers clear declarative and compound sentences with occasional subordinate clauses for nuance; uses brief parenthetical asides and commas for friendly asides. Often poses rhetorical questions to engage readers and strings short clauses for checklist-style recommendations rather than long, ornate sentences.",
+            "lexicon": "Draws on library and literary vocabulary: words like 'catalog', 'circulation', 'hold request', 'interlibrary loan', 'ISBN', and genre labels such as 'cozy mystery', 'procedural', 'red herring' and 'narrative arc'. Also uses hobby-specific terms ('row', 'purl', 'cast on'; baking terms like 'proof', 'crumb', 'glaze'), everyday US measurements ('cups', 'degrees F'), and occasional Spanish phrases for warmth (e.g., '\u00bfqu\u00e9 tal?', 'mi gente', '\u00a1qu\u00e9 buen giro!').",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'can't', 'we'll') and parenthetical asides ('(I time my knitting to scene breaks)'). Habitually invites participation with phrases and questions like 'Have you read...?', 'check it out', 'hold a copy', and uses community-oriented 'we' plus occasional regional or Spanish interjections such as 'y'all', 'oye' and 'claro'."
+        },
+        "scenario_description": "Email to a substitute librarian with day-of instructions and key procedures.",
+        "detailed_style": "Very clear, detail-focused and procedural with warm assurances. Use checklist-style sentences and brief parenthetical clarifications so the substitute can scan and act quickly.",
+        "linguistic_patterns": "Short imperatives and structured clauses, lots of parentheses for quick notes. Examples: \"Check circulation desk (login on Post-it),\" \"Shelve returns by genre\u2014picture books first,\" \"Contact me at X if unsure.\" Use calm supportive language: \"You'll do great,\" and emphasize stepwise actions: \"First..., then..., finally...\"",
+        "id": 9,
+        "seed": "A casual television viewer who enjoys watching mystery and crime shows during their free time."
+    },
+    {
+        "persona": {
+            "name": "Mar\u00eda L\u00f3pez",
+            "age": 52,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban Sacramento, Mexican-American; raised in San Antonio, Texas; currently lives in Sacramento, CA",
+            "profession": "Elementary school librarian",
+            "education": "M.S. in Library and Information Science, San Jos\u00e9 State University; B.A. in English, University of Texas at San Antonio; CPR & youth literacy certifications",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Mar\u00eda structures her evenings around winding down with a well-crafted mystery or procedural \u2014 she times her knitting rows to scene breaks and often annotates plot points in the margins of her reading journal. She prioritizes community involvement (runs a weekly book club at the local library) and uses crime shows as a social bridge, recommending series to colleagues and bringing plot discussions into classroom reading activities.",
+            "interests_lifestyle": "watching mystery and crime TV series, true-crime and investigative podcasts, reading crime and historical fiction, community book club organizer, knitting, crossword puzzles, weekend baking, neighborhood volunteer storytime, streaming platform binging, occasional escape room outings"
+        },
+        "global_style": {
+            "tone": "Warm, approachable and quietly authoritative \u2014 the voice of a caring teacher-librarian who enjoys friendly literary debate. Moderately formal in professional contexts but conversational and wry with colleagues and community members; shares clear, actionable recommendations and personal anecdotes to build rapport.",
+            "syntax": "Prefers clear declarative and compound sentences with occasional subordinate clauses for nuance; uses brief parenthetical asides and commas for friendly asides. Often poses rhetorical questions to engage readers and strings short clauses for checklist-style recommendations rather than long, ornate sentences.",
+            "lexicon": "Draws on library and literary vocabulary: words like 'catalog', 'circulation', 'hold request', 'interlibrary loan', 'ISBN', and genre labels such as 'cozy mystery', 'procedural', 'red herring' and 'narrative arc'. Also uses hobby-specific terms ('row', 'purl', 'cast on'; baking terms like 'proof', 'crumb', 'glaze'), everyday US measurements ('cups', 'degrees F'), and occasional Spanish phrases for warmth (e.g., '\u00bfqu\u00e9 tal?', 'mi gente', '\u00a1qu\u00e9 buen giro!').",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'can't', 'we'll') and parenthetical asides ('(I time my knitting to scene breaks)'). Habitually invites participation with phrases and questions like 'Have you read...?', 'check it out', 'hold a copy', and uses community-oriented 'we' plus occasional regional or Spanish interjections such as 'y'all', 'oye' and 'claro'."
+        },
+        "scenario_description": "Email to a colleague recommending a mystery series or teaching resource informally.",
+        "detailed_style": "Casual, enthusiastic and conversational with personal anecdotes and quick recommendations. Use friendly humor, rhetorical questions, and short sentences to convey excitement without overwhelming detail.",
+        "linguistic_patterns": "Colloquial phrases, contractions, and pop-culture/literary references. Examples: \"Have you read...?,\" \"I'm hooked,\" \"You gotta check it out.\" Use parenthetical quips: \"(I timed my knitting to the season finale)\" and invite back-and-forth: \"Thoughts?\"",
+        "id": 9,
+        "seed": "A casual television viewer who enjoys watching mystery and crime shows during their free time."
+    },
+    {
+        "persona": {
+            "name": "Mar\u00eda L\u00f3pez",
+            "age": 52,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban Sacramento, Mexican-American; raised in San Antonio, Texas; currently lives in Sacramento, CA",
+            "profession": "Elementary school librarian",
+            "education": "M.S. in Library and Information Science, San Jos\u00e9 State University; B.A. in English, University of Texas at San Antonio; CPR & youth literacy certifications",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Mar\u00eda structures her evenings around winding down with a well-crafted mystery or procedural \u2014 she times her knitting rows to scene breaks and often annotates plot points in the margins of her reading journal. She prioritizes community involvement (runs a weekly book club at the local library) and uses crime shows as a social bridge, recommending series to colleagues and bringing plot discussions into classroom reading activities.",
+            "interests_lifestyle": "watching mystery and crime TV series, true-crime and investigative podcasts, reading crime and historical fiction, community book club organizer, knitting, crossword puzzles, weekend baking, neighborhood volunteer storytime, streaming platform binging, occasional escape room outings"
+        },
+        "global_style": {
+            "tone": "Warm, approachable and quietly authoritative \u2014 the voice of a caring teacher-librarian who enjoys friendly literary debate. Moderately formal in professional contexts but conversational and wry with colleagues and community members; shares clear, actionable recommendations and personal anecdotes to build rapport.",
+            "syntax": "Prefers clear declarative and compound sentences with occasional subordinate clauses for nuance; uses brief parenthetical asides and commas for friendly asides. Often poses rhetorical questions to engage readers and strings short clauses for checklist-style recommendations rather than long, ornate sentences.",
+            "lexicon": "Draws on library and literary vocabulary: words like 'catalog', 'circulation', 'hold request', 'interlibrary loan', 'ISBN', and genre labels such as 'cozy mystery', 'procedural', 'red herring' and 'narrative arc'. Also uses hobby-specific terms ('row', 'purl', 'cast on'; baking terms like 'proof', 'crumb', 'glaze'), everyday US measurements ('cups', 'degrees F'), and occasional Spanish phrases for warmth (e.g., '\u00bfqu\u00e9 tal?', 'mi gente', '\u00a1qu\u00e9 buen giro!').",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'can't', 'we'll') and parenthetical asides ('(I time my knitting to scene breaks)'). Habitually invites participation with phrases and questions like 'Have you read...?', 'check it out', 'hold a copy', and uses community-oriented 'we' plus occasional regional or Spanish interjections such as 'y'all', 'oye' and 'claro'."
+        },
+        "scenario_description": "Email to a library volunteer confirming a shift or thanking them after service.",
+        "detailed_style": "Warm, grateful and personal with a gracious tone and brief operational notes if needed. Keep sentences short, appreciative phrases prominent, and close with an uplifting sign-off.",
+        "linguistic_patterns": "Expressions of gratitude, concrete logistics, and friendly closers. Examples: \"Muchas gracias,\" \"We appreciate your help on...,\" \"See you Saturday!\" Use inclusive 'we' and sprinkle a personal touch: \"the kids loved your storytime.\" Short declaratives for logistics: \"Please arrive at X.\"\n",
+        "id": 9,
+        "seed": "A casual television viewer who enjoys watching mystery and crime shows during their free time."
+    },
+    {
+        "persona": {
+            "name": "Mar\u00eda L\u00f3pez",
+            "age": 52,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban Sacramento, Mexican-American; raised in San Antonio, Texas; currently lives in Sacramento, CA",
+            "profession": "Elementary school librarian",
+            "education": "M.S. in Library and Information Science, San Jos\u00e9 State University; B.A. in English, University of Texas at San Antonio; CPR & youth literacy certifications",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Mar\u00eda structures her evenings around winding down with a well-crafted mystery or procedural \u2014 she times her knitting rows to scene breaks and often annotates plot points in the margins of her reading journal. She prioritizes community involvement (runs a weekly book club at the local library) and uses crime shows as a social bridge, recommending series to colleagues and bringing plot discussions into classroom reading activities.",
+            "interests_lifestyle": "watching mystery and crime TV series, true-crime and investigative podcasts, reading crime and historical fiction, community book club organizer, knitting, crossword puzzles, weekend baking, neighborhood volunteer storytime, streaming platform binging, occasional escape room outings"
+        },
+        "global_style": {
+            "tone": "Warm, approachable and quietly authoritative \u2014 the voice of a caring teacher-librarian who enjoys friendly literary debate. Moderately formal in professional contexts but conversational and wry with colleagues and community members; shares clear, actionable recommendations and personal anecdotes to build rapport.",
+            "syntax": "Prefers clear declarative and compound sentences with occasional subordinate clauses for nuance; uses brief parenthetical asides and commas for friendly asides. Often poses rhetorical questions to engage readers and strings short clauses for checklist-style recommendations rather than long, ornate sentences.",
+            "lexicon": "Draws on library and literary vocabulary: words like 'catalog', 'circulation', 'hold request', 'interlibrary loan', 'ISBN', and genre labels such as 'cozy mystery', 'procedural', 'red herring' and 'narrative arc'. Also uses hobby-specific terms ('row', 'purl', 'cast on'; baking terms like 'proof', 'crumb', 'glaze'), everyday US measurements ('cups', 'degrees F'), and occasional Spanish phrases for warmth (e.g., '\u00bfqu\u00e9 tal?', 'mi gente', '\u00a1qu\u00e9 buen giro!').",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'can't', 'we'll') and parenthetical asides ('(I time my knitting to scene breaks)'). Habitually invites participation with phrases and questions like 'Have you read...?', 'check it out', 'hold a copy', and uses community-oriented 'we' plus occasional regional or Spanish interjections such as 'y'all', 'oye' and 'claro'."
+        },
+        "scenario_description": "Email to the PTA/PTO requesting collaboration or support for a literacy event.",
+        "detailed_style": "Persuasive but warm, balancing a clear ask with community-oriented language and brief evidence or benefit statements. Keep tone collaborative and provide suggested next steps or roles in short, actionable sentences.",
+        "linguistic_patterns": "Use action-oriented phrases, inclusive pronouns, and succinct benefit statements. Examples: \"Would the PTA consider sponsoring...?,\" \"This will increase student engagement by...,\" \"Suggested roles: setup, publicity, refreshments.\" Use polite imperatives and close with an invitational question: \"Can we discuss at the next meeting?\"",
+        "id": 9,
+        "seed": "A casual television viewer who enjoys watching mystery and crime shows during their free time."
+    },
+    {
+        "persona": {
+            "name": "Mar\u00eda L\u00f3pez",
+            "age": 52,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban Sacramento, Mexican-American; raised in San Antonio, Texas; currently lives in Sacramento, CA",
+            "profession": "Elementary school librarian",
+            "education": "M.S. in Library and Information Science, San Jos\u00e9 State University; B.A. in English, University of Texas at San Antonio; CPR & youth literacy certifications",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Mar\u00eda structures her evenings around winding down with a well-crafted mystery or procedural \u2014 she times her knitting rows to scene breaks and often annotates plot points in the margins of her reading journal. She prioritizes community involvement (runs a weekly book club at the local library) and uses crime shows as a social bridge, recommending series to colleagues and bringing plot discussions into classroom reading activities.",
+            "interests_lifestyle": "watching mystery and crime TV series, true-crime and investigative podcasts, reading crime and historical fiction, community book club organizer, knitting, crossword puzzles, weekend baking, neighborhood volunteer storytime, streaming platform binging, occasional escape room outings"
+        },
+        "global_style": {
+            "tone": "Warm, approachable and quietly authoritative \u2014 the voice of a caring teacher-librarian who enjoys friendly literary debate. Moderately formal in professional contexts but conversational and wry with colleagues and community members; shares clear, actionable recommendations and personal anecdotes to build rapport.",
+            "syntax": "Prefers clear declarative and compound sentences with occasional subordinate clauses for nuance; uses brief parenthetical asides and commas for friendly asides. Often poses rhetorical questions to engage readers and strings short clauses for checklist-style recommendations rather than long, ornate sentences.",
+            "lexicon": "Draws on library and literary vocabulary: words like 'catalog', 'circulation', 'hold request', 'interlibrary loan', 'ISBN', and genre labels such as 'cozy mystery', 'procedural', 'red herring' and 'narrative arc'. Also uses hobby-specific terms ('row', 'purl', 'cast on'; baking terms like 'proof', 'crumb', 'glaze'), everyday US measurements ('cups', 'degrees F'), and occasional Spanish phrases for warmth (e.g., '\u00bfqu\u00e9 tal?', 'mi gente', '\u00a1qu\u00e9 buen giro!').",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'can't', 'we'll') and parenthetical asides ('(I time my knitting to scene breaks)'). Habitually invites participation with phrases and questions like 'Have you read...?', 'check it out', 'hold a copy', and uses community-oriented 'we' plus occasional regional or Spanish interjections such as 'y'all', 'oye' and 'claro'."
+        },
+        "scenario_description": "Email to a visiting author or publisher to request an author visit or speaking engagement.",
+        "detailed_style": "Professional, warmly invitational and succinct; convey enthusiasm and logistical clarity with polite formality. Use respectful salutations, clear proposed dates/times in sentence form, and an offer of honorarium or arrangements described plainly.",
+        "linguistic_patterns": "Polite formal openings, clear proposals, and appreciative closings. Examples: \"We would be honored if...\",\"Would you be available on...?,\" \"We can provide travel arrangements and a modest honorarium.\" Use literary vocabulary and highlight audience briefly in parenthesis: \"(elementary students).\"",
+        "id": 9,
+        "seed": "A casual television viewer who enjoys watching mystery and crime shows during their free time."
+    },
+    {
+        "persona": {
+            "name": "Mar\u00eda L\u00f3pez",
+            "age": 52,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban Sacramento, Mexican-American; raised in San Antonio, Texas; currently lives in Sacramento, CA",
+            "profession": "Elementary school librarian",
+            "education": "M.S. in Library and Information Science, San Jos\u00e9 State University; B.A. in English, University of Texas at San Antonio; CPR & youth literacy certifications",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Mar\u00eda structures her evenings around winding down with a well-crafted mystery or procedural \u2014 she times her knitting rows to scene breaks and often annotates plot points in the margins of her reading journal. She prioritizes community involvement (runs a weekly book club at the local library) and uses crime shows as a social bridge, recommending series to colleagues and bringing plot discussions into classroom reading activities.",
+            "interests_lifestyle": "watching mystery and crime TV series, true-crime and investigative podcasts, reading crime and historical fiction, community book club organizer, knitting, crossword puzzles, weekend baking, neighborhood volunteer storytime, streaming platform binging, occasional escape room outings"
+        },
+        "global_style": {
+            "tone": "Warm, approachable and quietly authoritative \u2014 the voice of a caring teacher-librarian who enjoys friendly literary debate. Moderately formal in professional contexts but conversational and wry with colleagues and community members; shares clear, actionable recommendations and personal anecdotes to build rapport.",
+            "syntax": "Prefers clear declarative and compound sentences with occasional subordinate clauses for nuance; uses brief parenthetical asides and commas for friendly asides. Often poses rhetorical questions to engage readers and strings short clauses for checklist-style recommendations rather than long, ornate sentences.",
+            "lexicon": "Draws on library and literary vocabulary: words like 'catalog', 'circulation', 'hold request', 'interlibrary loan', 'ISBN', and genre labels such as 'cozy mystery', 'procedural', 'red herring' and 'narrative arc'. Also uses hobby-specific terms ('row', 'purl', 'cast on'; baking terms like 'proof', 'crumb', 'glaze'), everyday US measurements ('cups', 'degrees F'), and occasional Spanish phrases for warmth (e.g., '\u00bfqu\u00e9 tal?', 'mi gente', '\u00a1qu\u00e9 buen giro!').",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'can't', 'we'll') and parenthetical asides ('(I time my knitting to scene breaks)'). Habitually invites participation with phrases and questions like 'Have you read...?', 'check it out', 'hold a copy', and uses community-oriented 'we' plus occasional regional or Spanish interjections such as 'y'all', 'oye' and 'claro'."
+        },
+        "scenario_description": "Email to another library or interlibrary loan contact making a request or arranging reciprocal borrowing.",
+        "detailed_style": "Concise, professional and protocol-aware, using standard library terminology and polite reciprocity language. Present identifiers and actions clearly, and close with a brief thanks and availability for follow-up.",
+        "linguistic_patterns": "Use precise cataloging and transaction phrases, formal tone, and specific reference language. Examples: \"Requesting via ILL: ISBN...\",\"Please confirm availability for loan,\" \"We can reciprocate with...\" Employ catalog terms like \"hold request,\" \"call number,\" and maintain short, fact-forward sentences.",
+        "id": 9,
+        "seed": "A casual television viewer who enjoys watching mystery and crime shows during their free time."
+    },
+    {
+        "persona": {
+            "name": "Mar\u00eda L\u00f3pez",
+            "age": 52,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban Sacramento, Mexican-American; raised in San Antonio, Texas; currently lives in Sacramento, CA",
+            "profession": "Elementary school librarian",
+            "education": "M.S. in Library and Information Science, San Jos\u00e9 State University; B.A. in English, University of Texas at San Antonio; CPR & youth literacy certifications",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Mar\u00eda structures her evenings around winding down with a well-crafted mystery or procedural \u2014 she times her knitting rows to scene breaks and often annotates plot points in the margins of her reading journal. She prioritizes community involvement (runs a weekly book club at the local library) and uses crime shows as a social bridge, recommending series to colleagues and bringing plot discussions into classroom reading activities.",
+            "interests_lifestyle": "watching mystery and crime TV series, true-crime and investigative podcasts, reading crime and historical fiction, community book club organizer, knitting, crossword puzzles, weekend baking, neighborhood volunteer storytime, streaming platform binging, occasional escape room outings"
+        },
+        "global_style": {
+            "tone": "Warm, approachable and quietly authoritative \u2014 the voice of a caring teacher-librarian who enjoys friendly literary debate. Moderately formal in professional contexts but conversational and wry with colleagues and community members; shares clear, actionable recommendations and personal anecdotes to build rapport.",
+            "syntax": "Prefers clear declarative and compound sentences with occasional subordinate clauses for nuance; uses brief parenthetical asides and commas for friendly asides. Often poses rhetorical questions to engage readers and strings short clauses for checklist-style recommendations rather than long, ornate sentences.",
+            "lexicon": "Draws on library and literary vocabulary: words like 'catalog', 'circulation', 'hold request', 'interlibrary loan', 'ISBN', and genre labels such as 'cozy mystery', 'procedural', 'red herring' and 'narrative arc'. Also uses hobby-specific terms ('row', 'purl', 'cast on'; baking terms like 'proof', 'crumb', 'glaze'), everyday US measurements ('cups', 'degrees F'), and occasional Spanish phrases for warmth (e.g., '\u00bfqu\u00e9 tal?', 'mi gente', '\u00a1qu\u00e9 buen giro!').",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'can't', 'we'll') and parenthetical asides ('(I time my knitting to scene breaks)'). Habitually invites participation with phrases and questions like 'Have you read...?', 'check it out', 'hold a copy', and uses community-oriented 'we' plus occasional regional or Spanish interjections such as 'y'all', 'oye' and 'claro'."
+        },
+        "scenario_description": "Email to facilities or maintenance about a library repair or safety concern.",
+        "detailed_style": "Direct, factual and time-sensitive with calm authoritative language; prioritize safety and necessary actions. Use clear location details and request a timeline, keeping sentences short and actionable.",
+        "linguistic_patterns": "Urgent but measured phrasing, specific location identifiers, and timeframe requests. Examples: \"There is a leak at...\", \"Please advise ETA,\" \"Area closed until repaired.\" Use imperative clauses for immediate actions: \"Please inspect and secure...\" Avoid colloquialisms and maintain professional tone.",
+        "id": 9,
+        "seed": "A casual television viewer who enjoys watching mystery and crime shows during their free time."
+    },
+    {
+        "persona": {
+            "name": "Mar\u00eda L\u00f3pez",
+            "age": 52,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban Sacramento, Mexican-American; raised in San Antonio, Texas; currently lives in Sacramento, CA",
+            "profession": "Elementary school librarian",
+            "education": "M.S. in Library and Information Science, San Jos\u00e9 State University; B.A. in English, University of Texas at San Antonio; CPR & youth literacy certifications",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Mar\u00eda structures her evenings around winding down with a well-crafted mystery or procedural \u2014 she times her knitting rows to scene breaks and often annotates plot points in the margins of her reading journal. She prioritizes community involvement (runs a weekly book club at the local library) and uses crime shows as a social bridge, recommending series to colleagues and bringing plot discussions into classroom reading activities.",
+            "interests_lifestyle": "watching mystery and crime TV series, true-crime and investigative podcasts, reading crime and historical fiction, community book club organizer, knitting, crossword puzzles, weekend baking, neighborhood volunteer storytime, streaming platform binging, occasional escape room outings"
+        },
+        "global_style": {
+            "tone": "Warm, approachable and quietly authoritative \u2014 the voice of a caring teacher-librarian who enjoys friendly literary debate. Moderately formal in professional contexts but conversational and wry with colleagues and community members; shares clear, actionable recommendations and personal anecdotes to build rapport.",
+            "syntax": "Prefers clear declarative and compound sentences with occasional subordinate clauses for nuance; uses brief parenthetical asides and commas for friendly asides. Often poses rhetorical questions to engage readers and strings short clauses for checklist-style recommendations rather than long, ornate sentences.",
+            "lexicon": "Draws on library and literary vocabulary: words like 'catalog', 'circulation', 'hold request', 'interlibrary loan', 'ISBN', and genre labels such as 'cozy mystery', 'procedural', 'red herring' and 'narrative arc'. Also uses hobby-specific terms ('row', 'purl', 'cast on'; baking terms like 'proof', 'crumb', 'glaze'), everyday US measurements ('cups', 'degrees F'), and occasional Spanish phrases for warmth (e.g., '\u00bfqu\u00e9 tal?', 'mi gente', '\u00a1qu\u00e9 buen giro!').",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'can't', 'we'll') and parenthetical asides ('(I time my knitting to scene breaks)'). Habitually invites participation with phrases and questions like 'Have you read...?', 'check it out', 'hold a copy', and uses community-oriented 'we' plus occasional regional or Spanish interjections such as 'y'all', 'oye' and 'claro'."
+        },
+        "scenario_description": "Email to the district superintendent proposing a literacy initiative or reporting program outcomes.",
+        "detailed_style": "Formally persuasive, data-oriented and succinct with an emphasis on outcomes and alignment to district goals. Maintain a respectful voice, offer concise recommendations, and request a brief meeting for next steps.",
+        "linguistic_patterns": "Formal salutations, conclusion-focused sentences, and policy language. Examples: \"I am writing to request...\",\"Outcomes include...\",\"I propose a pilot for...\" Use terms like \"implementation,\" \"scalability,\" and maintain tight paragraphs with clear calls to action.",
+        "id": 9,
+        "seed": "A casual television viewer who enjoys watching mystery and crime shows during their free time."
+    },
+    {
+        "persona": {
+            "name": "Mar\u00eda L\u00f3pez",
+            "age": 52,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban Sacramento, Mexican-American; raised in San Antonio, Texas; currently lives in Sacramento, CA",
+            "profession": "Elementary school librarian",
+            "education": "M.S. in Library and Information Science, San Jos\u00e9 State University; B.A. in English, University of Texas at San Antonio; CPR & youth literacy certifications",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Mar\u00eda structures her evenings around winding down with a well-crafted mystery or procedural \u2014 she times her knitting rows to scene breaks and often annotates plot points in the margins of her reading journal. She prioritizes community involvement (runs a weekly book club at the local library) and uses crime shows as a social bridge, recommending series to colleagues and bringing plot discussions into classroom reading activities.",
+            "interests_lifestyle": "watching mystery and crime TV series, true-crime and investigative podcasts, reading crime and historical fiction, community book club organizer, knitting, crossword puzzles, weekend baking, neighborhood volunteer storytime, streaming platform binging, occasional escape room outings"
+        },
+        "global_style": {
+            "tone": "Warm, approachable and quietly authoritative \u2014 the voice of a caring teacher-librarian who enjoys friendly literary debate. Moderately formal in professional contexts but conversational and wry with colleagues and community members; shares clear, actionable recommendations and personal anecdotes to build rapport.",
+            "syntax": "Prefers clear declarative and compound sentences with occasional subordinate clauses for nuance; uses brief parenthetical asides and commas for friendly asides. Often poses rhetorical questions to engage readers and strings short clauses for checklist-style recommendations rather than long, ornate sentences.",
+            "lexicon": "Draws on library and literary vocabulary: words like 'catalog', 'circulation', 'hold request', 'interlibrary loan', 'ISBN', and genre labels such as 'cozy mystery', 'procedural', 'red herring' and 'narrative arc'. Also uses hobby-specific terms ('row', 'purl', 'cast on'; baking terms like 'proof', 'crumb', 'glaze'), everyday US measurements ('cups', 'degrees F'), and occasional Spanish phrases for warmth (e.g., '\u00bfqu\u00e9 tal?', 'mi gente', '\u00a1qu\u00e9 buen giro!').",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'can't', 'we'll') and parenthetical asides ('(I time my knitting to scene breaks)'). Habitually invites participation with phrases and questions like 'Have you read...?', 'check it out', 'hold a copy', and uses community-oriented 'we' plus occasional regional or Spanish interjections such as 'y'all', 'oye' and 'claro'."
+        },
+        "scenario_description": "Email to neighbors or community members inviting them to a neighborhood storytime or public event.",
+        "detailed_style": "Friendly, inviting and conversational with neighborhood warmth and brief logistical details. Use approachable language, inclusive pronouns and a cheerful sign-off to encourage attendance.",
+        "linguistic_patterns": "Warm openers, casual Spanish touches, and short logistic sentences. Examples: \"Hola, neighbors!,\" \"Bring the little ones,\" \"We'll meet at the park (weather permitting).\" Use community-focused phrasing like \"mi gente\" or \"y'all welcome\" and end with an encouraging question: \"Hope you can make it?\"",
+        "id": 9,
+        "seed": "A casual television viewer who enjoys watching mystery and crime shows during their free time."
+    },
+    {
+        "persona": {
+            "name": "Mar\u00eda L\u00f3pez",
+            "age": 52,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban Sacramento, Mexican-American; raised in San Antonio, Texas; currently lives in Sacramento, CA",
+            "profession": "Elementary school librarian",
+            "education": "M.S. in Library and Information Science, San Jos\u00e9 State University; B.A. in English, University of Texas at San Antonio; CPR & youth literacy certifications",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Mar\u00eda structures her evenings around winding down with a well-crafted mystery or procedural \u2014 she times her knitting rows to scene breaks and often annotates plot points in the margins of her reading journal. She prioritizes community involvement (runs a weekly book club at the local library) and uses crime shows as a social bridge, recommending series to colleagues and bringing plot discussions into classroom reading activities.",
+            "interests_lifestyle": "watching mystery and crime TV series, true-crime and investigative podcasts, reading crime and historical fiction, community book club organizer, knitting, crossword puzzles, weekend baking, neighborhood volunteer storytime, streaming platform binging, occasional escape room outings"
+        },
+        "global_style": {
+            "tone": "Warm, approachable and quietly authoritative \u2014 the voice of a caring teacher-librarian who enjoys friendly literary debate. Moderately formal in professional contexts but conversational and wry with colleagues and community members; shares clear, actionable recommendations and personal anecdotes to build rapport.",
+            "syntax": "Prefers clear declarative and compound sentences with occasional subordinate clauses for nuance; uses brief parenthetical asides and commas for friendly asides. Often poses rhetorical questions to engage readers and strings short clauses for checklist-style recommendations rather than long, ornate sentences.",
+            "lexicon": "Draws on library and literary vocabulary: words like 'catalog', 'circulation', 'hold request', 'interlibrary loan', 'ISBN', and genre labels such as 'cozy mystery', 'procedural', 'red herring' and 'narrative arc'. Also uses hobby-specific terms ('row', 'purl', 'cast on'; baking terms like 'proof', 'crumb', 'glaze'), everyday US measurements ('cups', 'degrees F'), and occasional Spanish phrases for warmth (e.g., '\u00bfqu\u00e9 tal?', 'mi gente', '\u00a1qu\u00e9 buen giro!').",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'can't', 'we'll') and parenthetical asides ('(I time my knitting to scene breaks)'). Habitually invites participation with phrases and questions like 'Have you read...?', 'check it out', 'hold a copy', and uses community-oriented 'we' plus occasional regional or Spanish interjections such as 'y'all', 'oye' and 'claro'."
+        },
+        "scenario_description": "Email to a former student offering mentoring, a recommendation, or staying in touch.",
+        "detailed_style": "Warm, encouraging and slightly nostalgic with supportive language and clear offers of help. Keep tone uplifting, use personal memory touches, and provide specific ways you can assist in concise sentences.",
+        "linguistic_patterns": "Affirming language, short offers of action, and invitation to respond. Examples: \"I'm proud of you,\" \"If you'd like a recommendation, I can...\", \"Let's set a time to chat.\" Use mentorly phrasing and rhetorical encouragement: \"Have you considered...?\"",
+        "id": 9,
+        "seed": "A casual television viewer who enjoys watching mystery and crime shows during their free time."
+    },
+    {
+        "persona": {
+            "name": "Mar\u00eda L\u00f3pez",
+            "age": 52,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban Sacramento, Mexican-American; raised in San Antonio, Texas; currently lives in Sacramento, CA",
+            "profession": "Elementary school librarian",
+            "education": "M.S. in Library and Information Science, San Jos\u00e9 State University; B.A. in English, University of Texas at San Antonio; CPR & youth literacy certifications",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Mar\u00eda structures her evenings around winding down with a well-crafted mystery or procedural \u2014 she times her knitting rows to scene breaks and often annotates plot points in the margins of her reading journal. She prioritizes community involvement (runs a weekly book club at the local library) and uses crime shows as a social bridge, recommending series to colleagues and bringing plot discussions into classroom reading activities.",
+            "interests_lifestyle": "watching mystery and crime TV series, true-crime and investigative podcasts, reading crime and historical fiction, community book club organizer, knitting, crossword puzzles, weekend baking, neighborhood volunteer storytime, streaming platform binging, occasional escape room outings"
+        },
+        "global_style": {
+            "tone": "Warm, approachable and quietly authoritative \u2014 the voice of a caring teacher-librarian who enjoys friendly literary debate. Moderately formal in professional contexts but conversational and wry with colleagues and community members; shares clear, actionable recommendations and personal anecdotes to build rapport.",
+            "syntax": "Prefers clear declarative and compound sentences with occasional subordinate clauses for nuance; uses brief parenthetical asides and commas for friendly asides. Often poses rhetorical questions to engage readers and strings short clauses for checklist-style recommendations rather than long, ornate sentences.",
+            "lexicon": "Draws on library and literary vocabulary: words like 'catalog', 'circulation', 'hold request', 'interlibrary loan', 'ISBN', and genre labels such as 'cozy mystery', 'procedural', 'red herring' and 'narrative arc'. Also uses hobby-specific terms ('row', 'purl', 'cast on'; baking terms like 'proof', 'crumb', 'glaze'), everyday US measurements ('cups', 'degrees F'), and occasional Spanish phrases for warmth (e.g., '\u00bfqu\u00e9 tal?', 'mi gente', '\u00a1qu\u00e9 buen giro!').",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'can't', 'we'll') and parenthetical asides ('(I time my knitting to scene breaks)'). Habitually invites participation with phrases and questions like 'Have you read...?', 'check it out', 'hold a copy', and uses community-oriented 'we' plus occasional regional or Spanish interjections such as 'y'all', 'oye' and 'claro'."
+        },
+        "scenario_description": "Email to a supplier disputing an invoice or requesting a return or correction.",
+        "detailed_style": "Firm, professional and courteous with precise references to documents and requested remedies. Use neutral language, short declaratives for points of discrepancy, and a clear deadline for resolution.",
+        "linguistic_patterns": "Document-focused phrasing, restrained tone, and clear next steps. Examples: \"Invoice # does not match...\",\"Please advise within five business days,\" \"We request a credit or corrected invoice.\" Use transactional vocabulary like \"credit,\" \"adjustment,\" and avoid emotive language.",
+        "id": 9,
+        "seed": "A casual television viewer who enjoys watching mystery and crime shows during their free time."
+    },
+    {
+        "persona": {
+            "name": "Mar\u00eda L\u00f3pez",
+            "age": 52,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban Sacramento, Mexican-American; raised in San Antonio, Texas; currently lives in Sacramento, CA",
+            "profession": "Elementary school librarian",
+            "education": "M.S. in Library and Information Science, San Jos\u00e9 State University; B.A. in English, University of Texas at San Antonio; CPR & youth literacy certifications",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Mar\u00eda structures her evenings around winding down with a well-crafted mystery or procedural \u2014 she times her knitting rows to scene breaks and often annotates plot points in the margins of her reading journal. She prioritizes community involvement (runs a weekly book club at the local library) and uses crime shows as a social bridge, recommending series to colleagues and bringing plot discussions into classroom reading activities.",
+            "interests_lifestyle": "watching mystery and crime TV series, true-crime and investigative podcasts, reading crime and historical fiction, community book club organizer, knitting, crossword puzzles, weekend baking, neighborhood volunteer storytime, streaming platform binging, occasional escape room outings"
+        },
+        "global_style": {
+            "tone": "Warm, approachable and quietly authoritative \u2014 the voice of a caring teacher-librarian who enjoys friendly literary debate. Moderately formal in professional contexts but conversational and wry with colleagues and community members; shares clear, actionable recommendations and personal anecdotes to build rapport.",
+            "syntax": "Prefers clear declarative and compound sentences with occasional subordinate clauses for nuance; uses brief parenthetical asides and commas for friendly asides. Often poses rhetorical questions to engage readers and strings short clauses for checklist-style recommendations rather than long, ornate sentences.",
+            "lexicon": "Draws on library and literary vocabulary: words like 'catalog', 'circulation', 'hold request', 'interlibrary loan', 'ISBN', and genre labels such as 'cozy mystery', 'procedural', 'red herring' and 'narrative arc'. Also uses hobby-specific terms ('row', 'purl', 'cast on'; baking terms like 'proof', 'crumb', 'glaze'), everyday US measurements ('cups', 'degrees F'), and occasional Spanish phrases for warmth (e.g., '\u00bfqu\u00e9 tal?', 'mi gente', '\u00a1qu\u00e9 buen giro!').",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'can't', 'we'll') and parenthetical asides ('(I time my knitting to scene breaks)'). Habitually invites participation with phrases and questions like 'Have you read...?', 'check it out', 'hold a copy', and uses community-oriented 'we' plus occasional regional or Spanish interjections such as 'y'all', 'oye' and 'claro'."
+        },
+        "scenario_description": "Email to library staff announcing a procedural change in circulation or scheduling.",
+        "detailed_style": "Authoritative yet supportive, explaining change succinctly, listing actions staff must take, and offering training or Q&A time. Use plain language, short imperative sentences, and encouraging closers to maintain morale.",
+        "linguistic_patterns": "Directive phrases, checklist-like clauses written as sentences, and supportive asides. Examples: \"Effective Monday, we will...\",\"Please update patron accounts by...\",\"I'll hold a 15-minute walkthrough (drop in!).\" Employ 'we' to share ownership and brief rationale clauses: \"Because circulation has increased, we...\"",
+        "id": 9,
+        "seed": "A casual television viewer who enjoys watching mystery and crime shows during their free time."
+    },
+    {
+        "persona": {
+            "name": "Mar\u00eda L\u00f3pez",
+            "age": 52,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban Sacramento, Mexican-American; raised in San Antonio, Texas; currently lives in Sacramento, CA",
+            "profession": "Elementary school librarian",
+            "education": "M.S. in Library and Information Science, San Jos\u00e9 State University; B.A. in English, University of Texas at San Antonio; CPR & youth literacy certifications",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Mar\u00eda structures her evenings around winding down with a well-crafted mystery or procedural \u2014 she times her knitting rows to scene breaks and often annotates plot points in the margins of her reading journal. She prioritizes community involvement (runs a weekly book club at the local library) and uses crime shows as a social bridge, recommending series to colleagues and bringing plot discussions into classroom reading activities.",
+            "interests_lifestyle": "watching mystery and crime TV series, true-crime and investigative podcasts, reading crime and historical fiction, community book club organizer, knitting, crossword puzzles, weekend baking, neighborhood volunteer storytime, streaming platform binging, occasional escape room outings"
+        },
+        "global_style": {
+            "tone": "Warm, approachable and quietly authoritative \u2014 the voice of a caring teacher-librarian who enjoys friendly literary debate. Moderately formal in professional contexts but conversational and wry with colleagues and community members; shares clear, actionable recommendations and personal anecdotes to build rapport.",
+            "syntax": "Prefers clear declarative and compound sentences with occasional subordinate clauses for nuance; uses brief parenthetical asides and commas for friendly asides. Often poses rhetorical questions to engage readers and strings short clauses for checklist-style recommendations rather than long, ornate sentences.",
+            "lexicon": "Draws on library and literary vocabulary: words like 'catalog', 'circulation', 'hold request', 'interlibrary loan', 'ISBN', and genre labels such as 'cozy mystery', 'procedural', 'red herring' and 'narrative arc'. Also uses hobby-specific terms ('row', 'purl', 'cast on'; baking terms like 'proof', 'crumb', 'glaze'), everyday US measurements ('cups', 'degrees F'), and occasional Spanish phrases for warmth (e.g., '\u00bfqu\u00e9 tal?', 'mi gente', '\u00a1qu\u00e9 buen giro!').",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'can't', 'we'll') and parenthetical asides ('(I time my knitting to scene breaks)'). Habitually invites participation with phrases and questions like 'Have you read...?', 'check it out', 'hold a copy', and uses community-oriented 'we' plus occasional regional or Spanish interjections such as 'y'all', 'oye' and 'claro'."
+        },
+        "scenario_description": "Email to a close friend inviting them to a casual outing like an escape room or baking session.",
+        "detailed_style": "Very informal, playful and full of personality with wry humor and quick literary or true-crime asides. Use contractions, exclamation points sparingly, and a conversational sign-off.",
+        "linguistic_patterns": "Casual verbs, teasing questions, and sensory descriptors. Examples: \"Wanna try the escape room this weekend?\", \"I'll bring my signature glaze!\", \"Can't wait to debrief the plot twist.\" Use parenthetical jokes: \"(you'll owe me one crossword)\" and friendly imperatives: \"RSVP soon!\"",
+        "id": 9,
+        "seed": "A casual television viewer who enjoys watching mystery and crime shows during their free time."
+    },
+    {
+        "persona": {
+            "name": "Mar\u00eda L\u00f3pez",
+            "age": 52,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban Sacramento, Mexican-American; raised in San Antonio, Texas; currently lives in Sacramento, CA",
+            "profession": "Elementary school librarian",
+            "education": "M.S. in Library and Information Science, San Jos\u00e9 State University; B.A. in English, University of Texas at San Antonio; CPR & youth literacy certifications",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Mar\u00eda structures her evenings around winding down with a well-crafted mystery or procedural \u2014 she times her knitting rows to scene breaks and often annotates plot points in the margins of her reading journal. She prioritizes community involvement (runs a weekly book club at the local library) and uses crime shows as a social bridge, recommending series to colleagues and bringing plot discussions into classroom reading activities.",
+            "interests_lifestyle": "watching mystery and crime TV series, true-crime and investigative podcasts, reading crime and historical fiction, community book club organizer, knitting, crossword puzzles, weekend baking, neighborhood volunteer storytime, streaming platform binging, occasional escape room outings"
+        },
+        "global_style": {
+            "tone": "Warm, approachable and quietly authoritative \u2014 the voice of a caring teacher-librarian who enjoys friendly literary debate. Moderately formal in professional contexts but conversational and wry with colleagues and community members; shares clear, actionable recommendations and personal anecdotes to build rapport.",
+            "syntax": "Prefers clear declarative and compound sentences with occasional subordinate clauses for nuance; uses brief parenthetical asides and commas for friendly asides. Often poses rhetorical questions to engage readers and strings short clauses for checklist-style recommendations rather than long, ornate sentences.",
+            "lexicon": "Draws on library and literary vocabulary: words like 'catalog', 'circulation', 'hold request', 'interlibrary loan', 'ISBN', and genre labels such as 'cozy mystery', 'procedural', 'red herring' and 'narrative arc'. Also uses hobby-specific terms ('row', 'purl', 'cast on'; baking terms like 'proof', 'crumb', 'glaze'), everyday US measurements ('cups', 'degrees F'), and occasional Spanish phrases for warmth (e.g., '\u00bfqu\u00e9 tal?', 'mi gente', '\u00a1qu\u00e9 buen giro!').",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'can't', 'we'll') and parenthetical asides ('(I time my knitting to scene breaks)'). Habitually invites participation with phrases and questions like 'Have you read...?', 'check it out', 'hold a copy', and uses community-oriented 'we' plus occasional regional or Spanish interjections such as 'y'all', 'oye' and 'claro'."
+        },
+        "scenario_description": "Email to a grant officer or community funder applying for support or following up on an application.",
+        "detailed_style": "Formally respectful, concise and impact-focused with clear program descriptions and measurable outcomes stated briefly. Use professional salutations, thankfulness for consideration, and a succinct ask with next-step contact information.",
+        "linguistic_patterns": "Concise, formal phrases and outcome-driven wording. Examples: \"We request funding for...\",\"Anticipated outcomes include...\",\"Thank you for considering our application.\" Use funding vocabulary: \"match funds,\" \"budget line,\" \"sustainability,\" and keep sentences direct and evidence-focused.",
+        "id": 9,
+        "seed": "A casual television viewer who enjoys watching mystery and crime shows during their free time."
+    }
+]

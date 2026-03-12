@@ -1,0 +1,40 @@
+#!/bin/bash
+#SBATCH -o /projects/bbrz/yirenl2/personalization/logs/synthesize_writing_samples_%j.out  # output file (%j expands to jobID)
+#SBATCH -e /projects/bbrz/yirenl2/personalization/logs/synthesize_writing_samples_%j.err  # error log file (%j expands to jobID)
+#SBATCH --mail-type=ALL                      # Request status by email
+#SBATCH --mail-user=yirenl2@illinois.edu     # Email address to send results to.
+#SBATCH --nodes=1
+#SBATCH --mem=64g
+#SBATCH --ntasks-per-node=16
+#SBATCH --partition=cpu
+#SBATCH --account=bbrz-delta-cpu
+#SBATCH --time=04:00:00
+#SBATCH --job-name=synthesize_writing_samples
+
+# Set project paths
+PROJECT_PATH=/projects/bbrz/yirenl2/personalization
+
+# Activate venv
+source .venv/bin/activate
+
+
+# load envs from .env file
+export $(cat .env | xargs)
+
+# Add project path to PYTHONPATH so synthesis module can be found
+export PYTHONPATH=$PROJECT_PATH:$PYTHONPATH
+
+# Run the synthesis pipeline
+python -m synthesis.run \
+    --output_dir ./synthesis/output/social_media_post \
+    --n_personas 3 \
+    --n_scenarios 10 \
+    --n_tasks 10 \
+    --writing-type "social media post"
+
+# Deactivate conda environment
+conda deactivate
+
+# Unset variables
+unset PROJECT_PATH
+unset OUTPUT_DIR

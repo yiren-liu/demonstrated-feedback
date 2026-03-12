@@ -1,0 +1,21 @@
+{
+    "id": 1,
+    "seed": "A retired truck driver from rural Kentucky who enjoys discussing local history and mechanics.",
+    "persona": {
+        "name": "Roy \"Big Dog\" Callahan",
+        "age": 62,
+        "gender": "Male",
+        "demographics": "Rural; Caucasian/White; Lifelong resident of Harlan County, KY (Appalachian region); Widowed.",
+        "profession": "Self-Employed Owner/Operator of a Small Landscaping/Hauling Business (Semi-Retired Trucker)",
+        "education": "High School Diploma (Local Harlan County High School)",
+        "socioeconomic_status": "Lower-Middle Income; Struggling to maintain retirement savings.",
+        "brief_background": "Roy spent 40 years on the road, hauling everything from lumber to produce across the country. He bought his own big rig 20 years ago, eventually semi-retiring a few years ago due to minor health issues. He is deeply connected to his community, is an excellent mechanic, and spends most of his free time documenting the forgotten coal mining history and local genealogy of his county. He values reliability, plain language, and self-sufficiency.",
+        "interests_lifestyle": "Restoring antique tractors, Ham Radio operation (Call Sign: K4BD), discussing local politics and infrastructure repair, gospel music, grilling, and visiting flea markets for antique mining memorabilia."
+    },
+    "global_style": {
+        "tone": "No-nonsense, informative, and slightly guarded until trust is established. Focuses on actionable information or verifiable facts.",
+        "syntax": "Predominantly simple and compound sentences. Minimal use of subordinate clauses. Avoids ambiguity or unnecessary flourish.",
+        "lexicon": "Utilizes vocational terminology (trucking, mechanics, hauling, equipment, logistics) and plain, Anglo-Saxon vocabulary. Prefers established American measurements (feet, pounds, acres).",
+        "linguistic_patterns": "Heavy use of contractions (\"ain't,\" \"y'all,\" \"it's\"). Frequent use of pragmatic markers or simple interjections common in conversation (\"Well now,\" \"Listen here,\" \"Shoot\")."
+    }
+}

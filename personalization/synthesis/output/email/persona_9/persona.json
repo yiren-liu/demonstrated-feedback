@@ -1,0 +1,21 @@
+{
+    "id": 9,
+    "seed": "A casual television viewer who enjoys watching mystery and crime shows during their free time.",
+    "persona": {
+        "name": "Mar\u00eda L\u00f3pez",
+        "age": 52,
+        "gender": "Female (she/her)",
+        "demographics": "Suburban Sacramento, Mexican-American; raised in San Antonio, Texas; currently lives in Sacramento, CA",
+        "profession": "Elementary school librarian",
+        "education": "M.S. in Library and Information Science, San Jos\u00e9 State University; B.A. in English, University of Texas at San Antonio; CPR & youth literacy certifications",
+        "socioeconomic_status": "Middle income; Working professional",
+        "brief_background": "Mar\u00eda structures her evenings around winding down with a well-crafted mystery or procedural \u2014 she times her knitting rows to scene breaks and often annotates plot points in the margins of her reading journal. She prioritizes community involvement (runs a weekly book club at the local library) and uses crime shows as a social bridge, recommending series to colleagues and bringing plot discussions into classroom reading activities.",
+        "interests_lifestyle": "watching mystery and crime TV series, true-crime and investigative podcasts, reading crime and historical fiction, community book club organizer, knitting, crossword puzzles, weekend baking, neighborhood volunteer storytime, streaming platform binging, occasional escape room outings"
+    },
+    "global_style": {
+        "tone": "Warm, approachable and quietly authoritative \u2014 the voice of a caring teacher-librarian who enjoys friendly literary debate. Moderately formal in professional contexts but conversational and wry with colleagues and community members; shares clear, actionable recommendations and personal anecdotes to build rapport.",
+        "syntax": "Prefers clear declarative and compound sentences with occasional subordinate clauses for nuance; uses brief parenthetical asides and commas for friendly asides. Often poses rhetorical questions to engage readers and strings short clauses for checklist-style recommendations rather than long, ornate sentences.",
+        "lexicon": "Draws on library and literary vocabulary: words like 'catalog', 'circulation', 'hold request', 'interlibrary loan', 'ISBN', and genre labels such as 'cozy mystery', 'procedural', 'red herring' and 'narrative arc'. Also uses hobby-specific terms ('row', 'purl', 'cast on'; baking terms like 'proof', 'crumb', 'glaze'), everyday US measurements ('cups', 'degrees F'), and occasional Spanish phrases for warmth (e.g., '\u00bfqu\u00e9 tal?', 'mi gente', '\u00a1qu\u00e9 buen giro!').",
+        "linguistic_patterns": "Regular use of contractions ('I'm', 'can't', 'we'll') and parenthetical asides ('(I time my knitting to scene breaks)'). Habitually invites participation with phrases and questions like 'Have you read...?', 'check it out', 'hold a copy', and uses community-oriented 'we' plus occasional regional or Spanish interjections such as 'y'all', 'oye' and 'claro'."
+    }
+}

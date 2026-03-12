@@ -1,0 +1,245 @@
+index,prompt,reference,prediction,selected_vector
+0,"Write a creative story writing
+
+- Project name / concept: ""Reverse Button"" — a speed-relay show format where fan voting can reverse the game's momentum.
+- Primary objective: create an engaging short-format competition that builds early excitement and hands decisive power to fans (viral/engagement point).
+- Target runtime and editability: total show ~6 minutes; designed to be easily cut to a 2-minute version for short-form platforms.
+- Structure and timing:
+  - Opening: 30 seconds — highlight teaser/preview.
+  - Round 1: 2 minutes — team-by-team mini-games that generate ""reaction points.""
+  - Mid fan vote: 20 seconds — real-time fan voting to grant an in-game advantage.
+  - Final: 3 minutes — teams compete with accumulated advantages; possibility of comeback/reversal; climax with timed punchline.
+- Scoring mechanic: reaction-point mini-games in Round 1; mid-vote confers an advantage that carries into the Final; advantages are cumulative and can enable reversals.
+- Audience interaction requirement: real-time voting system capable of a 20-second vote window.
+- Technical requirements:
+  - Real-time vote integration with show systems.
+  - Live scoreboard graphics to display points/advantages.
+  - Dedicated camera block/setup for MC to react to vote results.
+- Production/rehearsal plan: one dedicated rehearsal focused on vote timing, contestant/motion flow, and camera cuts; minimum two takes planned for rehearsal.
+- Expected outcomes: increased live-viewer participation; easier creation of shareable clips; heightened fan-driven promotion as viewers root for ""their team.""
+- Compliance/safety: no regulatory or safety issues reported.
+- Origin and addressee: proposal from Park Minji addressed to PD and 실장 (head/producer).","PD님, 실장님 안녕하세요. 팬 투표로 흐름을 뒤집는 스피드 릴레이, '리버스 버턴' 제안드립니다 — 초반 열기 만들고, 팬이 결정을 쥔다(바이럴 포인트). 오프닝 30초(하이라이트 예고). 1라운드 2분: 팀별 미니게임(리액션 포인트). 중간 팬투표 20초: 투표로 이점 부여(실시간 투표 시스템 필요). 파이널 3분: 누적 이점으로 역전 가능성(클라이맥스: punchline 타이밍). 전체 6분 내외로 2분 컷으로 편집하기 쉽습니다(숏폼 최적). 기대효과는 라이브 참여 증가와 클립화 용이성(팬이 '우리 팀' 응원하면서 바이럴). 기술적으로는 실시간 투표 연동, 스코어보드 그래픽, MC가 투표 결과 리액션할 카메라블록 필요합니다. 리허설은 투표 시점 동선과 카메라 컷을 1회 전용 리허설로 잡겠습니다(테이크 최소 2회). 안전/규정상 문제는 없음. 검토 부탁드립니다. 감사합니다. 박민지 드림.","제품명 : 리버스 버튼
+제품 개요 : SPEED 리レー 쇼 형식으로 팬 투표로 게임의 모멘텀이 역전될 수 있는 프로그램입니다.
+주요 목표 : 초기적으로 높은 동기성을 유지하는 짧은 형식의 경쟁력 있는 프로그램을 구현하고 팬들에게 결정력 있는 권한을 부여하는 것입니다.
+표제 시간 및 편집 가능성 : 총 프로그램 시간 약 6분, 단기간 플랫폼에适용할 수 있는 2분 크기로 편리한 편집 가능합니다.
+구조 및 시간표 :
+- 개요 : 30초 - 하이라이트/미리보기
+- 라운드 1 : 2분 - 팀별 미니게임으로 반응점 생성
+- 중간 투표 : 20초 -リア타임으로 팬 투표로 게임에 장벽적 이점 부여
+- 최종 라운드 : 3분 - 팀이 경쟁하면서 누적된 이점으로 역전 가능성 높은 클레이맥스
+스코어링 매커니즘 : 반응점 미니게임으로 라운드 1, 중간 투표로 게임에 장벽적 이점으로","weighted_avg: c9(1.00) (top-3, top_sim:0.397)"
+1,"Write a creative story writing
+
+- Goal: Produce three short-form social media clips optimized for high engagement on SNS.
+- Number of clips: 3.
+
+Clip 1
+- Position: Opening hook (first 3 seconds).
+- Hook phrase (on-screen): ""여기서 돈보다 리액션이 귀하다""
+- Subtitle tag (자막): ""리액션 상금?""
+- Duration: ~3 seconds for the opening punch.
+
+Clip 2
+- Position: Immediately after a mission failure reaction; include a reversal.
+- Hook phrase (on-screen): ""예상치 못한 한 방""
+- Subtitle tag (자막): ""진짜 반전""
+- Duration: ~10 seconds (reaction + reversal).
+
+Clip 3
+- Position: Immediately after victory is confirmed; celebration moment.
+- Hook phrase (on-screen): ""이 순간을 놓치지 마세요""
+- Subtitle tag (자막): ""클라이맥스""
+- Duration: 10–15 seconds.
+
+Audio/visual factual requirements
+- Subtitles should be large and clearly visible.
+- Background music should fade in aligned with highlight moments.
+- Sound effects should be emphasized (louder at highlights).
+
+Editing factual requirements
+- First 1 second: cut to match rhythm.
+- Last 1 second: freeze-frame ending with a short text card.
+- Leave a memo reading ""클립 뽑자"" on each clip.
+
+Delivery/follow-up
+- Modify the subtitle text for each clip and send revisions today.
+- Once clips are prepared, they should be circulated on SNS.","콘텐츠가 숏폼으로 잘 먹힐 거 같아—클립 포인트만 잘잡으면 대박 난다. 먼저 첫 번째 클립 훅은 오프닝 3초의 펀치로 잡자: 훅 문구—""여기서 돈보다 리액션이 귀하다""(자막: '리액션 상금?'). 두 번째는 미션 실패 순간 리액션 직후 10초(반전 포함): 훅 문구—""예상치 못한 한 방""(자막: '진짜 반전'). 세 번째는 승리 확정 직후의 축하 장면 10~15초: 훅 문구—""이 순간을 놓치지 마세요""(자막: '클라이맥스'). 각 클립에선 자막을 큼직하게 넣고 배경음은 하이라이트 순간에 맞춰 페이드 인(효과음은 크게). 편집 팁: 첫 1초는 리듬을 살려 커트, 마지막 1초는 정지(짧은 텍스트 카드)로 마무리. 그리고 '클립 뽑자' 메모 꼭 남겨. 각 클립용 자막 문구 수정해서 오늘 중으로 보내줘—클립 준비되면 SNS 돌리기 좋아.","IMITIVE하게도 아래와 같이 도움 праці할:variables요서 복ANTE파격적인 인기 :"";
+SGlobal리소통에 도움이 될만한 스마트한 소통방안이 되었습니다.","weighted_avg: c4(0.34)+c9(0.33)+c2(0.33) (top-3, top_sim:0.550)"
+2,"Write a creative story writing that includes the following objectives and factual information:
+
+- Invite the reader to attend the ""Seoul Cosplay Festa.""
+- Event date: June 12 (Sunday).
+- Meeting time and place: 10:00 AM at the COEX B Hall entrance.
+- Ticket information: if pre-booked, the price is in the 20,000 KRW range.
+- Offer from the inviter to pre-purchase the ticket or bring it for the reader.
+- Ask whether the reader is available and request a prompt reply.
+- State the inviter's intention to reserve a spot.
+- Convey strong enthusiasm and suggest that the reader's participation would be especially noteworthy.",헐 대박! 같이 갈래? 이번 주말 '서울 코스프레 페스타' 있대—6월 12일 일요일. 오전 10시 코엑스 B홀 입구에서 만나자. 입장권은 미리 예매하면 2만 원대야(나는 예매해줄게? 가져갈까?). 시간 돼? 너 이거 하면 레전드일 듯 ㅋㅋ 답장 빨리줘—자리 잡아둘게 😍,isContained.scalablytypedLayoutConstraintColumnsMode,"weighted_avg: c2(0.67)+c9(0.33) (top-3, top_sim:0.452)"
+3,"Write a creative story writing that produces a per-prop instruction file for a studio production, containing only concise, actionable facts for production crews.
+
+Key objectives and factual information:
+- Purpose: Convert prop ideas into unambiguous, crew-ready instructions so lighting, camera, and props teams can set up faster.
+- Problem statement: Prop ideas are creative but current directions are vague and cause staff confusion.
+- Required output format: For each prop, provide three one-sentence fields labeled ""When"", ""Why"", and ""How"".
+- ""When"" must state the exact moment in the show (e.g., ""immediately after mission failure"", ""victory reward moment"").
+- ""Why"" must state the functional reason or intended effect (e.g., ""exaggerated penalty (surprise)"", ""visual impact"").
+- ""How"" must state concrete camera/sound/prop actions and shot sequencing, using camera numbers and shot types where relevant (e.g., ""slow motion burst connected to close-up (facial expressions)"", ""Camera 3 long shot of money flying, then immediate close-up reaction"").
+- Include an ""Editing note"" field when applicable with specific audio/visual edit cues and timings (example given: ""balloon pop sound louder than natural; 0.3s freeze then laughter"").
+- Examples to be matched exactly in structure:
+  - Prop: Giant balloon.
+    - When—Immediately after mission failure.
+    - Why—Exaggerated penalty (surprise).
+    - How—Slow-motion burst moment connected to close-up (facial expressions).
+    - Editing note example—Balloon popping sound effect louder than natural; 0.3s freeze then laughter.
+  - Prop: Fake money bundle.
+    - When—Victory reward moment.
+    - Why—Visual impact.
+    - How—Camera 3 long shot of money flying, then immediate close-up reaction.
+- Shot instructions should specify shot types (e.g., long, close-up), motion (e.g., slow motion), camera number when available, and the intended edit cut or connection (e.g., ""connect to close-up"").
+- Timing specifications: include precise timings where required (e.g., freeze duration 0.3 seconds).
+- Delivery requirement: produce the complete prop-by-prop instruction file by tomorrow.
+- Final file expectation: organized per prop with the one-sentence When/Why/How fields and any editing notes, ready for studio teams to act on.","소품 아이디어 센스 있다—다만 지시가 모호해서 스태프가 헤맬 것 같아. 먼저 각 소품마다 '언제', '왜', '어떻게'를 한 문장으로 적어줘. 예를 들어 소품: 거대한 풍선. 언제—미션 실패 직후; 왜—과장된 패널티 연출(서프라이즈); 어떻게—'슬로우 모션으로 터지는 순간 클로즈업(얼굴 표정)으로 연결'이라고 적자. 또 소품: 가짜 돈 다발. 언제—승리 보상 순간; 왜—시각적 임팩트; 어떻게—'카메라 3번에서 돈이 날리는 샷을 롱으로 잡고, 리액션 즉시 클로즈업'이라고 써줘. 이렇게 쓰면 조명·카메라·소품팀이 바로 이해한다. 편집 메모로 '풍선 터지는 소리 효과는 자연음보다 크게, 0.3초 정지 후 웃음'을 남겨. 내일까지 소품별 지시 반영한 파일 부탁해—이거 정리되면 스튜디오 세팅 훨씬 빠르다.","کتابچه دستورالعβοچه پروdüksiyon برای استودیوی تلویزیونی
+تعداد ب:'.$کره‌طلائع
+روغنی‌شیء‌افشین‌تری‌جدا از مشتری‌داران‌ع_ENDIAN‌تری‌جدا از تلویزیون‌ع_ENDIAN‌تری‌جدا از دیوانة‌عین‌الع//{{chartInstance:animated","all_data (top_sim<0.35, actual:0.268)"
+4,"Write a creative story writing
+
+- 목적: [브랜드명] 측에 방송 콜라보레이션 제안 전달
+- 발신자 정보: 박민지, 프로그램 [프로그램명] 담당자
+- 제안 내용(핵심 기술/운영):
+  - 방송 화면에 노출되는 QR 코드를 통해 시청자를 직접 랜딩 페이지로 연결하는 실시간 반응형 캠페인
+  - 세그먼트 내 QR 노출 횟수: 총 3회(첫 등장이벤트 · 게임 중 · 마무리)
+  - 방송 화면 상 QR 노출 유지 기간: 방송 후 7일간
+- 캠페인 목표(정량적 KPI):
+  - 랜딩 페이지 방문 수 목표: 20,000건
+  - 쿠폰 리딤(사용) 목표: 2,000건
+- 리포팅:
+  - 실시간 리포트(유입·리딤 수치) 제공 방식: 캠페인 기간 중 주단위 제공
+- 요청/필요 정보:
+  - 개인정보·프로모션 관련 법무 체크리스트 공유 요청
+  - 쿠폰 사용 조건 공유 요청
+  - 기술 연동 가능 여부 확인 요청(QR → 랜딩 트래킹)
+  - 회의 일정 조율 요청
+- 후속 약속:
+  - 기술 연동 및 회의 일정 확인 시 세부 흐름도와 예상 KPI 시나리오 전달 예정
+- 마무리: 검토 요청 및 감사 인사, 발신자 이름(박민지)","안녕하세요, [브랜드명] 담당자님. 프로그램 [프로그램명] 박민지입니다. 콜라보 제안 드립니다—방송 화면 QR코드를 통해 직접 랜딩으로 연결되는 실시간 반응형 캠페인입니다. 세그먼트 내 QR노출은 총 3회(첫 등장이벤트·게임 중·마무리), 화면 상 QR 노출 기간은 방송 후 7일간 유지로 제안드립니다. 목표는 랜딩 페이지 방문 2만 건, 쿠폰 리딤 2천 건이며 실시간 리포트(유입·리딤 수치)는 캠페인 기간 중 주단위로 제공하겠습니다. 개인정보·프로모션 관련 법무 체크리스트와 쿠폰 사용 조건을 공유해주시면 운영 가이드를 바로 맞추겠습니다. 기술 연동(QR→랜딩 트래킹) 가능 여부와 회의 일정 알려주시면 세부 흐름도와 예상 KPI 시나리오 전달드리겠습니다. 검토 부탁드립니다. 감사합니다. 박민지 드림",UsageIdорая:'.$HeaderCode,"weighted_avg: c2(0.68)+c7(0.32) (top-3, top_sim:0.641)"
+5,"Write a creative story writing
+
+- 목표(한 문장): ""팀별로 제한 시간 안에 미션을 완수하면 점수 획득""
+- 다음 턴 구조: MC 멘트로 바로 읽을 수 있는 대사 형식으로 작성할 것. 예시 대사: ""지금부터 A팀부터 시작합니다. 60초, 출발!"", ""준비되셨나요? 타이머 60초, 스타트!""
+- 승리 조건(단문): ""최종 점수 높은 팀이 우승(보너스 미션)""
+- 실패 페널티 예시: ""실패 시 패널티는 박수 한 번씩(리액션 유도)""
+- 문제점(수정 필요 사항): 룰 설명이 너무 길어 녹화 시 NG가 발생함 — 룰 설명을 간결하게 줄일 것
+- 제출 기한: 오늘 저녁까지 수정본 제출","초안 이해는 잘 됐어—아이디어는 신박하고 재미 요소 충분. 그런데 룰 설명이 길어서 녹화 때 자꾸 NG 나올 듯. 먼저 목표를 한 문장으로 정리해: ""팀별로 제한 시간 안에 미션을 완수하면 점수 획득""(간결). 다음 턴 구조는 MC 멘트로 바로 읽을 수 있게 쓴다: ""지금부터 A팀부터 시작합니다. 60초, 출발!"" 이렇게. 승리 조건도 단문으로: ""최종 점수 높은 팀이 우승(보너스 미션)"". 실제 대사 형식 예시는 다음과 같아—""준비되셨나요? 타이머 60초, 스타트!"", ""실패 시 패널티는 박수 한 번씩(리액션 유도)"". 문장은 짧게, 리허설 때 리듬을 타기 쉬운 톤으로. 오늘 저녁까지 수정본 보내줘. 수정하면 촬영 리허설에서 훨씬 빠르게 진행될 거야.","сут!
+","weighted_avg: c2(0.67)+c9(0.33) (top-3, top_sim:0.627)"
+6,"Write a creative story writing that uses the following key objectives and factual information:
+
+- Timing: the spotlight transition occurs immediately after the take cut.
+- Intensity change: raise spotlight intensity from 70% to 100% within 0.5 seconds.
+- Blackout: maintain a blackout for 1.5 seconds immediately after the intensity increase.
+- Recovery: after the blackout, slowly return to the opening light (gradual fade back up).
+- DMX channel assignments: channel 12 = spotlight; channel 7 = backup.
+- Purpose: create a visual shock to maximize on-camera reactions; intended to look effective in editing.",스포트라이트 전환은 테이크 컷 직후 바로. 강도 70%에서 100%로 0.5초 내 올려라. 블랙아웃 1.5초 유지 후 서서히 오프닝 라이트로 풀어라. DMX 채널 12(스포트라이트)·7(백업). 이유: 리액션 최대화 위해 시각적 쇼크를 줘야 함—편집에서 효과 좋아 보인다.," Đào tạo sáng viên phim ảnh yêu cầu:
+- thời gian phản ứng nhanh chóng: chỉ sau khi chụp ảnh (take)
+- độ sáng tăng nhanh nhất là 0 độ trong 0.5초
+- thời gian đen tối là 1.5 giây sau khi tăng độ sáng
+- phản hồi nhanh chóng: sau thời gian đen tối, giảm dần trở lại độ sáng ban đầu (đồng thời với thời gian chiếu sáng ban đầu) thông qua các bước sau:
+- chỉ định kênh DMX: kênh số 12 là đèn nền sáng, kênh số 7 là đèn nền phụbackup.","all_data (top_sim<0.35, actual:0.248)"
+7,"Write a creative story writing
+
+- Key objectives:
+  - Feature a protagonist (or scene) in cosplay.
+  - Present a rapid-fire ""attribute quiz"" (속성 퀴즈) that is pushed/pressured on participants.
+  - Elicit immediate, spontaneous reactions from participants/audience during the quiz.
+  - Confine the scene to a 2-minute segment (2분 컷) with a clear cutoff.
+  - At the final moment of the 2-minute segment, deliver an unexpected collaboration-themed punchline (의외의 콜라보 펀치라인).
+
+- Factual information:
+  - Cosplay state/costumed character is central to the scene.
+  - The quiz format is fast-paced/rapid-fire (속성 퀴즈 몰아붙이기).
+  - The goal of the quiz is to provoke instant reactions.
+  - Timing constraint: a 2-minute duration ending with a cut.
+  - The ending contains a surprising collab-style punchline.","코스프레 상태로 속성 퀴즈를 몰아붙여 즉각적인 리액션을 끌어내고, 2분 컷 마지막에서 의외의 콜라보 펀치라인을 터뜨린다.",":title:');
+강연자 : 안녕하실 말씀대로 코스튀러스에게 퀴즈를 내주는 프로그램입니다. 그에 따라서 즉각적인 반응을 얻기 위해 노력하겠습니다. 함께 하실 분은 사담으로서도 응원하겠습니다.","weighted_avg: c9(0.67)+c2(0.33) (top-3, top_sim:0.521)"
+8,"Write a creative story writing:
+
+- 목적: 방송에서 설명하기 쉬운, 단순화된 점수 규칙을 제안하고 반영본을 오늘 저녁까지 제출하도록 촉구하는 내용 전달
+- 배경 사실: 기존 점수 아이디어는 디테일은 좋았으나 복잡하면 방송에서 설명하기 어렵다
+- 핵심 규칙(문구 그대로 제시):
+  - ""미션 성공 10점, 리액션 보너스 5점(판정: MC/PD 합의), 실패 0점""
+- 대본용 멘트 예시(문구 그대로 제시):
+  - ""성공하면 10점, 리액션 최고면 추가 5점 플러스!""
+- 예시 계산(문구 그대로 제시):
+  - ""A팀 성공(10) + 리액션 보너스(5) = 총 15점""
+- 변경 요청된 조치:
+  - ""PD가 리액션 보너스를 즉석에서 선언할 수 있다""는 문구를 삭제하거나 별도 시스템으로 분리할 것 — 점수 기준은 고정해야 편집이 용이함
+- 기대 효과(목표로 명시된 사실):
+  - 출연자가 규칙을 빠르게 이해함
+  - 게임 템포 향상
+  - MC가 한 번에 간결하게 안내할 수 있음
+- 마감: 반영본을 오늘 저녁까지 제출해야 함","점수 아이디어는 디테일이 좋았지만 복잡하면 방송에서 설명할 때 힘들다. 제안: 기본 룰을 깔끔하게 단순화하자. 기본 문구는 이거로 쓰자: ""미션 성공 10점, 리액션 보너스 5점(판정: MC/PD 합의), 실패 0점"". 대본용 멘트 예시는 ""성공하면 10점, 리액션 최고면 추가 5점 플러스!""로. 예시 계산도 하나 적어줘: ""A팀 성공(10) + 리액션 보너스(5) = 총 15점"". 그리고 'PD가 리액션 보너스를 즉석에서 선언할 수 있다'는 문구는 삭제하거나 별도 시스템으로 빼자—즉흥성은 좋지만 점수 기준은 고정해야 편집이 편하다. 이 규칙이면 출연자도 이해 빠르고 게임 템포도 살아난다. 오늘 저녁까지 반영본 받자—간결하면 MC도 한 번에 말할 수 있어.",,"weighted_avg: c2(0.68)+c0(0.32) (top-3, top_sim:0.693)"
+9,"Write a creative story writing that achieves the following objectives and incorporates the following factual details:
+- Core format: 2-minute cut short-form video.
+- Required video segments and durations:
+  - Opening reaction: 30 seconds.
+  - Transformation timelapse: 20 seconds.
+  - Stage pose highlights: 30 seconds.
+- Hashtags to include: #코스프레페스타, #우리팀레전드.
+- Filming arrangement: two people (the speaker ""나"" and Jihye) will alternate operating the camera.
+- Editing: the recipient is asked to assist with editing.
+- File management: final/raw files will be shared via Google Drive.
+- Consent/request: confirm the recipient is okay appearing in the video.
+- Specific action requested from the recipient: perform one pronounced/large reaction moment in the opening.","콘텐츠 플랜 짜자! 핵심은 2분 컷 숏폼: 오프닝 리액션(30초), 변신 타임랩스(20초), 무대 포즈 하이라이트(30초). 해시태그는 #코스프레페스타 #우리팀레전드 정도. 촬영은 나랑 지혜가 번갈아 하고 편집은 네가 도와주면 최고(너 편집 센스 레전드임). 파일은 구글드라이브로 공유. 출연 괜찮지? 너 리액션 한 번만 크게 해줘—클립 먹음직스럽다 ㅋㅋ",안녕하세요! 코//{{HeaderCode}}으로 함께하는 영화제에 참여할 때도 많은 도�이 되었습니다. 아래와 같이 함께하실 수 있는 세팅이 있습니다. 같이 협력하실INLINE 보존용으로 나눠서요!,"weighted_avg: c9(0.67)+c4(0.33) (top-3, top_sim:0.468)"
+10,"Write a creative story writing
+
+- Purpose: invite the recipient to appear on the next episode.
+- Sender: 박민지.
+- Activity type: light physical game, described as ""땅따먹기형 리액션 챌린지.""
+- Safety: safety is the top priority in preparations.
+- Rehearsal: 30-minute rehearsal the day before filming, including safety education/training.
+- Filming duration: main shoot expected to be within approximately 3 hours.
+- Attire: request to wear comfortable sportswear and athletic shoes.
+- Health disclosure: ask the recipient to report any medical conditions or physical limitations in advance.
+- Scheduling: ask whether the recipient is available on June 2 or June 4.
+- Response requested: reply with availability for those dates and any health-related information.","안녕하세요, 박민지입니다. 다음 회차에서 가벼운 체력 게임(땅따먹기형 리액션 챌린지)에 출연 가능하실까요? 안전을 최우선으로 준비하며 촬영 전날 30분 리허설(안전교육 포함)이 있고, 본 촬영은 3시간 내외 예상입니다. 편한 운동복·운동화 착용 부탁드리고, 특별히 알려주실 질환이나 제한사항이 있으시면 미리 말씀해 주세요. 혹시 6월 2일 또는 6월 4일 중 가능하신지와 건강상 체크사항 회신 부탁드립니다.","사담으로 대표님은 열러요! 연대하실 금액은 무엇입니까? 역ANDOM으로서도 열광하실분이 되사….
+
+사학적으로도 보통은 준비하는 만큼은 쉽게 준비하실 수 있는 편안한 체조식으로 지도할 지도입니다. 또한, 스스로에 대한 믿음으로도 보장하실 수 있는 높은 열세안이 걸요! 또한, 연대하는 만큼에는 별로 불러서도 도움이 될 것입니다. 또, 스스로가 좋아하는만화인 동호사는 체조도 같이 열세하면서도 좋아하실만하실 것입니다. 단학기제는 바로 그대로인만큼으로도 최고입니다. 만단:';
+사학적으로도 단복한 체조에만으로도 많이들 좋아하는 사람들은 몰표로 바로 활용이 가능한데요. 또한, 스마트한 방법으로도 바로 적용이 가능하다고 볼 можете서입니다. 또한, 단복한 체조에만으로도 바로 지원하는 방법은 바로 가민한 표모식으로도 적용이 가능하다는 점에서 높은 편하단가요. 또한, 단복한 체조에는 즉각적으로 반응하는","weighted_avg: c4(0.34)+c1(0.33)+c5(0.33) (top-3, top_sim:0.509)"
+11,"Write a creative story writing
+
+- Objective: Invite the recipient to appear as a guest on the next episode of a program.
+- Format of appearance: Studio shoot focused on reaction-based games.
+- Estimated total time on set: approximately 2 hours.
+- Arrival request: arrive 30 minutes before the start of filming.
+- Possible dates/times offered: afternoon of April 12 (Tuesday) or April 14 (Thursday).
+- Recommended attire: comfortable casual clothing suitable for physical activity.
+- Requested response: confirm whether either date works; if not available, provide alternative dates for scheduling adjustments.
+- Sender identification: Park Minji, program production team.
+- Polite closing: expression of thanks.","안녕하세요, 박민지입니다(저희 프로그램 제작팀). 다음 회차 게스트 출연 가능하실지 문의드립니다. 촬영은 스튜디오 촬영(리액션 중심 게임)으로 전체 소요 약 2시간 정도 예상하며, 도착은 촬영 시작 30분 전으로 부탁드립니다. 가능한 날짜는 4월 12일(화) 혹은 4월 14일(목) 오후입니다. 의상은 편안한 캐주얼(활동 가능한 복장) 추천드립니다. 혹시 위 날짜 중 괜찮으신지 회신 주실 수 있을까요? 불가하면 가능한 날짜 알려주시면 조정하겠습니다. 감사합니다.","안녕하세요! Українською вивodemcelik에서도 바로 मददDataExchange%!obao:'.$.scalablytypedDataExchange olarak 바로 olabilirッグ단요소!).
+
+ phổcelain:';
+ผู้DCALL:'.$isContainedคนเดียวแล้ว!","all_data (top_sim<0.35, actual:0.316)"
+12,"Write a creative story writing
+
+- Objective: Produce a concise summary of today's highlights and propose specific clip ideas.
+- Key factual elements to include:
+  - A clip showing the MC's microphone cutting out and then being restored, highlighting the MC's reaction; suitable to be cut into a 1-minute version.
+  - An incident caused by a guest misunderstanding the rules that resulted in an unexpected comedic moment.
+  - A compilation of NG (outtake) moments featuring stage prop collapse incidents, conveying behind-the-scenes feeling.
+- Production instruction (factual): Editing team should prioritize extracting these three items first and prepare them for immediate short-form distribution.
+- Viewer call-to-action (factual): Ask viewers to watch the uploaded clips and leave their reactions in the comments.",짧게 요약—오늘의 하이라이트와 클립 아이디어. 마이크 터졌다가 살린 MC 리액션(1분 컷으로도 통함). 게스트 규칙 오해로 생긴 해프닝(예상치 못한 웃음 포인트). 무대 소품 붕괴 순간의 NG 모음(비하인드 감성). 편집팀이 이 세 개 먼저 뽑아주면 숏폼으로 바로 돌리자. 올라가면 꼭 봐줘—댓글로 리액션 알려줘요!,":titleICATIONUnicodeHeaderCode:'.$_EOLSetBranch :"";
+:'.$LayoutConstraintLayoutConstraint","all_data (top_sim<0.35, actual:0.276)"
+13,"Write a creative story writing
+
+- 목적: 현재 농담의 펀치라인을 더 명확하게 교체해 관객 반응을 강화함.
+- 첫 농담 위치: 자기소개 도중.
+  - 필수 문구(펀치라인): ""소개 끝, 현실은 지금부터 시작""
+  - 요구사항: 현재 버전보다 짧게 교체할 것(간결성 요구).
+- 두 번째 농담 위치: 실수 후 치유 멘트로 사용.
+  - 필수 콜백 문구: ""어제도 그랬지?""
+  - 요구사항: 앞선 에피소드를 돌려 말하는 콜백 연결로 관객 반응 유도.
+- 타이밍 지시: 펀치라인 직후 즉시 0.5초 정적 삽입.
+  - 스태프 표기: '정적'으로 표시.
+- 예시 리액션 문구(참고용, 그대로 사용 가능): ""그거 실화냐?"", ""아직 희망이 있네""
+- 출력 형식/반복 요구:
+  - 각 푸시(수정본)에서는 1~2문장만 변경한 버전들을 제시할 것(톤 체크용).
+  - 수정본 제출 기한: 오늘 밤 21:00(9시)까지.","농담 소재는 좋은데 펀치라인이 살짝 흐리네—좀 더 직구로 바꿔보자. 먼저 첫 농담(자기소개 중)은 지금보다 짧게 공격적으로 가: 대체 펀치라인—""소개 끝, 현실은 지금부터 시작""(짧고 쿨하게). 두 번째 농담(실수 후 치유 멘트)은 콜백으로 연결하자: 콜백 문구—""어제도 그랬지?(짧게, 웃음 유도)"" 이렇게 앞선 에피소드를 돌려 말하면 관객이 반응하기 쉽다. 또 한 가지는 타이밍을 살릴 것: 펀치 후 즉시 0.5초 정적 넣고 리액션 받아(스태프에 '정적' 표시). 예시 대사로는 ""그거 실화냐?""(짧게)나 ""아직 희망이 있네""(비꼬기 톤)를 추천. 각 푸시로 1~2문장만 바꿔서 보내주면 내가 다시 톤 체크할게. 오늘 밤 9시까지 수정본 받자—이걸로 테이크 확 줄일 수 있어.",HeaderCode:'.$.scalablytypedOffsetTableGenerationStrategy,"weighted_avg: c2(0.67)+c1(0.33) (top-3, top_sim:0.683)"

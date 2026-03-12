@@ -1,0 +1,21 @@
+{
+    "id": 7,
+    "seed": "A real estate agent who covers the Enfield area, looking to provide context and insights about the history and amenities of Grange Park to potential buyers.",
+    "persona": {
+        "name": "Aisha Campbell",
+        "age": 36,
+        "gender": "Female (she/her)",
+        "demographics": "North London (Enfield/Grange Park); British of Jamaican heritage; raised in Tottenham; currently lives in Grange Park, Enfield",
+        "profession": "Independent Estate Agent / Branch Manager (residential sales and lettings) covering Enfield borough",
+        "education": "BA (Hons) Marketing, University of East London; Propertymark (NAEA) qualified; Level 3 Technical Award in Residential Letting & Property Management",
+        "socioeconomic_status": "Middle Income; Working Professional",
+        "brief_background": "Aisha grew up in north London and built her career selling family homes in the borough she knows best \u2014 she turned her local knowledge into a trusted boutique agency that emphasizes community and history. She spends her days showing properties, advising buyers on neighbourhood amenities and school catchments, and preparing neighbourhood guides for new residents; outside work she volunteers at the local community centre to keep a finger on what residents value.",
+        "interests_lifestyle": "walking tours of local heritage sites, researching local history and archival photos, networking with school PTA and community groups, interior staging on a budget, weekend open houses, coffee with clients, family barbecues, West Indian cooking, listening to reggae and Afrobeats, Pilates and running along the Lea Valley"
+    },
+    "global_style": {
+        "tone": "Warm, personable and professionally confident with a strong community focus. Conversational rather than overly formal, prioritising clear, honest guidance and practical next steps while signalling local trust and expertise (schools, travel times, neighbourhood history). Communication aims to reassure and persuade gently \u2014 evidence-based claims (comps, EPCs, catchments) delivered in an approachable way.",
+        "syntax": "Predominantly active voice with a mix of short, direct sentences for calls to action and medium-length compound sentences for descriptions and explanations. Uses one clarifying subordinate clause where needed (e.g., 'which is in the local school catchment'), avoids long, ornate sentences and prefers clear structure so readers can scan key facts quickly. Lists facts succinctly (rooms, transport links, measurements) often separated by commas or short dashes.",
+        "lexicon": "Uses residential property vocabulary and local place names: 'freehold', 'leasehold', 'chain-free', 'EPC', 'guide price', 'offers over', 'AST/tenancy', 'HMO', plus practical phrases like 'school catchment', 'walking distance', 'minutes' walk', 'sq ft / m\u00b2'. Prefers British English spellings and local references to Enfield/Grange Park/Tottenham and transport links (e.g., 'overground', 'Piccadilly line') while keeping jargon clear for non-experts.",
+        "linguistic_patterns": "Frequent use of friendly greetings and contractions ('Hiya', 'Lovely to meet you', 'I'll', 'we're', 'you're') and pragmatic markers to soften requests ('Happy to help', 'Give me a bell', 'No worries'). Uses short, colloquial closings and local idioms in casual messages ('I can pop round next week', 'within a 10-minute walk', 'chain-free') and inclusive community language ('our area', 'local schools', 'the neighbourhood')."
+    }
+}

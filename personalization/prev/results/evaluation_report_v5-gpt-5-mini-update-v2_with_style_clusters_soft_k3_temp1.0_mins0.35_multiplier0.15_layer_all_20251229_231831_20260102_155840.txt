@@ -1,0 +1,56 @@
+Evaluation Report
+CSV: multi_vectors/outputs/v5-gpt-5-mini-update-v2_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_layer_all_20251229_231831.csv
+Generated: 2026-01-02T15:58:40.980253
+============================================================
+ROUGE-L metrics
+------------------------------------------------------------
+Scoring outputs ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 107/107 0:00:00
+Saving ROUGE-L metrics to multi_vectors/outputs/v5-gpt-5-mini-update-v2_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_layer_all_20251229_231831.csv...
+
+Overall ROUGE-L
+Precision: 0.3643, Recall: 0.5246, F1: 0.4208
+
+Saved detailed results to multi_vectors/outputs/v5-gpt-5-mini-update-v2_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_layer_all_20251229_231831.csv
+
+Style Similarity
+------------------------------------------------------------
+======================================================================
+STYLE SIMILARITY RESULTS: Results
+======================================================================
+Total samples:         107
+
+Style Similarity Statistics (higher = more similar):
+  Mean:                0.4082 (+/- 0.3435)
+  Median:              0.4497
+  Range:               [-0.2316, 0.9708]
+  IQR (Q25-Q75):       [0.1236, 0.7174]
+======================================================================
+
+Style Distance
+------------------------------------------------------------
+======================================================================
+STYLE SIMILARITY RESULTS: Results
+======================================================================
+Total samples:         107
+
+Style Similarity Statistics (higher = more similar):
+  Mean:                0.7641 (+/- 0.1212)
+  Median:              0.7301
+  Range:               [0.5329, 0.9709]
+  IQR (Q25-Q75):       [0.6623, 0.8704]
+======================================================================
+
+AI Content Detection
+------------------------------------------------------------
+======================================================================
+AI CONTENT DETECTION RESULTS: Results
+======================================================================
+Total samples:          107
+
+AI Score Statistics (higher = more AI-like):
+  Mean:                 0.9518 (+/- 0.1613)
+  Median:               0.9994
+  Range:                [0.0099, 0.9998]
+  IQR (Q25-Q75):        [0.9880, 0.9997]
+======================================================================
+

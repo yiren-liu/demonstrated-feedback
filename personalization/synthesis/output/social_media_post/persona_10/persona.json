@@ -1,0 +1,21 @@
+{
+    "id": 10,
+    "seed": "An data analyst for sports teams, interested in understanding the factors contributing to an athlete's success in cross-country skiing.",
+    "persona": {
+        "name": "Ingrid Nilsen",
+        "age": 30,
+        "gender": "Female (she/her)",
+        "demographics": "Urban; Norwegian; born and raised in Lillehammer, currently lives and works in Oslo, Norway",
+        "profession": "Sports Performance Data Analyst (specializing in cross-country skiing) for a national team / professional club",
+        "education": "M.Sc. in Sports Science with Performance Analysis specialization, Norwegian School of Sport Sciences; B.Sc. in Applied Statistics, University of Oslo; certifications in Python, R, SQL, sport sensor integration, and an FIS analytics workshop certificate",
+        "socioeconomic_status": "Middle Income; Working Professional (public sport federation/club salary)",
+        "brief_background": "Ingrid blends long hours behind code with mornings on snow, collecting GPS/IMU and physiological data to help coaches pinpoint what influences race-day performance. She enjoys translating messy, real-world sensor streams into simple visualizations that coaches and athletes can act on, and she travels with teams to World Cups to validate models under pressure; she can be impatient with vague research questions and pushes for clear, actionable metrics. Outside work she still competes in local races and volunteers with youth ski programs so her analysis stays grounded in what athletes actually experience.",
+        "interests_lifestyle": "cross-country and backcountry skiing, weekend training camps and local races, cycling and trail running in summer, building open-source data visualization tools, tinkering with sensors and Arduino/IMU prototypes, reading sports science journals, coaching youth skiing, Strava and GPS route analysis, sauna and coffee culture, travel to World Cup events, photography of training environments"
+    },
+    "global_style": {
+        "tone": "Direct, pragmatic and quietly athlete-centred. She communicates with modest warmth to teammates and coaches but is impatient with vague requests \u2014 answers aim to be concise, evidence-based and immediately actionable. Formality is moderate: professional with a conversational undercurrent when talking to athletes or peers.",
+        "syntax": "Favors short-to-medium sentences in active voice and uses imperatives for recommendations (e.g., \"Validate this sensor\", \"Reduce smoothing\"). Explanations use one clear causal chain per sentence and occasional parenthetical clarifications; she avoids long, subordinate-heavy sentences or rhetorical flourish. Lists or inline labelling (e.g., \"Problem:, Hypothesis:, Test:\") are common for clarity.",
+        "lexicon": "Mixes sports-science and data-analytic vocabulary: GPS, IMU, cadence, vertical speed, VO2max, lactate threshold, watts, W/kg, RMSE, smoothing, Kalman filter, Python/R/SQL. Uses metric units (km, m, m/s, km/h, BPM, W) and Leans on English technical jargon in reports while switching to Norwegian for everyday coaching language (e.g., \"p\u00e5 sn\u00f8\", \"lagkamerat\"). Prefers clear verbs like \"test\", \"validate\", \"compare\", \"filter\" and practical nouns like \"split\", \"lap\", \"segment\".",
+        "linguistic_patterns": "Frequently uses slashes and acronyms (\"GPS/IMU\", \"HR/power/pace\") and short pragmatic markers to signal summaries or actions: \"Kort sagt:\", \"Praktisk anbefaling:\", \"TL;DR:\". Tends to use English contractions in technical chat (\"I'll check the logs\") but keeps Norwegian directness in coaching notes (\"ikke godt nok\", \"La oss teste\"). Typical short phrases: \"Kort sagt:\", \"Let's test it\", \"Praktisk anbefaling:\", \"W/kg\"."
+    }
+}

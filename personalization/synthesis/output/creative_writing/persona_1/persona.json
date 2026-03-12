@@ -1,0 +1,21 @@
+{
+    "id": 1,
+    "seed": "A casual TV viewer who enjoys thrilling dramas and is interested in exploring new series from various countries.",
+    "persona": {
+        "name": "Maya Patel",
+        "age": 31,
+        "gender": "Female (she/her)",
+        "demographics": "Urban; British-Indian heritage; raised in Leicester, UK; currently living in Manchester, UK",
+        "profession": "Marketing coordinator at a streaming services aggregator",
+        "education": "BA Media & Communications, University of Leeds; short courses in subtitling and international TV curation",
+        "socioeconomic_status": "Middle Income; Working Professional",
+        "brief_background": "After long days managing partnership campaigns, she relaxes by diving into edge-of-your-seat dramas from Korea, Scandinavia, and Latin America \u2014 subtitles are not a barrier but part of the ritual. She treats television like cultural travel: sampling a few episodes to decide whether a series is worth a weekend binge and sharing finds with a small group of friends and online communities.",
+        "interests_lifestyle": "binge-watching international thrillers, weekend streaming parties with friends, experimenting with world cuisines, beginner conversational Spanish and Korean classes, following TV critics on social media, urban cycling, trivia nights"
+    },
+    "global_style": {
+        "tone": "Warm, curious and socially minded\u2014enthusiastic about TV as cultural travel without being overbearing. Informal-professional: friendly and approachable with colleagues and friends, but able to tighten to concise, data-minded language when discussing campaigns or KPIs. Shares recommendations with a spoiler-conscious, respectful attitude and prefers evidence (reviews, ratings, quick stats) alongside personal response.",
+        "syntax": "Prefers a mix of short, punchy sentences for quick recs and longer compound or complex sentences when giving context or rationale. Frequently uses active voice, parenthetical asides, and occasional rhetorical questions to engage the reader. Tends to avoid dense nominalizations or overlong clauses so messages scan easily on phones and social feeds.",
+        "lexicon": "Draws on media and marketing vocabulary (e.g., 'pilot', 'arc', 'binge-worthy', 'curation', 'partnership', 'KPI') along with genre-specific terms like 'Nordic noir', 'K-drama' and 'telenovela'. Uses British English spelling and metric units (mins, km) and will sprinkle culturally specific food words when relevant\u2014'chai', 'naan', 'masala'. Refers to platforms and formats by name (e.g., 'Netflix', 'streamer', 'subtitles') and uses casual shorthand like 'recs' or 'must-watch'.",
+        "linguistic_patterns": "Regular contractions ('I'm', 'can't', 'we're') and conversational discourse markers ('actually', 'TBH', 'FYI'). Likes handy micro-phrases and soft endorsements such as 'Tiny rec:', 'Spoiler-free:', 'low-key amazing' and 'can't recommend this enough'. Uses parenthetical notes and occasional emojis in informal messages to signal tone (e.g., '(great for a weekend binge) \ud83d\ude04')."
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": 1,
+    "seed": "A casual TV viewer who enjoys watching sitcoms and family-oriented shows.",
+    "persona": {
+        "name": "Emily Rodr\u00edguez",
+        "age": 34,
+        "gender": "Female (she/her)",
+        "demographics": "Suburban Phoenix, Mexican-American; raised in East Los Angeles, CA; currently lives in Tempe, AZ",
+        "profession": "Elementary School Teacher (3rd grade)",
+        "education": "B.A. in Elementary Education, Arizona State University; Arizona State Teaching Certificate; ESL endorsement",
+        "socioeconomic_status": "Middle Income; Working Professional",
+        "brief_background": "Emily balances a busy classroom schedule with family life and values predictable, low-effort evening rituals. After a full day of lesson planning and parent emails she unwinds by streaming sitcoms or family-oriented shows with her partner and six-year-old, favouring light-hearted, character-driven comfort TV over intense dramas.",
+        "interests_lifestyle": "binge-watching sitcoms and family sitcom re-runs, evening TV time with family, meal prepping, weekend farmers' market visits, PTA volunteering, crafting with her child, casual jogging, true-crime and pop-culture podcasts"
+    },
+    "global_style": {
+        "tone": "Warm, approachable and encouraging with parents and colleagues, but still professional and concise; Emily leads with positivity and practical next steps, and she sets gentle boundaries about after-hours communication. She is inclusive and patient\u2014welcoming input from families (often bilingual) while focusing on clear, actionable information and reassurance.",
+        "syntax": "Prefers clear, moderately paced sentences: a mix of simple and compound sentences for everyday messages and occasional compound-complex sentences when explaining classroom procedures or student progress. Frequently uses short, bulleted or numbered points in emails/texts for clarity, and uses imperatives for actionable items (e.g., 'Bring a labeled water bottle') or parentheses for quick clarifications.",
+        "lexicon": "Uses elementary-education vocabulary (lesson plan, standards, literacy centers, phonics, formative assessment, accommodations) alongside parenting and classroom terms (kiddo, snack, recess, pickup). Light, friendly pop-culture references appear occasionally to build rapport, and she sprinkles in short Spanish phrases for tone and inclusivity (e.g., 'gracias,' '\u00a1bien hecho!'). Prefers common U.S. measures and school-day timeframes (minutes, AM/PM).",
+        "linguistic_patterns": "Regular use of contractions ('I'm,' 'we'll,' 'don't') and warm sign-offs ('Thanks so much,' 'See you tomorrow!'). Common discourse markers and quick lead-ins include 'Quick note:', 'Just a heads-up,' and 'Let me know if...' \u2014 and bilingual touches like 'Buen trabajo!' or 'Gracias, \u00a1nos vemos!' show up in casual family communications."
+    }
+}

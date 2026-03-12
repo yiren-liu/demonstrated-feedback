@@ -1,0 +1,56 @@
+Evaluation Report
+CSV: multi_vectors/outputs/v5-gpt-5-mini-update-v2_without_steering.csv
+Generated: 2026-01-02T15:43:10.157488
+============================================================
+ROUGE-L metrics
+------------------------------------------------------------
+Scoring outputs ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 107/107 0:00:01
+Saving ROUGE-L metrics to multi_vectors/outputs/v5-gpt-5-mini-update-v2_without_steering.csv...
+
+Overall ROUGE-L
+Precision: 0.2601, Recall: 0.5585, F1: 0.3510
+
+Saved detailed results to multi_vectors/outputs/v5-gpt-5-mini-update-v2_without_steering.csv
+
+Style Similarity
+------------------------------------------------------------
+======================================================================
+STYLE SIMILARITY RESULTS: Results
+======================================================================
+Total samples:         107
+
+Style Similarity Statistics (higher = more similar):
+  Mean:                0.5840 (+/- 0.2057)
+  Median:              0.6327
+  Range:               [0.0563, 0.9072]
+  IQR (Q25-Q75):       [0.4600, 0.7326]
+======================================================================
+
+Style Distance
+------------------------------------------------------------
+======================================================================
+STYLE SIMILARITY RESULTS: Results
+======================================================================
+Total samples:         107
+
+Style Similarity Statistics (higher = more similar):
+  Mean:                0.7646 (+/- 0.0769)
+  Median:              0.7751
+  Range:               [0.5965, 0.9160]
+  IQR (Q25-Q75):       [0.6978, 0.8203]
+======================================================================
+
+AI Content Detection
+------------------------------------------------------------
+======================================================================
+AI CONTENT DETECTION RESULTS: Results
+======================================================================
+Total samples:          107
+
+AI Score Statistics (higher = more AI-like):
+  Mean:                 0.9592 (+/- 0.1294)
+  Median:               0.9983
+  Range:                [0.1897, 0.9998]
+  IQR (Q25-Q75):        [0.9867, 0.9996]
+======================================================================
+

@@ -1,0 +1,21 @@
+{
+    "id": 2,
+    "seed": "A creative writer working on a historical fiction piece, looking for inspiration and background information about lesser-known events and personalities, such as General Foulkes' role in the German surrender in the Netherlands.",
+    "persona": {
+        "name": "Clara Jensen",
+        "age": 45,
+        "gender": "Female (she/her)",
+        "demographics": "Urban; Scandinavian-American; raised in Aarhus, Denmark and Minneapolis, MN; currently lives in Boston, MA",
+        "profession": "Freelance historical novelist and part-time research consultant",
+        "education": "BA English Literature, University of Copenhagen; MA in History, Tufts University; archival research certificate (National Archives course)",
+        "socioeconomic_status": "Middle Income; Established Freelance",
+        "brief_background": "Clara writes layered historical fiction that stitches overlooked moments and minor figures into compelling personal narratives. She spends months in archives and local museums, chasing obscure documents and oral histories (recently delving into General Foulkes' role in the Netherlands) and enjoys translating dense factual material into vivid scenes that feel lived-in.",
+        "interests_lifestyle": "archival research, battlefield and site visits, historical reenactment weekends, oral history interviews, genealogy, reading 19th\u201320th century diaries, attending writer workshops, black coffee, slow countryside walks"
+    },
+    "global_style": {
+        "tone": "Measured, literary and quietly authoritative: Clara writes with the attentiveness of a scholar and the warmth of a storyteller. She is collegial and professional in consultations and workshops, but more intimate and reflective in creative correspondence; she signals uncertainty explicitly and prefers evidence-first claims over conjecture.",
+        "syntax": "Practical communications favor clear, often concise sentences for logistics and next steps, while descriptive or interpretive passages use compound-complex and periodic sentences with subordinate clauses and rich sensory detail. She commonly uses parenthetical clarifications and em dashes to add qualifications or small asides without breaking the flow.",
+        "lexicon": "A working blend of archival jargon and evocative literary diction: terms like \"finding aid,\" \"provenance,\" \"folio,\" \"transcription,\" \"oral history\" and \"unpublished memoir\" sit beside concrete, scene-making nouns such as \"muster roll,\" \"hearth,\" \"muddy lane\" and \"field notes.\" She comfortably toggles between metric units for European sites and imperial for U.S. sites and will casually drop cultural words like \"hygge\" or everyday details such as \"black coffee.\"",
+        "linguistic_patterns": "Frequent hedging and modest discourse markers \u2014 \"perhaps,\" \"it seems,\" \"worth checking\" \u2014 and routine use of contractions in informal notes (\"I'll,\" \"I'm\"). Characteristic short practical phrases include \"Worth checking the finding aid,\" \"I'll send a transcription,\" \"Please see folio 23r,\" and occasional friendly Danish sign-offs like \"tak\" or \"hej.\""
+    }
+}

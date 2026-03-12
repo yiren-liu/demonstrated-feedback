@@ -42,8 +42,15 @@ fi
 
 # ── configuration ────────────────────────────────────────────────────────
 NUM_GEN_SAMPLES=3
-BASE_OUTPUT=outputs/genre_holdout_rag_exp
 DATA_DIR="${DATA_DIR:-benchmarks/cmcc/processed/genre_holdout}"
+
+# Model subfolder: use openai model name or "mistral" for local backend
+if [[ "${BACKEND}" == "openai" ]]; then
+    MODEL_TAG="${OPENAI_MODEL}"
+else
+    MODEL_TAG="mistral"
+fi
+BASE_OUTPUT="outputs/genre_holdout_rag_exp/${MODEL_TAG}"
 
 # ── determine paths based on condition ───────────────────────────────────
 case "${CONDITION}" in

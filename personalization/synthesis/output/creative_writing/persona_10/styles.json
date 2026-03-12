@@ -1,0 +1,242 @@
+[
+    {
+        "persona": {
+            "name": "Jonas Eriksen",
+            "age": 32,
+            "gender": "Male (he/him)",
+            "demographics": "Raised in Lillehammer, Norway; ethnic Norwegian; lived in Oslo for university and training; currently based in Oslo but spends large blocks with national team at training bases and race venues",
+            "profession": "Performance Data Analyst (Cross-Country Skiing) for a national development squad",
+            "education": "MSc in Data Science and Sport Science, Norwegian School of Sport Sciences / University of Oslo; BSc in Statistics; certifications in Python (DataCamp), R (Tidyverse), GPS/IMU sensor analysis, and Strength & Conditioning basics",
+            "socioeconomic_status": "Middle Income; public sport federation role / full-time performance staff",
+            "brief_background": "A former junior cross-country athlete who moved into analytics after an injury, Jonas combines sensor data, power profiles, and environmental information to advise coaches on training load and race tactics. He writes scripts that automatically pull GPS/IMU and heart-rate data and produces simple visual briefs for coaches before morning meetings. Jonas will prototype a model overnight and then bike up to the stadium to test a hypothesis on snow the next morning.",
+            "interests_lifestyle": "cross-country skiing and backcountry touring, trail running and cycling, tinkering with sensors and open-source analysis tools, coaching a local youth ski club, reading sports physiology papers, skiing film analysis, cold-water swimming, brewing coffee, attending hackathons and sports tech meetups"
+        },
+        "global_style": {
+            "tone": "Concise, evidence-driven and collegial: communicates findings and recommendations plainly with coaches and athletes, prioritizing actionable next steps over rhetorical flourish. Slightly informal and pragmatic \u2014 friendly but focused, acknowledges uncertainty and caveats while making clear what to try next.",
+            "syntax": "Predominantly short to medium-length declarative and compound sentences for clarity, with occasional complex subordinate clauses when explaining causality or method. Frequently uses imperative or checklist-style lines for recommendations and troubleshooting, and avoids long winding sentences or unnecessary qualifiers.",
+            "lexicon": "Uses sports-science and sensor vocabulary (GPS, IMU, HR, power profile, cadence, stride length, VO2max) and SI-based metrics (m/s, km/h, W/kg, bpm, kJ). Also incorporates data-engineering terms when relevant (script, pipeline, sync, raw vs filtered) and practical coaching language (lap, threshold, interval, technique).",
+            "linguistic_patterns": "Regular use of acronyms and shorthand (\"HR\", \"IMU\", \"CI\"); moderate contractions in informal notes (\"we'll\", \"I'll\"); and pragmatic markers for quick attention: \"FYI\", \"Heads-up\", \"Quick note\". Typical phrases include: \"FYI \u2014 model shows +2% power at 10km\", \"Quick check: sync timestamps and re-run the pipeline\", and \"Let's test this on snow tomorrow.\""
+        },
+        "scenario_description": "A concise briefing to the head coach before the morning meeting",
+        "detailed_style": "Executive, tightly focused and prioritised: start with the top-line recommendation, follow with one-sentence evidence, end with clear next steps. Sentences are short, imperative where appropriate, and avoid unnecessary qualifiers while still noting key caveats.",
+        "linguistic_patterns": "Use of TL;DR and direct recommendation phrases: \"TL;DR: increase interval volume +5% this week\"; one-line evidence snippets: \"Data: mean power +2% at 10km, HR drift +3 bpm\"; clear next-step imperatives: \"Do: test 2x6min @ threshold tomorrow\". Scenario-specific features include checklist-style lines, metric shorthand (\"W/kg\", \"bpm\", \"km\"), and a crisp Cause\u2192Action sentence structure.",
+        "id": 10,
+        "seed": "An data analyst for sports teams, interested in understanding the factors contributing to an athlete's success in cross-country skiing."
+    },
+    {
+        "persona": {
+            "name": "Jonas Eriksen",
+            "age": 32,
+            "gender": "Male (he/him)",
+            "demographics": "Raised in Lillehammer, Norway; ethnic Norwegian; lived in Oslo for university and training; currently based in Oslo but spends large blocks with national team at training bases and race venues",
+            "profession": "Performance Data Analyst (Cross-Country Skiing) for a national development squad",
+            "education": "MSc in Data Science and Sport Science, Norwegian School of Sport Sciences / University of Oslo; BSc in Statistics; certifications in Python (DataCamp), R (Tidyverse), GPS/IMU sensor analysis, and Strength & Conditioning basics",
+            "socioeconomic_status": "Middle Income; public sport federation role / full-time performance staff",
+            "brief_background": "A former junior cross-country athlete who moved into analytics after an injury, Jonas combines sensor data, power profiles, and environmental information to advise coaches on training load and race tactics. He writes scripts that automatically pull GPS/IMU and heart-rate data and produces simple visual briefs for coaches before morning meetings. Jonas will prototype a model overnight and then bike up to the stadium to test a hypothesis on snow the next morning.",
+            "interests_lifestyle": "cross-country skiing and backcountry touring, trail running and cycling, tinkering with sensors and open-source analysis tools, coaching a local youth ski club, reading sports physiology papers, skiing film analysis, cold-water swimming, brewing coffee, attending hackathons and sports tech meetups"
+        },
+        "global_style": {
+            "tone": "Concise, evidence-driven and collegial: communicates findings and recommendations plainly with coaches and athletes, prioritizing actionable next steps over rhetorical flourish. Slightly informal and pragmatic \u2014 friendly but focused, acknowledges uncertainty and caveats while making clear what to try next.",
+            "syntax": "Predominantly short to medium-length declarative and compound sentences for clarity, with occasional complex subordinate clauses when explaining causality or method. Frequently uses imperative or checklist-style lines for recommendations and troubleshooting, and avoids long winding sentences or unnecessary qualifiers.",
+            "lexicon": "Uses sports-science and sensor vocabulary (GPS, IMU, HR, power profile, cadence, stride length, VO2max) and SI-based metrics (m/s, km/h, W/kg, bpm, kJ). Also incorporates data-engineering terms when relevant (script, pipeline, sync, raw vs filtered) and practical coaching language (lap, threshold, interval, technique).",
+            "linguistic_patterns": "Regular use of acronyms and shorthand (\"HR\", \"IMU\", \"CI\"); moderate contractions in informal notes (\"we'll\", \"I'll\"); and pragmatic markers for quick attention: \"FYI\", \"Heads-up\", \"Quick note\". Typical phrases include: \"FYI \u2014 model shows +2% power at 10km\", \"Quick check: sync timestamps and re-run the pipeline\", and \"Let's test this on snow tomorrow.\""
+        },
+        "scenario_description": "A short, friendly coaching note sent to an individual athlete after a session",
+        "detailed_style": "Collegial and encouraging with practical instruction: friendly tone, minimal jargon, quick technical pointers only where helpful, and a clear actionable item at the end. Uses contractions and motivational language but remains pragmatic and evidence-based.",
+        "linguistic_patterns": "Casual coach phrasing: \"Nice session today \u2014 good leg turnover\"; simple technical checks: \"Check strap tight and sync HR strap before warm-up\"; one-action close: \"We'll stick to 3 easy days, then re-test cadence\". Scenario-specific features include more personal pronouns, short reassurance phrases, and plain-language translations of metrics (e.g., \"easy\" instead of specific zones when appropriate).",
+        "id": 10,
+        "seed": "An data analyst for sports teams, interested in understanding the factors contributing to an athlete's success in cross-country skiing."
+    },
+    {
+        "persona": {
+            "name": "Jonas Eriksen",
+            "age": 32,
+            "gender": "Male (he/him)",
+            "demographics": "Raised in Lillehammer, Norway; ethnic Norwegian; lived in Oslo for university and training; currently based in Oslo but spends large blocks with national team at training bases and race venues",
+            "profession": "Performance Data Analyst (Cross-Country Skiing) for a national development squad",
+            "education": "MSc in Data Science and Sport Science, Norwegian School of Sport Sciences / University of Oslo; BSc in Statistics; certifications in Python (DataCamp), R (Tidyverse), GPS/IMU sensor analysis, and Strength & Conditioning basics",
+            "socioeconomic_status": "Middle Income; public sport federation role / full-time performance staff",
+            "brief_background": "A former junior cross-country athlete who moved into analytics after an injury, Jonas combines sensor data, power profiles, and environmental information to advise coaches on training load and race tactics. He writes scripts that automatically pull GPS/IMU and heart-rate data and produces simple visual briefs for coaches before morning meetings. Jonas will prototype a model overnight and then bike up to the stadium to test a hypothesis on snow the next morning.",
+            "interests_lifestyle": "cross-country skiing and backcountry touring, trail running and cycling, tinkering with sensors and open-source analysis tools, coaching a local youth ski club, reading sports physiology papers, skiing film analysis, cold-water swimming, brewing coffee, attending hackathons and sports tech meetups"
+        },
+        "global_style": {
+            "tone": "Concise, evidence-driven and collegial: communicates findings and recommendations plainly with coaches and athletes, prioritizing actionable next steps over rhetorical flourish. Slightly informal and pragmatic \u2014 friendly but focused, acknowledges uncertainty and caveats while making clear what to try next.",
+            "syntax": "Predominantly short to medium-length declarative and compound sentences for clarity, with occasional complex subordinate clauses when explaining causality or method. Frequently uses imperative or checklist-style lines for recommendations and troubleshooting, and avoids long winding sentences or unnecessary qualifiers.",
+            "lexicon": "Uses sports-science and sensor vocabulary (GPS, IMU, HR, power profile, cadence, stride length, VO2max) and SI-based metrics (m/s, km/h, W/kg, bpm, kJ). Also incorporates data-engineering terms when relevant (script, pipeline, sync, raw vs filtered) and practical coaching language (lap, threshold, interval, technique).",
+            "linguistic_patterns": "Regular use of acronyms and shorthand (\"HR\", \"IMU\", \"CI\"); moderate contractions in informal notes (\"we'll\", \"I'll\"); and pragmatic markers for quick attention: \"FYI\", \"Heads-up\", \"Quick note\". Typical phrases include: \"FYI \u2014 model shows +2% power at 10km\", \"Quick check: sync timestamps and re-run the pipeline\", and \"Let's test this on snow tomorrow.\""
+        },
+        "scenario_description": "A technical message to a data-science colleague about a model or script update",
+        "detailed_style": "Precise, reproducibility-focused and compact: include code/function names, expected command-line runs, quick note on failing tests or assumptions, and next steps for collaboration. Language is terse, technically dense, and avoids narrative; use of inline tokens and explicit flags is common.",
+        "linguistic_patterns": "Code- and pipeline-oriented snippets: \"FYI: pushed 'align_gps_imu()' to dev branch\"; run commands: \"Run: python pipeline.py --date=2026-01-06 --filter=3s\"; test/status notes: \"Unit tests failing: timestamp drift edge-case\". Scenario-specific features include function/file naming in quotes, parameter-style phrasing, references to upstream/downstream steps, and minimal hedging.",
+        "id": 10,
+        "seed": "An data analyst for sports teams, interested in understanding the factors contributing to an athlete's success in cross-country skiing."
+    },
+    {
+        "persona": {
+            "name": "Jonas Eriksen",
+            "age": 32,
+            "gender": "Male (he/him)",
+            "demographics": "Raised in Lillehammer, Norway; ethnic Norwegian; lived in Oslo for university and training; currently based in Oslo but spends large blocks with national team at training bases and race venues",
+            "profession": "Performance Data Analyst (Cross-Country Skiing) for a national development squad",
+            "education": "MSc in Data Science and Sport Science, Norwegian School of Sport Sciences / University of Oslo; BSc in Statistics; certifications in Python (DataCamp), R (Tidyverse), GPS/IMU sensor analysis, and Strength & Conditioning basics",
+            "socioeconomic_status": "Middle Income; public sport federation role / full-time performance staff",
+            "brief_background": "A former junior cross-country athlete who moved into analytics after an injury, Jonas combines sensor data, power profiles, and environmental information to advise coaches on training load and race tactics. He writes scripts that automatically pull GPS/IMU and heart-rate data and produces simple visual briefs for coaches before morning meetings. Jonas will prototype a model overnight and then bike up to the stadium to test a hypothesis on snow the next morning.",
+            "interests_lifestyle": "cross-country skiing and backcountry touring, trail running and cycling, tinkering with sensors and open-source analysis tools, coaching a local youth ski club, reading sports physiology papers, skiing film analysis, cold-water swimming, brewing coffee, attending hackathons and sports tech meetups"
+        },
+        "global_style": {
+            "tone": "Concise, evidence-driven and collegial: communicates findings and recommendations plainly with coaches and athletes, prioritizing actionable next steps over rhetorical flourish. Slightly informal and pragmatic \u2014 friendly but focused, acknowledges uncertainty and caveats while making clear what to try next.",
+            "syntax": "Predominantly short to medium-length declarative and compound sentences for clarity, with occasional complex subordinate clauses when explaining causality or method. Frequently uses imperative or checklist-style lines for recommendations and troubleshooting, and avoids long winding sentences or unnecessary qualifiers.",
+            "lexicon": "Uses sports-science and sensor vocabulary (GPS, IMU, HR, power profile, cadence, stride length, VO2max) and SI-based metrics (m/s, km/h, W/kg, bpm, kJ). Also incorporates data-engineering terms when relevant (script, pipeline, sync, raw vs filtered) and practical coaching language (lap, threshold, interval, technique).",
+            "linguistic_patterns": "Regular use of acronyms and shorthand (\"HR\", \"IMU\", \"CI\"); moderate contractions in informal notes (\"we'll\", \"I'll\"); and pragmatic markers for quick attention: \"FYI\", \"Heads-up\", \"Quick note\". Typical phrases include: \"FYI \u2014 model shows +2% power at 10km\", \"Quick check: sync timestamps and re-run the pipeline\", and \"Let's test this on snow tomorrow.\""
+        },
+        "scenario_description": "A high-level summary for a federation director or senior stakeholder",
+        "detailed_style": "Formal and outcome-focused with limited technical detail: open with the main conclusion, quantify impact in plain terms, present two or three clear options and associated risks. Maintain professional tone, avoid slang and excessive acronyms, and ensure recommendations are actionable and time-bound.",
+        "linguistic_patterns": "Executive phrasing: \"Summary: model improvement yields estimated 4% faster pacing accuracy\"; options-style framing: \"Option A: pilot across two venues; Option B: delay and expand validation\"; risk statements: \"Risk: incomplete remote-data coverage may bias results\". Scenario-specific features include full sentences without contractions, emphasis on measurable outcomes, and framing in decision-ready choices.",
+        "id": 10,
+        "seed": "An data analyst for sports teams, interested in understanding the factors contributing to an athlete's success in cross-country skiing."
+    },
+    {
+        "persona": {
+            "name": "Jonas Eriksen",
+            "age": 32,
+            "gender": "Male (he/him)",
+            "demographics": "Raised in Lillehammer, Norway; ethnic Norwegian; lived in Oslo for university and training; currently based in Oslo but spends large blocks with national team at training bases and race venues",
+            "profession": "Performance Data Analyst (Cross-Country Skiing) for a national development squad",
+            "education": "MSc in Data Science and Sport Science, Norwegian School of Sport Sciences / University of Oslo; BSc in Statistics; certifications in Python (DataCamp), R (Tidyverse), GPS/IMU sensor analysis, and Strength & Conditioning basics",
+            "socioeconomic_status": "Middle Income; public sport federation role / full-time performance staff",
+            "brief_background": "A former junior cross-country athlete who moved into analytics after an injury, Jonas combines sensor data, power profiles, and environmental information to advise coaches on training load and race tactics. He writes scripts that automatically pull GPS/IMU and heart-rate data and produces simple visual briefs for coaches before morning meetings. Jonas will prototype a model overnight and then bike up to the stadium to test a hypothesis on snow the next morning.",
+            "interests_lifestyle": "cross-country skiing and backcountry touring, trail running and cycling, tinkering with sensors and open-source analysis tools, coaching a local youth ski club, reading sports physiology papers, skiing film analysis, cold-water swimming, brewing coffee, attending hackathons and sports tech meetups"
+        },
+        "global_style": {
+            "tone": "Concise, evidence-driven and collegial: communicates findings and recommendations plainly with coaches and athletes, prioritizing actionable next steps over rhetorical flourish. Slightly informal and pragmatic \u2014 friendly but focused, acknowledges uncertainty and caveats while making clear what to try next.",
+            "syntax": "Predominantly short to medium-length declarative and compound sentences for clarity, with occasional complex subordinate clauses when explaining causality or method. Frequently uses imperative or checklist-style lines for recommendations and troubleshooting, and avoids long winding sentences or unnecessary qualifiers.",
+            "lexicon": "Uses sports-science and sensor vocabulary (GPS, IMU, HR, power profile, cadence, stride length, VO2max) and SI-based metrics (m/s, km/h, W/kg, bpm, kJ). Also incorporates data-engineering terms when relevant (script, pipeline, sync, raw vs filtered) and practical coaching language (lap, threshold, interval, technique).",
+            "linguistic_patterns": "Regular use of acronyms and shorthand (\"HR\", \"IMU\", \"CI\"); moderate contractions in informal notes (\"we'll\", \"I'll\"); and pragmatic markers for quick attention: \"FYI\", \"Heads-up\", \"Quick note\". Typical phrases include: \"FYI \u2014 model shows +2% power at 10km\", \"Quick check: sync timestamps and re-run the pipeline\", and \"Let's test this on snow tomorrow.\""
+        },
+        "scenario_description": "A friendly update to parents of youth club athletes",
+        "detailed_style": "Warm, plain-language, and reassuring: replace technical jargon with everyday terms, focus on safety and enjoyment, and provide a short actionable suggestion for at-home support. Tone is informal, polite, and deliberately non-technical.",
+        "linguistic_patterns": "Parent-friendly phrasing: \"Keep sessions short and fun this week\"; simplified metric translations: \"We watch heart rate only to keep kids in the 'easy' zone\"; practical asks: \"Please remind kids to bring warm gloves and a drink\". Scenario-specific features include avoidance of acronyms, use of explanatory parentheses for any necessary terms, and emphasis on wellbeing and clear logistics.",
+        "id": 10,
+        "seed": "An data analyst for sports teams, interested in understanding the factors contributing to an athlete's success in cross-country skiing."
+    },
+    {
+        "persona": {
+            "name": "Jonas Eriksen",
+            "age": 32,
+            "gender": "Male (he/him)",
+            "demographics": "Raised in Lillehammer, Norway; ethnic Norwegian; lived in Oslo for university and training; currently based in Oslo but spends large blocks with national team at training bases and race venues",
+            "profession": "Performance Data Analyst (Cross-Country Skiing) for a national development squad",
+            "education": "MSc in Data Science and Sport Science, Norwegian School of Sport Sciences / University of Oslo; BSc in Statistics; certifications in Python (DataCamp), R (Tidyverse), GPS/IMU sensor analysis, and Strength & Conditioning basics",
+            "socioeconomic_status": "Middle Income; public sport federation role / full-time performance staff",
+            "brief_background": "A former junior cross-country athlete who moved into analytics after an injury, Jonas combines sensor data, power profiles, and environmental information to advise coaches on training load and race tactics. He writes scripts that automatically pull GPS/IMU and heart-rate data and produces simple visual briefs for coaches before morning meetings. Jonas will prototype a model overnight and then bike up to the stadium to test a hypothesis on snow the next morning.",
+            "interests_lifestyle": "cross-country skiing and backcountry touring, trail running and cycling, tinkering with sensors and open-source analysis tools, coaching a local youth ski club, reading sports physiology papers, skiing film analysis, cold-water swimming, brewing coffee, attending hackathons and sports tech meetups"
+        },
+        "global_style": {
+            "tone": "Concise, evidence-driven and collegial: communicates findings and recommendations plainly with coaches and athletes, prioritizing actionable next steps over rhetorical flourish. Slightly informal and pragmatic \u2014 friendly but focused, acknowledges uncertainty and caveats while making clear what to try next.",
+            "syntax": "Predominantly short to medium-length declarative and compound sentences for clarity, with occasional complex subordinate clauses when explaining causality or method. Frequently uses imperative or checklist-style lines for recommendations and troubleshooting, and avoids long winding sentences or unnecessary qualifiers.",
+            "lexicon": "Uses sports-science and sensor vocabulary (GPS, IMU, HR, power profile, cadence, stride length, VO2max) and SI-based metrics (m/s, km/h, W/kg, bpm, kJ). Also incorporates data-engineering terms when relevant (script, pipeline, sync, raw vs filtered) and practical coaching language (lap, threshold, interval, technique).",
+            "linguistic_patterns": "Regular use of acronyms and shorthand (\"HR\", \"IMU\", \"CI\"); moderate contractions in informal notes (\"we'll\", \"I'll\"); and pragmatic markers for quick attention: \"FYI\", \"Heads-up\", \"Quick note\". Typical phrases include: \"FYI \u2014 model shows +2% power at 10km\", \"Quick check: sync timestamps and re-run the pipeline\", and \"Let's test this on snow tomorrow.\""
+        },
+        "scenario_description": "A professional request to a sponsor or equipment representative",
+        "detailed_style": "Polished and result-oriented with explicit asks: state the specific request, tie it to measurable goals or tests, and provide a concise timeline and contact/next-step. Maintain courteous, businesslike tone and quantify the expected benefit where possible.",
+        "linguistic_patterns": "Request-style lines: \"Request: loan 3 prototype poles for 6-week validation\"; ROI/metric mentions: \"Primary metric: mass reduction in g and delta W/kg\"; logistical clarity: \"Timeline: delivery by Week 1, test window Weeks 2\u20134\". Scenario-specific features include formal salutations (implicit), clear calls-to-action, and numeric timelines and metrics to evaluate success.",
+        "id": 10,
+        "seed": "An data analyst for sports teams, interested in understanding the factors contributing to an athlete's success in cross-country skiing."
+    },
+    {
+        "persona": {
+            "name": "Jonas Eriksen",
+            "age": 32,
+            "gender": "Male (he/him)",
+            "demographics": "Raised in Lillehammer, Norway; ethnic Norwegian; lived in Oslo for university and training; currently based in Oslo but spends large blocks with national team at training bases and race venues",
+            "profession": "Performance Data Analyst (Cross-Country Skiing) for a national development squad",
+            "education": "MSc in Data Science and Sport Science, Norwegian School of Sport Sciences / University of Oslo; BSc in Statistics; certifications in Python (DataCamp), R (Tidyverse), GPS/IMU sensor analysis, and Strength & Conditioning basics",
+            "socioeconomic_status": "Middle Income; public sport federation role / full-time performance staff",
+            "brief_background": "A former junior cross-country athlete who moved into analytics after an injury, Jonas combines sensor data, power profiles, and environmental information to advise coaches on training load and race tactics. He writes scripts that automatically pull GPS/IMU and heart-rate data and produces simple visual briefs for coaches before morning meetings. Jonas will prototype a model overnight and then bike up to the stadium to test a hypothesis on snow the next morning.",
+            "interests_lifestyle": "cross-country skiing and backcountry touring, trail running and cycling, tinkering with sensors and open-source analysis tools, coaching a local youth ski club, reading sports physiology papers, skiing film analysis, cold-water swimming, brewing coffee, attending hackathons and sports tech meetups"
+        },
+        "global_style": {
+            "tone": "Concise, evidence-driven and collegial: communicates findings and recommendations plainly with coaches and athletes, prioritizing actionable next steps over rhetorical flourish. Slightly informal and pragmatic \u2014 friendly but focused, acknowledges uncertainty and caveats while making clear what to try next.",
+            "syntax": "Predominantly short to medium-length declarative and compound sentences for clarity, with occasional complex subordinate clauses when explaining causality or method. Frequently uses imperative or checklist-style lines for recommendations and troubleshooting, and avoids long winding sentences or unnecessary qualifiers.",
+            "lexicon": "Uses sports-science and sensor vocabulary (GPS, IMU, HR, power profile, cadence, stride length, VO2max) and SI-based metrics (m/s, km/h, W/kg, bpm, kJ). Also incorporates data-engineering terms when relevant (script, pipeline, sync, raw vs filtered) and practical coaching language (lap, threshold, interval, technique).",
+            "linguistic_patterns": "Regular use of acronyms and shorthand (\"HR\", \"IMU\", \"CI\"); moderate contractions in informal notes (\"we'll\", \"I'll\"); and pragmatic markers for quick attention: \"FYI\", \"Heads-up\", \"Quick note\". Typical phrases include: \"FYI \u2014 model shows +2% power at 10km\", \"Quick check: sync timestamps and re-run the pipeline\", and \"Let's test this on snow tomorrow.\""
+        },
+        "scenario_description": "A collaborative note to the physiotherapist or strength & conditioning coach about athlete load and asymmetry",
+        "detailed_style": "Technical, collaborative and problem-solving oriented: present the relevant sensor-derived metrics succinctly, state possible implications for injury risk, and suggest specific tests or interventions. Language is precise, uses sport-science terms, and invites joint troubleshooting.",
+        "linguistic_patterns": "Clinical-data phrasing: \"Load spike +18% last week; acute:chronic = 1.5\"; asymmetry/action phrasing: \"Left/right force asymmetry >8% \u2014 consider unilateral S&C\"; suggested tests: \"Propose: isometric mid-thigh pull + 2D video of stride\". Scenario-specific features include mixed use of physiological acronyms (ACWR, HRV), direct collaboration prompts (\"Can you try...\"), and explicit thresholds for concern.",
+        "id": 10,
+        "seed": "An data analyst for sports teams, interested in understanding the factors contributing to an athlete's success in cross-country skiing."
+    },
+    {
+        "persona": {
+            "name": "Jonas Eriksen",
+            "age": 32,
+            "gender": "Male (he/him)",
+            "demographics": "Raised in Lillehammer, Norway; ethnic Norwegian; lived in Oslo for university and training; currently based in Oslo but spends large blocks with national team at training bases and race venues",
+            "profession": "Performance Data Analyst (Cross-Country Skiing) for a national development squad",
+            "education": "MSc in Data Science and Sport Science, Norwegian School of Sport Sciences / University of Oslo; BSc in Statistics; certifications in Python (DataCamp), R (Tidyverse), GPS/IMU sensor analysis, and Strength & Conditioning basics",
+            "socioeconomic_status": "Middle Income; public sport federation role / full-time performance staff",
+            "brief_background": "A former junior cross-country athlete who moved into analytics after an injury, Jonas combines sensor data, power profiles, and environmental information to advise coaches on training load and race tactics. He writes scripts that automatically pull GPS/IMU and heart-rate data and produces simple visual briefs for coaches before morning meetings. Jonas will prototype a model overnight and then bike up to the stadium to test a hypothesis on snow the next morning.",
+            "interests_lifestyle": "cross-country skiing and backcountry touring, trail running and cycling, tinkering with sensors and open-source analysis tools, coaching a local youth ski club, reading sports physiology papers, skiing film analysis, cold-water swimming, brewing coffee, attending hackathons and sports tech meetups"
+        },
+        "global_style": {
+            "tone": "Concise, evidence-driven and collegial: communicates findings and recommendations plainly with coaches and athletes, prioritizing actionable next steps over rhetorical flourish. Slightly informal and pragmatic \u2014 friendly but focused, acknowledges uncertainty and caveats while making clear what to try next.",
+            "syntax": "Predominantly short to medium-length declarative and compound sentences for clarity, with occasional complex subordinate clauses when explaining causality or method. Frequently uses imperative or checklist-style lines for recommendations and troubleshooting, and avoids long winding sentences or unnecessary qualifiers.",
+            "lexicon": "Uses sports-science and sensor vocabulary (GPS, IMU, HR, power profile, cadence, stride length, VO2max) and SI-based metrics (m/s, km/h, W/kg, bpm, kJ). Also incorporates data-engineering terms when relevant (script, pipeline, sync, raw vs filtered) and practical coaching language (lap, threshold, interval, technique).",
+            "linguistic_patterns": "Regular use of acronyms and shorthand (\"HR\", \"IMU\", \"CI\"); moderate contractions in informal notes (\"we'll\", \"I'll\"); and pragmatic markers for quick attention: \"FYI\", \"Heads-up\", \"Quick note\". Typical phrases include: \"FYI \u2014 model shows +2% power at 10km\", \"Quick check: sync timestamps and re-run the pipeline\", and \"Let's test this on snow tomorrow.\""
+        },
+        "scenario_description": "A short, neutral quote or statement for a media interview or public release",
+        "detailed_style": "Measured, non-technical and media-friendly: use short declarative sentences, avoid internal data detail, emphasize process and team, and stay on-message with a calm, factual tone. Keep language accessible and refrain from speculation.",
+        "linguistic_patterns": "Soundbite-style phrases: \"We follow the data and adjust training accordingly\"; team-focused language: \"The focus remains on consistent preparation across the squad\"; neutral qualifiers: \"Based on current evidence, we will proceed cautiously\". Scenario-specific features include omission of raw numbers, avoidance of acronyms, and polished, press-safe phrasing.",
+        "id": 10,
+        "seed": "An data analyst for sports teams, interested in understanding the factors contributing to an athlete's success in cross-country skiing."
+    },
+    {
+        "persona": {
+            "name": "Jonas Eriksen",
+            "age": 32,
+            "gender": "Male (he/him)",
+            "demographics": "Raised in Lillehammer, Norway; ethnic Norwegian; lived in Oslo for university and training; currently based in Oslo but spends large blocks with national team at training bases and race venues",
+            "profession": "Performance Data Analyst (Cross-Country Skiing) for a national development squad",
+            "education": "MSc in Data Science and Sport Science, Norwegian School of Sport Sciences / University of Oslo; BSc in Statistics; certifications in Python (DataCamp), R (Tidyverse), GPS/IMU sensor analysis, and Strength & Conditioning basics",
+            "socioeconomic_status": "Middle Income; public sport federation role / full-time performance staff",
+            "brief_background": "A former junior cross-country athlete who moved into analytics after an injury, Jonas combines sensor data, power profiles, and environmental information to advise coaches on training load and race tactics. He writes scripts that automatically pull GPS/IMU and heart-rate data and produces simple visual briefs for coaches before morning meetings. Jonas will prototype a model overnight and then bike up to the stadium to test a hypothesis on snow the next morning.",
+            "interests_lifestyle": "cross-country skiing and backcountry touring, trail running and cycling, tinkering with sensors and open-source analysis tools, coaching a local youth ski club, reading sports physiology papers, skiing film analysis, cold-water swimming, brewing coffee, attending hackathons and sports tech meetups"
+        },
+        "global_style": {
+            "tone": "Concise, evidence-driven and collegial: communicates findings and recommendations plainly with coaches and athletes, prioritizing actionable next steps over rhetorical flourish. Slightly informal and pragmatic \u2014 friendly but focused, acknowledges uncertainty and caveats while making clear what to try next.",
+            "syntax": "Predominantly short to medium-length declarative and compound sentences for clarity, with occasional complex subordinate clauses when explaining causality or method. Frequently uses imperative or checklist-style lines for recommendations and troubleshooting, and avoids long winding sentences or unnecessary qualifiers.",
+            "lexicon": "Uses sports-science and sensor vocabulary (GPS, IMU, HR, power profile, cadence, stride length, VO2max) and SI-based metrics (m/s, km/h, W/kg, bpm, kJ). Also incorporates data-engineering terms when relevant (script, pipeline, sync, raw vs filtered) and practical coaching language (lap, threshold, interval, technique).",
+            "linguistic_patterns": "Regular use of acronyms and shorthand (\"HR\", \"IMU\", \"CI\"); moderate contractions in informal notes (\"we'll\", \"I'll\"); and pragmatic markers for quick attention: \"FYI\", \"Heads-up\", \"Quick note\". Typical phrases include: \"FYI \u2014 model shows +2% power at 10km\", \"Quick check: sync timestamps and re-run the pipeline\", and \"Let's test this on snow tomorrow.\""
+        },
+        "scenario_description": "A casual social media post to followers about a testing day or insight",
+        "detailed_style": "Breezy, concise and slightly technical for an engaged audience: short sentences, a touch of personality, one clear insight or photo caption, and an invitation for engagement. Tone is informal with selective use of jargon and occasional emojis or hashtags for readability.",
+        "linguistic_patterns": "Engaging short lines: \"Test run on snow this morning \u2014 fun data\"; mixed tech/experience phrase: \"Quick graph: power vs speed \ud83d\udcc8\"; call to action: \"Questions? Drop them below\". Scenario-specific features include hashtags, contractions, informal punctuation, and brief metric callouts (\"W/kg\", \"bpm\") without deep explanation.",
+        "id": 10,
+        "seed": "An data analyst for sports teams, interested in understanding the factors contributing to an athlete's success in cross-country skiing."
+    },
+    {
+        "persona": {
+            "name": "Jonas Eriksen",
+            "age": 32,
+            "gender": "Male (he/him)",
+            "demographics": "Raised in Lillehammer, Norway; ethnic Norwegian; lived in Oslo for university and training; currently based in Oslo but spends large blocks with national team at training bases and race venues",
+            "profession": "Performance Data Analyst (Cross-Country Skiing) for a national development squad",
+            "education": "MSc in Data Science and Sport Science, Norwegian School of Sport Sciences / University of Oslo; BSc in Statistics; certifications in Python (DataCamp), R (Tidyverse), GPS/IMU sensor analysis, and Strength & Conditioning basics",
+            "socioeconomic_status": "Middle Income; public sport federation role / full-time performance staff",
+            "brief_background": "A former junior cross-country athlete who moved into analytics after an injury, Jonas combines sensor data, power profiles, and environmental information to advise coaches on training load and race tactics. He writes scripts that automatically pull GPS/IMU and heart-rate data and produces simple visual briefs for coaches before morning meetings. Jonas will prototype a model overnight and then bike up to the stadium to test a hypothesis on snow the next morning.",
+            "interests_lifestyle": "cross-country skiing and backcountry touring, trail running and cycling, tinkering with sensors and open-source analysis tools, coaching a local youth ski club, reading sports physiology papers, skiing film analysis, cold-water swimming, brewing coffee, attending hackathons and sports tech meetups"
+        },
+        "global_style": {
+            "tone": "Concise, evidence-driven and collegial: communicates findings and recommendations plainly with coaches and athletes, prioritizing actionable next steps over rhetorical flourish. Slightly informal and pragmatic \u2014 friendly but focused, acknowledges uncertainty and caveats while making clear what to try next.",
+            "syntax": "Predominantly short to medium-length declarative and compound sentences for clarity, with occasional complex subordinate clauses when explaining causality or method. Frequently uses imperative or checklist-style lines for recommendations and troubleshooting, and avoids long winding sentences or unnecessary qualifiers.",
+            "lexicon": "Uses sports-science and sensor vocabulary (GPS, IMU, HR, power profile, cadence, stride length, VO2max) and SI-based metrics (m/s, km/h, W/kg, bpm, kJ). Also incorporates data-engineering terms when relevant (script, pipeline, sync, raw vs filtered) and practical coaching language (lap, threshold, interval, technique).",
+            "linguistic_patterns": "Regular use of acronyms and shorthand (\"HR\", \"IMU\", \"CI\"); moderate contractions in informal notes (\"we'll\", \"I'll\"); and pragmatic markers for quick attention: \"FYI\", \"Heads-up\", \"Quick note\". Typical phrases include: \"FYI \u2014 model shows +2% power at 10km\", \"Quick check: sync timestamps and re-run the pipeline\", and \"Let's test this on snow tomorrow.\""
+        },
+        "scenario_description": "A personal field notebook or lab-journal entry after an experiment or test run",
+        "detailed_style": "Terse, timestamped and reproducibility-focused: short log entries with clear metadata (time, conditions), bullet-equivalent plain lines for observations and immediate next steps. Use of abbreviations and parameter values is standard; the tone is functional and archival.",
+        "linguistic_patterns": "Log-entry format examples: \"2026-01-06 06:30 \u2014 test run, -5\u00b0C, ski set A\"; observation/action shorthand: \"Obs: GPS jitter @ corners; Next: apply filter window=3s\"; parameterized notes: \"Filter=3s; sync_offset=+0.5s; cadence target=85 rpm\". Scenario-specific features include timestamps, compact parameter notation, and imperative next-step lines for reproducibility.",
+        "id": 10,
+        "seed": "An data analyst for sports teams, interested in understanding the factors contributing to an athlete's success in cross-country skiing."
+    }
+]

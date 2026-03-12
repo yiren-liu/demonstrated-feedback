@@ -1,0 +1,956 @@
+file,date,from,to,subject,email
+zipper-a/sent_items/1.,"Wed, 06 Feb 2002 13:16:49 -0800",andy.zipper@enron.com,errol.mclaughlin@enron.com,RE: UBS Group,I will be running the power options desk with UBS. I will still be trading gas though. how about you ?
+zipper-a/sent_items/10.,"Thu, 31 Jan 2002 09:39:16 -0800",andy.zipper@enron.com,naveen.andrews@enron.com,RE: Var simulation,This looks good. what were the system vols and when can you get me the rest ?
+zipper-a/sent_items/100.,"Fri, 01 Jun 2001 07:21:02 -0700",andy.zipper@enron.com,greg.piper@enron.com,RE:,"We will only be able to get Kiodex the customers EOL trades as per the agreement. If the customer so desire they can ask us to send their non-EOl trades to Kiodex for processing, but that is outside the Kiodex/ENW agreement."
+zipper-a/sent_items/103.,"Fri, 01 Jun 2001 07:26:01 -0700",andy.zipper@enron.com,david.forster@enron.com,RE: EnronOnline Reliability,"close enough for 5 9's, no ?"
+zipper-a/sent_items/105.,"Fri, 01 Jun 2001 07:39:48 -0700",andy.zipper@enron.com,john.cummings@enron.com,RE: My sales Funnel,I know Steve Murray quite well.
+zipper-a/sent_items/106.,"Fri, 01 Jun 2001 07:41:34 -0700",andy.zipper@enron.com,mike.haney@enron.com,RE: Mike Haney Prospects,"Add Barrick Gold to your list. They like Enron, and Bruce Garner has had extensive discussions with them."
+zipper-a/sent_items/107.,"Fri, 01 Jun 2001 07:43:11 -0700",andy.zipper@enron.com,john.allario@enron.com,RE: Additional Prospects,what would be the product the Sabre would list ? I like the name but can't see the business idea; help me out.
+zipper-a/sent_items/108.,"Fri, 01 Jun 2001 07:53:22 -0700",andy.zipper@enron.com,michael.bridges@enron.com,Cargill,where are we at with them ?
+zipper-a/sent_items/109.,"Fri, 01 Jun 2001 07:57:16 -0700",andy.zipper@enron.com,lydia.cannon@enron.com,mailbox requests,Please work with the group so that I am no longer inundated with erequests for additional mailbox space.
+zipper-a/sent_items/11.,"Thu, 31 Jan 2002 07:35:33 -0800",andy.zipper@enron.com,bob.shults@enron.com,RE: ICE,"andy zipper
+john lavorato
+dutch quigley
+larry may
+mike maggi"
+zipper-a/sent_items/110.,"Fri, 01 Jun 2001 07:58:35 -0700",andy.zipper@enron.com,john.allario@enron.com,RE: GM - Very Promising Beginning,how does this relate to what we are working on with them ?
+zipper-a/sent_items/111.,"Fri, 01 Jun 2001 08:12:11 -0700",andy.zipper@enron.com,rbhattacharya@velaw.com,RE: Licensing Agreement,When will we have a draft available fo distribution to Accenture ?
+zipper-a/sent_items/112.,"Fri, 01 Jun 2001 08:13:36 -0700",andy.zipper@enron.com,kate.hollis@enron.com,RE: PRC Meeting,"Unfortunately I will not be attending, but I would like to participate via videocon."
+zipper-a/sent_items/113.,"Fri, 01 Jun 2001 09:09:26 -0700",andy.zipper@enron.com,"rasmani.'bhattacharya@enron.com, travis.mccullough@enron.com, michael.bridges@enron.com",sucessor platform and field of use,This is my simplistic first take:
+zipper-a/sent_items/114.,"Fri, 01 Jun 2001 09:19:26 -0700",andy.zipper@enron.com,greg.hermans@enron.com,RE: Bloomberg,"Bloomberg has come back to the table with us and are being good boys so far. So I don't have a problem issuing them a EnronOnline journalist ID to view your prices. Thanks for the cooperation.
+
+Andy"
+zipper-a/sent_items/115.,"Fri, 01 Jun 2001 10:01:39 -0700",andy.zipper@enron.com,greg.piper@enron.com,re:stuff,"1). Hickerson does not have any products up yet. I need to find out from Bridges where we are with Cargill. He has been in meetings all morning, I will revert when I know.
+
+2). To be honest I think we are nowhere with Dow, but I have left that to Berberian. I haven't heard a peep from anyone on this. I will find out.
+
+3). I think it is 50/50 on GM. They clearly are interested, but are not very clear on what they are trying to accomplish. They do want to make markets. I think our best bet is an EOL product hosting deal, but their internal process will be excruciating. Next step is they will meet with alan Engberg to discuss listing 7 to 8 petchems on EOL.
+
+4). I have not been moving forward on service level contract because I do not think it really adds any value at the present time.
+
+5). I do think we should seriously consider the case for charging an access fee to EOL. This should not be viewed as a commission.
+
+6). I spoke with Vin Viola of NYMEX and he is interested in pursuing this idea of clearer as credit sleeve for locals. He is tough to pin down and negotiate with but we will run this down by end of next week.
+
+7). Re:kiodex, it is coming slowly as we have a lot of things on the development/testing schedule right now.
+
+8). As you know we are in receipt of the ICE API. We have not been able to do much work on it given 7)."
+zipper-a/sent_items/116.,"Sat, 02 Jun 2001 07:27:31 -0700",andy.zipper@enron.com,greg.piper@enron.com,RE: re:stuff,"I did confirm that Dow is now an asset deal with no interest by Dow in ENW products.
+
+I think we should look at what everyone else charges per commodity (i.e. ICE) and think about tsomething that is at least 50% of that. and it shuold be labelled an access or system maintenance fee.
+
+A bit of good news: NGPL has confirmed that they would like to do a 2yr product hosting deal on EnronOnline.
+$150K initial startup plus $100K per year and $25 per transaction. So total value not including per transaction is $350K. I think they get 5 products, but Forster knows the details. It's a start and the crew here is pretty pumped.
+
+I'm trying to get a lieutenant of Viol'a to work with but it is hard. Patience.
+
+Let's meet on Monday to talk about what we were going to do on Friday.
+
+I am in the office picking up some Stro's tix. It sure is quiet for a Saturday...creepy."
+zipper-a/sent_items/117.,"Sat, 02 Jun 2001 07:29:17 -0700",andy.zipper@enron.com,"david.forster@enron.com, carl.carter@enron.com, leonardo.pacheco@enron.com",NGPL,"Congratulations !
+
+Now let's focus on closing the deal and getting someone else signed up.
+
+Well done all.
+
+AZ"
+zipper-a/sent_items/119.,"Sat, 02 Jun 2001 07:30:45 -0700",andy.zipper@enron.com,beth@angelflightsc.org,RE: completed mission sheet ???,"700 NM, 4 hrs total"
+zipper-a/sent_items/12.,"Wed, 30 Jan 2002 06:43:48 -0800",andy.zipper@enron.com,amanda.rybarski@enron.com,RE: Commodity Fundamentals Website,"Earthsat requires a password for enron, what is it ?"
+zipper-a/sent_items/120.,"Mon, 04 Jun 2001 07:26:30 -0700",andy.zipper@enron.com,john.lavorato@enron.com,RE: EnronOnline Real-Time Quotes Service on Reuters,"1). Reuters will give us 75% of all subscription revenue, which is how the product is sold. This is on a monthly or yearly basis.
+
+2). Lynne T. Jones ASID
+     phone: 281-437-3307
+     pager: 713-833-0736
+    
+ good luck."
+zipper-a/sent_items/121.,"Mon, 04 Jun 2001 07:33:51 -0700",andy.zipper@enron.com,greg.piper@enron.com,RE:,"Let's you and I get together for lunch today, and do the same with Brad tomorrow."
+zipper-a/sent_items/122.,"Mon, 04 Jun 2001 07:36:58 -0700",andy.zipper@enron.com,kate.hollis@enron.com,Accepted: PRC Pre-Ranking Meeting EOL  RM SE5005,I will be participating by videocon.
+zipper-a/sent_items/125.,"Mon, 04 Jun 2001 07:43:07 -0700",andy.zipper@enron.com,adam.johnson@enron.com,RE: Dynegy-ICE VOL Jun1,"please put greg piper, phillipe bibi, and greg whalley on  distribtuion list.
+
+Thanks"
+zipper-a/sent_items/127.,"Mon, 04 Jun 2001 08:07:40 -0700",andy.zipper@enron.com,eric.thode@enron.com,RE: Request for Interview,Sounds kind of vague to me. I think we should stick to known publications who we think add value.
+zipper-a/sent_items/13.,"Wed, 30 Jan 2002 06:38:36 -0800",andy.zipper@enron.com,amanda.rybarski@enron.com,RE: Commodity Fundamentals Website,"I can get in but I have no access to gas messageboard. Can you please fix.
+
+Thanks"
+zipper-a/sent_items/131.,"Mon, 04 Jun 2001 08:25:58 -0700",andy.zipper@enron.com,jorg@gromco.com,"RE: Lord Vader,","Jorg,
+
+Sorry for the delay in getting back to you, but you know how things are. I have tried to get someone in the NPC to talk to me but to no avail. I will keep trying but don't hold out much chance...
+
+A big Mazel Tov on the engagement ! Married life is the way to go. 
+
+I heard about Sonny. Oh well...i didn't really know him that well so i can't say if that was a loss or not.
+
+I heard Alex is now with Allegheny Power, although I assume that is in NYC not Hagerstown, MD.
+
+Take care and give me a call...(713) 853 6994
+
+AZ"
+zipper-a/sent_items/132.,"Mon, 04 Jun 2001 08:27:41 -0700",andy.zipper@enron.com,"travis.mccullough@enron.com, rasmani.bhattacharya@enron.com",RE:,"Ras,
+
+This looks fine. Please distribute to Accenture.
+
+Thanks,
+AZ"
+zipper-a/sent_items/134.,"Mon, 04 Jun 2001 09:08:45 -0700",andy.zipper@enron.com,ryan.seleznov@enron.com,RE: Non-Exempt Scorecard,would you like me to fill it out and return it to you ?
+zipper-a/sent_items/135.,"Mon, 04 Jun 2001 09:19:25 -0700",andy.zipper@enron.com,sherri.sera@enron.com,RE: MS150 pledges,sorry for the delay I will have my check tomorrow.
+zipper-a/sent_items/137.,"Mon, 04 Jun 2001 09:38:55 -0700",andy.zipper@enron.com,john.sherriff@enron.com,RE: EnronOnline Real-Time Quotes Service on Reuters,"John,
+
+We are sending our bid and offer prices to Reuters for most US Gas & Power products, as well as European Gas and Power, Crude and Refined products, Bandwidth, Coal, Emissions, Weather and Sea Freight.
+
+We will receive 75% of all revenue Reuters collects from subscriptions to EnronOnline quotes. It is an evergreen 1 yr contract with mutual termination rights upon 90 days prior notice. We are under no obligations to provide levels of service.
+
+Revenue expectations:
+
+Reuters will charge, initially, $150/month/desktop. They have 5,000 Energy desktops worldwide.
+
+thus with 100% penetration we would get 5,000 x 150 x 12 x .75= $6,750,000;
+
+With a more realistic assumption of 50% penetration the yield to Enron would be $3,375,000 p.a.
+
+This revenue does not include the incremental benefits, in our view, of branding and standardization of our product and liquidity in the marketplace. In the future I could see us adding a transactable API to the product through Reuters, which would enhance the ease of transaction by Reuters users.
+
+If you have any more questions give me a call or drop me a line.
+
+AZ"
+zipper-a/sent_items/138.,"Mon, 04 Jun 2001 09:43:24 -0700",andy.zipper@enron.com,michael.bridges@enron.com,screen,Can I get a Reuters screen as well ?
+zipper-a/sent_items/139.,"Mon, 04 Jun 2001 11:46:11 -0700",andy.zipper@enron.com,"greg.piper@enron.com, greg.whalley@enron.com, louise.kitchen@enron.com, john.sherman@enron.com",ICE,"I met with Jeff Sprecher of the Intercontinental Exchange for almost an hour and a half and thought it would be a good idea to bring you up to speed on where they are heading.
+
+1). We now have the complete API to them, but it is hooked up to their test environment. They will be sending us a contract to sign before they connect it to their production site. He assured me it will be the same contract that all the founders have to sign to get access to it. Esentially, if we trade or provide prices the API will be free; if we are voyeurs then we will have to pay for it.
+
+2). He stated that charging commssion is not a denfensible business model. They will try to make their money through mid and back office services.
+
+3). Their purchase of the IPE is directly related to implementing 2). his vision is to use the IPE infrastrucutre to make all derivative trades cleared and then use the FCM's to fulfill the back office movemment of funds tasks. In a nutshell he beleives the FCM's are all interconnected and used to moving money around for settlements and margins through the clearinghouse, so why not expand their role.
+
+4). When I expressed some skepticism about 3). he asked if we would like to participate in a forum with other ICE members to discuss shared mid and back ofice services. I told him we would.
+
+If anyone has any questions about this let me know.
+
+AZ"
+zipper-a/sent_items/141.,"Mon, 04 Jun 2001 12:44:45 -0700",andy.zipper@enron.com,greg.piper@enron.com,RE: ICE,"Next steps are he gets me a contract for the API, and lets me know when they are meeting on mid and back."
+zipper-a/sent_items/142.,"Mon, 04 Jun 2001 13:26:32 -0700",andy.zipper@enron.com,daniel.diamond@enron.com,RE: EOL Email,"Let's table this for now. Too much going on.
+
+On another note: Where do we stand with TFS ?"
+zipper-a/sent_items/143.,"Mon, 04 Jun 2001 15:01:54 -0700",andy.zipper@enron.com,alexeaton@msn.com,whats up,"Heard you had ended up at Allegheny. In NYC or Hagerstown MD ?
+
+Drop me a line, I want to discuss something with you.
+
+Hope all is well.
+
+Andy"
+zipper-a/sent_items/144.,"Tue, 05 Jun 2001 06:01:42 -0700",andy.zipper@enron.com,arvind.ramanathan@techspan.com,RE: Value Proposition for Enron from TechSpan,"Arvind,
+The propoer contact at Enron for you is Jay Webb. He can be reached at jay.webb@enron.com. I will foward this to him.
+
+Good Luck,
+Andy Zipper"
+zipper-a/sent_items/147.,"Tue, 05 Jun 2001 07:26:56 -0700",andy.zipper@enron.com,daniel.diamond@enron.com,RE: EOL Email,I need this deal closed by month end.
+zipper-a/sent_items/148.,"Tue, 05 Jun 2001 11:43:28 -0700",andy.zipper@enron.com,bob.shults@enron.com,RE: Natsource-Tullet BETA,"why are we bothering with LOC, I thought we had moved past that ?"
+zipper-a/sent_items/149.,"Tue, 05 Jun 2001 12:41:30 -0700",andy.zipper@enron.com,michael.guadarrama@enron.com,RE: Global Strategic Sourcing Question,"Why wouldn't we use the deal bench auction platform ? This provides for open auctions with participants changing their bids in real time, no ?"
+zipper-a/sent_items/15.,"Tue, 29 Jan 2002 12:26:52 -0800",andy.zipper@enron.com,scotts@bennettjones.ca,RE: Updated Contact Information Required,Please remove me from your contact list. Thank You.
+zipper-a/sent_items/150.,"Tue, 05 Jun 2001 14:36:30 -0700",andy.zipper@enron.com,toni.graham@enron.com,RE: LOCAL CANDIDATE -  Alex Alaniz,Not enough of a background in finance. Thanks and keep trying.
+zipper-a/sent_items/151.,"Tue, 05 Jun 2001 14:50:50 -0700",andy.zipper@enron.com,sgross@warburgpincus.com,RE: Conagra is our newest beta customer!,"Stewart,
+
+It is my strong belief that Kiodex will be most successful in marketing to Fortune 500 corporations. These companies have extremely large portfolios of derivative products to hedge various financial risks but do not view running a risk management system internally as core. I am interested in your thoughts, and how, if you agree, we can influence the company in this direction.
+
+Andy Zipper
+Enron Networks"
+zipper-a/sent_items/152.,"Tue, 05 Jun 2001 15:17:05 -0700",andy.zipper@enron.com,louise.kitchen@enron.com,RE: ICE,"Batten down the hatch's and get ready for young Scott's first experience with Tropical Storms ! Here comes Allison !
+
+On another note we went live with TQ yesterday. Unbelievable huh...We did one trade with Tuscon Elec. the first day and today we did three, all with PG&E, who happen to own 40% of TQ. Pretty lame.
+
+On a good note, we hit a record today with BrokerClient, 53 trades. 46 power and 7 gas, which is nicely diversifying.
+
+Other interesting note: We launched Reuters on Monday and the NYMEX wants to put it up on one of their huge wallboards. They would buy a block of desktops to cover it. Bad news is that, John Arnold, my new boss in approx 25 days, with some justification thinks this is a bad idea. He will lose the ability to arb the floor against the OTC. My view is that this will go away anyway as eNymex and ICEX do the same thing. What are your thoughts ?
+
+Hope all is well 
+
+Andy"
+zipper-a/sent_items/153.,"Tue, 05 Jun 2001 16:06:32 -0700",andy.zipper@enron.com,john.cummings@enron.com,RE: John Cummings Update,"Please check with me prior to traveling to conferences.
+
+Thanks"
+zipper-a/sent_items/154.,"Wed, 06 Jun 2001 06:27:07 -0700",andy.zipper@enron.com,alexeaton@msn.com,RE: whats up,my work phone is 713 853 6994
+zipper-a/sent_items/155.,"Wed, 06 Jun 2001 07:27:45 -0700",andy.zipper@enron.com,toni.graham@enron.com,RE: LOCAL CANDIDATE -  Alex Alaniz,I think this guy would be a good fit for RAC. Send the resume to them.
+zipper-a/sent_items/158.,"Wed, 06 Jun 2001 07:50:08 -0700",andy.zipper@enron.com,"jay.webb@enron.com, michael.guadarrama@enron.com, savita.puthigai@enron.com",Kiodex,I've asked Bob to be the business side representative to work with Operations and IT in getting the Kiodex project off the ground. In addition he will be pursuing the channel partner opportunities with them regarding Product and Environment hosting services. On the sales channnel effort he will work closely with Dave Forster.
+zipper-a/sent_items/159.,"Wed, 06 Jun 2001 09:38:08 -0700",andy.zipper@enron.com,carl.carter@enron.com,RE: Vector Pipeline,looks good. what are vector's major receipt and delivery points ?
+zipper-a/sent_items/16.,"Tue, 29 Jan 2002 12:23:40 -0800",andy.zipper@enron.com,naveen.andrews@enron.com,Var simulation,"Naveen,
+
+I would like to see what VaR is thrown off by a series of trades. Can you run the following strategies throught he Var model and let me know what the results are.
+
+1).  500,000 mmbtu of a Mar NYMEX straddle. Srike: 2.05, vol:70%
+
+2). 500,000 mmbtu per month of an Apr02/Oct02 NYMEX straddle, Strike: 2.30 vol: 48%
+
+3).500,000 mmbtu per mo0nth of a Nov02/Mar03 NYMEX straddle, Strike: 2.85, vol: 46%
+
+4). 500,000 mmbtu of a Mar NYMEX swap
+
+5) 500,000 mmbtu of a Apr/Oct02 NYMEX swap
+
+6). 5,000 mmbtu/d of a cal03 NYMEX swap
+
+7). Same for Nov02/Mar03
+
+8). Short 500,000mmbtu  Mar02 vs. long 80,000 mmbtu per month of Apr/Oct02
+
+9). short 500,000 mmbtu of Feb Gas Daily swap and long 500,000 mmbtu Mar Nymex swap
+
+10).short 500,000mmbtu of Feb gas daily straddle, and long 500,000 mmbtu of Mar NYMEX Straddle
+
+If any of the foward prices or vols in the system differ from what I have given you use what is in the system. I would also be interested in what the UBS model spits out for these if available.
+
+Any questions give me a call.
+
+Thanks,
+Andy"
+zipper-a/sent_items/160.,"Wed, 06 Jun 2001 09:42:18 -0700",andy.zipper@enron.com,claudio.ribeiro@enron.com,RE: Cross-commodity desk,"Claudio,
+
+I am still in the process of setting up what we are going to look at and how, but it will very definitely be options focused. I think the three major drivers we will care about will be Gas, Power, and weather. I am particularly interested in the relationship of how gas and power prices react with weather. One trade I am interested in is gas daily options that knock-in based on an observed temperature for the particular delivery point. What are your views and what would you focus on if you were me ?
+
+Thanks
+Andy"
+zipper-a/sent_items/161.,"Wed, 06 Jun 2001 11:32:35 -0700",andy.zipper@enron.com,jennifer.denny@enron.com,jeff shankman,"jeff said he does not have access to trade emissions allowances. if he indeed does not, please turn him on for those. if he does, let me know. thanks."
+zipper-a/sent_items/162.,"Wed, 06 Jun 2001 11:42:35 -0700",andy.zipper@enron.com,john.cummings@enron.com,RE: John Cummings Update,"I understand; however my request stands. I would like a heads up whenever you are planning a trip like this, it is the same I ask of all my direct reports.
+
+Thanks"
+zipper-a/sent_items/163.,"Wed, 06 Jun 2001 12:15:02 -0700",andy.zipper@enron.com,john.cummings@enron.com,RE: John Cummings Update,"John,
+On the first note: OK, thanks.
+
+On the second, I would like the senior person on each team (and they know who they are) to figure how to divvy up the tasks based upon their teams relative skills. You guys need to figure it out, with my help. Right now we are a little heavily staffed for what we are doing and I am trying to find ways to cope with that. This is one. Your cooperation is appreciated.
+
+Thanks,
+AZ"
+zipper-a/sent_items/164.,"Wed, 06 Jun 2001 12:17:15 -0700",andy.zipper@enron.com,john.cummings@enron.com,Travel,"I realize that traveling to see a client is part of our job. I would just ask that we try to spend those expense dollars as efficiently and conscientiously as possible.
+
+Thanks,
+AZ"
+zipper-a/sent_items/166.,"Wed, 06 Jun 2001 12:53:34 -0700",andy.zipper@enron.com,michael.bridges@enron.com,RE: Reuters on NYMEX,"What is, exactly, the state of play here ? I nothing else happens, on Monday does the product go up on the wallboard ? Has Eddie quoted on px to the Merc ? I need to have my facts straight when this becomes a pissing match between Whalley ,Arnold and Lavorato."
+zipper-a/sent_items/167.,"Wed, 06 Jun 2001 12:59:30 -0700",andy.zipper@enron.com,carl.carter@enron.com,RE: Vector Pipeline,"Thanks, are we talking to GreatLakes pipepline as well ?"
+zipper-a/sent_items/168.,"Wed, 06 Jun 2001 12:59:59 -0700",andy.zipper@enron.com,david.forster@enron.com,NGPL,do we have a contract in front of them yet ?
+zipper-a/sent_items/17.,"Tue, 29 Jan 2002 12:06:58 -0800",andy.zipper@enron.com,scotts@bennettjones.ca,RE: Updated Contact Information Required,Why is Mr. Frank Alexander interested intalking to me ? Furthermore who is he ?
+zipper-a/sent_items/170.,"Wed, 06 Jun 2001 13:26:31 -0700",andy.zipper@enron.com,"greg.piper@enron.com, a..bibi@enron.com",Deal Bench and EnronOnline,"Greg and Philippe
+
+Having listened to the DealBench presentation at our offsite and after discussing with Jay, I would like to propose the following with respect to DealBench and EnronOnline:
+
+1). The most valuable pieces of business functionality DealBench has are the data rooms and auctions. The first might have some going concern value, but probably not much, as IntraLinks, the king, only generates $10MM in revs per year. The second, auctions, while of value will probably be given away by competitors to get other business.
+
+2). The technology as a whole is not severable right now, and probably not ready for prime time. Thus the chances of getting a bid for it as IPR that is above the costs of doing a deal is minimal. We have some knowledge of this from our Offline experiences.
+
+
+Recommendation:
+
+EnronOnline's auction functionality is very thin. DealBench's has a lot of good business logic built into it. While the code might not be up to our standards, it would be of value to integrate it into the EnronOnline platform. This way we take advantage of the superior EnronOnline brand and not reinvent the wheel as far as business logic is concerned. There will be some development needed to integrate and rewrite the DealBench auctions piece to accommodate the single EnronOnline login, as well as change the look and feel to an EnronOnline one, but this should be well worth it. It is my STRONG belief that there is an untapped market for energy and commodity based auctions that EnronOnline should OWN. As a part of this move we should re-deploy DealBench's auction marketing force to attack this space, which furthers the general commercial goals of ENE, as opposed to something that now is fringe at best.
+
+Thanks,
+AZ"
+zipper-a/sent_items/171.,"Wed, 06 Jun 2001 13:46:12 -0700",andy.zipper@enron.com,greg.piper@enron.com,RE: Deal Bench and EnronOnline,"Yes, but the other shoe is that we should shut down the rest of DealBench. If not, we will need to make large costly changes to the infrastructure to keep it going."
+zipper-a/sent_items/173.,"Wed, 06 Jun 2001 15:21:37 -0700",andy.zipper@enron.com,jay.webb@enron.com,RE: Deal Bench and EnronOnline,I talked with Greg and he and bibi are for it. Start the process with Guadaramma but keep it close to the vest as it is not official with the DealBench folks.
+zipper-a/sent_items/176.,"Thu, 07 Jun 2001 09:43:01 -0700",andy.zipper@enron.com,greg.piper@enron.com,RE: Deal Bench and EnronOnline,Do we want to make this official ?
+zipper-a/sent_items/178.,"Thu, 07 Jun 2001 09:46:31 -0700",andy.zipper@enron.com,jeannie.mandelker@enron.com,RE: eBiz on EnronOnline quotes on Reuters,"I do not want my name in the article. Please use Greg Piper's or Phillipe Bibi's. 
+
+Thanks"
+zipper-a/sent_items/179.,"Thu, 07 Jun 2001 09:47:34 -0700",andy.zipper@enron.com,"peggy.a.kostial@accenture.com, kenny.w.baldwin@accenture.com",RE: TSH Contract,"Thanks for the note. Awaiting your review and response.
+
+Andy Zipper"
+zipper-a/sent_items/18.,"Tue, 29 Jan 2002 11:53:07 -0800",andy.zipper@enron.com,amanda.rybarski@enron.com,RE: Commodity Fundamentals Website,"I keep getting asked for a username,password and domain name. What do I put in these fields to get access ?"
+zipper-a/sent_items/180.,"Thu, 07 Jun 2001 09:50:16 -0700",andy.zipper@enron.com,"kenny.w.baldwin@accenture.com, peggy.a.kostial@accenture.com",RE: TSH Contract,"Kenny, Peggy, Mike,
+
+We would definitely like to get this finished by end of June. We can move as fast as you need us to. Ideally I would like both sides to get together early next to hash out any differences. How does this work for you guys ?
+
+Thanks
+AZ"
+zipper-a/sent_items/182.,"Thu, 07 Jun 2001 13:04:01 -0700",andy.zipper@enron.com,claudio.ribeiro@enron.com,RE: Cross-commodity desk,"Claudio,
+
+I agree with you. The first bullet point will be easier to implement. Generally I have found that there is sufficient divergence of opinions amongst wholesale players that you can get positions on that you want. 
+
+My goal would be to fulfill the function of both bullet points. I think there are pockets of risk management of complex relationships around the firm, but no group dedicated to it. Clearly we will need quantitative rigor to serve those functions.
+
+questions: I am familiar with Quantos from my banking days, where a USD interest rate option pays off in a non USD currency at a fixed exchange rate. What is the specific structure of the options you are looking at.
+
+Regards,
+Andy"
+zipper-a/sent_items/183.,"Thu, 07 Jun 2001 13:07:38 -0700",andy.zipper@enron.com,toni.graham@enron.com,RE: Resume - JIMMY K. LIEW,"You're right he does look good. I am very interested. Can you set up a phone interview, and if that goes well bring him down for rounds."
+zipper-a/sent_items/184.,"Thu, 07 Jun 2001 13:11:06 -0700",andy.zipper@enron.com,stuart.staley@enron.com,EnronOnline BrokerClient and European Coal,"Stu,
+
+When you get a chance can you gice me a call re: the above and Natsource. I'm around most of tomrrow so any old time is fine with me.
+
+Thanks
+Andy"
+zipper-a/sent_items/186.,"Thu, 07 Jun 2001 14:28:40 -0700",andy.zipper@enron.com,savita.puthigai@enron.com,RE: Dynegy-ICE VOL Jun6,I agree. The whole thing is a sham.
+zipper-a/sent_items/19.,"Mon, 28 Jan 2002 12:14:09 -0800",andy.zipper@enron.com,"'gaetjens@enron.com, edmundg@manfinancial.com",RE:,"Eddie,
+
+Thanks for the note. This morning I signed my contract with UBS, so I am here for another year. After that I will be wanting to move the family back to the NYC area. If you hear of anyone interested in someone where my skills would be a fit, let me know. Otherwise things are going okay and we hope to start trading again by mid feb. Hope all is well with you and your family. I'll let you know next time I am in NYC. Give me a call when you get a chance and thanks again for the support. I hope you know I would do the same for you.
+
+Andy"
+zipper-a/sent_items/190.,"Fri, 08 Jun 2001 07:26:07 -0700",andy.zipper@enron.com,sgross@warburgpincus.com,RE: Conagra is our newest beta customer!,"Stewart,
+
+I base my opinion on 15 years trading and marketing risk management products to corporations. When I was at Bankers Trust, every corporation we dealt with would ask after completing a deal ""can you tell us where we can get a cheap off-the-shelf system that we can use to manage these things ? ""
+
+The problem KioDex has is exactly what you describe: with companies that where trading of derivative products is core to their mission, the third party ASP model is an extremely difficult one to sell. There are all the obvious reasons: security, reliability, continuity etc... What Kiodex needs to focus on, in my opinion, is the intersection of customers who need the product but don't view the function as critical to their operation.
+
+For what it is worth.
+
+
+Andy"
+zipper-a/sent_items/191.,"Fri, 08 Jun 2001 12:34:37 -0700",andy.zipper@enron.com,kal.shah@enron.com,RE: Kiodex Reports on EnronOnline,I agree completely. We are the delivery vehicle for Kiodex.
+zipper-a/sent_items/194.,"Fri, 26 Oct 2001 09:55:20 -0700",andy.zipper@enron.com,aazccb@swbell.net,RE: Hi KPD!,"Hi ! thanks for message. I will try to call you on cell phone.
+
+Love you mucho,
+
+KPD"
+zipper-a/sent_items/196.,"Thu, 25 Oct 2001 12:58:17 -0700",andy.zipper@enron.com,mark.jackson@enron.com,RE: Yo,"I get a smattering of actual, I tool the family down to corpus to the beach two weekends ago, and half the flight was in and out of the clouds. Having a good auto-pilot and stormscope makes a diference, but stormscopes can be tricky to use unless you have a lot of exprience. The trick is never to put them on a setting of less than their maximum range or they never show you anything until it is too late. I have the stormscope feeding through the Garmin 530. Keep flying."
+zipper-a/sent_items/197.,"Thu, 25 Oct 2001 12:43:39 -0700",andy.zipper@enron.com,errol.mclaughlin@enron.com,Apr/oct trades,"I sold 2,000/d of apr/oct @ 3.19, and 2,000/d @ 3.18. Please put these in the ng-opt book, not the jv book.
+
+Thanks"
+zipper-a/sent_items/198.,"Thu, 25 Oct 2001 09:43:51 -0700",andy.zipper@enron.com,jay.webb@enron.com,RE: customer positions,"Jay,
+Thanks for the help.
+
+Andy"
+zipper-a/sent_items/199.,"Thu, 25 Oct 2001 08:11:10 -0700",andy.zipper@enron.com,scslooptions@attglobal.net,RE: CRUDE STRADDLES,It has the  hO numbers but not the Cl numbers.
+zipper-a/sent_items/2.,"Tue, 05 Feb 2002 11:51:00 -0800",andy.zipper@enron.com,jay.webb@enron.com,RE: solution for hedging options that doesn't decrement swap volume,"Jay that makes sense and is the right solution, however I floated it by Rob Benson and Dana Davis and they felt that having to have another product up on the ir screen would but just TOO much. Go figure. So they agreed to let me auto hedge to the base product and 5 min qty 5 increment works for me so we will run with that for the meantime. The non web visible route is my back up.
+
+I'll let you know how it goes.
+
+Thanks
+Andy"
+zipper-a/sent_items/200.,"Thu, 25 Oct 2001 07:49:41 -0700",andy.zipper@enron.com,mark.jackson@enron.com,RE: Yo,"Don't know about the AGA....Seems to be that we are having harder and harder tme as an industry getting it right.
+
+I flew to little rock last weekend for a BPPP bonanza school and had a really cool instructor who was a retired colonel in USAF and F4 pilot. Lots of good stories. Beautiful weeknd for flying.
+Saw Jack Hirsch but didn't ask him about his club's bonanza...
+
+How is yor flying going ?"
+zipper-a/sent_items/201.,"Wed, 24 Oct 2001 13:36:15 -0700",andy.zipper@enron.com,jeffrey.mcmahon@enron.com,new job,"Congratulations on the new job !
+
+Good luck,
+Andy"
+zipper-a/sent_items/202.,"Wed, 24 Oct 2001 13:08:58 -0700",andy.zipper@enron.com,sanjeev.khanna@enron.com,RE: Dual Structure,"Sanjeev
+ 
+to be honest this looks a little to convoluted to me. a nov/mar peiod for weather versus a jan-feb-mar basis ? I pass on this.
+ 
+andy"
+zipper-a/sent_items/203.,"Wed, 24 Oct 2001 10:40:58 -0700",andy.zipper@enron.com,louise.kitchen@enron.com,open interest on EOL,"After some preliminary analysis, it does not look like our big counterparties i.e. Dynegy, Rliant, Duke, El Paso etc., are closing down their positions. On the contrary their net positions seem to be rising. This is only for NYMEX related financial instruments, I haven't looked at phys or power yet.
+
+Just thought you would like to know."
+zipper-a/sent_items/206.,"Tue, 23 Oct 2001 06:24:16 -0700",andy.zipper@enron.com,savita.puthigai@enron.com,RE: Advice,let me know when you want to talk....
+zipper-a/sent_items/207.,"Mon, 22 Oct 2001 07:59:20 -0700",andy.zipper@enron.com,errol.mclaughlin@enron.com,cy03,I sld 500/d of cy03 2 3.56. pls book this in the JV book. thx.
+zipper-a/sent_items/208.,"Mon, 22 Oct 2001 07:00:17 -0700",andy.zipper@enron.com,errol.mclaughlin@enron.com,apr/oct,"i bot 1,000/d at 3.175 apr/oct02. put it against the digital in gas-x.
+
+thanks"
+zipper-a/sent_items/21.,"Fri, 25 Jan 2002 09:39:38 -0800",andy.zipper@enron.com,mark-jackson@houston.rr.com,RE: Yo,I'm okay. How are you ?
+zipper-a/sent_items/210.,"Fri, 19 Oct 2001 10:20:15 -0700",andy.zipper@enron.com,aazccb@swbell.net,little rock stuf,"I am attending the Bonanza Pilot Proficiency Program (BPPP) clinic at Adams Field in Little Rock. This is the big airport in Little Rock. The clinic will be run at Central Flying Service, phone number there is 800-888-5387. If you need to speak with someone from the clinic ask for Kathy Tatalovich who is the administrator. I will be staying at the Embassy Suites by the airport. I don't have the nuber now but I will call you with it. 
+
+I'll call you from the road.
+
+Love you and the kids mucho,
+KPD"
+zipper-a/sent_items/211.,"Thu, 18 Oct 2001 06:45:20 -0700",andy.zipper@enron.com,"john.griffith@enron.com, craig.taylor@enron.com",Actual text of voice of america message to Taliban,"""Attention Taliban! You are condemned. Did you know that? The instant the terrorists you support took over our planes, you sentenced yourselves to death. The Armed Forces of the United States are here to seek justice for our dead. Highly trained soldiers are coming to shut down once and for all Osama bin Laden's ring of terrorism, and the Taliban that supports them and their actions. 
+""Our forces are armed with state of the art military equipment. What are you using, obsolete and ineffective weaponry? Our helicopters will rain fire down upon your camps before you detect them on your radar. Our bombs are so accurate we can drop them right through your windows. Our infantry is trained for any climate and terrain on earth. United States soldiers fire with superior marksmanship and are armed with superior weapons. 
+""You have only one choice ... Surrender now and we will give you a second chance. We will let you live. If you surrender no harm will come to you. When you decide to surrender, approach United States forces with your hands in the air. Sling your weapon across your back muzzle towards the ground. Remove your magazine and expel any rounds. Doing this is your only chance of survival."""
+zipper-a/sent_items/212.,"Thu, 18 Oct 2001 06:38:21 -0700",andy.zipper@enron.com,mark.jackson@enron.com,RE: Analyst,I don't know whom you are referring to. do you mean the fundy's group ?
+zipper-a/sent_items/215.,"Wed, 17 Oct 2001 12:35:01 -0700",andy.zipper@enron.com,robyn.zivic@enron.com,duane Arnold nuke,It is in Wisconsin Power and Light service territory....
+zipper-a/sent_items/216.,"Wed, 17 Oct 2001 06:51:25 -0700",andy.zipper@enron.com,"martin.chavez@kiodex.com, raj.mahajan@kiodex.com",RE: Kiodex Launches Groundbreaking Web-Based Risk Application,Congratulations to all for your hard work !
+zipper-a/sent_items/218.,"Tue, 16 Oct 2001 15:01:39 -0700",andy.zipper@enron.com,mark.jackson@enron.com,RE: Yankees,What a game. I'm psyched. Derek Jeter has to be one of the all time greats at his position.
+zipper-a/sent_items/219.,"Tue, 16 Oct 2001 13:41:51 -0700",andy.zipper@enron.com,errol.mclaughlin@enron.com,Apr/oct,"I bot 1,000/d apr/oct @ 2.91. please put in my book not justin's. thanks."
+zipper-a/sent_items/220.,"Tue, 16 Oct 2001 10:16:50 -0700",andy.zipper@enron.com,kori.loibl@enron.com,trds,i sld dtch 5 lots of feb @ 3.025
+zipper-a/sent_items/222.,"Tue, 16 Oct 2001 07:46:36 -0700",andy.zipper@enron.com,louise.kitchen@enron.com,RE: I didn't make it,It was a good service. Very sad. Jonathan's family is doing well I am told.
+zipper-a/sent_items/223.,"Mon, 15 Oct 2001 14:01:07 -0700",andy.zipper@enron.com,alexeaton@msn.com,RE: checking in.....hoping no one you know was lost or injured,so you dont like my vol swap bid ???
+zipper-a/sent_items/224.,"Mon, 15 Oct 2001 13:14:08 -0700",andy.zipper@enron.com,errol.mclaughlin@enron.com,apr/oct,"I bot 2500/d apr/oct online @2.835 put those in my book not justin's.
+
+AZ"
+zipper-a/sent_items/225.,"Mon, 15 Oct 2001 09:04:00 -0700",andy.zipper@enron.com,errol.mclaughlin@enron.com,apr/oct trades,i did a apr/oct 02 vs apr/oct 03 options trade with Mike today. Please put that in my book not Justin's.
+zipper-a/sent_items/228.,"Mon, 15 Oct 2001 05:24:09 -0700",andy.zipper@enron.com,john_bourget@bankone.com,RE: ASTROS,"The Astro's are just plain awful in the post season. They hit hit hit in the regular tand then crawl into their holes in Sept. Look for Larry Dirker to be canned pretty quickly. Those Lion's look pretty sharp too.....
+
+Take care,
+best to the everyone up north
+andy"
+zipper-a/sent_items/229.,"Fri, 12 Oct 2001 12:51:49 -0700",andy.zipper@enron.com,louise.kitchen@enron.com,RE: TradeSpark Houston Memorial,"I don't know, but I will go."
+zipper-a/sent_items/23.,"Thu, 24 Jan 2002 10:37:46 -0800",andy.zipper@enron.com,aazccb@swbell.net,,"Month	Week	1993	1994	1995	1996	1997	1998	1999	2000	2001	2002	2003	1993	1994	1995	1996	1997	1998	1999	2000	2001	2002	2003	
+Jan	1		2203	2381	1980	2049	2039	2645	2437	1729 	2856 			(165)	(192)	(138)	(15)	(131)	(158)	(133)	(209)	(124)		
+	2		2013	2263	1783	1922	1996	2412	2322	1562 	2666 			(190)	(118)	(197)	(127)	(43)	(233)	(115)	(167)	(190)		
+	3		1760	2195	1678	1660	1837	2209	2212	1459 	2529 			(253)	(68)	(105)	(262)	(159)	(203)	(110)	(103)	(137)		
+	4		1625	2026	1517	1510	1701	2117	2017	1369 	2405 			(135)	(169)	(161)	(150)	(136)	(92)	(195)	(90)	(124)		
+	5		1421	1893	1304	1349	1599	2039	1775	1241 				(204)	(133)	(213)	(161)	(102)	(78)	(242)	(128)			
+Feb	6		1247	1691	1077	1274	1518	1946	1562	1136 				(174)	(202)	(227)	(75)	(81)	(93)	(213)	(105)			
+	7		1138	1494	984	1127	1425	1887	1404	1041 				(109)	(197)	(93)	(147)	(93)	(59)	(158)	(95)			
+	8		1074	1448	920	1064	1348	1790	1268	960 				(64)	(46)	(64)	(63)	(77)	(97)	(136)	(81)			
+	9		942	1330	858	988	1301	1662	1194	859 				(132)	(118)	(62)	(76)	(47)	(128)	(74)	(101)			
+Mar	10		915	1217	740	931	1247	1593	1157	786 				(27)	(113)	(118)	(57)	(54)	(69)	(37)	(73)			
+	11		865	1181	668	886	1104	1459	1126	711 				(50)	(36)	(72)	(45)	(143)	(134)	(31)	(75)			
+	12		866	1197	625	832	1026	1372	1064	688 				1 	16 	(43)	(54)	(78)	(87)	(62)	(23)			
+	13		844	1164	574	831	1006	1335	1036	676 				(22)	(33)	(51)	(1)	(20)	(37)	(28)	(12)			
+	14		865	1134	559	852	1059	1337	1031	627 				21 	(30)	(15)	21 	53 	2 	(5)	(49)			
+Apr	15		904	1130	546	836	1081	1367	1033	641 				39 	(4)	(13)	(16)	22 	30 	2 	14 			
+	16		983	1160	573	829	1135	1369	1008	705 				79 	30 	27 	(7)	54 	2 	(25)	64 			
+	17		1058	1190	641	854	1199	1374	1027	748 				75 	30 	68 	25 	64 	5 	19 	43 			
+	18		1140	1239	694	900	1277	1408	1059	850 				82 	49 	53 	46 	78 	34 	32 	102 			
+May	19		1235	1269	754	970	1377	1480	1117	958 				95 	30 	60 	70 	100 	72 	58 	108 			
+	20		1324	1383	813	1032	1469	1559	1163	1064 				89 	114 	59 	62 	92 	79 	46 	106 			
+	21		1425	1476	896	1108	1561	1632	1218	1182 				101 	93 	83 	76 	92 	73 	55 	118 			
+	22		1545	1583	984	1201	1667	1703	1274	1281 				120 	107 	88 	93 	106 	71 	56 	99 			
+Jun	23		1638	1663	1072	1292	1753	1794	1352	1398 				93 	80 	88 	91 	86 	91 	78 	117 			
+	24		1725	1758	1159	1386	1857	1857	1430	1503 				87 	95 	87 	94 	104 	63 	78 	105 			
+	25		1808	1866	1250	1483	1939	1942	1494	1609 				83 	108 	91 	97 	82 	85 	64 	106 			
+	26		1912	1926	1343	1559	2011	2033	1567	1717 				104 	60 	93 	76 	72 	91 	73 	108 			
+Jul	27		2007	2041	1433	1655	2085	2102	1636	1822 				95 	115 	90 	96 	74 	69 	69 	105 			
+	28		2108	2112	1527	1742	2178	2161	1733	1932 				101 	71 	94 	87 	93 	59 	97 	110 			
+	29		2196	2169	1617	1800	2257	2239	1803	2042 				88 	57 	90 	58 	79 	78 	70 	110 			
+	30		2270	2226	1698	1860	2323	2280	1857	2126 				74 	57 	81 	60 	66 	41 	54 	84 			
+Aug	31		2367	2264	1782	1915	2393	2306	1920	2203 				97 	38 	84 	55 	70 	26 	63 	77 			
+	32		2440	2320	1862	1993	2468	2351	1985	2283 				73 	56 	80 	78 	75 	45 	65 	80 			
+	33		2539	2357	1955	2063	2544	2402	2037	2333 				99 	37 	93 	70 	76 	51 	52 	50 			
+	34		2624	2416	2026	2128	2615	2452	2092	2419 				85 	59 	71 	65 	71 	50 	55 	86 			
+	35		2719	2467	2120	2212	2672	2521	2144	2495 				95 	51 	94 	84 	57 	69 	52 	76 			
+Sep	36		2783	2543	2218	2308	2707	2587	2186	2572 				64 	76 	98 	96 	35 	66 	42 	77 			
+	37		2850	2614	2302	2396	2777	2668	2258	2667 				67 	71 	84 	88 	70 	81 	72 	95 			
+	38		2904	2683	2391	2469	2829	2746	2325	2757 				54 	69 	89 	73 	52 	78 	67 	90 			
+	39		2952	2750	2475	2556	2870	2825	2402	2848 				48 	67 	84 	87 	41 	79 	77 	91 			
+Oct	40		2997	2798	2569	2643	2911	2887	2480	2914 				45 	48 	94 	87 	41 	62 	78 	66 			
+	41		3021	2868	2607	2720	2952	2936	2542	2979 				24 	70 	38 	77 	41 	49 	62 	65 			
+	42		3081	2920	2664	2783	3010	2978	2571	3042 				60 	52 	57 	63 	58 	42 	29 	63 			
+	43		3085	2954	2698	2812	3046	2991	2642	3067 				4 	34 	34 	29 	36 	13 	71 	25 			
+Nov	44		3088	2958	2725	2807	3094	2995	2712	3090 				3 	4 	27 	(5)	48 	4 	70 	23 			
+	45		3099	2873	2703	2814	3127	3007	2748	3100 				11 	(85)	(22)	7 	33 	12 	36 	10 			
+	46		3084	2798	2617	2750	3082	3016	2742	3117 				(15)	(75)	(86)	(64)	(45)	9 	(6)	17 			
+	47		3027	2737	2561	2642	3069	2996	2648	3132 				(57)	(61)	(56)	(108)	(13)	(20)	(94)	15 			
+Dec	48		2942	2664	2447	2606	3077	3001	2502	3144 				(85)	(73)	(114)	(36)	8 	5 	(146)	12 			
+	49		2886	2589	2375	2537	3104	2932	2429	3128 				(56)	(75)	(72)	(69)	27 	(69)	(73)	(16)			
+	50		2725	2411	2322	2401	3055	2859	2271	3106 				(161)	(178)	(53)	(136)	(49)	(73)	(158)	(22)			
+	51	2563	2646	2257	2192	2266	2970	2743	2113	3061 				(79)	(154)	(130)	(135)	(85)	(116)	(158)	(45)			
+	52	2368	2573	2118	2064	2170	2803	2570	1938	2980			(195)	(73)	(139)	(128)	(96)	(167)	(173)	(175)"
+zipper-a/sent_items/230.,"Fri, 12 Oct 2001 11:58:55 -0700",andy.zipper@enron.com,jay.webb@enron.com,slight critique of limit order function,"Small issue but annoying:
+
+If try to modify a plo by going to the line and getting the +/- box in the row with the order there is no way to change your mind and not modify without two error messages getting generated. i.e. if you decide to leave the price unchanged and hit ""set"" it generates the error messages, there is no other way to get out of the window though, no x box to close it.
+
+Hope all is well otherwise,
+
+Andy"
+zipper-a/sent_items/231.,"Thu, 11 Oct 2001 14:12:28 -0700",andy.zipper@enron.com,mark.jackson@enron.com,RE: Rally Thoughts,The world is short and covering. PIRA today issued bullish comments. don't know whee we go from here. Vol got bid up in winter huge today.
+zipper-a/sent_items/232.,"Thu, 11 Oct 2001 13:29:05 -0700",andy.zipper@enron.com,smeyer@bear.com,fyi,"Screaming Japanese Schoolgirls Overturn Greenspan's Bus
+TOKYO- Federal Reserve Chairman Alan Greenspan described himself as ""shaken but all right"" Monday following an incident in which several thousand excited young Japanese fans mobbed and tipped over his tour bus after a speech at the Tokyo Dome. ""Mr. Greenspan is at the height of his popularity in Japan right now,"" said Martine Engers, a publicist for the chairman, who is currently in the midst of a 41-city world tour. ""And I guess we simply weren't prepared for this level of fan hysteria."" Before military police restored order, thousands of frantically speculating youths drove the Nikkei average past 16,000."
+zipper-a/sent_items/233.,"Thu, 11 Oct 2001 12:23:15 -0700",andy.zipper@enron.com,steve.wang@enron.com,RE: ERcot vols,"Month	Vol	
+Nov-01	0.8400	
+Dec-01	0.6925	
+Jan-02	0.6950	
+Feb-02	0.6475	
+Mar-02	0.5850	
+Apr-02	0.5225	
+May-02	0.4775	
+Jun-02	0.4675	
+Jul-02	0.4675	
+Aug-02	0.4700	
+Sep-02	0.4700	
+Oct-02	0.4700	
+Nov-02	0.4700	
+Dec-02	0.4650	
+
+
+Steve,
+
+be advised we had a BIG rally today in Jan Feb Mar vols, almost 3 %.
+
+andy"
+zipper-a/sent_items/234.,"Thu, 11 Oct 2001 11:23:42 -0700",andy.zipper@enron.com,errol.mclaughlin@enron.com,Apr/oct,"Errol I bot 4,000/d of Apr/Oct 02 @ 2.93. Please put this in the same book as the digital, it is meant to hedge it. I don't want to see the pos roll through the NG-X-OPT position summary."
+zipper-a/sent_items/236.,"Wed, 10 Oct 2001 14:22:31 -0700",andy.zipper@enron.com,kori.loibl@enron.com,RE: dutch trades,i straightened it out with him. it was my bad.
+zipper-a/sent_items/237.,"Wed, 10 Oct 2001 14:03:44 -0700",andy.zipper@enron.com,kori.loibl@enron.com,RE: dutch trades,"kori, on the trades you sent me, I bot the marchs and sold the dec's and feb's"
+zipper-a/sent_items/238.,"Wed, 10 Oct 2001 14:02:49 -0700",andy.zipper@enron.com,beth@angelflightsc.org,RE: Mission on Sunday,am on vacation. sorry otherwise i would do it.
+zipper-a/sent_items/239.,"Wed, 10 Oct 2001 11:25:48 -0700",andy.zipper@enron.com,kori.loibl@enron.com,dutch trades,"some spreads
+
+I sold 1/d Apr02 @ 2.75
+
+i sold .5/d Nov @ 2.5"
+zipper-a/sent_items/240.,"Wed, 10 Oct 2001 09:34:48 -0700",andy.zipper@enron.com,mark.jackson@enron.com,RE: Vol Book,"I don't really know other than he was out for some family time. It's going okay, trying to not give back too much in this chop around rally."
+zipper-a/sent_items/241.,"Wed, 10 Oct 2001 08:15:51 -0700",andy.zipper@enron.com,michael.bridges@enron.com,RE: Are you available for a quick conversation tomorrow?,I will be out after 1:00 today. How about tomorow ?
+zipper-a/sent_items/244.,"Tue, 09 Oct 2001 12:29:09 -0700",andy.zipper@enron.com,errol.mclaughlin@enron.com,Apr/Oct trades,"Errol, 
+could you please put the apr/Oct Eol trades I did today into the JV book.
+
+Thanks
+andy"
+zipper-a/sent_items/245.,"Tue, 09 Oct 2001 06:44:23 -0700",andy.zipper@enron.com,craig.taylor@enron.com,i would have done this but i was toooo busy.....,"The men were recognized ""for the achievement of Bose-Einstein condensation in dilute gases of alkali atoms, and for early fundamental studies of the properties of the condensates,"" the academy said."
+zipper-a/sent_items/246.,"Tue, 09 Oct 2001 05:59:26 -0700",andy.zipper@enron.com,aazccb@swbell.net,Ina's number,COORD ADMIN (713) 853-7257
+zipper-a/sent_items/248.,"Tue, 09 Oct 2001 05:56:58 -0700",andy.zipper@enron.com,'.'parking@enron.com,RE: Enron Center Garage,"Ina,
+
+any chance of my getting an unreserved spot in the new garage ?
+
+Andy"
+zipper-a/sent_items/25.,"Tue, 22 Jan 2002 11:21:05 -0800",andy.zipper@enron.com,nigel.patterson@db.com,RE: Hello,"i don't really know yet...check back with me in a weeks time.
+
+az"
+zipper-a/sent_items/250.,"Mon, 08 Oct 2001 10:05:56 -0700",andy.zipper@enron.com,steve.wang@enron.com,RE: ERcot vols,also interested in cy03 one timers for Ercot.
+zipper-a/sent_items/251.,"Mon, 08 Oct 2001 10:05:30 -0700",andy.zipper@enron.com,steve.wang@enron.com,RE: ERcot vols,I would be a 4.75 bid for 3 pieces (150Mwh): summer (Jul/Aug03) $50 daily Ercot calls.
+zipper-a/sent_items/252.,"Mon, 08 Oct 2001 10:01:04 -0700",andy.zipper@enron.com,steve.wang@enron.com,RE: ERcot vols,"Thanks for that, any luck on anything in '03 ?"
+zipper-a/sent_items/253.,"Mon, 08 Oct 2001 09:50:26 -0700",andy.zipper@enron.com,steve.wang@enron.com,ERcot vols,"Can you send me a current Ercot vol sheet...
+
+Thanks,
+andy"
+zipper-a/sent_items/255.,"Mon, 08 Oct 2001 06:48:28 -0700",andy.zipper@enron.com,mark.jackson@enron.com,RE: Vol Book,Mike is back at his desk this morning.
+zipper-a/sent_items/256.,"Mon, 08 Oct 2001 06:11:20 -0700",andy.zipper@enron.com,john.arnold@enron.com,RE:,"I think it's spelled Gaetien and I would like to see those guys, so count me in if it happens."
+zipper-a/sent_items/257.,"Fri, 05 Oct 2001 11:26:04 -0700",andy.zipper@enron.com,bob.ambrocik@enron.com,RE: Solar Migration - DATE CHANGE - VERY IMPORTANT,"Please remove me from mailing list.
+Thanks."
+zipper-a/sent_items/26.,"Tue, 22 Jan 2002 10:45:04 -0800",andy.zipper@enron.com,michael.bridges@enron.com,RE: Job Search,"I sent Dave a note. I will foward your name to Lavo, re:NETCO/UBS. Let me know what happens.
+
+Andy"
+zipper-a/sent_items/260.,"Thu, 04 Oct 2001 05:39:32 -0700",andy.zipper@enron.com,"errol.mclaughlin@enron.com, joey.taylor@enron.com",RE: Apr-Oct Book - NG-X-OPT-JV,"guys can you book the following interbook trades.
+
+NG-X-OPT-NG:
+
+sells 24 Apr02
+sells 11 May02
+buys 8.5 Aug02
+buys 11 Sep02
+buys 17 Oct02
+buys 11 lot Apr/Oct03 strip
+
+Counterpart is NG-X-OPT-JV
+
+Thanks."
+zipper-a/sent_items/262.,"Tue, 02 Oct 2001 13:39:23 -0700",andy.zipper@enron.com,dking@synergyog.com,RE: New Info - Duane,We are having a block party sunday Oct 28. come on by.... hope all is well with you and the fam.
+zipper-a/sent_items/263.,"Tue, 02 Oct 2001 08:45:29 -0700",andy.zipper@enron.com,smeyer@bear.com,small world,"Does Carol have a sister named Mimi, who is married to a guy named Steve Houston ? There is a guy I work with here who is this guy's (Houston) best friend, and the woman he is married to sounded like Carol's sister. I know it sounds complicated.....
+
+Hope you are faring okay with the recent events.
+
+
+Andy"
+zipper-a/sent_items/264.,"Tue, 02 Oct 2001 05:44:29 -0700",andy.zipper@enron.com,steve.wang@enron.com,RE:,"Month	Vol	
+Nov-01	0.7700	
+Dec-01	0.6675	
+Jan-02	0.6400	
+Feb-02	0.6100	
+Mar-02	0.5500	
+Apr-02	0.5075	
+May-02	0.4700	
+Jun-02	0.4650	
+Jul-02	0.4650	
+Aug-02	0.4650	
+Sep-02	0.4650	
+Oct-02	0.4650	
+Nov-02	0.4575	
+Dec-02	0.4575"
+zipper-a/sent_items/265.,"Mon, 01 Oct 2001 14:24:43 -0700",andy.zipper@enron.com,lucy.ortiz@enron.com,Reset swap,"1). Nov 1yr
+              
+                close: 2.77
+                reset swap px: 2.70
+                resets to: 3.10
+                reset trigger: 3.15
+
+
+           2). Nov 2yr
+              
+               close: 3.00
+               reset swap px: 2.90
+               resets to 3.35
+               reset trigger: 3.35
+       
+
+The mechanics of the swap are as follows:  It is a normal swap at the reset swap price unless a particular reference month settles at or above the reset trigger. In that case that month and only that month's reference price resets to the new price as specified in ""resets to."" all other months remain unaffected until they settle and we go through the same process all over again.
+                
+Let me know if you have questions."
+zipper-a/sent_items/266.,"Mon, 01 Oct 2001 13:45:11 -0700",andy.zipper@enron.com,m..taylor@enron.com,RE:,"Liz,
+
+How did you end up with Robert Jones on this ?
+
+Andy"
+zipper-a/sent_items/267.,"Mon, 01 Oct 2001 09:43:27 -0700",andy.zipper@enron.com,mark.jackson@enron.com,RE: Yo,how about 3:15 in front of plaza java ?
+zipper-a/sent_items/268.,"Mon, 01 Oct 2001 09:19:47 -0700",andy.zipper@enron.com,cathy.lira@enron.com,RE: Evaluation form for Walker Oliver,i asked ina rangel to send it to you.
+zipper-a/sent_items/27.,"Tue, 22 Jan 2002 10:44:08 -0800",andy.zipper@enron.com,w..delainey@enron.com,Mike Bridges,"Dave,
+
+Mike mentioned that he was going to speaking to you in regards to the estate. Just wanted to let you know that I have a very high opinion of him. He is extremely sharp and is one of the more capable traders I've dealt with in non-trading commercial situations. When he worked for me at EnronOnline I always viewed him one of my best folks. Do what you will with this unsolicited opinion, but I thought it best if I let you know. 
+
+Regards,
+Andy"
+zipper-a/sent_items/270.,"Mon, 01 Oct 2001 08:24:30 -0700",andy.zipper@enron.com,greg.whalley@enron.com,RE: Addis,I think it relates to Paul not getting the top job in their soon to be spun off unregulated unit. That job went to some guy named Shockley who Eric Vanderwald will report to. Their press release makes for fun reading.
+zipper-a/sent_items/271.,"Fri, 28 Sep 2001 06:50:27 -0700",andy.zipper@enron.com,greg.whalley@enron.com,Addis,"Don't know if you saw it, but your friend and mine Paul Addis is leaving AEP to ""pursue other interests""."
+zipper-a/sent_items/272.,"Wed, 26 Sep 2001 14:21:42 -0700",andy.zipper@enron.com,m..taylor@enron.com,,"Liz,
+Greg was interested in where to make contributions in the wake of Johnathan's death. He worked with eSpeed. Below is the information he requested.
+
+Andy
+
+Johnathan Uman 
+Celebration of Jonathan J. Uman's Life
+Thursday, Sept. 20 11:00am
+3 Elliot Lane
+Westport, CT 
+Casual service.
+In lieu of flowers:
+Foundation set up by family:
+Jonathan J. Uman Foundation P.O. Box 106 Westport, CT 06881"
+zipper-a/sent_items/273.,"Wed, 26 Sep 2001 14:08:27 -0700",andy.zipper@enron.com,"larry.may@enron.com, craig.taylor@enron.com",.,"In Germany, Berlin's minister for culture Adrienne Goehler called the World Trade Center twin 110-story towers destroyed by the hijackers ``phallic symbols.'' The comment brought calls for her resignation, but also an explanation from Goehler. 
+``In the context of my statement that the 'attacks were aimed symbolically at the heart of America,' I also made the comment that the towers are ``phallic symbols,''' she said. ``It was an answer to the question 'What sort of symbolic images did it remind me of?'''"
+zipper-a/sent_items/276.,"Mon, 26 Nov 2001 10:00:09 -0800",andy.zipper@enron.com,jeffrey.sprecher@intcx.com,RE: We contacted the offender,"Jeff,
+Could you please give me a call regarding last weeks events. I would really appreciate it. Thanks.
+
+Andy
+
+(713)853-6994"
+zipper-a/sent_items/278.,"Mon, 26 Nov 2001 14:31:29 -0800",andy.zipper@enron.com,"robert.stalford@enron.com, larry.may@enron.com",,"GLENDALE, CA- Rock guitarist Steve Vai wowed a group of neighborhood children with his spectacular guitar pyrotechnics Monday. ""His behind-the-head guitar solo was so wicked,"" said Jimmy Hetzel, 11, one of six children blown away by Vai's fretboard wizardry. ""He also did this thing where he held the guitar between his legs and played it with a bow."" The impromptu performance is believed to be the most impressive display of its kind since September 2000, when Joe Satriani ""showed off a few licks"" at a Southfield, MI, bar mitzvah."
+zipper-a/sent_items/279.,"Tue, 27 Nov 2001 11:35:29 -0800",andy.zipper@enron.com,lottyplace@yahoo.com,RE: ENE/DYN,Let's do it.Sorry I didn't get the messages but lets's have dinner next tuesday if that works for you.
+zipper-a/sent_items/28.,"Wed, 16 Jan 2002 08:45:07 -0800",andy.zipper@enron.com,lottyplace@yahoo.com,RE: Postpone Dinner-Out Sick,no problem. they seem okay so far.
+zipper-a/sent_items/280.,"Wed, 28 Nov 2001 06:12:11 -0800",andy.zipper@enron.com,monica.l.brown@accenture.com,RE: Reminder: Risk Management Simulation Questions,"Monica,
+
+Things are a little bit unsettled right now. I am working on them and will have something shortly.
+Your patience is appreciated.
+
+Andy Zipper"
+zipper-a/sent_items/281.,"Wed, 28 Nov 2001 09:04:38 -0800",andy.zipper@enron.com,scslooptions@attglobal.net,RE: SCS CRUDE HEAT AND GAS STRADDLES 12:00 NOON,Can I please get an NG run asap. Thanks.
+zipper-a/sent_items/282.,"Wed, 28 Nov 2001 09:58:42 -0800",andy.zipper@enron.com,lottyplace@yahoo.com,RE: ENE/DYN,"Thanks, I think I am okay, but let's talk tonight."
+zipper-a/sent_items/286.,"Fri, 30 Nov 2001 14:03:10 -0800",andy.zipper@enron.com,jeff.golden@enron.com,Response to 5 bullet 3,"Enron does not place NYMEX position limits on its desks instead using overall VAR limits. If a desk is authorized to trade a particular instrument, such as a NYMEX contract or swap, the size of that position is governed by the VAR it generates."
+zipper-a/sent_items/288.,"Fri, 30 Nov 2001 15:08:09 -0800",andy.zipper@enron.com,jeff.golden@enron.com,Andy contact,"(h) 713 666 9737	
+(w) 713 853-6994
+(c) 713 419-0203
+
+email @ home: aazccb@swbell.net"
+zipper-a/sent_items/289.,"Fri, 30 Nov 2001 15:33:10 -0800",andy.zipper@enron.com,richard.a.stuckey@ssmb.com,call me,"Call me when you get a chance @ 713 419-0203 or 713 666-9737
+thx"
+zipper-a/sent_items/29.,"Mon, 14 Jan 2002 08:20:32 -0800",andy.zipper@enron.com,john_bourget@bankone.com,KM,"Hate to pile on but I think KM is circling the drain here. I told your mom a couple of weeks ago that there is high probablility they file chpt 11 by end of first quarter. Get out while you can. Hope boarding went well for you and you didn't break anything.
+
+Andy"
+zipper-a/sent_items/290.,"Sun, 02 Dec 2001 07:45:51 -0800",andy.zipper@enron.com,"greg.whalley@enron.com, john.lavorato@enron.com, louise.kitchen@enron.com",Citi,"Spoke with Rick Stuckey who advised me that a group of seven of them will be arriving today. They would like to heave specific discussions regarding the Pro forma as well as EnronOnline technology starting monday morning. Rick also adivsed me that they are amending the original term sheet that they disucssed with Greg Saturday night.
+
+I will keep you posted."
+zipper-a/sent_items/291.,"Mon, 03 Dec 2001 07:26:10 -0800",andy.zipper@enron.com,exec.jones@enron.com,,"Robert, Here are the two messages from ""Jeff Lawson"" and the response I got from Jeff Sprecher at the ICE regarding my complaint. I appreciate your handling this matter.
+
+Andy
+
+--------- Inline attachment follows ---------
+
+From:  <jeffreyskilling@yahoo.com>
+To: Zipper, Andy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=AZIPPER>
+Date: Friday, November 30, 2001 11:34:35 GMT
+Subject: 
+
+HA HA HA YOU STUPID, ARROGANT FUCK
+
+__________________________________________________
+Do You Yahoo!?
+Buy the perfect holiday gifts at Yahoo! Shopping.
+http://shopping.yahoo.com
+
+--------- Inline attachment follows ---------
+
+From:  <jeffreyskilling@yahoo.com>
+To: Zipper, Andy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=AZIPPER>
+Date: Wednesday, November 21, 2001 8:13:05 GMT
+Subject: 
+
+Fuck you, you piece of shit.  I can't wait to see you
+go down with the ship like all the other vermin.
+
+Smug, paranoid, unhappy mother fucker.
+
+Eat shit.
+
+__________________________________________________
+Do You Yahoo!?
+Yahoo! GeoCities - quick and easy web site hosting, just $8.95/month.
+http://geocities.yahoo.com/ps/info1
+
+--------- Inline attachment follows ---------
+
+From:  <jeffrey.sprecher@intcx.com>
+To: Zipper, Andy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=AZIPPER>
+Date: Monday, November 19, 2001 10:53:36 GMT
+Subject: 
+
+Andy,
+
+We pulled the log ... found the guy ... and told him to knock it off.  
+Please let me know if there is a repeat performance.  
+
+Best regards, Jeff"
+zipper-a/sent_items/293.,"Wed, 05 Dec 2001 06:13:55 -0800",andy.zipper@enron.com,"'malone@enron.com, emalone@mreconsulting.com",RE: Dinner 12/3,"I'm sorry, I did not get it. Thnigs have taken an interesting turn here, give me a call."
+zipper-a/sent_items/295.,"Thu, 06 Dec 2001 06:14:43 -0800",andy.zipper@enron.com,edmundg@manfinancial.com,RE:,"Eddie,
+
+Thanks for the note. This has been a very scary and tough time, but I'm hoping something good can come from it. We are trying very hard to sell the trading operation intact to several institutions. I'm sure you have read about it. After the suffering you and all the other people who live and work in the NYC financial district have gone through this year, this pales in comparision. We're all hangin' tough.
+
+Best wishes in this holiday season to and your family,
+your friend
+Andy"
+zipper-a/sent_items/298.,"Fri, 07 Dec 2001 12:20:12 -0800",andy.zipper@enron.com,david.oconnor@ubsw.com,funding,"Dave,
+
+I am being told that the books and records of Enron's trading units are on aggregate marked off of a cost of funds curve. I should have that curve to you first thing Monday morning. Sorry about the delay but it is hard to get certain things done in a timely fashion around here right now.
+
+Andy"
+zipper-a/sent_items/3.,"Tue, 05 Feb 2002 11:45:43 -0800",andy.zipper@enron.com,chris.bowling@enron.com,Stack and Option manager,"I don't know if Bob hillier talked to you yet, but I need Stack and Option manager set up on a stand alone machine. I am moving to the power options group as of tomorrow.
+
+My cell is 713 419 0203. Call with questions."
+zipper-a/sent_items/301.,"Mon, 10 Dec 2001 11:30:41 -0800",andy.zipper@enron.com,monica.l.brown@accenture.com,RE: Reminder: Risk Management Simulation Questions,i'm considering this terminated.
+zipper-a/sent_items/302.,"Thu, 13 Dec 2001 08:44:08 -0800",andy.zipper@enron.com,lcannon@houston.rr.com,RE: Letter of Recommendation,"I would be happy to, and yes you may use my name."
+zipper-a/sent_items/303.,"Thu, 13 Dec 2001 10:06:18 -0800",andy.zipper@enron.com,richard.a.stuckey@ssmb.com,Risk cap.,"Rick,
+
+I've been thinking about this. I think 18 mos. for the average tenor of a trade is way too high. For John Arnold's book it would on a prospective basis be  more in line with 4 months. We would probably not make markets online on anything past 24 months for NYMEX gas and the vast majority of our trades are in the first three months. I think the same would probably be true for power, but I haven't spoken to those guys about it. 
+
+For the NYMEX book gas I made the following assumptions:
+
+Average tenor: 5 months
+
+Average trades per day: 400
+
+average volume per trade: 500,000 mmbtu
+
+average px: $2.7/mmbtu
+
+With 252 trading days you and up with a gross unadjusted notional of $136bn. This is simply 400*252*500,000*$2.7
+
+You then have to adjust down for the expiration of trades during the year. If the average life was 6 months you could halve the number above, which would be conservative given our 4 month assumption.
+
+That takes you down to $68.04bn ($136bn/2).
+
+The next adjustment would be to factor in netting for counterparties. You are trying to estimate the net open interest per countperparty. I am working on those numbers as I write this. It stands to reason that the net number for NYMEX Gas deals would be less than $70bn. When you factor in other gas trades and power the number would rise and I will look at that.
+
+As a basic method, does this start to get you to where you need to be ?
+
+Andy"
+zipper-a/sent_items/31.,"Mon, 14 Jan 2002 06:55:58 -0800",andy.zipper@enron.com,greg.piper@enron.com,RE:,I think I have to take my son to the doctor @ noon. Any way we can do Tuesday ?
+zipper-a/sent_items/32.,"Fri, 11 Jan 2002 13:32:25 -0800",andy.zipper@enron.com,greg.piper@enron.com,RE:,"Either Monday or Tuesday works for me. Sure on the bond guy. His name is Bob Warner. He is with Commerce Capital Markets, the broker sub of Commerce Bank, a big New Jersey Regional. His number is (732) 505-2919.  He is located in Toms River NJ. I will call him if you would like and tell him you are coming his way.
+ 
+Let me know,
+Andy"
+zipper-a/sent_items/33.,"Thu, 10 Jan 2002 07:15:31 -0800",andy.zipper@enron.com,harrysarora@yahoo.com,call,I sent you a document last night. Did you get it ?
+zipper-a/sent_items/334.,"Tue, 30 Oct 2001 06:20:55 -0800",andy.zipper@enron.com,errol.mclaughlin@enron.com,JV02,"I bot JV02 , 5000/d @ 3.25. Please put in the JV book, not mine."
+zipper-a/sent_items/335.,"Tue, 30 Oct 2001 07:46:18 -0800",andy.zipper@enron.com,savita.puthigai@enron.com,RE: Rumours,who did you hear that from..
+zipper-a/sent_items/336.,"Tue, 30 Oct 2001 08:54:44 -0800",andy.zipper@enron.com,"'malone@enron.com, emalone@mreconsulting.com",RE: Hello,"This is a very tough time. I honestly don't know what the hell is going on. I will let you know.
+
+Thanks,
+Andy"
+zipper-a/sent_items/337.,"Tue, 30 Oct 2001 11:34:16 -0800",andy.zipper@enron.com,larry.may@enron.com,NGZ1 trade,"you bot 200 NGZ1 from John @3.175.
+
+cheers."
+zipper-a/sent_items/34.,"Wed, 09 Jan 2002 07:19:44 -0800",andy.zipper@enron.com,lottyplace@yahoo.com,RE: Hello,"tuesday's generally not good, how about next wednesday ?"
+zipper-a/sent_items/342.,"Wed, 31 Oct 2001 10:12:49 -0800",andy.zipper@enron.com,aazccb@swbell.net,RE: Como estas??,"Have not called doctor, but will soon.
+
+Love you siempre,
+KPD"
+zipper-a/sent_items/344.,"Thu, 01 Nov 2001 05:00:24 -0800",andy.zipper@enron.com,john.arnold@enron.com,RE: VACATION,I dont' know and I don't know.
+zipper-a/sent_items/345.,"Fri, 02 Nov 2001 07:00:11 -0800",andy.zipper@enron.com,f..keavey@enron.com,.,"Bruce Peterson at Korn Ferry International. He runs the energy practice out of Houston. They are located in houston, but I don't have his phone number. Information should have it. He is a good guy and very well connected."
+zipper-a/sent_items/346.,"Fri, 02 Nov 2001 11:07:09 -0800",andy.zipper@enron.com,"'miller@enron.com, millertr@bp.com",RE: Baseball and the Irishman,"Arkansas joke:
+
+
+Guy is driving down a rural road in Arkansas.
+
+Cop pulls him over and asks, ""got any ID"" ?
+
+Guy replies: ""'bout what"" ?
+
+
+nother one:
+The toothbrush must have been invented in Arkansas. Otherwise it would have been called the ""teethbrush"" ."
+zipper-a/sent_items/347.,"Mon, 05 Nov 2001 05:43:11 -0800",andy.zipper@enron.com,"'miller@enron.com, millertr@bp.com",RE:,love to. lets talk today.
+zipper-a/sent_items/349.,"Mon, 05 Nov 2001 13:56:56 -0800",andy.zipper@enron.com,errol.mclaughlin@enron.com,trade GD-Y-OPT-Calc,"I sold 2500/d of Nov2/Mar3 @ 3.495 to hedge the above book. can you please put it in that book.
+
+Thanks."
+zipper-a/sent_items/350.,"Tue, 06 Nov 2001 12:09:33 -0800",andy.zipper@enron.com,"cynthia.vasquez@enron.com, dorina.garcia@enron.com, patty.hermanek@enron.com, dori.cooper@enron.com",RE: IIS changes,PLEASE STOP REPLYING TO ALL USERS
+zipper-a/sent_items/351.,"Tue, 06 Nov 2001 14:14:23 -0800",andy.zipper@enron.com,errol.mclaughlin@enron.com,Apr /oct trade,"i sold 1,000/d of apr/oct @ 3.02 for GD-Y-Gas Daily book. please put in that book. Thanks."
+zipper-a/sent_items/353.,"Wed, 07 Nov 2001 07:31:21 -0800",andy.zipper@enron.com,robert.bogucki@enron.com,RE:,"thnk u nothing for now
+
+ttfn"
+zipper-a/sent_items/354.,"Wed, 07 Nov 2001 07:34:43 -0800",andy.zipper@enron.com,robert.bogucki@enron.com,RE:,do u have msn instant messenger ?
+zipper-a/sent_items/355.,"Wed, 07 Nov 2001 07:49:38 -0800",andy.zipper@enron.com,lottyplace@yahoo.com,RE: Status,I'm ok. Things are pretty bleak. I don't know what is going to happen. Asking myself some serious questions about my career.
+zipper-a/sent_items/356.,"Thu, 08 Nov 2001 08:24:47 -0800",andy.zipper@enron.com,nigel.patterson@db.com,RE: Hello,I think Enron and my career are finished.
+zipper-a/sent_items/357.,"Fri, 09 Nov 2001 10:01:10 -0800",andy.zipper@enron.com,john_bourget@bankone.com,RE: WSJ 11-8-01,"John,
+Thanks for the note. Yeah things look pretty lousy here at the big E. From first to worst in 4 easy weeks. The untold story is how much money the gas and power trading folks have made that some weenies in three piece in suits in Corp pissed away. Looks like we are going to be bought by Dynegy. Hang in there with ONE. I am agitating for a Christmas visit to Mich by us, so hope to see you then.
+
+Keep on it,
+Andy"
+zipper-a/sent_items/358.,"Fri, 09 Nov 2001 10:55:11 -0800",andy.zipper@enron.com,larry.may@enron.com,NGZ01,u sld 50 ngz01 @ 2.935 to John Arnold.
+zipper-a/sent_items/359.,"Fri, 09 Nov 2001 12:36:06 -0800",andy.zipper@enron.com,larry.may@enron.com,ngz01 trade,u bot 300 NGZ01 2.925 from John Arnold.
+zipper-a/sent_items/36.,"Mon, 07 Jan 2002 13:21:50 -0800",andy.zipper@enron.com,john_bourget@bankone.com,RE: Lions,"George Bush, minister of the double negative:  ""Not over my dead body"" will they raise your taxes.
+
+Does that mean yes to tax increases as long as he is alive ?"
+zipper-a/sent_items/360.,"Mon, 12 Nov 2001 05:05:16 -0800",andy.zipper@enron.com,raj.mahajan@kiodex.com,RE: American Airlines becomes Kiodex 2nd Customer!,congrat's Raj: I'm gratified to see that the corportae customers we talked about are finding value in the product and service.
+zipper-a/sent_items/361.,"Mon, 12 Nov 2001 05:29:48 -0800",andy.zipper@enron.com,"a..martin@enron.com, jim.schwieger@enron.com",.,"Thought you guys would find this funny:
+
+TOP TEN USES FOR THE NEW ENE BLDG
+
+ 1. HEALTH CLUB
+ 2. LOFTS
+ 3. PUBLIC STORAGE
+ 4. HOTEL FOR SEC INVESTIGATION TEAM
+ 5.SKY RING BAR AND BROTHEL
+ 6. SCRAP METAL
+ 7.RETAIL CENTER
+ 8. MINIMUM SECURITY FEDERAL PRISON FOR EXECUTIVES
+ 9.PROP IN NEXT HOLLYWOOD ACTION FLICK: IMPLOSION
+ 10.PERMANENT REMINDER TO ALL INVESTORS: SELL WHEN THEY BUILD A MONUMENT TO SELF"
+zipper-a/sent_items/362.,"Mon, 12 Nov 2001 06:12:57 -0800",andy.zipper@enron.com,"'meyer@enron.com, smeyer@bear.com",RE: Analysis of Various Economic & Political Models,"Oy ! Let's talk later today if you have time. hope the family is doing well.
+
+rgds,
+andy"
+zipper-a/sent_items/364.,"Mon, 12 Nov 2001 08:53:43 -0800",andy.zipper@enron.com,lottyplace@yahoo.com,ENE/DYN,Can you believe it ? cat sleeping with dogs....
+zipper-a/sent_items/365.,"Mon, 12 Nov 2001 10:08:46 -0800",andy.zipper@enron.com,greg.whalley@enron.com,ENE/DYN,"Greg,
+
+I know this has been a tough couple of weeks for you but I thought I would drop you a line and share my impressions:
+
+1). This deal is an ideal opportunity to merge back and mid office support platforms. We have discussed this many times and EnronNetworks was practically set up for this (CommodityLogic et al...)
+ 
+2). I don't know what you folks have in mind but I could see leaving ENE's market making and trading structure intact and having DYN's asset-based trading be just another business unit like EES was. but the key is the tremendous cost savings of the common support platform.
+
+I don't mean to be presumptuous but I hadn't talked to you in a while and wanted to get it off my chest.
+
+Good luck,
+Andy"
+zipper-a/sent_items/367.,"Tue, 13 Nov 2001 09:48:02 -0800",andy.zipper@enron.com,jay.webb@enron.com,RE: I wonder how you do this,There is a lot of confused bullshit floating around.....
+zipper-a/sent_items/368.,"Wed, 14 Nov 2001 08:04:55 -0800",andy.zipper@enron.com,mark.jackson@enron.com,RE: Yo,"Mooney's are great planes and are very fast. I almost bought an MSE a few years ago, which subsequently was called the Allegro, then the Eagle. They are really well built with no incidents of inflight airframe failure ever. Drawbacks are they are quite small and there is a cloud over he comapny as it is in bankruptcy. The bankruptcy isue is around whether the supply of parts will be available going foward. They are probably being discounted which makes it a good buy. Idon't think the parts issue is a real one as someone will step in to take over the manufacturing.
+
+AZ"
+zipper-a/sent_items/37.,"Mon, 07 Jan 2002 08:41:06 -0800",andy.zipper@enron.com,nigel.patterson@db.com,RE: FW: Hi,"wow, three weeks away from the kids ! brave and lucky man. life is very edgy here waiting for this stupid auction to happen. i don't really know what things will look like after even if we do get a bidder who wants to go foward. stay tuned. have a good time in oz.
+
+andy"
+zipper-a/sent_items/372.,"Thu, 15 Nov 2001 12:02:03 -0800",andy.zipper@enron.com,afsc@angelflightsc.org,#8151,"I can take this mission. Please advise.
+
+Andy Zipper"
+zipper-a/sent_items/374.,"Fri, 16 Nov 2001 11:01:34 -0800",andy.zipper@enron.com,beth@angelflightsc.org,RE: insurance,no problem. I just received my copy of the new policy with AIG and will send you proof.
+zipper-a/sent_items/376.,"Tue, 20 Nov 2001 05:41:32 -0800",andy.zipper@enron.com,jeffrey.sprecher@intcx.com,RE: We contacted the offender,"Thanks Jeff. We'll let you know.
+
+Regards,
+Andy"
+zipper-a/sent_items/377.,"Wed, 21 Nov 2001 07:07:42 -0800",andy.zipper@enron.com,sonjay.vishnupad@robertwalters.com,call,"Sonjay,
+
+Please give me a call at your convienence.
+
+Thanks,
+Andy Zipper"
+zipper-a/sent_items/378.,"Wed, 21 Nov 2001 10:03:15 -0800",andy.zipper@enron.com,aazccb@swbell.net,.,+800 350 2415 Michael Hubley
+zipper-a/sent_items/379.,"Wed, 21 Nov 2001 11:51:11 -0800",andy.zipper@enron.com,jay.webb@enron.com,order problem,"Jay,
+
+Have received comments that when multi day limit orders are placed, they are not alive after a friday night. I think this might have to do with orders getting wiped out duirng maintenance but I wanted to alert you to this.
+
+AZ"
+zipper-a/sent_items/383.,"Wed, 21 Nov 2001 13:43:03 -0800",andy.zipper@enron.com,jeffreyskilling@yahoo.com,RE:,Thanks for the note. Let's talk real soon.
+zipper-a/sent_items/40.,"Mon, 07 Jan 2002 07:13:42 -0800",andy.zipper@enron.com,john_bourget@bankone.com,Lions,"The Lions win !    The Lions win !
+
+Break up the Lions....
+
+Andy"
+zipper-a/sent_items/41.,"Fri, 04 Jan 2002 11:41:23 -0800",andy.zipper@enron.com,smeyer@bear.com,Hi,"A friend who works in New York asked if I could recommend an attorney who does Will/Estate preparation. Do you have any recommendations ?
+
+Thanks,
+Andy
+
+p.s. Happy New Year !!"
+zipper-a/sent_items/42.,"Fri, 04 Jan 2002 11:18:54 -0800",andy.zipper@enron.com,nigel.patterson@db.com,RE: Hello,"Let me check on it and get back to you. I had mine done in Houston, but I can probably recommend someone.
+
+Happy New Year,
+Andy"
+zipper-a/sent_items/43.,"Mon, 31 Dec 2001 08:50:13 -0800",andy.zipper@enron.com,chris.edmonds@truequote.com,RE: TrueQuote,"Thanks !
+
+Have a safe and happy New Year.
+
+Andy"
+zipper-a/sent_items/45.,"Fri, 28 Dec 2001 09:23:14 -0800",andy.zipper@enron.com,"'wolf@enron.com, jwolf@regenthotels.com",RE: a test message,"I got it, whatever it was."
+zipper-a/sent_items/46.,"Fri, 28 Dec 2001 06:54:58 -0800",andy.zipper@enron.com,chris.edmonds@truequote.com,TrueQuote,"Sorry to see the absorption of TQ by APB. I suppose it is all for the best.  Hope that you guys come out of it allright. The irony is that TQ outlived Enron ! Haven't spoken to you in a awhile and hope that all is well with you and your family. Call me when you get a chance to catch up.
+
+Best Regards for the Holiday Season,
+Andy Zipper"
+zipper-a/sent_items/47.,"Fri, 21 Dec 2001 11:37:00 -0800",andy.zipper@enron.com,john_bourget@bankone.com,RE: HOLIDAYS IN DETROIT,See you soon. Will do on the duds.
+zipper-a/sent_items/48.,"Fri, 21 Dec 2001 10:57:56 -0800",andy.zipper@enron.com,harrysarora@yahoo.com,contact,"in Detroit @ 313 881 1166		
+
+Happy Holidays,
+Andy"
+zipper-a/sent_items/49.,"Fri, 21 Dec 2001 10:54:37 -0800",andy.zipper@enron.com,harry.s.arora@yahoo.com,contact,"In detroit @ 313 881 1166
+
+Happy Holidays,
+Andy"
+zipper-a/sent_items/50.,"Fri, 21 Dec 2001 10:53:57 -0800",andy.zipper@enron.com,mari.capestany@enron.com,contact info,"Mari,
+
+I will be out Monday thru Wednesday. I will be in from 10:00am Thrus thru Friday.
+
+My cell is (713) 419 0203.
+I will be reachable @ (313) 881 1166 through Wednesday.
+
+Happy Holidays,
+Andy Zipper"
+zipper-a/sent_items/55.,"Wed, 23 May 2001 09:35:04 -0700",andy.zipper@enron.com,greg.piper@enron.com,RE: EnronOnline in the palm of your hand,"I think the note I sent to Steve plus the fact that he came to see me and I told him he was out of line are enough. We will not support the app. It seems kind of draconian to shut off the flow of information. As far as wireless in general it has never been a high priority for me because we never had a commercial basis for proceeding other than ""gee, wouldn't this be cool"" I think it is time to reassess the wireless angle, in terms of what it would cost to build, who would build it for us, and what we would get from the project. I'm going to ask Dave Forster to do that.
+
+Comments ?
+
+AZ"
+zipper-a/sent_items/56.,"Wed, 23 May 2001 09:38:39 -0700",andy.zipper@enron.com,greg.piper@enron.com,RE: FERC Inquiry into Electronic Trading (&EOL),Let's let Govt. Affairs get some more info before doing anything.
+zipper-a/sent_items/6.,"Thu, 31 Jan 2002 13:59:15 -0800",andy.zipper@enron.com,chris.gaskill@enron.com,PGE,<Embedded Picture (Device Independent Bitmap)>
+zipper-a/sent_items/61.,"Thu, 24 May 2001 07:58:16 -0700",andy.zipper@enron.com,lisa.yoho@enron.com,RE: Energy E-Commerce Platforms,Talk to Matt Motsinger for that information. He is in charge of the reporting for that.
+zipper-a/sent_items/62.,"Thu, 24 May 2001 08:01:12 -0700",andy.zipper@enron.com,greg.piper@enron.com,RE: Recommended Offer by ICE for IPE Holdings,"If we accept, then yes our IPE shares get converted to ICE shares."
+zipper-a/sent_items/64.,"Thu, 24 May 2001 08:09:15 -0700",andy.zipper@enron.com,greg.piper@enron.com,RE: possible opportunity with Enron,"the c1 guy's note is just more e-commerce blather...I don't know whether he would add any value or not, but would definitely add buzzwords."
+zipper-a/sent_items/65.,"Thu, 24 May 2001 08:12:29 -0700",andy.zipper@enron.com,arvind.ramanathan@techspan.com,RE: Partnership: Enron & TechSpan (Goldman Sachs Funded Company),"Arvind,
+
+Thank you for the note. We are evaluating the potential value that Techspan could bring to Enron. We will contact you when are ready to enter into a dialogue.
+Once again thank you for your interest in Enron.
+
+Andy Zipper
+Vice President"
+zipper-a/sent_items/66.,"Thu, 24 May 2001 10:07:58 -0700",andy.zipper@enron.com,aazccb@swbell.net,credit reporting,"experian 1-888-397-3742 done conf#3267747298
+
+equifax  1-800-525-6285
+
+transunion  1-800-916-8800
+                 1-800-680-7289"
+zipper-a/sent_items/67.,"Thu, 24 May 2001 11:53:56 -0700",andy.zipper@enron.com,greg.piper@enron.com,RE:,"Okay, but you're still sleeping on the couch tonight...."
+zipper-a/sent_items/68.,"Thu, 24 May 2001 13:18:30 -0700",andy.zipper@enron.com,"david.forster@enron.com, michael.bridges@enron.com, bob.shults@enron.com, mike.haney@enron.com, john.allario@enron.com, john.pavetto@enron.com, daniel.diamond@enron.com, john.cummings@enron.com, leonardo.pacheco@enron.com, carl.carter@enron.com",EnronOnline Origination lineup-Revised,Please see revised market assignments. Addititions are highlighted in blue.
+zipper-a/sent_items/71.,"Thu, 24 May 2001 13:23:19 -0700",andy.zipper@enron.com,greg.piper@enron.com,GM and offsite,"I need to meet with GM from 12:30 to 2:00, so the early offsite slot works for me. Thanks."
+zipper-a/sent_items/72.,"Thu, 24 May 2001 13:44:47 -0700",andy.zipper@enron.com,lydia.cannon@enron.com,Origination meeting,"Can you schedule and send out the following note to the EnronOnline origination group:
+
+""Please attend an origination meeting on Tuesday, May 29  from 8:30 to 10:00. The focus of this meeting will doing a walkthrough of an EnronOnline demo for both EnronOnline hosted products and X-online hosted environments. This demo will cover all relevant functionality of the system, similar to what we have been presenting to GM et al.""
+
+Send to:
+
+Dave Forster
+Michael Bridges
+Bob Shults
+Dan Diamond
+Jake Staffel
+John Allario
+John Pavetto
+Mike Haney
+Leonardo Pacheco
+Carl Carter
+
+cc:Greg Piper, Mark Palmer"
+zipper-a/sent_items/73.,"Thu, 24 May 2001 14:15:37 -0700",andy.zipper@enron.com,joe.gold@enron.com,RE: NYMEX Aluminium Market Maker,Okay. It wil be Bob Shults. I will put him in contact with Joe.
+zipper-a/sent_items/78.,"Fri, 25 May 2001 06:49:39 -0700",andy.zipper@enron.com,wes.colwell@enron.com,Drew K.,"I declined to review Drew because I feel I haven't really spent a lot of time with him. The times I have worked with him, he has done a great job and been easy to work with."
+zipper-a/sent_items/79.,"Fri, 25 May 2001 06:56:02 -0700",andy.zipper@enron.com,"vance.meyer@enron.com, kal.shah@enron.com, greg.piper@enron.com","RE: ECONOMIST: Enron, Accenture - - any topics that COULD be discussed re: Accenture's eBusiness work for Enron ...(next week, in Houston)","Let me make this clear: Accenture is not to speak to anyone other than ourselves regarding what they are doing with EnronOnline. We ahve too much at stake right now.
+
+Thanks
+AZ"
+zipper-a/sent_items/80.,"Fri, 25 May 2001 06:56:23 -0700",andy.zipper@enron.com,david.forster@enron.com,RE: Origination Meeting,"Yes, and I would you and I to chime in as well."
+zipper-a/sent_items/81.,"Fri, 25 May 2001 07:10:07 -0700",andy.zipper@enron.com,vviola@nymex.com,EnronOnline and NYMEX,"Vin,
+
+Glad we could hook up yesterday. 
+
+The gist of what we are interested in is providing EnronOnline's liquidity to local NYMEX traders. I would like to explore the concept of NYMEX's clearing corp or another clearer standing in the middle between Enron and these locals. EnronOnline's architecture provides for a Master user, such as a Clearing Corp, to set up as many sub-users (local traders) as it wants. Each sub-user has trading rights as designated and controlled by the master. We would envision the Clearing Corp. handling it credit arrangements with the locals, and negotiating its relationship with Enron. I know this is pretty simple stuff, but every long journey starts with a small step. Please let me your interest in pursuing this sort of arrangement or a variant thereof.
+
+Thanks,
+Andy Zipper
+Vice President
+Enron Corp."
+zipper-a/sent_items/82.,"Fri, 25 May 2001 11:26:49 -0700",andy.zipper@enron.com,john.lavorato@enron.com,Broker detail 5-24-01.xls,"Please review the spreadsheet, and look at Daily Deals Graph."
+zipper-a/sent_items/83.,"Tue, 29 May 2001 06:08:11 -0700",andy.zipper@enron.com,justin.boyd@enron.com,RE: EnEx - New Online Gas Trading Platform,"Justin,
+The traders are free to use any platform they like. I do not approve or disapprove; they are in the best position to make that decision. It is EWS policy however that someone from Amita/Lara's group be the master user to montor activity and control what access agreements we accept.
+
+Thanks,
+Andy"
+zipper-a/sent_items/84.,"Tue, 29 May 2001 06:09:21 -0700",andy.zipper@enron.com,lara.mckinney@enron.com,RE: Joining the EnEx Energy Trading Exchange,"Lara,
+You need to be the master user for the platform. It is EWS policy. Go ahead and get set up and coordinate document acceptance with Justin."
+zipper-a/sent_items/85.,"Tue, 29 May 2001 06:13:19 -0700",andy.zipper@enron.com,"s..palmer@enron.com, jay.webb@enron.com",Reuters,"Guys,
+Let's get together today to dicuss demo. I would like to demo full capability, including option manager. I think it is very important to also set up an interest rate product, perhaps a swap that is quoted in rate only. No need to convert to dollar ox just yet. Given that the guy who is building their commercial paper platform will be there and seems to be one of the main judges of the merit of EOL I think it behooves us to slant presentation that way.
+
+I'm good from 11:00 to 1:00
+
+Andy"
+zipper-a/sent_items/86.,"Tue, 29 May 2001 08:43:08 -0700",andy.zipper@enron.com,j..sturm@enron.com,RE: Celebration EnronOnline's Millionth Transaction - REVISED LINK,thanks. damned things never work.
+zipper-a/sent_items/87.,"Tue, 29 May 2001 08:43:43 -0700",andy.zipper@enron.com,j..sturm@enron.com,RE: Celebration EnronOnline's Millionth Transaction - REVISED LINK,"millionth trade: eric graff @ Coral, TCO pool day gas, someone on scott neal's desk."
+zipper-a/sent_items/88.,"Tue, 29 May 2001 09:35:20 -0700",andy.zipper@enron.com,"greg.piper@enron.com, d..gros@enron.com",Duke and OpenLink,"OpenLink is one of the leaders in risk management systems. We used at Coral, and it was then called Abacus. It is strongest in front office risk management. I would view their competition as KioDex. The deal with Duke has been around for awhile."
+zipper-a/sent_items/89.,"Tue, 29 May 2001 09:47:54 -0700",andy.zipper@enron.com,fgetman@houstonstreet.com,HoustonStreet demonstration,"Frank,
+
+Thank you for bringing your team down to Houston to demonstrate the new version of the system. We appreciate the effort that HoustonStreet has made to upgrade its system, however in our view insufficient progress has been made to change our decision to terminate the Posting Agreement. Once again, thank you the effort your team put in and let's stay touch.
+
+Andy Zipper"
+zipper-a/sent_items/9.,"Thu, 31 Jan 2002 10:18:13 -0800",andy.zipper@enron.com,"david.forster@enron.com, justin.rostant@enron.com",RE: Wicked Landing,I've seen it before. It is Hong Kong Airport and the guy kicked out the crab at the last possible second. He was seconds from riping the gear off.
+zipper-a/sent_items/90.,"Tue, 29 May 2001 09:52:07 -0700",andy.zipper@enron.com,michael.hutchinson@enron.com,RE: NYMEX Aluminium Market Maker,"Mike,
+
+That's fine, but no LOI is to be agreed without EnronOnline's concurrence. If you want to do something without us, go right ahead but if we are to be involved then we need to approve and be involved in the deal from the get go. Bob Shults is contacting Joe in NY as we speak.
+
+Thanks,
+Andy Zipper"
+zipper-a/sent_items/91.,"Tue, 29 May 2001 09:54:07 -0700",andy.zipper@enron.com,greg.piper@enron.com,RE: Training for EnronOnline,"We will do on Monday morning, but I don't think we need Jay involved."
+zipper-a/sent_items/93.,"Tue, 29 May 2001 13:35:06 -0700",andy.zipper@enron.com,a..shankman@enron.com,RE: Celebration EnronOnline's Millionth Transaction - REVISED LINK,"Okay, fair enough. He would be perfect for the role, but I understand what you are trying to accomplish."
+zipper-a/sent_items/95.,"Wed, 30 May 2001 10:04:55 -0700",andy.zipper@enron.com,jake.staffel@enron.com,RE: Investinme Course Offering,It's fine with me.
+zipper-a/sent_items/96.,"Wed, 30 May 2001 10:15:13 -0700",andy.zipper@enron.com,kal.shah@enron.com,forrester researcH,CAN YOU SEND David Lebow in IR a copy of the above report on electronic commmodity trading. thanks.
+zipper-a/sent_items/99.,"Fri, 01 Jun 2001 07:03:28 -0700",andy.zipper@enron.com,david.forster@enron.com,RE: FERC,"I'll attend briefly, but you can run it."
+zipper-a/sent/1.,"Wed, 29 Nov 2000 02:08:00 -0800",andy.zipper@enron.com,chris.edmonds@truequote.com,Re: FW: Enron Update Regarding the Testing Schedule,So do you think things are proceeding well ?
+zipper-a/sent/2.,"Thu, 30 Nov 2000 07:18:00 -0800",andy.zipper@enron.com,chris.edmonds@truequote.com,RE: FW: Enron Update Regarding the Testing Schedule,"My guys tell me we are just about finished on our end and will be getting 
+ready to beta test. How are your folks doing ?"

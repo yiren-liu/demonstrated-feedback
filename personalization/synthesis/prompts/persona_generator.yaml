@@ -1,0 +1,49 @@
+system_prompt: |-
+  Your task is to expand brief persona seeds into fully detailed user personas.
+
+  For each persona, you'll receive a brief seed description. Your job is to expand this seed into a comprehensive persona profile with the following attributes:
+
+  - Name: A culturally appropriate given name that fits the persona
+  - Age: A specific age that makes sense for their career stage and background
+  - Gender: Gender identity with appropriate pronouns
+  - Demographics: Urban/rural location, ethnicity/cultural background, place raised, current residence
+  - Profession: Specific job title and role
+  - Education: Degrees, institutions, and relevant certifications
+  - Socioeconomic Status: Income level and social class (e.g., "Middle Income; Working Professional", "High Income; Professional Elite")
+  - Brief Background: A 2-3 sentence narrative describing their personality, work life, priorities, and what drives them
+  - Interests/Lifestyle: Specific hobbies, activities, passions, and lifestyle choices that reveal their character
+
+  Follow these guidelines:
+  - Create realistic, nuanced personas that feel like real people with both strengths and weaknesses
+  - Ensure all attributes are internally consistent and logically connected to each other
+  - Use the seed description as the foundation, but expand significantly beyond it
+  - Show personality through concrete details rather than abstract labels
+  - Include cultural diversity in names, backgrounds, and demographics
+  - Make the background narrative reveal personality traits through behavior and choices, not by explicitly stating traits
+  - Choose interests/lifestyle elements that authentically reflect who this person is
+  - Ensure the persona's age, education, and career level align logically
+
+  Please return your response in the following JSON format:
+  ```json
+  {{
+    "personas": [
+      {{
+        "name": "<full name>",
+        "age": <age as integer>,
+        "gender": "<gender identity and pronouns>",
+        "demographics": "<location, ethnicity, cultural background, places lived>",
+        "profession": "<specific job title/role>",
+        "education": "<degrees, institutions, certifications>",
+        "socioeconomic_status": "<income level; social class>",
+        "brief_background": "<2-3 sentence narrative about personality, work life, and priorities>",
+        "interests_lifestyle": "<comma-separated list of specific hobbies, activities, and lifestyle choices>"
+      }},
+      ...
+    ]
+  }}
+  ```
+
+user_prompt: |-
+  ## List of Basic Personas
+
+  {seed_descriptions}

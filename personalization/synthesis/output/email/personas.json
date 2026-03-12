@@ -1,0 +1,254 @@
+[
+    {
+        "id": 1,
+        "seed": "A retired truck driver from rural Kentucky who enjoys discussing local history and mechanics.",
+        "persona": {
+            "name": "Roy \"Big Dog\" Callahan",
+            "age": 62,
+            "gender": "Male",
+            "demographics": "Rural; Caucasian/White; Lifelong resident of Harlan County, KY (Appalachian region); Widowed.",
+            "profession": "Self-Employed Owner/Operator of a Small Landscaping/Hauling Business (Semi-Retired Trucker)",
+            "education": "High School Diploma (Local Harlan County High School)",
+            "socioeconomic_status": "Lower-Middle Income; Struggling to maintain retirement savings.",
+            "brief_background": "Roy spent 40 years on the road, hauling everything from lumber to produce across the country. He bought his own big rig 20 years ago, eventually semi-retiring a few years ago due to minor health issues. He is deeply connected to his community, is an excellent mechanic, and spends most of his free time documenting the forgotten coal mining history and local genealogy of his county. He values reliability, plain language, and self-sufficiency.",
+            "interests_lifestyle": "Restoring antique tractors, Ham Radio operation (Call Sign: K4BD), discussing local politics and infrastructure repair, gospel music, grilling, and visiting flea markets for antique mining memorabilia."
+        },
+        "global_style": {
+            "tone": "No-nonsense, informative, and slightly guarded until trust is established. Focuses on actionable information or verifiable facts.",
+            "syntax": "Predominantly simple and compound sentences. Minimal use of subordinate clauses. Avoids ambiguity or unnecessary flourish.",
+            "lexicon": "Utilizes vocational terminology (trucking, mechanics, hauling, equipment, logistics) and plain, Anglo-Saxon vocabulary. Prefers established American measurements (feet, pounds, acres).",
+            "linguistic_patterns": "Heavy use of contractions (\"ain't,\" \"y'all,\" \"it's\"). Frequent use of pragmatic markers or simple interjections common in conversation (\"Well now,\" \"Listen here,\" \"Shoot\")."
+        }
+    },
+    {
+        "id": 2,
+        "seed": "A casual television viewer who enjoys learning about the careers of Canadian media personalities.",
+        "persona": {
+            "name": "Aisha Khan",
+            "age": 36,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; Pakistani-Canadian, born and raised in Mississauga, Ontario; spent a year in Montreal for university exchange; currently lives in East Danforth, Toronto",
+            "profession": "Communications Coordinator \u2014 Marketing & Events at a mid-sized Toronto arts nonprofit",
+            "education": "BA (Honours) in Communications, Toronto Metropolitan University (formerly Ryerson); Certificate in Media Studies, University of Toronto Continuing Studies; Certificate in Digital Marketing (Google/Digital Garage); short radio production course, Humber College",
+            "socioeconomic_status": "Middle Income; Working Professional",
+            "brief_background": "Aisha balances a steady communications job running social channels and coordinating events with a steady curiosity about the people behind Canadian television and radio. She casually follows career trajectories of Canadian media personalities \u2014 bookmarking interviews, subscribing to industry newsletters, and using what she learns to mentor a friend or shape her nonprofit's programming. Weekdays are organized and deadline-driven; on weekends she prefers relaxed discovery (panels, podcasts, thrift hunting) to intensive research.",
+            "interests_lifestyle": "watching Canadian morning shows and CBC documentaries, following media industry podcasts and long-form interviews, reading profiles of Canadian media personalities, attending book launches and panel discussions, volunteering at a community radio station, hosting small watch parties with friends, maintaining a Substack newsletter about media careers, urban cycling and transit commuting, balcony container gardening, thrift-store hunts for vintage TV guides and memorabilia, weekend trips to film festivals and museum exhibitions, learning basic audio editing and production"
+        },
+        "global_style": {
+            "tone": "Warm, curious and conversational with a professional backbone \u2014 approachable and community-minded but always deadline-aware. Prefers clarity and helpfulness over flourish: shares context and sources, mentors or nudges colleagues gently, and can be wry or lightly playful in more casual exchanges. Uses inclusive language and subtle cultural grounding (polite, hospitable) while keeping messages efficient for busy recipients.",
+            "syntax": "Favors clear declarative sentences and a mix of short imperatives for action items alongside occasional longer, complex sentences to provide context or nuance. Frequently uses parallel lists or stacked short sentences when outlining next steps, and avoids dense passive constructions except when softening feedback. Rhetorical questions and parenthetical asides appear in informal channels (e.g., Substack or DMs) to create a conversational rhythm.",
+            "lexicon": "Draws on communications/marketing and media vocabulary (e.g., \"editorial calendar,\" \"press kit,\" \"pitch,\" \"sizzle reel,\" \"logline\") plus digital metrics and accessibility terms like \"CTA,\" \"impressions,\" \"engagement,\" \"alt text,\" and \"SEO.\" Uses Canadian cultural/media references where relevant (e.g., \"CBC,\" \"TTC,\" \"Danforth,\" \"Substack\"), prefers Canadian spelling (colour/centre/organise) and metric units (km, \u00b0C). Keeps everyday language plain and serviceable, with occasional South Asian cultural touches (e.g., \"chai\") in casual writing.",
+            "linguistic_patterns": "Regular use of contractions and friendly sign-offs (\"I'm,\" \"we'll,\" \"can't,\" \"Thanks!\"/\"Cheers\"). Common discourse markers and short pivots include \"Quick note:\", \"Heads up \u2014\", \"Looping you in\", and \"FYI\"; examples: \"Quick note: the event brief is attached.\", \"Looping you in on this thread.\", \"Heads up \u2014 speakers may need mics.\" Uses em dashes and parentheses for asides, and will sometimes add a light interjection or question like \"Any thoughts?\" or \"Notably,\" to invite response."
+        }
+    },
+    {
+        "id": 3,
+        "seed": "A casual viewer who enjoys light-hearted, character-driven shows and is open to exploring different perspectives on life and belief systems.",
+        "persona": {
+            "name": "Gabriela \"Gabi\" Chen",
+            "age": 31,
+            "gender": "Female; she/her",
+            "demographics": "Urban; Taiwanese-Mexican heritage; born and raised in San Diego, CA; currently lives in Portland, OR",
+            "profession": "Product UX Designer at a mid-size tech startup (part-time freelance lifestyle blogger)",
+            "education": "B.A. in Communications, University of California San Diego; Certificate in Mindfulness Coaching",
+            "socioeconomic_status": "Middle Income; Urban Professional",
+            "brief_background": "Gabi arranges her weekends around relaxed TV marathons and brunch conversations that veer into big-picture topics. She gravitates toward light-hearted, character-driven shows that offer warmth and new perspectives on life and belief systems, and she often brings what she watches into pop-up discussions at local meetups or her book club.",
+            "interests_lifestyle": "watching feel-good character dramas and gentle comedies, reading contemporary fiction and memoirs, attending community cultural festivals, mindful meditation and Sunday yoga, hosting friends for themed viewing nights, casual weekend hikes, experimenting with home-cooked fusion recipes, running a small Instagram about cozy living"
+        },
+        "global_style": {
+            "tone": "Warm, conversational, and gently curious; approachable rather than flashy. She balances casual openness with professional clarity \u2014 in work contexts she is concise and user-centered, in personal writing she\u2019s reflective and inviting. Information is shared empathetically with practical takeaways and occasional evidence or examples.",
+            "syntax": "Mixes short, punchy sentences for emphasis and UI-style microcopy with longer compound-complex sentences for reflective blog posts or meetup posts. Frequent use of parenthetical asides and em dashes to add personality and small anecdotes; prefers active voice and clear subject-verb structure. Uses rhetorical questions and occasional sentence fragments to create conversational rhythm and engagement.",
+            "lexicon": "Alternates between UX/product vocabulary and cozy lifestyle language: professional terms like \"user journey\", \"wireframe\", \"heuristic\", \"CTA\" appear alongside sensory, domestic words like \"cozy\", \"hygge\", \"umami\", \"layered\". She also sprinkles bilingual heritage words and food references for texture and authenticity \u2014 e.g. \"gracias\", \"familia\", \"boba\", \"bao\" \u2014 and prefers plain, accessible English over heavy jargon when writing for broader audiences.",
+            "linguistic_patterns": "Regular use of contractions and friendly discourse markers: \"I'm\", \"we'll\", \"let's\"; conversational openers like \"Here's the thing,\" and quick tips marked \"Pro tip:\". She often uses soft hedges and invitation phrases such as \"I find\", \"you might try\", \"what if...\", and casual modifiers like \"low-key\"; on social platforms she adds emoji or short interjections for warmth (e.g. \"oh!\", \"nice!\")."
+        }
+    },
+    {
+        "id": 4,
+        "seed": "A screenwriter looking for inspiration and understanding of character development, plot structure, and the balance between action and emotional depth in crime dramas.",
+        "persona": {
+            "name": "Marcus J. Carter",
+            "age": 39,
+            "gender": "Male; he/him",
+            "demographics": "Urban; African American; raised in Baltimore, MD; currently lives in Brooklyn, NY",
+            "profession": "Freelance Screenwriter and Story Consultant specializing in crime drama",
+            "education": "B.A. in Journalism, Howard University; M.F.A. in Screenwriting, NYU Tisch School of the Arts; member of Writers Guild (WGA) and several screenwriting labs",
+            "socioeconomic_status": "Middle Income; Creative Professional",
+            "brief_background": "Marcus blends a reporter's eye for detail with a dramatist's instinct for emotional stakes\u2014his scripts aim to balance procedural action with complex character arcs. He spends weekdays in writers' rooms or interviewing former investigators and evenings parsing case files, always hunting for the human story that can elevate a chase sequence into something resonant.",
+            "interests_lifestyle": "reading true crime and legal memoirs, attending writers' workshops and script readings, boxing and strength training, watching classic film noir and modern crime TV, mentoring emerging writers, collecting annotated notebooks and police procedural documentaries, long coffee-fueled writing sessions"
+        },
+        "global_style": {
+            "tone": "Measured, urbane, and observant \u2014 professional without being stiff. Prefers to foreground factual clarity (a reporter's precision) while quickly pivoting to the emotional stakes that make a scene matter (a dramatist's instinct). Communication is generally candid and slightly sardonic with warmth reserved for mentees and trusted collaborators.",
+            "syntax": "Favors crisp, journalistic lead sentences followed by one or two longer, layered sentences that add character detail or motivation; active voice predominates. Uses short declaratives to land beats and intermittent complex/subordinate clauses to explore nuance or motive; rhetorical questions are used sparingly to prompt reflection. Paragraphs are tight and economical, often built around a clear takeaway or 'beat.'",
+            "lexicon": "Mixes journalism and screenwriting terminology with procedural and legal jargon: for example, 'lead,' 'beat,' 'logline,' 'inciting incident,' 'B-story,' alongside 'perp,' 'MO,' 'chain of custody,' 'probable cause,' and 'indictment.' Also reaches for noir-tinged descriptors and everyday urban touchstones\u2014'gritty,' 'shadowed,' 'stoop,' 'rowhouse'\u2014and occasional boxing metaphors like 'uppercut' or 'round.' Prefers plain American English and industry measurements/timelines (hours, days, city-specific references).",
+            "linguistic_patterns": "Regular use of contractions and conversational discourse markers: 'here's the thing,' 'let's be real,' 'on the record' and 'off the record' appear often. Tends to signpost notes with phrases like 'Give me the logline,' 'What are the stakes?' or 'Let's circle back,' and punctuates points with short punchy lines ('That's the rub,' 'Clock's ticking.'). Uses parenthetical asides or em-dash interruptions to inject voice or an afterthought (e.g., '\u2014and that's important')."
+        }
+    },
+    {
+        "id": 5,
+        "seed": "A sports journalist interested in exploring the cultural impact of cricket in various societies.",
+        "persona": {
+            "name": "Aisha Malik",
+            "age": 33,
+            "gender": "Female; she/her",
+            "demographics": "Urban; British Pakistani; born in Karachi, raised in Birmingham, UK; currently lives in London",
+            "profession": "Senior Sports Correspondent and Podcast Host focusing on cricket and its cultural impact",
+            "education": "B.A. in Journalism, University of Leeds; M.A. in Sports Journalism, City, University of London; accredited cricket reporting courses and multimedia journalism certificates",
+            "socioeconomic_status": "Middle Income; Professional Journalist",
+            "brief_background": "Aisha reports on cricket tours and festivals with an eye for how the game shapes identities across communities. She combines on-the-ground match reporting with long-form pieces and podcast episodes that explore cricket's role in migration, gender norms, and national narratives, often traveling to cover grassroots clubs as well as international fixtures.",
+            "interests_lifestyle": "travelling to regional matches and international tours, interviewing players and local fans, collecting oral histories of club cricket, writing data-driven features and cultural essays, hosting a weekly cricket culture podcast, coaching a women's youth cricket session, chai brewing and recipe experimentation"
+        },
+        "global_style": {
+            "tone": "Warm, curious and confidently authoritative \u2014 the voice of an experienced correspondent who cares about both the scorecard and the people behind it. Conversational on podcasts and features (inviting listeners in) but crisp and evidence-led in match copy; she foregrounds context and nuance rather than sensationalism.",
+            "syntax": "A flexible mix: short, punchy sentences for live reporting and match-flow descriptions, and longer complex sentences for cultural essays and investigative pieces that layer history, quotes and data. Prefers active voice, occasional rhetorical questions for listener engagement, and parenthetical asides in spoken pieces; keeps clauses clear and avoids unnecessary flourish so readers can follow layered arguments.",
+            "lexicon": "Draws heavily on cricket vocabulary and journalistic register \u2014 e.g. \"innings\", \"overs\", \"run rate\", \"all\u2011rounder\", \"slip cordon\" \u2014 while also using cultural touchstones like \"chai\", \"clubhouse\" and \"community\" to signal social context. Uses data/journalism terms when needed (\"expected runs\", \"strike rate\", \"sources\", \"on background\") and British English spelling conventions (e.g. \"analysed\", \"favour\").",
+            "linguistic_patterns": "Frequent use of contractions and conversational markers in spoken or informal written settings (\"I'm\", \"we're\", \"you know\"); often opens pieces or segments with a scene-setting line like \"That moment when...\" or a framing phrase such as \"More than a game...\". Code-switches sparingly to South Asian culinary/cultural words for colour (\"chai\", \"samosa\"), and commonly uses engaging discourse markers: \"to be honest\", \"let's unpack that\", \"on the front foot\"."
+        }
+    },
+    {
+        "id": 6,
+        "seed": "A television scriptwriter looking for inspiration for a new character named JJ.",
+        "persona": {
+            "name": "Riley Park",
+            "age": 29,
+            "gender": "Non-binary; they/them",
+            "demographics": "Urban; Korean-American; raised in Seattle, WA; currently lives in Los Angeles, CA",
+            "profession": "Television Staff Writer for a streaming dramedy",
+            "education": "B.F.A. in Screenwriting, University of Southern California (USC); improv training at a local comedy school; development labs and showrunning seminars",
+            "socioeconomic_status": "Lower-Middle to Middle Income; Early-Career Creative",
+            "brief_background": "Riley spends their days in writers' rooms and their evenings testing character beats in writer-performed readings; they're searching for a distinct, playable version of 'JJ' who can spark both laughs and empathy. They build characters through improvisation exercises, casting wish-lists, and compact life-history sketches that actors can use to inhabit a role.",
+            "interests_lifestyle": "writing character worksheets and backstory exercises, attending improv and actor table-reads, thrift shopping for costume research, sketching character portraits, caf\u00e9 writing sessions, collaborating with local actors and directors, bingeing eclectic TV for tonal inspiration, maintaining a small mood-board and playlist library for each project"
+        },
+        "global_style": {
+            "tone": "Casual-professional with a sharp, playful edge \u2014 the voice of someone used to fast writers' room banter who still cares deeply about emotional truth. Collaborative and constructive: they give notes that are honest but generous, prioritizing specificity and improv-friendly openings over long-winded theory.",
+            "syntax": "Varied rhythm: punchy short sentences for beats and jokes, mixed with longer, recursive sentences that workshop ideas and list possibilities (often using parentheses or em dashes for asides). Frequent use of fragments and imperative lines for actor-facing notes (e.g., short commands or single-beat directions), and active voice to keep momentum.",
+            "lexicon": "Uses television-writing and improv vocabulary alongside everyday, urban cultural references: terms like \"beat,\" \"A-story/B-story,\" \"cold open,\" \"tag,\" \"table-read,\" \"status,\" \"offer\" and \"callback.\" Also pulls from thrift/wardrobe and caf\u00e9 culture for research shorthand (\"thrifted jacket,\" \"espresso timing,\" \"playlist mood\"). Prefers concrete, sensory descriptors (\"tactile,\" \"off-kilter laugh,\" \"half-smile\").",
+            "linguistic_patterns": "Heavy use of contractions and conversational markers: \"we're,\" \"it's,\" \"let's,\" plus improv staples like \"yes, and.\" Tends to preface suggestions with quick prompts and possibilities: \"What if...\", \"Try...\", \"Lean into...\" \u2014 examples: \"What if JJ freezes mid-line?\", \"Try a quieter reveal (no music).\", \"Lean into the awkward beat.\""
+        }
+    },
+    {
+        "id": 7,
+        "seed": "A real estate agent who covers the Enfield area, looking to provide context and insights about the history and amenities of Grange Park to potential buyers.",
+        "persona": {
+            "name": "Aisha Campbell",
+            "age": 36,
+            "gender": "Female (she/her)",
+            "demographics": "North London (Enfield/Grange Park); British of Jamaican heritage; raised in Tottenham; currently lives in Grange Park, Enfield",
+            "profession": "Independent Estate Agent / Branch Manager (residential sales and lettings) covering Enfield borough",
+            "education": "BA (Hons) Marketing, University of East London; Propertymark (NAEA) qualified; Level 3 Technical Award in Residential Letting & Property Management",
+            "socioeconomic_status": "Middle Income; Working Professional",
+            "brief_background": "Aisha grew up in north London and built her career selling family homes in the borough she knows best \u2014 she turned her local knowledge into a trusted boutique agency that emphasizes community and history. She spends her days showing properties, advising buyers on neighbourhood amenities and school catchments, and preparing neighbourhood guides for new residents; outside work she volunteers at the local community centre to keep a finger on what residents value.",
+            "interests_lifestyle": "walking tours of local heritage sites, researching local history and archival photos, networking with school PTA and community groups, interior staging on a budget, weekend open houses, coffee with clients, family barbecues, West Indian cooking, listening to reggae and Afrobeats, Pilates and running along the Lea Valley"
+        },
+        "global_style": {
+            "tone": "Warm, personable and professionally confident with a strong community focus. Conversational rather than overly formal, prioritising clear, honest guidance and practical next steps while signalling local trust and expertise (schools, travel times, neighbourhood history). Communication aims to reassure and persuade gently \u2014 evidence-based claims (comps, EPCs, catchments) delivered in an approachable way.",
+            "syntax": "Predominantly active voice with a mix of short, direct sentences for calls to action and medium-length compound sentences for descriptions and explanations. Uses one clarifying subordinate clause where needed (e.g., 'which is in the local school catchment'), avoids long, ornate sentences and prefers clear structure so readers can scan key facts quickly. Lists facts succinctly (rooms, transport links, measurements) often separated by commas or short dashes.",
+            "lexicon": "Uses residential property vocabulary and local place names: 'freehold', 'leasehold', 'chain-free', 'EPC', 'guide price', 'offers over', 'AST/tenancy', 'HMO', plus practical phrases like 'school catchment', 'walking distance', 'minutes' walk', 'sq ft / m\u00b2'. Prefers British English spellings and local references to Enfield/Grange Park/Tottenham and transport links (e.g., 'overground', 'Piccadilly line') while keeping jargon clear for non-experts.",
+            "linguistic_patterns": "Frequent use of friendly greetings and contractions ('Hiya', 'Lovely to meet you', 'I'll', 'we're', 'you're') and pragmatic markers to soften requests ('Happy to help', 'Give me a bell', 'No worries'). Uses short, colloquial closings and local idioms in casual messages ('I can pop round next week', 'within a 10-minute walk', 'chain-free') and inclusive community language ('our area', 'local schools', 'the neighbourhood')."
+        }
+    },
+    {
+        "id": 8,
+        "seed": "A recording engineer and music producer who specializes in hard rock and heavy metal genres, with an interest in the creative process of blending heavy instrumentals and melodic vocals.",
+        "persona": {
+            "name": "Marcus Hale",
+            "age": 36,
+            "gender": "Male (he/him)",
+            "demographics": "Urban (Austin, TX); White/Irish-American; raised in suburban Cleveland, OH; has lived in Nashville and Boston; currently resides in Austin, Texas",
+            "profession": "Senior Recording Engineer & Music Producer (freelance producer, staff engineer at independent studio)",
+            "education": "B.M. in Music Production, Berklee College of Music; Audio Engineering certificate, SAE Institute; Avid Pro Tools Certified User",
+            "socioeconomic_status": "Middle Income; Working Professional (annual income approx. $75,000\u201395,000)",
+            "brief_background": "Marcus built his reputation turning raw, aggressive live performances into records that balance crushing instrumentals with singable, melodic vocals. He prefers late-night sessions, obsessively tweaks amp tones and vocal comping, and often collaborates closely with vocalists to find hooks that sit above heavy mixes. He pushes bands toward arrangements that maintain visceral energy while exposing emotional melodies, and spends time mentoring up-and-coming engineers.",
+            "interests_lifestyle": "electric and acoustic guitar playing, analog synth and pedalboard experimentation, vinyl collecting (especially 80s metal), live sound engineering at local venues, home studio building and DIY acoustic treatment, mountain biking, homebrewing beer, guesting on music production podcasts"
+        },
+        "global_style": {
+            "tone": "Direct, slightly gritty and collaborative\u2014professional but informal, like a late-night studio conversation. Prioritizes actionable, practical advice and quick decision-making, balancing technical precision with creative instincts; warm and mentoring with artists and junior engineers but exacting about results.",
+            "syntax": "Predominantly concise, active sentences and frequent imperatives for instruction (e.g., \"try this,\" \"turn up the preamp\"). Uses compound sentences to explain workflow or rationale, and occasionally longer descriptive sentences when conveying tonal nuance or arrangement intent.",
+            "lexicon": "Uses domain-specific production vocabulary and everyday studio shorthand: \"amp tone,\" \"vocal comping,\" \"gain staging,\" \"ride the fader,\" plus technical units like dB, Hz, ms and BPM. Comfortable with analog/DIY terms (\"tape saturation,\" \"pedalboard,\" \"vinyl crackle\") and plugin/hardware references (Pro Tools, Neve, API, UAD). Prefers plain, American English phrasing and concrete measurement references over abstract descriptors.",
+            "linguistic_patterns": "Regular use of contractions and casual markers: \"let's,\" \"we'll,\" \"it's,\" and interjections like \"yeah\" and \"right.\" Habitually uses studio shorthand and mentor-phrases such as \"take 3,\" \"comp these,\" \"give it more room,\" and metaphorical mixing phrases\u2014\"cut through the mix,\" \"sit on top,\" \"leave some headroom.\""
+        }
+    },
+    {
+        "id": 9,
+        "seed": "A casual television viewer who enjoys watching mystery and crime shows during their free time.",
+        "persona": {
+            "name": "Mar\u00eda L\u00f3pez",
+            "age": 52,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban Sacramento, Mexican-American; raised in San Antonio, Texas; currently lives in Sacramento, CA",
+            "profession": "Elementary school librarian",
+            "education": "M.S. in Library and Information Science, San Jos\u00e9 State University; B.A. in English, University of Texas at San Antonio; CPR & youth literacy certifications",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Mar\u00eda structures her evenings around winding down with a well-crafted mystery or procedural \u2014 she times her knitting rows to scene breaks and often annotates plot points in the margins of her reading journal. She prioritizes community involvement (runs a weekly book club at the local library) and uses crime shows as a social bridge, recommending series to colleagues and bringing plot discussions into classroom reading activities.",
+            "interests_lifestyle": "watching mystery and crime TV series, true-crime and investigative podcasts, reading crime and historical fiction, community book club organizer, knitting, crossword puzzles, weekend baking, neighborhood volunteer storytime, streaming platform binging, occasional escape room outings"
+        },
+        "global_style": {
+            "tone": "Warm, approachable and quietly authoritative \u2014 the voice of a caring teacher-librarian who enjoys friendly literary debate. Moderately formal in professional contexts but conversational and wry with colleagues and community members; shares clear, actionable recommendations and personal anecdotes to build rapport.",
+            "syntax": "Prefers clear declarative and compound sentences with occasional subordinate clauses for nuance; uses brief parenthetical asides and commas for friendly asides. Often poses rhetorical questions to engage readers and strings short clauses for checklist-style recommendations rather than long, ornate sentences.",
+            "lexicon": "Draws on library and literary vocabulary: words like 'catalog', 'circulation', 'hold request', 'interlibrary loan', 'ISBN', and genre labels such as 'cozy mystery', 'procedural', 'red herring' and 'narrative arc'. Also uses hobby-specific terms ('row', 'purl', 'cast on'; baking terms like 'proof', 'crumb', 'glaze'), everyday US measurements ('cups', 'degrees F'), and occasional Spanish phrases for warmth (e.g., '\u00bfqu\u00e9 tal?', 'mi gente', '\u00a1qu\u00e9 buen giro!').",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'can't', 'we'll') and parenthetical asides ('(I time my knitting to scene breaks)'). Habitually invites participation with phrases and questions like 'Have you read...?', 'check it out', 'hold a copy', and uses community-oriented 'we' plus occasional regional or Spanish interjections such as 'y'all', 'oye' and 'claro'."
+        }
+    },
+    {
+        "id": 11,
+        "seed": "A sports journalist specializing in women's football with a focus on Oceania Football Confederation (OFC) teams, looking to provide in-depth coverage and analysis of the New Caledonia women's national under-20 football team's performance in OFC championships and their journey towards the U-20 World Cup.",
+        "persona": {
+            "name": "Maya Tevaga",
+            "age": 32,
+            "gender": "Female (she/her)",
+            "demographics": "Urban Wellington, New Zealand resident; Samoan-New Zealander heritage; raised in Auckland with family time in Apia, Samoa; frequently travels around the Pacific",
+            "profession": "Senior Sports Journalist \u2014 Women's Football Correspondent (Pacific focus) for a regional sports outlet",
+            "education": "B.A. in Journalism, Auckland University of Technology; Certificate in Sports Analytics; FIFA/OF C media accreditation workshops; conversational French (for New Caledonia coverage)",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Maya chases matches across islands and stadiums, combining on-the-ground interviews with match analytics to give context to OFC women's football stories. She's building a beat around New Caledonia's U-20 pathway to the World Cup by cultivating relationships with coaches and players, translating local perspectives into feature pieces and social-first match explainers.",
+            "interests_lifestyle": "live match reporting, tactical analysis and video breakdowns, traveling throughout Oceania, photography and short-form video editing, mentoring young Pacific journalists, grassroots coaching clinics, French language study, networking at regional sports conferences, writing longform profiles"
+        },
+        "global_style": {
+            "tone": "Warm, respectful and community-centred with clear professional authority; Maya writes with empathy for players and teams while keeping reporting fact-driven and accountability-minded. Conversational and slightly informal for live/social updates, shifting to measured, contextual and evidence-led phrasing for longform features and tactical analysis.",
+            "syntax": "Uses punchy, present\u2011tense sentences and short clauses for match reporting and social-first explainers, while favouring compound-complex sentences with subordinate clauses for profiles and analytical pieces to layer context, quotes and data. Active voice predominates; passive constructions are used sparingly for diplomacy or emphasis, and parenthetical stats or short rhetorical questions often appear inline (e.g. '(xG 0.78) \u2014 worth noting?').",
+            "lexicon": "Grounded in football and analytics vocabulary: frequently uses terms like 'xG', 'heatmap', 'pressing', 'transition', 'build-up play', 'cap' and 'fixture', and refers to metrics in metric units (km, m). Integrates Pacific place names and culturally specific words and brief bilingual touches when relevant \u2014 e.g. 'Apia', 'Noum\u00e9a', 'talofa', 'fa'afetai' and simple French phrases like 'merci' \u2014 and prefers NZ English spelling and regional references.",
+            "linguistic_patterns": "Regular use of contractions and conversational markers ('I'm', 'we're', 'it's worth noting'), concise stat brackets in-line '(xG 1.23)', and respectful code-switching with Samoan or French greetings ('Talofa', 'fa'afetai', 'merci'). Social posts often include hashtags and punchy verbs ('#OFC', '#PasifikaFootball', 'clinch', 'edge', 'dominate') and recurring lead-ins such as 'what stood out was\u2026', 'on the front foot', or 'to be fair'."
+        }
+    },
+    {
+        "id": 12,
+        "seed": "A television scriptwriter with expertise in sitcoms, particularly interested in character development and relationship dynamics in ensemble casts.",
+        "persona": {
+            "name": "Jade Kim (Jae-min Kim)",
+            "age": 34,
+            "gender": "Female (she/her)",
+            "demographics": "Urban Los Angeles resident, Korean-American; raised in suburban New Jersey, relocated to LA for TV career",
+            "profession": "Television writer and story editor specializing in multi-camera and single-camera sitcoms",
+            "education": "B.A. in Film & Television, New York University (Tisch); M.F.A. in Screenwriting, University of Southern California; ongoing improv training at the Upright Citizens Brigade (UCB)",
+            "socioeconomic_status": "Middle income; Creative professional",
+            "brief_background": "Jade thrives in writers' rooms where ensemble dynamics and relationship beats are the engine of story \u2014 she sketches out character arcs with index cards and tests jokes in improv sessions. She draws material from extended family interactions and urban-dating experiences, juggling late-night rewrite deadlines with table reads and notes sessions to sharpen every character's distinct voice.",
+            "interests_lifestyle": "improv and sketch comedy, attending table reads and live sitcom tapings, character-driven writing workshops, relationship-dynamics podcasts, teaching occasional screenwriting classes, sketching character backstories, family recipe cooking, visiting small theatre productions, networking in writers' groups"
+        },
+        "global_style": {
+            "tone": "Warm, wry, and collaborative \u2014 the voice of someone comfortable riffing in a writers' room but precise when delivering notes. Informal and conversational in day-to-day messages, professionally exact when discussing story mechanics; favors constructive feedback that balances humor with clear, actionable guidance.",
+            "syntax": "Leans toward short-to-medium sentences for punch and clarity, often punctuated by purposeful fragments or one-line beats to mimic comedic timing. When laying out story arcs or notes she switches to slightly longer, parenthetical-rich sentences that explain motivation and stakes; overall favors active voice and direct imperatives for clarity.",
+            "lexicon": "Uses TV-writing and improv terminology liberally: \"A-story\", \"B-story\", \"cold open\", \"tag\", \"table read\", \"beat\", \"punchline\", \"yes-and\". Pulls in Korean-family and food vocabulary in personal anecdotes (e.g., \"eomma\", \"banchan\", \"kimchi\") and locational markers from her life (e.g., \"Koreatown\", \"Silver Lake\", \"22 minutes\" for run-time). Also uses craft-focused terms from her training like \"arc\", \"inciting incident\", \"stakes\" and workshop language such as \"notes\" and \"draft.\"",
+            "linguistic_patterns": "Frequent contractions and casual markers: \"I'm\", \"we're\", \"can't\", often with quick asides or rhetorical questions like \"Right?\" or \"Am I wrong?\" Uses performance-oriented phrases and shorthand: \"Let's table that for a beat\", \"Make the punchline punchier\", \"This is an A-story move.\" In informal threads she may drop brief interjections or emojis (\"ugh\", \"haha\", \"\ud83d\ude05\") and will occasionally code-switch with a Korean word in a throwaway line: \"Eomma would disagree.\""
+        }
+    },
+    {
+        "id": 10,
+        "seed": "A cartographer or GIS specialist interested in mapping and analyzing geographical data related to Balkan villages.",
+        "persona": {
+            "name": "Marko Petrovi\u0107",
+            "age": 34,
+            "gender": "Male (he/him)",
+            "demographics": "Belgrade, Serbia; Serbian; raised in a small village near Ni\u0161, has lived and worked across Serbia, Bosnia and Herzegovina, Montenegro and Croatia",
+            "profession": "Senior GIS Analyst & Cartographer \u2014 Village-scale mapping and spatial data analyst",
+            "education": "MSc in Geomatics (University of Belgrade); BSc in Geography; Esri ArcGIS Professional Certification; Certified QGIS trainer; UAV/drone mapping course",
+            "socioeconomic_status": "Middle Income; Technical Professional",
+            "brief_background": "Marko blends time in the field with long evenings at his workstation, stitching together satellite imagery, drone captures and interviews with elders to produce detailed village maps. He submits edits to OpenStreetMap, trains local volunteers to collect GPS points and writes small scripts to automate data cleaning. He looks for patterns in settlement changes and infrastructure gaps so NGOs and municipal planners can make practical decisions.",
+            "interests_lifestyle": "drone piloting and aerial photography, OpenStreetMap contributions, hiking and field surveys in rural areas, Balkan folk music and village festivals, Python and R scripting for spatial analysis, map design and cartographic aesthetics, weekend camping with a field GPS, mentoring university students"
+        },
+        "global_style": {
+            "tone": "Professional and pragmatic with a quietly warm, mentoring undercurrent. Prefers clear, actionable communication \u2014 answers questions directly, flags uncertainties, and defers to local knowledge when relevant. Slightly informal with colleagues and volunteers, more formal with institutional partners or written deliverables.",
+            "syntax": "Predominantly short to medium-length declarative and imperative sentences for instructions and reports, with occasional longer complex sentences when explaining methodology or interpreting spatial patterns. Often structures technical notes as stepwise numbered instructions or compact paragraphs with parenthetical clarifications (e.g., coordinates, CRS codes). Rarely uses ornate language; prioritizes clarity and reproducibility.",
+            "lexicon": "Mixes GIS and cartographic terminology with local place-language; routinely uses terms like \"DEM\", \"orthorectify\", \"NDVI\", \"shapefile\", \"raster/vector\", \"GPX\" and CRS tags such as \"EPSG:4326\". Uses metric units (meters, hectares, kilometres) and local toponyms with diacritics (e.g., \"selo\", \"Ni\u0161\", \"Belgrade\") when referring to field sites. Prefers domain-specific verbs like \"georeference\", \"reproject\", \"tile\", \"clip\", \"attribute\" and practical phrases such as \"field survey\" and \"push edits to OSM.\"",
+            "linguistic_patterns": "Frequently opens notes with pragmatic markers like \"Quick note:\", \"FYI,\" or \"Tip:\" and closes offers to help with \"If you want, I can\u2026\" or \"Let me know and I\u2019ll\u2026\". Uses contractions in informal exchanges (\"I'll\", \"can't\", \"we've\") and includes inline technical reminders such as \"check projection\", \"reproject to EPSG:3857\" or \"push to OSM\"; also habitually appends coordinates or examples in parentheses, e.g., \"(43.3155 N, 21.8958 E)\"."
+        }
+    }
+]

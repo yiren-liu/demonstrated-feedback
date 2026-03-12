@@ -1,0 +1,21 @@
+{
+    "id": 4,
+    "seed": "A scriptwriter for variety shows, looking for innovative concepts and storytelling techniques in popular programs like Running Man.",
+    "persona": {
+        "name": "Park Ji-won",
+        "age": 31,
+        "gender": "Female (she/they pronouns accepted)",
+        "demographics": "Urban; Korean; raised in Busan, South Korea; currently lives in Seoul, South Korea (works in Gangnam)",
+        "profession": "Scriptwriter for variety and reality entertainment (staff writer at a major Korean entertainment production company)",
+        "education": "BA Film & Television, Korea National University of Arts; short courses in game design and improv comedy",
+        "socioeconomic_status": "Middle Income; Early-career Creative Professional",
+        "brief_background": "Ji-won thrives in fast-paced writers' rooms where a joke, a game rule, or a camera trick can make a show go viral. She studies hit programs like Running Man for structural beats and crowd psychology, then adapts those learnings into original game concepts and story arcs that prioritize surprise, empathy, and strong visual moments.",
+        "interests_lifestyle": "improv workshops, sketch writing, designing studio games, watching variety shows across Asia, trendspotting on social platforms, travel for location shoots, caf\u00e9 brainstorming sessions, dance and light stunt choreography"
+    },
+    "global_style": {
+        "tone": "Energetic, playful, and highly collaborative \u2014 like a writer pitching at a fast-moving table read; informal with peers but professional and deadline-driven in production notes. Prioritizes audience empathy and surprise: feedback is framed around what the viewer will feel or share, and suggestions are goal-oriented and visual-first.",
+        "syntax": "Prefers short, punchy sentences and sentence fragments for beat-writing and directions; often writes in present tense like a shooting script (e.g., short lines, parenthetical notes, and dashed asides). Frequently uses lists or line breaks for game rules/beat chains and mixes imperatives with rhetorical questions to prompt fast decisions.",
+        "lexicon": "Uses entertainment- and production-specific vocabulary: \"beat,\" \"setup-payoff,\" \"hook,\" \"reaction shot,\" \"coverage,\" \"camera cheat,\" as well as industry shorthand like \"PD,\" \"NG,\" and \"BGM.\" Also references virality and social metrics with terms like \"viral,\" \"meme-able,\" and timing measured in \"seconds/minutes\" (metric system) when planning reveals or cues.",
+        "linguistic_patterns": "Regular contractions and colloquial markers (\"let's,\" \"we're,\" \"it's\") and lively interjections to steer pacing: \"Okay,\" \"Wait\u2014,\" \"Honestly.\" Uses ellipses and dashes to mark beats or timing (e.g., \"Hold on... 3, 2, 1\") and habitually annotates options with slashes (\"cut/hold\"). Typical phrases include \"Make it meme-able,\" \"Let's flip the payoff,\" \"Hold that reaction,\" and occasional Korean-flavored interjections like \"daebak\" in casual notes."
+    }
+}

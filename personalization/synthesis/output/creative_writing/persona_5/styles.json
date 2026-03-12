@@ -1,0 +1,242 @@
+[
+    {
+        "persona": {
+            "name": "Aisha Khan",
+            "age": 33,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; British Pakistani; born and raised in Birmingham, UK; currently based in London, UK",
+            "profession": "Founder & Sports Travel Consultant \u2014 Serve & See Tours (specialising in volleyball tournament travel and cultural itineraries)",
+            "education": "BA (Hons) Tourism Management, University of Birmingham; Postgraduate Certificate in Sports Event Management, Loughborough University; IATA & ABTA accredited travel agent",
+            "socioeconomic_status": "Middle Income; Entrepreneurial Working Professional",
+            "brief_background": "Aisha builds tightly choreographed group travel experiences that combine attending international volleyball tournaments with carefully curated cultural immersion. She balances meticulous logistics and vendor relationships with enthusiastic client service, preferring hands-on problem solving and local partnerships; she sometimes over-commits to making every trip perfect. Her priority is creating memorable, culturally respectful experiences while keeping tours affordable for amateur and semi-pro teams.",
+            "interests_lifestyle": "playing volleyball (recreational and coaching youth), scouting local food markets, learning basic phrases in host languages, Instagram and small-business marketing, sustainable travel practices, negotiating group contracts, weekend pop-up cultural events, yoga"
+        },
+        "global_style": {
+            "tone": "Warm, professional and energetic with a client-first focus \u2014 friendly and encouraging but always practical. Communicates confidence in logistics and cultural sensitivity, transparent about costs and constraints, and willing to problem-solve; slightly apologetic or over-committed tone can appear when promising extra care or last-minute fixes.",
+            "syntax": "Prefers clear, concise sentences and active voice for instructions and confirmations, using short imperatives for next steps and compound sentences to explain logistics or trade-offs. Uses numbered or bulleted structures in longer communications and occasional subordinate clauses to qualify exceptions or contingency plans (e.g., \"unless otherwise arranged\").",
+            "lexicon": "Mixes sports-event and travel-management vocabulary with culturally respectful tourism terms and British English spellings. Common terms include \"itinerary\", \"arrival transfer\", \"block rooms\", \"supplier rates\", \"match schedule\", \"seedings\", \"tour leader\", \"locally\u2011led\" and \"sustainable option\" and she refers to money and times in \u00a3 and 24-hour/GMT or metric units like \"km\" or \"metres\".",
+            "linguistic_patterns": "Frequent use of contractions and friendly hedges: \"I'm\", \"we'll\", \"let's\" and polite markers like \"please\" or \"could you\"; signposts updates with phrases such as \"Quick note\", \"FYI\" and \"Heads up\". Characteristic go-to lines include \"Let's lock this in\", \"Quick note:\", \"Sound good?\", and client-facing social phrasing like \"Join us\"; she uses emojis sparingly on social (e.g. \"\ud83c\udfd0\", \"\u2708\ufe0f\", \"\ud83c\udf0d\") and consistently uses inclusive \"we/our\" language."
+        },
+        "scenario_description": "Email to a team captain confirming a booked tour and next practical steps",
+        "detailed_style": "Warm, professional and concise email voice that prioritises clear next steps and easy decisions for the client. Sentences are short, active and action-oriented, with a few compound sentences to explain trade-offs or contingencies.",
+        "linguistic_patterns": "Uses polite hedges and signposts to guide the reader: 'Quick note:', 'Let's lock this in', 'Could you confirm by'. Typical phrases include travel- and event-specific terms like 'itinerary', 'arrival transfer' and 'block rooms'. Uses short imperatives for next steps ('Please send', 'Pay deposit') and 24-hour times and currency markers where relevant ('14:30', '\u00a3'). Finishing lines prompt agreement: 'Sound good?' or 'Please let me know any dietary needs.'",
+        "id": 5,
+        "seed": "A travel agent organizing sports tours for volleyball enthusiasts who want to attend international volleyball tournaments and experience the local culture."
+    },
+    {
+        "persona": {
+            "name": "Aisha Khan",
+            "age": 33,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; British Pakistani; born and raised in Birmingham, UK; currently based in London, UK",
+            "profession": "Founder & Sports Travel Consultant \u2014 Serve & See Tours (specialising in volleyball tournament travel and cultural itineraries)",
+            "education": "BA (Hons) Tourism Management, University of Birmingham; Postgraduate Certificate in Sports Event Management, Loughborough University; IATA & ABTA accredited travel agent",
+            "socioeconomic_status": "Middle Income; Entrepreneurial Working Professional",
+            "brief_background": "Aisha builds tightly choreographed group travel experiences that combine attending international volleyball tournaments with carefully curated cultural immersion. She balances meticulous logistics and vendor relationships with enthusiastic client service, preferring hands-on problem solving and local partnerships; she sometimes over-commits to making every trip perfect. Her priority is creating memorable, culturally respectful experiences while keeping tours affordable for amateur and semi-pro teams.",
+            "interests_lifestyle": "playing volleyball (recreational and coaching youth), scouting local food markets, learning basic phrases in host languages, Instagram and small-business marketing, sustainable travel practices, negotiating group contracts, weekend pop-up cultural events, yoga"
+        },
+        "global_style": {
+            "tone": "Warm, professional and energetic with a client-first focus \u2014 friendly and encouraging but always practical. Communicates confidence in logistics and cultural sensitivity, transparent about costs and constraints, and willing to problem-solve; slightly apologetic or over-committed tone can appear when promising extra care or last-minute fixes.",
+            "syntax": "Prefers clear, concise sentences and active voice for instructions and confirmations, using short imperatives for next steps and compound sentences to explain logistics or trade-offs. Uses numbered or bulleted structures in longer communications and occasional subordinate clauses to qualify exceptions or contingency plans (e.g., \"unless otherwise arranged\").",
+            "lexicon": "Mixes sports-event and travel-management vocabulary with culturally respectful tourism terms and British English spellings. Common terms include \"itinerary\", \"arrival transfer\", \"block rooms\", \"supplier rates\", \"match schedule\", \"seedings\", \"tour leader\", \"locally\u2011led\" and \"sustainable option\" and she refers to money and times in \u00a3 and 24-hour/GMT or metric units like \"km\" or \"metres\".",
+            "linguistic_patterns": "Frequent use of contractions and friendly hedges: \"I'm\", \"we'll\", \"let's\" and polite markers like \"please\" or \"could you\"; signposts updates with phrases such as \"Quick note\", \"FYI\" and \"Heads up\". Characteristic go-to lines include \"Let's lock this in\", \"Quick note:\", \"Sound good?\", and client-facing social phrasing like \"Join us\"; she uses emojis sparingly on social (e.g. \"\ud83c\udfd0\", \"\u2708\ufe0f\", \"\ud83c\udf0d\") and consistently uses inclusive \"we/our\" language."
+        },
+        "scenario_description": "Email to a hotel or supplier negotiating room blocks, rates and service-level details",
+        "detailed_style": "Professional, courteous and detail-focused tone that balances firmness on requirements with collaborative language. Uses clear, formal sentences to state needs, followed by conditional clauses and polite requests for confirmation.",
+        "linguistic_patterns": "Includes negotiation vocabulary and concrete asks: 'supplier rates', 'block rooms', 'per room per night', 'supplier contract'. Uses phrases like 'We request', 'Could you confirm', 'Unless otherwise arranged' and avoids overly emotive language. Sentence structures include conditional clauses ('If X is available, we will...') and specific metric markers (number of rooms, km or metres when referencing distances). Tone stays polite and businesslike with 'please' and 'thank you for confirming'.",
+        "id": 5,
+        "seed": "A travel agent organizing sports tours for volleyball enthusiasts who want to attend international volleyball tournaments and experience the local culture."
+    },
+    {
+        "persona": {
+            "name": "Aisha Khan",
+            "age": 33,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; British Pakistani; born and raised in Birmingham, UK; currently based in London, UK",
+            "profession": "Founder & Sports Travel Consultant \u2014 Serve & See Tours (specialising in volleyball tournament travel and cultural itineraries)",
+            "education": "BA (Hons) Tourism Management, University of Birmingham; Postgraduate Certificate in Sports Event Management, Loughborough University; IATA & ABTA accredited travel agent",
+            "socioeconomic_status": "Middle Income; Entrepreneurial Working Professional",
+            "brief_background": "Aisha builds tightly choreographed group travel experiences that combine attending international volleyball tournaments with carefully curated cultural immersion. She balances meticulous logistics and vendor relationships with enthusiastic client service, preferring hands-on problem solving and local partnerships; she sometimes over-commits to making every trip perfect. Her priority is creating memorable, culturally respectful experiences while keeping tours affordable for amateur and semi-pro teams.",
+            "interests_lifestyle": "playing volleyball (recreational and coaching youth), scouting local food markets, learning basic phrases in host languages, Instagram and small-business marketing, sustainable travel practices, negotiating group contracts, weekend pop-up cultural events, yoga"
+        },
+        "global_style": {
+            "tone": "Warm, professional and energetic with a client-first focus \u2014 friendly and encouraging but always practical. Communicates confidence in logistics and cultural sensitivity, transparent about costs and constraints, and willing to problem-solve; slightly apologetic or over-committed tone can appear when promising extra care or last-minute fixes.",
+            "syntax": "Prefers clear, concise sentences and active voice for instructions and confirmations, using short imperatives for next steps and compound sentences to explain logistics or trade-offs. Uses numbered or bulleted structures in longer communications and occasional subordinate clauses to qualify exceptions or contingency plans (e.g., \"unless otherwise arranged\").",
+            "lexicon": "Mixes sports-event and travel-management vocabulary with culturally respectful tourism terms and British English spellings. Common terms include \"itinerary\", \"arrival transfer\", \"block rooms\", \"supplier rates\", \"match schedule\", \"seedings\", \"tour leader\", \"locally\u2011led\" and \"sustainable option\" and she refers to money and times in \u00a3 and 24-hour/GMT or metric units like \"km\" or \"metres\".",
+            "linguistic_patterns": "Frequent use of contractions and friendly hedges: \"I'm\", \"we'll\", \"let's\" and polite markers like \"please\" or \"could you\"; signposts updates with phrases such as \"Quick note\", \"FYI\" and \"Heads up\". Characteristic go-to lines include \"Let's lock this in\", \"Quick note:\", \"Sound good?\", and client-facing social phrasing like \"Join us\"; she uses emojis sparingly on social (e.g. \"\ud83c\udfd0\", \"\u2708\ufe0f\", \"\ud83c\udf0d\") and consistently uses inclusive \"we/our\" language."
+        },
+        "scenario_description": "Instagram post promoting an upcoming tour or recapping a memorable tournament day",
+        "detailed_style": "Energetic, punchy and visually driven micro-writing that invites engagement and conveys enthusiasm in a few lines. Uses contractions, inclusive language and a sparing emoji or two, finishing with a clear call to action.",
+        "linguistic_patterns": "Short sentences and fragments with upbeat verbs: 'Join us', 'Catch the action', 'Discover local markets'. Examples include '\ud83c\udfd0 \u2708\ufe0f Join us', 'Quick peek:', and 'Limited spaces \u2014 book now'. Hashtag-friendly phrases and social signposts appear but are brief; uses first-person plural 'we/our' and friendly hedges like 'Sound good?' or 'DM to reserve'.",
+        "id": 5,
+        "seed": "A travel agent organizing sports tours for volleyball enthusiasts who want to attend international volleyball tournaments and experience the local culture."
+    },
+    {
+        "persona": {
+            "name": "Aisha Khan",
+            "age": 33,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; British Pakistani; born and raised in Birmingham, UK; currently based in London, UK",
+            "profession": "Founder & Sports Travel Consultant \u2014 Serve & See Tours (specialising in volleyball tournament travel and cultural itineraries)",
+            "education": "BA (Hons) Tourism Management, University of Birmingham; Postgraduate Certificate in Sports Event Management, Loughborough University; IATA & ABTA accredited travel agent",
+            "socioeconomic_status": "Middle Income; Entrepreneurial Working Professional",
+            "brief_background": "Aisha builds tightly choreographed group travel experiences that combine attending international volleyball tournaments with carefully curated cultural immersion. She balances meticulous logistics and vendor relationships with enthusiastic client service, preferring hands-on problem solving and local partnerships; she sometimes over-commits to making every trip perfect. Her priority is creating memorable, culturally respectful experiences while keeping tours affordable for amateur and semi-pro teams.",
+            "interests_lifestyle": "playing volleyball (recreational and coaching youth), scouting local food markets, learning basic phrases in host languages, Instagram and small-business marketing, sustainable travel practices, negotiating group contracts, weekend pop-up cultural events, yoga"
+        },
+        "global_style": {
+            "tone": "Warm, professional and energetic with a client-first focus \u2014 friendly and encouraging but always practical. Communicates confidence in logistics and cultural sensitivity, transparent about costs and constraints, and willing to problem-solve; slightly apologetic or over-committed tone can appear when promising extra care or last-minute fixes.",
+            "syntax": "Prefers clear, concise sentences and active voice for instructions and confirmations, using short imperatives for next steps and compound sentences to explain logistics or trade-offs. Uses numbered or bulleted structures in longer communications and occasional subordinate clauses to qualify exceptions or contingency plans (e.g., \"unless otherwise arranged\").",
+            "lexicon": "Mixes sports-event and travel-management vocabulary with culturally respectful tourism terms and British English spellings. Common terms include \"itinerary\", \"arrival transfer\", \"block rooms\", \"supplier rates\", \"match schedule\", \"seedings\", \"tour leader\", \"locally\u2011led\" and \"sustainable option\" and she refers to money and times in \u00a3 and 24-hour/GMT or metric units like \"km\" or \"metres\".",
+            "linguistic_patterns": "Frequent use of contractions and friendly hedges: \"I'm\", \"we'll\", \"let's\" and polite markers like \"please\" or \"could you\"; signposts updates with phrases such as \"Quick note\", \"FYI\" and \"Heads up\". Characteristic go-to lines include \"Let's lock this in\", \"Quick note:\", \"Sound good?\", and client-facing social phrasing like \"Join us\"; she uses emojis sparingly on social (e.g. \"\ud83c\udfd0\", \"\u2708\ufe0f\", \"\ud83c\udf0d\") and consistently uses inclusive \"we/our\" language."
+        },
+        "scenario_description": "Urgent SMS or group message to travelling participants with a last-minute logistics update",
+        "detailed_style": "Very concise, calm and directive text messages that prioritise clarity and immediate action; uses short imperatives and simple sentences to reduce confusion. Tone remains reassuring and professional, with minimal hedging and quick reassurance where needed.",
+        "linguistic_patterns": "Starts with attention markers like 'Heads up:' or 'FYI' and uses direct commands: 'Meet at', 'Be at bus by 09:00', 'Bring passports'. Examples: 'Heads up: transfer delayed to 15:20', 'Please stay with your luggage', 'Quick note: bring waterproofs'. Avoids long sentences, uses 24-hour time, and keeps punctuation to a minimum for scanability.",
+        "id": 5,
+        "seed": "A travel agent organizing sports tours for volleyball enthusiasts who want to attend international volleyball tournaments and experience the local culture."
+    },
+    {
+        "persona": {
+            "name": "Aisha Khan",
+            "age": 33,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; British Pakistani; born and raised in Birmingham, UK; currently based in London, UK",
+            "profession": "Founder & Sports Travel Consultant \u2014 Serve & See Tours (specialising in volleyball tournament travel and cultural itineraries)",
+            "education": "BA (Hons) Tourism Management, University of Birmingham; Postgraduate Certificate in Sports Event Management, Loughborough University; IATA & ABTA accredited travel agent",
+            "socioeconomic_status": "Middle Income; Entrepreneurial Working Professional",
+            "brief_background": "Aisha builds tightly choreographed group travel experiences that combine attending international volleyball tournaments with carefully curated cultural immersion. She balances meticulous logistics and vendor relationships with enthusiastic client service, preferring hands-on problem solving and local partnerships; she sometimes over-commits to making every trip perfect. Her priority is creating memorable, culturally respectful experiences while keeping tours affordable for amateur and semi-pro teams.",
+            "interests_lifestyle": "playing volleyball (recreational and coaching youth), scouting local food markets, learning basic phrases in host languages, Instagram and small-business marketing, sustainable travel practices, negotiating group contracts, weekend pop-up cultural events, yoga"
+        },
+        "global_style": {
+            "tone": "Warm, professional and energetic with a client-first focus \u2014 friendly and encouraging but always practical. Communicates confidence in logistics and cultural sensitivity, transparent about costs and constraints, and willing to problem-solve; slightly apologetic or over-committed tone can appear when promising extra care or last-minute fixes.",
+            "syntax": "Prefers clear, concise sentences and active voice for instructions and confirmations, using short imperatives for next steps and compound sentences to explain logistics or trade-offs. Uses numbered or bulleted structures in longer communications and occasional subordinate clauses to qualify exceptions or contingency plans (e.g., \"unless otherwise arranged\").",
+            "lexicon": "Mixes sports-event and travel-management vocabulary with culturally respectful tourism terms and British English spellings. Common terms include \"itinerary\", \"arrival transfer\", \"block rooms\", \"supplier rates\", \"match schedule\", \"seedings\", \"tour leader\", \"locally\u2011led\" and \"sustainable option\" and she refers to money and times in \u00a3 and 24-hour/GMT or metric units like \"km\" or \"metres\".",
+            "linguistic_patterns": "Frequent use of contractions and friendly hedges: \"I'm\", \"we'll\", \"let's\" and polite markers like \"please\" or \"could you\"; signposts updates with phrases such as \"Quick note\", \"FYI\" and \"Heads up\". Characteristic go-to lines include \"Let's lock this in\", \"Quick note:\", \"Sound good?\", and client-facing social phrasing like \"Join us\"; she uses emojis sparingly on social (e.g. \"\ud83c\udfd0\", \"\u2708\ufe0f\", \"\ud83c\udf0d\") and consistently uses inclusive \"we/our\" language."
+        },
+        "scenario_description": "Formal sponsorship proposal or partnership pitch to a prospective sponsor or corporate partner",
+        "detailed_style": "Polished, confident and persuasive business register that combines clear benefits with structured deliverables. Uses formal sentence construction, measured hedges and firm, specific phrases that outline value and accountability.",
+        "linguistic_patterns": "Business and impact vocabulary appears: 'partnership proposal', 'deliverables', 'brand visibility', 'ROI'. Example phrases include 'We propose', 'Deliverables include', 'Our audience reach is', and 'We will ensure'. Sentences often use quantifying language (percentages, metrics) and conditional constructions ('Subject to agreement, we will...') and end with a clear call to action such as arranging a meeting or sending a draft contract.",
+        "id": 5,
+        "seed": "A travel agent organizing sports tours for volleyball enthusiasts who want to attend international volleyball tournaments and experience the local culture."
+    },
+    {
+        "persona": {
+            "name": "Aisha Khan",
+            "age": 33,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; British Pakistani; born and raised in Birmingham, UK; currently based in London, UK",
+            "profession": "Founder & Sports Travel Consultant \u2014 Serve & See Tours (specialising in volleyball tournament travel and cultural itineraries)",
+            "education": "BA (Hons) Tourism Management, University of Birmingham; Postgraduate Certificate in Sports Event Management, Loughborough University; IATA & ABTA accredited travel agent",
+            "socioeconomic_status": "Middle Income; Entrepreneurial Working Professional",
+            "brief_background": "Aisha builds tightly choreographed group travel experiences that combine attending international volleyball tournaments with carefully curated cultural immersion. She balances meticulous logistics and vendor relationships with enthusiastic client service, preferring hands-on problem solving and local partnerships; she sometimes over-commits to making every trip perfect. Her priority is creating memorable, culturally respectful experiences while keeping tours affordable for amateur and semi-pro teams.",
+            "interests_lifestyle": "playing volleyball (recreational and coaching youth), scouting local food markets, learning basic phrases in host languages, Instagram and small-business marketing, sustainable travel practices, negotiating group contracts, weekend pop-up cultural events, yoga"
+        },
+        "global_style": {
+            "tone": "Warm, professional and energetic with a client-first focus \u2014 friendly and encouraging but always practical. Communicates confidence in logistics and cultural sensitivity, transparent about costs and constraints, and willing to problem-solve; slightly apologetic or over-committed tone can appear when promising extra care or last-minute fixes.",
+            "syntax": "Prefers clear, concise sentences and active voice for instructions and confirmations, using short imperatives for next steps and compound sentences to explain logistics or trade-offs. Uses numbered or bulleted structures in longer communications and occasional subordinate clauses to qualify exceptions or contingency plans (e.g., \"unless otherwise arranged\").",
+            "lexicon": "Mixes sports-event and travel-management vocabulary with culturally respectful tourism terms and British English spellings. Common terms include \"itinerary\", \"arrival transfer\", \"block rooms\", \"supplier rates\", \"match schedule\", \"seedings\", \"tour leader\", \"locally\u2011led\" and \"sustainable option\" and she refers to money and times in \u00a3 and 24-hour/GMT or metric units like \"km\" or \"metres\".",
+            "linguistic_patterns": "Frequent use of contractions and friendly hedges: \"I'm\", \"we'll\", \"let's\" and polite markers like \"please\" or \"could you\"; signposts updates with phrases such as \"Quick note\", \"FYI\" and \"Heads up\". Characteristic go-to lines include \"Let's lock this in\", \"Quick note:\", \"Sound good?\", and client-facing social phrasing like \"Join us\"; she uses emojis sparingly on social (e.g. \"\ud83c\udfd0\", \"\u2708\ufe0f\", \"\ud83c\udf0d\") and consistently uses inclusive \"we/our\" language."
+        },
+        "scenario_description": "Internal memo or checklist to tour leaders and co-guides covering day-to-day operations",
+        "detailed_style": "Practical, directive and organised tone that reads like a clear operations brief; uses bullet-like phrasing and numbered steps in the body of the actual communication. Active voice with short imperatives and contingency notes keeps instructions actionable and easy to follow.",
+        "linguistic_patterns": "Operational language and check phrases: 'Confirm headcount', 'Check supplier arrival times', 'Lead the team at pick-up point'. Examples: 'On arrival, meet at the main entrance', 'If coach delayed, call supplier and update the group chat', 'Please confirm passports and insurance'. Uses conditional clauses ('If X, then Y'), time stamps in 24-hour format, and reminders tagged with 'FYI' or 'Quick note:' for emphasis.",
+        "id": 5,
+        "seed": "A travel agent organizing sports tours for volleyball enthusiasts who want to attend international volleyball tournaments and experience the local culture."
+    },
+    {
+        "persona": {
+            "name": "Aisha Khan",
+            "age": 33,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; British Pakistani; born and raised in Birmingham, UK; currently based in London, UK",
+            "profession": "Founder & Sports Travel Consultant \u2014 Serve & See Tours (specialising in volleyball tournament travel and cultural itineraries)",
+            "education": "BA (Hons) Tourism Management, University of Birmingham; Postgraduate Certificate in Sports Event Management, Loughborough University; IATA & ABTA accredited travel agent",
+            "socioeconomic_status": "Middle Income; Entrepreneurial Working Professional",
+            "brief_background": "Aisha builds tightly choreographed group travel experiences that combine attending international volleyball tournaments with carefully curated cultural immersion. She balances meticulous logistics and vendor relationships with enthusiastic client service, preferring hands-on problem solving and local partnerships; she sometimes over-commits to making every trip perfect. Her priority is creating memorable, culturally respectful experiences while keeping tours affordable for amateur and semi-pro teams.",
+            "interests_lifestyle": "playing volleyball (recreational and coaching youth), scouting local food markets, learning basic phrases in host languages, Instagram and small-business marketing, sustainable travel practices, negotiating group contracts, weekend pop-up cultural events, yoga"
+        },
+        "global_style": {
+            "tone": "Warm, professional and energetic with a client-first focus \u2014 friendly and encouraging but always practical. Communicates confidence in logistics and cultural sensitivity, transparent about costs and constraints, and willing to problem-solve; slightly apologetic or over-committed tone can appear when promising extra care or last-minute fixes.",
+            "syntax": "Prefers clear, concise sentences and active voice for instructions and confirmations, using short imperatives for next steps and compound sentences to explain logistics or trade-offs. Uses numbered or bulleted structures in longer communications and occasional subordinate clauses to qualify exceptions or contingency plans (e.g., \"unless otherwise arranged\").",
+            "lexicon": "Mixes sports-event and travel-management vocabulary with culturally respectful tourism terms and British English spellings. Common terms include \"itinerary\", \"arrival transfer\", \"block rooms\", \"supplier rates\", \"match schedule\", \"seedings\", \"tour leader\", \"locally\u2011led\" and \"sustainable option\" and she refers to money and times in \u00a3 and 24-hour/GMT or metric units like \"km\" or \"metres\".",
+            "linguistic_patterns": "Frequent use of contractions and friendly hedges: \"I'm\", \"we'll\", \"let's\" and polite markers like \"please\" or \"could you\"; signposts updates with phrases such as \"Quick note\", \"FYI\" and \"Heads up\". Characteristic go-to lines include \"Let's lock this in\", \"Quick note:\", \"Sound good?\", and client-facing social phrasing like \"Join us\"; she uses emojis sparingly on social (e.g. \"\ud83c\udfd0\", \"\u2708\ufe0f\", \"\ud83c\udf0d\") and consistently uses inclusive \"we/our\" language."
+        },
+        "scenario_description": "Warm thank-you note to a local community partner or cultural host after an event",
+        "detailed_style": "Genuinely appreciative, respectful and culturally sensitive tone that emphasises gratitude and future collaboration. Sentences are warm and personal, with inclusive 'we' language, and occasionally reference shared values like sustainability or local-led approaches.",
+        "linguistic_patterns": "Polite and heartfelt phrases such as 'Thank you for hosting', 'We are deeply grateful', 'Your locally\u2011led knowledge was invaluable'. Examples include 'Thank you for such a warm welcome', 'We hope to collaborate again', and 'Your support made the visit memorable'. Uses culturally respectful qualifiers ('with your permission', 'where appropriate') and a closing that invites continued contact: 'Let's keep in touch.'",
+        "id": 5,
+        "seed": "A travel agent organizing sports tours for volleyball enthusiasts who want to attend international volleyball tournaments and experience the local culture."
+    },
+    {
+        "persona": {
+            "name": "Aisha Khan",
+            "age": 33,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; British Pakistani; born and raised in Birmingham, UK; currently based in London, UK",
+            "profession": "Founder & Sports Travel Consultant \u2014 Serve & See Tours (specialising in volleyball tournament travel and cultural itineraries)",
+            "education": "BA (Hons) Tourism Management, University of Birmingham; Postgraduate Certificate in Sports Event Management, Loughborough University; IATA & ABTA accredited travel agent",
+            "socioeconomic_status": "Middle Income; Entrepreneurial Working Professional",
+            "brief_background": "Aisha builds tightly choreographed group travel experiences that combine attending international volleyball tournaments with carefully curated cultural immersion. She balances meticulous logistics and vendor relationships with enthusiastic client service, preferring hands-on problem solving and local partnerships; she sometimes over-commits to making every trip perfect. Her priority is creating memorable, culturally respectful experiences while keeping tours affordable for amateur and semi-pro teams.",
+            "interests_lifestyle": "playing volleyball (recreational and coaching youth), scouting local food markets, learning basic phrases in host languages, Instagram and small-business marketing, sustainable travel practices, negotiating group contracts, weekend pop-up cultural events, yoga"
+        },
+        "global_style": {
+            "tone": "Warm, professional and energetic with a client-first focus \u2014 friendly and encouraging but always practical. Communicates confidence in logistics and cultural sensitivity, transparent about costs and constraints, and willing to problem-solve; slightly apologetic or over-committed tone can appear when promising extra care or last-minute fixes.",
+            "syntax": "Prefers clear, concise sentences and active voice for instructions and confirmations, using short imperatives for next steps and compound sentences to explain logistics or trade-offs. Uses numbered or bulleted structures in longer communications and occasional subordinate clauses to qualify exceptions or contingency plans (e.g., \"unless otherwise arranged\").",
+            "lexicon": "Mixes sports-event and travel-management vocabulary with culturally respectful tourism terms and British English spellings. Common terms include \"itinerary\", \"arrival transfer\", \"block rooms\", \"supplier rates\", \"match schedule\", \"seedings\", \"tour leader\", \"locally\u2011led\" and \"sustainable option\" and she refers to money and times in \u00a3 and 24-hour/GMT or metric units like \"km\" or \"metres\".",
+            "linguistic_patterns": "Frequent use of contractions and friendly hedges: \"I'm\", \"we'll\", \"let's\" and polite markers like \"please\" or \"could you\"; signposts updates with phrases such as \"Quick note\", \"FYI\" and \"Heads up\". Characteristic go-to lines include \"Let's lock this in\", \"Quick note:\", \"Sound good?\", and client-facing social phrasing like \"Join us\"; she uses emojis sparingly on social (e.g. \"\ud83c\udfd0\", \"\u2708\ufe0f\", \"\ud83c\udf0d\") and consistently uses inclusive \"we/our\" language."
+        },
+        "scenario_description": "Longer-form newsletter or blog storytelling piece reflecting on a memorable tournament day and cultural discoveries",
+        "detailed_style": "Narrative and descriptive style that blends sensory detail with reflective commentary; sentences vary in length, using subordinate clauses to add context and cultural nuance. Warm, inclusive voice that concludes with a practical signpost or invitation for readers to engage.",
+        "linguistic_patterns": "Evocative, scene-setting language and temporal signposts: 'By the time', 'That afternoon', 'Later, we discovered'. Examples include 'The market hummed with', 'Players warmed up under a clear sky', and 'Join us next season'. Uses present and past tense fluidly, longer compound sentences to weave atmosphere with logistics, and occasional rhetorical questions to draw readers in.",
+        "id": 5,
+        "seed": "A travel agent organizing sports tours for volleyball enthusiasts who want to attend international volleyball tournaments and experience the local culture."
+    },
+    {
+        "persona": {
+            "name": "Aisha Khan",
+            "age": 33,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; British Pakistani; born and raised in Birmingham, UK; currently based in London, UK",
+            "profession": "Founder & Sports Travel Consultant \u2014 Serve & See Tours (specialising in volleyball tournament travel and cultural itineraries)",
+            "education": "BA (Hons) Tourism Management, University of Birmingham; Postgraduate Certificate in Sports Event Management, Loughborough University; IATA & ABTA accredited travel agent",
+            "socioeconomic_status": "Middle Income; Entrepreneurial Working Professional",
+            "brief_background": "Aisha builds tightly choreographed group travel experiences that combine attending international volleyball tournaments with carefully curated cultural immersion. She balances meticulous logistics and vendor relationships with enthusiastic client service, preferring hands-on problem solving and local partnerships; she sometimes over-commits to making every trip perfect. Her priority is creating memorable, culturally respectful experiences while keeping tours affordable for amateur and semi-pro teams.",
+            "interests_lifestyle": "playing volleyball (recreational and coaching youth), scouting local food markets, learning basic phrases in host languages, Instagram and small-business marketing, sustainable travel practices, negotiating group contracts, weekend pop-up cultural events, yoga"
+        },
+        "global_style": {
+            "tone": "Warm, professional and energetic with a client-first focus \u2014 friendly and encouraging but always practical. Communicates confidence in logistics and cultural sensitivity, transparent about costs and constraints, and willing to problem-solve; slightly apologetic or over-committed tone can appear when promising extra care or last-minute fixes.",
+            "syntax": "Prefers clear, concise sentences and active voice for instructions and confirmations, using short imperatives for next steps and compound sentences to explain logistics or trade-offs. Uses numbered or bulleted structures in longer communications and occasional subordinate clauses to qualify exceptions or contingency plans (e.g., \"unless otherwise arranged\").",
+            "lexicon": "Mixes sports-event and travel-management vocabulary with culturally respectful tourism terms and British English spellings. Common terms include \"itinerary\", \"arrival transfer\", \"block rooms\", \"supplier rates\", \"match schedule\", \"seedings\", \"tour leader\", \"locally\u2011led\" and \"sustainable option\" and she refers to money and times in \u00a3 and 24-hour/GMT or metric units like \"km\" or \"metres\".",
+            "linguistic_patterns": "Frequent use of contractions and friendly hedges: \"I'm\", \"we'll\", \"let's\" and polite markers like \"please\" or \"could you\"; signposts updates with phrases such as \"Quick note\", \"FYI\" and \"Heads up\". Characteristic go-to lines include \"Let's lock this in\", \"Quick note:\", \"Sound good?\", and client-facing social phrasing like \"Join us\"; she uses emojis sparingly on social (e.g. \"\ud83c\udfd0\", \"\u2708\ufe0f\", \"\ud83c\udf0d\") and consistently uses inclusive \"we/our\" language."
+        },
+        "scenario_description": "Concise LinkedIn message to a professional contact requesting an introduction or brief meeting",
+        "detailed_style": "Polished, succinct and courteous professional outreach that states purpose clearly and offers convenient options for next steps. Uses formal salutations, a brief value statement, polite hedges and a direct call to action with proposed times.",
+        "linguistic_patterns": "Professional phrasing such as 'I hope you're well', 'Would you be open to', 'I can be available'. Example lines include 'Would you be open to a 20-minute call?', 'I can do 10:00 or 14:00 GMT next week' and 'Happy to share our deck beforehand'. Sentences are short, use polite modal verbs ('could', 'would'), and close with a friendly but formal sign-off.",
+        "id": 5,
+        "seed": "A travel agent organizing sports tours for volleyball enthusiasts who want to attend international volleyball tournaments and experience the local culture."
+    },
+    {
+        "persona": {
+            "name": "Aisha Khan",
+            "age": 33,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; British Pakistani; born and raised in Birmingham, UK; currently based in London, UK",
+            "profession": "Founder & Sports Travel Consultant \u2014 Serve & See Tours (specialising in volleyball tournament travel and cultural itineraries)",
+            "education": "BA (Hons) Tourism Management, University of Birmingham; Postgraduate Certificate in Sports Event Management, Loughborough University; IATA & ABTA accredited travel agent",
+            "socioeconomic_status": "Middle Income; Entrepreneurial Working Professional",
+            "brief_background": "Aisha builds tightly choreographed group travel experiences that combine attending international volleyball tournaments with carefully curated cultural immersion. She balances meticulous logistics and vendor relationships with enthusiastic client service, preferring hands-on problem solving and local partnerships; she sometimes over-commits to making every trip perfect. Her priority is creating memorable, culturally respectful experiences while keeping tours affordable for amateur and semi-pro teams.",
+            "interests_lifestyle": "playing volleyball (recreational and coaching youth), scouting local food markets, learning basic phrases in host languages, Instagram and small-business marketing, sustainable travel practices, negotiating group contracts, weekend pop-up cultural events, yoga"
+        },
+        "global_style": {
+            "tone": "Warm, professional and energetic with a client-first focus \u2014 friendly and encouraging but always practical. Communicates confidence in logistics and cultural sensitivity, transparent about costs and constraints, and willing to problem-solve; slightly apologetic or over-committed tone can appear when promising extra care or last-minute fixes.",
+            "syntax": "Prefers clear, concise sentences and active voice for instructions and confirmations, using short imperatives for next steps and compound sentences to explain logistics or trade-offs. Uses numbered or bulleted structures in longer communications and occasional subordinate clauses to qualify exceptions or contingency plans (e.g., \"unless otherwise arranged\").",
+            "lexicon": "Mixes sports-event and travel-management vocabulary with culturally respectful tourism terms and British English spellings. Common terms include \"itinerary\", \"arrival transfer\", \"block rooms\", \"supplier rates\", \"match schedule\", \"seedings\", \"tour leader\", \"locally\u2011led\" and \"sustainable option\" and she refers to money and times in \u00a3 and 24-hour/GMT or metric units like \"km\" or \"metres\".",
+            "linguistic_patterns": "Frequent use of contractions and friendly hedges: \"I'm\", \"we'll\", \"let's\" and polite markers like \"please\" or \"could you\"; signposts updates with phrases such as \"Quick note\", \"FYI\" and \"Heads up\". Characteristic go-to lines include \"Let's lock this in\", \"Quick note:\", \"Sound good?\", and client-facing social phrasing like \"Join us\"; she uses emojis sparingly on social (e.g. \"\ud83c\udfd0\", \"\u2708\ufe0f\", \"\ud83c\udf0d\") and consistently uses inclusive \"we/our\" language."
+        },
+        "scenario_description": "Casual text or WhatsApp message to a friend or coaching colleague inviting them to play or join a weekend pop-up cultural event",
+        "detailed_style": "Light, informal and enthusiastic voice with contractions, playful hedges and an inviting tone; messages are short and conversational, using emojis sparingly to convey warmth. Sentences read like speech and include quick logistical notes and a friendly nudge to RSVP.",
+        "linguistic_patterns": "Everyday, relaxed phrases such as 'Fancy a game?', 'Fancy joining?', 'I'm free Saturday'. Examples include 'Fancy a quick net on Saturday?', 'Join us \u2014 food stalls and casual coaching', and 'I'll grab the post-match tea \u2615'. Uses contractions ('I'm', 'we'll'), casual imperatives ('Come along!'), and closing lines like 'Sound good?' or 'Let me know.'",
+        "id": 5,
+        "seed": "A travel agent organizing sports tours for volleyball enthusiasts who want to attend international volleyball tournaments and experience the local culture."
+    }
+]

@@ -1,0 +1,149 @@
+{
+  "rouge_stdout": "  Scoring outputs \u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501 40/40 0:00:00\nSaving ROUGE-L metrics to evaluation/dataset/val/basics/multi_vectors_basics_val.csv...\n\nOverall ROUGE-L\nPrecision: 0.4646, Recall: 0.3740, F1: 0.4100\n\nSaved detailed results to evaluation/dataset/val/basics/multi_vectors_basics_val.csv\n",
+  "rouge_grouped": {
+    "overall": {
+      "rouge_l_precision": {
+        "mean": 0.46458385,
+        "std": 0.11167325680627618,
+        "min": 0.219298,
+        "max": 0.770833,
+        "count": 40
+      },
+      "rouge_l_recall": {
+        "mean": 0.37396504999999997,
+        "std": 0.08592318918213061,
+        "min": 0.180851,
+        "max": 0.520548,
+        "count": 40
+      },
+      "rouge_l_fmeasure": {
+        "mean": 0.41004075,
+        "std": 0.08720867791410236,
+        "min": 0.222222,
+        "max": 0.601626,
+        "count": 40
+      }
+    },
+    "by_group": {
+      "persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv": {
+        "rouge_l_precision": {
+          "mean": 0.46458385,
+          "std": 0.11167325680627618,
+          "min": 0.219298,
+          "max": 0.770833,
+          "count": 40
+        },
+        "rouge_l_recall": {
+          "mean": 0.37396504999999997,
+          "std": 0.08592318918213061,
+          "min": 0.180851,
+          "max": 0.520548,
+          "count": 40
+        },
+        "rouge_l_fmeasure": {
+          "mean": 0.41004075,
+          "std": 0.08720867791410236,
+          "min": 0.222222,
+          "max": 0.601626,
+          "count": 40
+        }
+      }
+    }
+  },
+  "style_similarity": {
+    "mean": 0.4688464362174273,
+    "std": 0.2851344286317248,
+    "median": 0.5047433227300644,
+    "min": -0.18322855234146118,
+    "max": 0.9183825850486755,
+    "q25": 0.2180761583149433,
+    "q75": 0.6865622252225876,
+    "count": 40
+  },
+  "style_similarity_grouped": {
+    "overall": {
+      "style_similarity": {
+        "mean": 0.468846475,
+        "std": 0.28876687067615964,
+        "min": -0.183229,
+        "max": 0.918383,
+        "count": 40
+      }
+    },
+    "by_group": {
+      "persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv": {
+        "style_similarity": {
+          "mean": 0.468846475,
+          "std": 0.28876687067615964,
+          "min": -0.183229,
+          "max": 0.918383,
+          "count": 40
+        }
+      }
+    }
+  },
+  "style_distance": {
+    "mean": 0.8053498923778534,
+    "std": 0.08509735839013177,
+    "median": 0.8116877377033234,
+    "min": 0.6024945974349976,
+    "max": 0.9440447092056274,
+    "q25": 0.7438517808914185,
+    "q75": 0.8722719848155975,
+    "count": 40
+  },
+  "style_distance_grouped": {
+    "overall": {
+      "style_distance": {
+        "mean": 0.8053498750000001,
+        "std": 0.08618148001573148,
+        "min": 0.602495,
+        "max": 0.944045,
+        "count": 40
+      }
+    },
+    "by_group": {
+      "persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv": {
+        "style_distance": {
+          "mean": 0.8053498750000001,
+          "std": 0.08618148001573148,
+          "min": 0.602495,
+          "max": 0.944045,
+          "count": 40
+        }
+      }
+    }
+  },
+  "ai_detection": {
+    "mean_ai_score": 0.5345636904239655,
+    "std_ai_score": 0.4097197396986431,
+    "median_ai_score": 0.7063509225845337,
+    "min_ai_score": 0.0010962486267089844,
+    "max_ai_score": 0.9998760223388672,
+    "q25_ai_score": 0.06525544822216034,
+    "q75_ai_score": 0.9441926628351212,
+    "total_samples": 40
+  },
+  "ai_detection_grouped": {
+    "overall": {
+      "prediction_ai_score": {
+        "mean": 0.534563625,
+        "std": 0.4149392462593671,
+        "min": 0.001096,
+        "max": 0.999876,
+        "count": 40
+      }
+    },
+    "by_group": {
+      "persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv": {
+        "prediction_ai_score": {
+          "mean": 0.534563625,
+          "std": 0.4149392462593671,
+          "min": 0.001096,
+          "max": 0.999876,
+          "count": 40
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+system_prompt: |-
+  Your task is to define a few personal writing styles for a persona based on their characteristics.
+
+  You will receive a detailed persona profile including their name, age, gender, demographics, profession, education, socioeconomic status, background, and interests/lifestyle.
+
+  ## Your Task
+  Define a few personal writing styles for the given persona based on their personality traits, background, profession, education, and interests. They should be general styles for daily communication and are not specific to any particular scenarios.
+
+  ## Style Dimensions to Consider
+  1. **Tone**: The emotional quality and attitude conveyed in communication. Consider formality level, emotional openness, trust dynamics, and information-sharing approach (e.g., "No-nonsense, informative, and slightly guarded until trust is established. Focuses on actionable information or verifiable facts.")
+
+  2. **Syntax**: Sentence structure, complexity, and construction patterns. Specify predominant sentence types, clause usage, and structural tendencies (e.g., "Predominantly simple and compound sentences. Minimal use of subordinate clauses. Avoids ambiguity or unnecessary flourish.")
+
+  3. **Lexicon**: Word choice, vocabulary domain, and terminological preferences. Include professional jargon, cultural/regional vocabulary, measurement systems, and word origin preferences (e.g., "Utilizes vocational terminology (trucking, mechanics, hauling, equipment, logistics) and plain, Anglo-Saxon vocabulary. Prefers established American measurements (feet, pounds, acres).")
+
+  4. **Linguistic Patterns**: Recurring speech or writing habits, distinctive features, and common expressions. Include contractions, interjections, discourse markers, and characteristic phrases with specific examples in quotes (e.g., "Heavy use of contractions ('ain't,' 'y'all,' 'it's'). Frequent use of pragmatic markers or simple interjections common in conversation ('Well now,' 'Listen here,' 'Shoot').")
+
+  ## Guidelines for High-Quality Descriptions
+  - Be specific and detailed. Include concrete examples of vocabulary, phrases, or patterns in quotes.
+  - Ground descriptions in the persona's profession, education, regional background, and cultural context.
+  - Avoid vague descriptors; instead, provide actionable linguistic characteristics.
+  - For lexicon and linguistic patterns, include 2-4 specific examples of typical words or phrases.
+
+  Please return your response in the following JSON format:
+  ```json
+  {{
+    "tone": "<2-3 sentences describing the emotional quality, attitude, formality level, and information-sharing approach>",
+    "syntax": "<2-3 sentences describing sentence structure preferences, complexity patterns, and construction tendencies>",
+    "lexicon": "<2-3 sentences describing vocabulary domains with specific examples, word choice patterns, and terminological preferences>",
+    "linguistic_patterns": "<2-3 sentences describing recurring habits with specific quoted examples of contractions, interjections, or characteristic phrases>"
+  }}
+  ```
+
+user_prompt: |-
+  ## Persona Profile
+
+  **Name**: {name}
+  **Age**: {age}
+  **Gender**: {gender}
+  **Demographics**: {demographics}
+  **Profession**: {profession}
+  **Education**: {education}
+  **Socioeconomic Status**: {socioeconomic_status}
+  **Brief Background**: {brief_background}
+  **Interests/Lifestyle**: {interests_lifestyle}

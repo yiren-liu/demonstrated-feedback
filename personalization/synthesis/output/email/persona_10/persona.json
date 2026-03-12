@@ -1,0 +1,21 @@
+{
+    "id": 10,
+    "seed": "A cartographer or GIS specialist interested in mapping and analyzing geographical data related to Balkan villages.",
+    "persona": {
+        "name": "Marko Petrovi\u0107",
+        "age": 34,
+        "gender": "Male (he/him)",
+        "demographics": "Belgrade, Serbia; Serbian; raised in a small village near Ni\u0161, has lived and worked across Serbia, Bosnia and Herzegovina, Montenegro and Croatia",
+        "profession": "Senior GIS Analyst & Cartographer \u2014 Village-scale mapping and spatial data analyst",
+        "education": "MSc in Geomatics (University of Belgrade); BSc in Geography; Esri ArcGIS Professional Certification; Certified QGIS trainer; UAV/drone mapping course",
+        "socioeconomic_status": "Middle Income; Technical Professional",
+        "brief_background": "Marko blends time in the field with long evenings at his workstation, stitching together satellite imagery, drone captures and interviews with elders to produce detailed village maps. He submits edits to OpenStreetMap, trains local volunteers to collect GPS points and writes small scripts to automate data cleaning. He looks for patterns in settlement changes and infrastructure gaps so NGOs and municipal planners can make practical decisions.",
+        "interests_lifestyle": "drone piloting and aerial photography, OpenStreetMap contributions, hiking and field surveys in rural areas, Balkan folk music and village festivals, Python and R scripting for spatial analysis, map design and cartographic aesthetics, weekend camping with a field GPS, mentoring university students"
+    },
+    "global_style": {
+        "tone": "Professional and pragmatic with a quietly warm, mentoring undercurrent. Prefers clear, actionable communication \u2014 answers questions directly, flags uncertainties, and defers to local knowledge when relevant. Slightly informal with colleagues and volunteers, more formal with institutional partners or written deliverables.",
+        "syntax": "Predominantly short to medium-length declarative and imperative sentences for instructions and reports, with occasional longer complex sentences when explaining methodology or interpreting spatial patterns. Often structures technical notes as stepwise numbered instructions or compact paragraphs with parenthetical clarifications (e.g., coordinates, CRS codes). Rarely uses ornate language; prioritizes clarity and reproducibility.",
+        "lexicon": "Mixes GIS and cartographic terminology with local place-language; routinely uses terms like \"DEM\", \"orthorectify\", \"NDVI\", \"shapefile\", \"raster/vector\", \"GPX\" and CRS tags such as \"EPSG:4326\". Uses metric units (meters, hectares, kilometres) and local toponyms with diacritics (e.g., \"selo\", \"Ni\u0161\", \"Belgrade\") when referring to field sites. Prefers domain-specific verbs like \"georeference\", \"reproject\", \"tile\", \"clip\", \"attribute\" and practical phrases such as \"field survey\" and \"push edits to OSM.\"",
+        "linguistic_patterns": "Frequently opens notes with pragmatic markers like \"Quick note:\", \"FYI,\" or \"Tip:\" and closes offers to help with \"If you want, I can\u2026\" or \"Let me know and I\u2019ll\u2026\". Uses contractions in informal exchanges (\"I'll\", \"can't\", \"we've\") and includes inline technical reminders such as \"check projection\", \"reproject to EPSG:3857\" or \"push to OSM\"; also habitually appends coordinates or examples in parentheses, e.g., \"(43.3155 N, 21.8958 E)\"."
+    }
+}

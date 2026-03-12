@@ -1,0 +1,21 @@
+{
+    "id": 2,
+    "seed": "A casual television viewer who enjoys learning about the careers of Canadian media personalities.",
+    "persona": {
+        "name": "Aisha Khan",
+        "age": 36,
+        "gender": "Female (she/her)",
+        "demographics": "Urban; Pakistani-Canadian, born and raised in Mississauga, Ontario; spent a year in Montreal for university exchange; currently lives in East Danforth, Toronto",
+        "profession": "Communications Coordinator \u2014 Marketing & Events at a mid-sized Toronto arts nonprofit",
+        "education": "BA (Honours) in Communications, Toronto Metropolitan University (formerly Ryerson); Certificate in Media Studies, University of Toronto Continuing Studies; Certificate in Digital Marketing (Google/Digital Garage); short radio production course, Humber College",
+        "socioeconomic_status": "Middle Income; Working Professional",
+        "brief_background": "Aisha balances a steady communications job running social channels and coordinating events with a steady curiosity about the people behind Canadian television and radio. She casually follows career trajectories of Canadian media personalities \u2014 bookmarking interviews, subscribing to industry newsletters, and using what she learns to mentor a friend or shape her nonprofit's programming. Weekdays are organized and deadline-driven; on weekends she prefers relaxed discovery (panels, podcasts, thrift hunting) to intensive research.",
+        "interests_lifestyle": "watching Canadian morning shows and CBC documentaries, following media industry podcasts and long-form interviews, reading profiles of Canadian media personalities, attending book launches and panel discussions, volunteering at a community radio station, hosting small watch parties with friends, maintaining a Substack newsletter about media careers, urban cycling and transit commuting, balcony container gardening, thrift-store hunts for vintage TV guides and memorabilia, weekend trips to film festivals and museum exhibitions, learning basic audio editing and production"
+    },
+    "global_style": {
+        "tone": "Warm, curious and conversational with a professional backbone \u2014 approachable and community-minded but always deadline-aware. Prefers clarity and helpfulness over flourish: shares context and sources, mentors or nudges colleagues gently, and can be wry or lightly playful in more casual exchanges. Uses inclusive language and subtle cultural grounding (polite, hospitable) while keeping messages efficient for busy recipients.",
+        "syntax": "Favors clear declarative sentences and a mix of short imperatives for action items alongside occasional longer, complex sentences to provide context or nuance. Frequently uses parallel lists or stacked short sentences when outlining next steps, and avoids dense passive constructions except when softening feedback. Rhetorical questions and parenthetical asides appear in informal channels (e.g., Substack or DMs) to create a conversational rhythm.",
+        "lexicon": "Draws on communications/marketing and media vocabulary (e.g., \"editorial calendar,\" \"press kit,\" \"pitch,\" \"sizzle reel,\" \"logline\") plus digital metrics and accessibility terms like \"CTA,\" \"impressions,\" \"engagement,\" \"alt text,\" and \"SEO.\" Uses Canadian cultural/media references where relevant (e.g., \"CBC,\" \"TTC,\" \"Danforth,\" \"Substack\"), prefers Canadian spelling (colour/centre/organise) and metric units (km, \u00b0C). Keeps everyday language plain and serviceable, with occasional South Asian cultural touches (e.g., \"chai\") in casual writing.",
+        "linguistic_patterns": "Regular use of contractions and friendly sign-offs (\"I'm,\" \"we'll,\" \"can't,\" \"Thanks!\"/\"Cheers\"). Common discourse markers and short pivots include \"Quick note:\", \"Heads up \u2014\", \"Looping you in\", and \"FYI\"; examples: \"Quick note: the event brief is attached.\", \"Looping you in on this thread.\", \"Heads up \u2014 speakers may need mics.\" Uses em dashes and parentheses for asides, and will sometimes add a light interjection or question like \"Any thoughts?\" or \"Notably,\" to invite response."
+    }
+}

@@ -1,0 +1,189 @@
+file,date,from,to,subject,email
+slinger-r/sent_items/1.,"Tue, 05 Feb 2002 12:38:45 -0800",ryan.slinger@enron.com,amy.fitzpatrick@enron.com,Portland Assistant Trader Position,"Please include my name on the list of interested people.
+
+Thank You,
+
+ryan"
+slinger-r/sent_items/10.,"Thu, 08 Nov 2001 16:29:11 -0800",ryan.slinger@enron.com,shift.dl-portland@enron.com,Reminder,"Just a reminder that we really need to keep in contact with CERS on the off peak as they are beginning to buy more on more from us on-peak.  We still need to net out with them each month so any purchasing from them will greatly help us on the day shift.
+
+thanks, 
+
+ryan"
+slinger-r/sent_items/11.,"Thu, 08 Nov 2001 15:31:03 -0800",ryan.slinger@enron.com,shift.dl-portland@enron.com,SHORT FOR 11/09/01,"We sold 3mw of NP15 to ""SIERRA PACIFIC HOLDING"" for friday 11/09/01.  The price is 34 dollars and it is not in enpower or caps as of yet.
+
+thanks,
+
+ryan"
+slinger-r/sent_items/12.,"Tue, 06 Nov 2001 19:58:53 -0800",ryan.slinger@enron.com,susan.amador@enron.com,,"Susan, the Real Time desk is trying to save a import schedule and we got this error. Any ideas?
+The deal was created in FSP, all appropriate fields are population.  Thanks, Serena
+
+
+General SQL error.
+ORA-20101: Error found in trbriu_deal_peers - trader_id:  Exception -- TRADER_ID
+User-Defined Exception
+ORA-06512: at
+""PWR.PKG_ERRORLOG"", line 47
+ORA-06512: at ""PWR.TRBRIU_DEAL_PEERS"", line 99
+ORA-04088: error during execution of trigger
+'PWR.TRBRIU_DEAL_PEERS'
+(PeerID: 860373) - General SQL error.
+ORA-20101: Error found in trbriu_deal_peers - trader_id:  Exception -- TRADER_ID
+User-Defined Exception
+ORA-06512: at
+""PWR.PKG_ERRORLOG"", line 47
+ORA-06512: at ""PWR.TRBRIU_DEAL_PEERS"", line 99
+ORA-04088: error during execution of trigger
+'PWR.TRBRIU_DEAL_PEERS'"
+slinger-r/sent_items/13.,"Tue, 06 Nov 2001 17:04:34 -0800",ryan.slinger@enron.com,shift.dl-portland@enron.com,SHORT FOR 11/07/01,"We sold 8mw around the clock to Gas Recovery systems at 34 dollars.   The deal is built in Caps but not in enpower.
+
+Thanks,
+
+Ryan"
+slinger-r/sent_items/14.,"Fri, 02 Nov 2001 18:21:30 -0800",ryan.slinger@enron.com,shift.dl-portland@enron.com,SP Length for 11/03/01,"Via services we bought 8mw HE 1-24 from the APX.  Deal for services purchase from generator is #854798, book to book is deal #854810.  The price we bought at is $28."
+slinger-r/sent_items/17.,"Sat, 27 Oct 2001 20:45:08 -0700",ryan.slinger@enron.com,michael.mier@enron.com,websites,"http://oasis.caiso.com/
+
+http://dotect.ect.enron.com/genstat/epe/status/
+
+https://iso_si/iso/
+
+http://www.ets.oatiinc.com/
+
+file:///W|/ISO_SI/ISOLOCATION.HTML
+
+http://www.tsin.com/nodes/wscc.html"
+slinger-r/sent_items/18.,"Sat, 27 Oct 2001 09:05:35 -0700",ryan.slinger@enron.com,"bert.meyers@enron.com, eric.linder@enron.com",other websites,"http://oasis.caiso.com/
+
+file:///W|/ISO_SI/ISOLOCATION.HTML"
+slinger-r/sent_items/19.,"Sat, 27 Oct 2001 09:02:44 -0700",ryan.slinger@enron.com,"bert.meyers@enron.com, eric.linder@enron.com",tagging website,http://www.ets.oatiinc.com/cgi-bin/webplus.exe?Script=/ets5/ets-login.wml
+slinger-r/sent_items/21.,"Wed, 24 Oct 2001 17:23:00 -0700",ryan.slinger@enron.com,"john.anderson@enron.com, todd.bland@enron.com, craig.dean@enron.com, mark.guzman@enron.com, leaf.harasin@enron.com, eric.linder@enron.com, steven.merriss@enron.com, bert.meyers@enron.com, michael.mier@enron.com, v..porter@enron.com, darin.presto@enron.com, ryan.slinger@enron.com, geir.solberg@enron.com, kate.symes@enron.com, bill.williams@enron.com",APX LENGTH FOR 10/25 & ARCO LENGTH FOR 10/24-25,"I bought 8mw of SP15 from Gas recovery systems and built the purchase in CAPS with the APX.   It is 8mw HE 9-17 @29 dollars.  We also had Arco come back up and they need to be sold or used to cover a short, it is 26 mw in SP15 and the gen schedule is already built in CAPS for 10/24 and 10/25.  They are up around the clock and need to recieve fair market price for their generation."
+slinger-r/sent_items/24.,"Wed, 03 Oct 2001 17:55:49 -0700",ryan.slinger@enron.com,"john.anderson@enron.com, todd.bland@enron.com, craig.dean@enron.com, mark.guzman@enron.com, leaf.harasin@enron.com, eric.linder@enron.com, steven.merriss@enron.com, bert.meyers@enron.com, michael.mier@enron.com, v..porter@enron.com, darin.presto@enron.com, ryan.slinger@enron.com, geir.solberg@enron.com, kate.symes@enron.com, bill.williams@enron.com",Enpower to Caps for 10/3/01,"Enpower to Caps is going to be out for HE 15.  We sold 25mw to Allegheny in SP however IT has not yet built an APX5 counterparty in caps so I put it in APX1 and then changed the template to send it and balance.
+
+thanks,
+
+ryan"
+slinger-r/sent_items/25.,"Wed, 03 Oct 2001 17:09:13 -0700",ryan.slinger@enron.com,"john.anderson@enron.com, todd.bland@enron.com, craig.dean@enron.com, mark.guzman@enron.com, leaf.harasin@enron.com, eric.linder@enron.com, steven.merriss@enron.com, bert.meyers@enron.com, michael.mier@enron.com, v..porter@enron.com, darin.presto@enron.com, ryan.slinger@enron.com, geir.solberg@enron.com, kate.symes@enron.com, bill.williams@enron.com",NEW EES FEES,"The fees that we charge for marketing EES has been revised and will take effect 10/4/01.  The new fees are as follows:
+
+	1-100mw's=$3 fee
+	100-200mw's=$4 fee
+	over 200mw=$5 fee
+
+Please note that if we market 101mw's for EES then we charge them $4 on the whole 101mw's for a total fee of $404.  Also if we were to market 201mw's for them then the total fee would be $1005 dollars.  In other words if they go over a the limit on one fee then we charge them the higher fee on all the mw's.
+
+thanks,
+
+ryan"
+slinger-r/sent_items/28.,"Wed, 19 Sep 2001 14:01:20 -0700",ryan.slinger@enron.com,jmoshier@utilicorp.com,NP/SP Hourly Financial Options,"The following are the basics on what I was proposing on hourly call/put options:
+
+1.  Structure:
+	a. Delivery Point: NP15 or SP15
+	b. Strike Price: determined at time of purchase or sale
+	c. Quantity:  one option equals 25 megawatt hours
+	c. Premium:  one time cash outlay for right of option quote as dollars per megawatt hour
+	d. Settlement Index:  Expost, determined under the expost tab on the cal iso web site as the 10 minute average zonal price for the hour in which the option is to be settled.
+	e. Exercise deadline:  Must be exercised 2 hours and 10 minutes prior to the begininng of physical power flow for the hour in which option will be settled financially.
+	f.  Duration of option:  Expires at 20:50 of the day in which the option was purchased/sold.
+
+	*In most cases I can quote a premium in which I will be willing to settle the option financially OR physically.
+	** Of course execution of a transaction is subject to the counterparty having the appropriate credit approval for the agreed upon financial and or physical deals."
+slinger-r/sent_items/30.,"Sun, 19 Aug 2001 16:33:36 -0700",ryan.slinger@enron.com,help@enrononline.com,Products that need to be activated,"Please activate the following products,
+
+57515,57517,57519,57521,57523,57525,57527,57529,57531,57533,57535,57537,57539,57541,57543,57545,57547,57549,57551,57553,57555,57557,57559,57561,57563,57565,57567,57569,57571,57573,57575,57579,57581,57583,57585
+
+We are supposed to start trading these products at 9:00am houston time 8/20/01.  If you have any questions I can be contacted at 503.464.3749.
+
+Thank you,
+
+Ryan Slinger"
+slinger-r/sent_items/31.,"Wed, 01 Aug 2001 05:59:11 -0700",ryan.slinger@enron.com,stanley.cocke@enron.com,ARCO Outage Schedule with the ISO,"We had some problems scheduling ARCO as the ISO had a 10.8 mw curtailment scheduled for ARCO through HE 24 for 8/1/01.  In order to schedule the extra 6mw for 8/1/01 I had to change that outage and set the curtailment at 5mw and that is scheduled through 9/1/01.  The ISO had two separate outage schedules and I said to just go with the 5mw curtailment until you guys could get back with them on the exact outage.
+
+Thanks,
+
+ryan"
+slinger-r/sent_items/32.,"Wed, 01 Aug 2001 00:43:14 -0700",ryan.slinger@enron.com,donald.robinson@enron.com,Position Manager for 8/1/01,"It appears that there is a 10mw transmission schedule missing on peak from Pac System border to Mid C.  This has us out 320 mw at Mid C for 8/1/01.	
+
+thanks- 
+ryan"
+slinger-r/sent_items/33.,"Sat, 28 Jul 2001 06:53:39 -0700",ryan.slinger@enron.com,alison_heer@ddouglas.k12.or.us,,"Somehow it seems everyone ends up in portland...just was flipping through web pages and ran across your listing on the david douglas site.  Hope everything is going well.
+
+ryan"
+slinger-r/sent_items/34.,"Sat, 28 Jul 2001 00:50:16 -0700",ryan.slinger@enron.com,bert.meyers@enron.com,August Schedule,"I had to change your august schedule since I misread leaf's vacation request.  The way I have it now is four night shifts in a row from the 8th through the eleventh.  This shouldn't be too bad since you have seven nights off prior to the schedule.  I couldn't figure out any other way to do it, while keeping everyone else's requests whole.  If you would rather break up your six day then give me a call and I will make the adjustments.
+
+thanks,
+
+ryan"
+slinger-r/sent_items/35.,"Fri, 13 Jul 2001 01:37:15 -0700",ryan.slinger@enron.com,shift.portland@enron.com,Deals for 7/12/01,"1.  When you buy from the imbalance(Services 2mw for HE 17-22) please make sure that you buy from the correct zone(i.e.  if finals have sp load dec'd then the buy from the imbalance in enpower needs to be in sp).  Day shift, assumed the ISO would make a buy from NP and for 3 hours they dec'd SP load.  Even better if you know that you are going to buy from the imbalance then submit a schedule that is BALANCED,  in this case they should have created a new load zone in SP under the Services book and inserted a -2 for HE 17-22.  As always we don't want to buy from the imbalance but if all other options have been exhausted then at least submit your preferred zone to purchase from rather than leaving the ISO to roll the dice and force balance you how ever they want.
+
+2.  Unless I have been informed incorrectly, we should be accounting for bloomberg fees as a fee rather than sticking it the price.  This should make the SAR and settlements just a little easier."
+slinger-r/sent_items/36.,"Sat, 07 Jul 2001 09:50:32 -0700",ryan.slinger@enron.com,grace.rodriguez@enron.com,RE: Real Time Interview: Darrin Presto,"Anytime on the 10th of July works for me.
+
+Thanks,
+
+Ryan"
+slinger-r/sent_items/37.,"Fri, 22 Jun 2001 06:34:31 -0700",ryan.slinger@enron.com,test.volume@enron.com,Enpower to CAPS for 6/21/01,"There is no enpower to CAPS for 6/21 since the ISO computers went down and they do not have any finals for HE 21.  They said that some time around noon today they will try to repost the data after their guys recover it from the down servers.  Somebody in Houston or here may be able to just make the preferred the final for that hour, however this is something that I never learned how to do so I am going to have to pass on doing that.
+
+thanks,
+
+ryan"
+slinger-r/sent_items/38.,"Fri, 22 Jun 2001 03:56:14 -0700",ryan.slinger@enron.com,grace.rodriguez@enron.com,Realtime Interview,"Either the 5th or the 6th will work, I will be out of the office but can stop by to do the interview.
+
+thanks,
+
+ryan"
+slinger-r/sent_items/39.,"Sun, 17 Jun 2001 20:06:04 -0700",ryan.slinger@enron.com,shift.portland@enron.com,NEW TRANSMISSION IDEA,"As the southwest heats up, or the ISO goes into stages of emergency, or path 15 is congested north to south we will want to get power from the northwest utilities down to APS and so on in the southwest.  We can do this many ways but one that I have discovered that may have much capacity is as follows.
+
+1.  NW Utility to PAC on BPA(T)
+2.  PACW to IPC(T)@Enterprise(ENPR) on PAC(T)
+3.  IPC@ENPR to PAC(T)@Borah Brady(BOBR) on IPC(T)
+4.  IPC@BOBR to Four Corners(FC3) on PAC(T)
+5.  Sink with anyone at four corners or buy tranny over to palo or mead.
+
+I'm not sure how long there is going to be room but for monday there is 400mw of room on this path.
+
+
+Enjoy,
+
+Slinger"
+slinger-r/sent_items/40.,"Sun, 17 Jun 2001 11:47:09 -0700",ryan.slinger@enron.com,shift.portland@enron.com,PLEASE SPECIFY DEVILERY POINT AND DURATION OF SALES CLEARLY,"On sunday we had a problem with PSCO, they tried to back out of a purchase from El Paso since they claimed they were picking up the power at the FC 230 bus instead of the 345 bus.  Also there is an issue with the schedule being until further.  This once again highlights our need to be as clear as possible on ALL aspects of the deals that we do.  All new people should have a discussion with myself or another senior member as to the differences between the FC's busses, N. Gila vs. Devers and other points on the grid that you are unsure of.
+
+thanks,
+
+ryan"
+slinger-r/sent_items/41.,"Mon, 11 Jun 2001 18:56:51 -0700",ryan.slinger@enron.com,bert.meyers@enron.com,,http://dotect.ect.enron.com/genstat/epe/status/recent.csv
+slinger-r/sent_items/42.,"Sat, 09 Jun 2001 04:02:46 -0700",ryan.slinger@enron.com,tavridaqueen@yahoo.com,aol posting,"I know your ad said that you wouldn't reply to anything without a picture but I'm not really computer literate yet and I thought your posting was interesting.  Energy law is a hobby for me right now since I'm an electricity trader for Enron.  Anyway, I'm not really looking for anything more than to meet some new people.  Hanging around traders all the time gets a little out of control and leads to meeting the wrong girls.  If you want to email let me know.
+
+ryan"
+slinger-r/sent_items/43.,"Fri, 01 Jun 2001 16:10:29 -0700",ryan.slinger@enron.com,stanley.cocke@enron.com,Harbor Cogen Sale for 6/01/01,HE 7-22 realtime is buying 25mw from Harbor at a price of $175
+slinger-r/sent_items/44.,"Tue, 22 May 2001 07:25:59 -0700",ryan.slinger@enron.com,kpeterso@epelectric.com,El Paso Model 05/21/01,"Please find the enclosed El Paso Model.  If you have any questions regarding the model please call Steve or Eric.  They will be able to contact me to answer your questions.
+
+Regards,
+
+Bert Meyers"
+slinger-r/sent_items/45.,"Sun, 20 May 2001 07:55:13 -0700",ryan.slinger@enron.com,shift.portland@enron.com,NEW JUNE REALTIME WORK SCHEDULE,"THE NEW SCHEDULE IS OUT FOR JUNE, I APOLOGIZE FOR THE IRREGULARITY.  THERE WERE MANY REQUESTS FOR DAYS OFF AND IF I DID NOT ACCOMODATE YOU PLEASE LET ME KNOW.
+
+SLINGER"
+slinger-r/sent_items/46.,"Sat, 19 May 2001 05:36:03 -0700",ryan.slinger@enron.com,eric.linder@enron.com,DEAL ENTRY,"PLEASE BE VERY CAREFUL WITH DEAL ENTRY, EXTENDING DEALS, BROKER FEES AND KEEPING STRAIGHT WHICH BOOK YOU ARE DOING THE DEAL UNDER.  THESE ARE ALL PROBLEMS I ENCOUNTERED WHEN RUNNING THE SAR TONIGHT IN A ADDITION TO MPC DEALS NOT BEING IN THE SHEET, AS I TALKED TO YOU GUYS ABOUT THAT EARLIER.  PLEASE SORT THE SERVICES AND INC SHEET EITHER BY DEAL, SOURCE OR SINK.  JUST LUMPING IT ALL TOGETHER IN AN ENDLESS STRING OF DEALS IS LIKE PLAYING 52 CARD PICK UP WHEN THERE ARE MISTAKES IN MANY OF THE DEALS."
+slinger-r/sent_items/47.,"Sun, 13 May 2001 17:57:59 -0700",ryan.slinger@enron.com,test.volume@enron.com,REALTIME WHEEL CUT,"FOR HE 11  5/13/01, I CUT A 50MW WHEEL REALTIME FROM MALIN/MEAD230.
+
+RYAN SLINGER"
+slinger-r/sent_items/48.,"Sat, 05 May 2001 04:06:33 -0700",ryan.slinger@enron.com,les.rawson@enron.com,willamette cuts,"For HE 21&22 of 5/4/01 18mw was cut to a zero
+
+For HE 24&1 of 5/4-5 10mw was cut to a zero
+
+ryan slinger"
+slinger-r/sent_items/49.,"Thu, 19 Apr 2001 15:56:00 -0700",ryan.slinger@enron.com,portland.shift@enron.com,Schedule Changes for April and May,"There were some schedule changes to april and may due to some training classes on the last weeekend in April.  If anyone has conflicts let me know or trade where possible.
+
+ryan"
+slinger-r/sent_items/5.,"Wed, 02 Jan 2002 21:03:09 -0800",ryan.slinger@enron.com,geir.solberg@enron.com,New El Paso Model,"I designed a slightly different el paso model and it is in the Jan 02 el paso folder under Test El Paso Model.  The differences are just getting rid of the PX junk and adding in places to copy in the dispatch info(notes and proposed buy/sale decisions).  It should make it easier for the person on the following day shift to make a good hand off and evening peak decision.  If you have any ideas or want to design a new preschedule tab or anything else that would be cool.
+
+ryan"
+slinger-r/sent_items/8.,"Thu, 15 Nov 2001 19:46:22 -0800",ryan.slinger@enron.com,shift.dl-portland@enron.com,SAR FOR 11/15/01,"I did some ""off-inc sheet deals"" today and they can be found in Nov Slinger cali trading in the Inc sheet folder.  Please include these in the SAR when it is run.
+
+
+thanks,
+
+ryan"
+slinger-r/sent_items/9.,"Thu, 15 Nov 2001 18:16:17 -0800",ryan.slinger@enron.com,shift.dl-portland@enron.com,SP 15 Length for 11/16/01,"We are long 10mw SP15 from the APX for HE 1-10 at a price of $15.  EES is short so you should be able to offset the two.  The deal is not in Caps or Enpower.
+
+thanks,
+
+ryan"

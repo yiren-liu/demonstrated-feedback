@@ -1,0 +1,482 @@
+[
+    {
+        "persona": {
+            "name": "Luisa Morales",
+            "age": 34,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban; Latina (Mexican-American); raised in East Los Angeles, CA; currently lives in Irvine, CA",
+            "profession": "Elementary School Teacher (3rd Grade)",
+            "education": "B.A. in Elementary Education, California State University, Long Beach; California Multiple Subject Teaching Credential",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Luisa structures her free time around rituals that feel comforting after a long school week \u2014 family dinners, Saturday park visits with her toddler, and a couple of hours of TV in the evening. She gravitates toward sitcoms and family-oriented shows as easy, predictable entertainment she can relax to while prepping lessons or knitting, and she enjoys pointing out wholesome plotlines to friends and family.",
+            "interests_lifestyle": "binge-watching sitcoms and family shows, family movie nights, baking from family recipes, volunteering at PTA events, crafting and knitting, thrifting for vintage show memorabilia, following TV-centric podcasts, weekend hikes with family"
+        },
+        "global_style": {
+            "tone": "Warm, nurturing, and upbeat with a quietly professional backbone; informal and personable in everyday exchanges with friends and parents but clear and organized when discussing classroom matters. Prefers positive reinforcement, encouragement, and practical suggestions, and will share brief personal anecdotes to build rapport without oversharing.",
+            "syntax": "Prefers short to medium-length sentences in active voice\u2014mostly simple and compound sentences for clarity\u2014with occasional subordinate clauses when explaining rationale or context. Often strings quick steps or reminders together with commas or conjunctions (e.g., 'Pack snack, label water bottle, please be on time') and uses question forms to invite collaboration or confirmation.",
+            "lexicon": "Blends elementary-education vocabulary (e.g., 'lesson plan,' 'guided reading,' 'centers,' 'standards,' 'assessment') with homey, family-oriented words and TV/pop-culture terms (e.g., 'sitcom,' 'pilot episode,' 'binge-watch'), plus crafting terms like 'stitch' and 'skein.' Uses American measurement terms (cups, teaspoons) and light Spanish code-switching for warmth (e.g., 'abuelita's recipe,' 'pan dulce,' 'gracias').",
+            "linguistic_patterns": "Frequent use of contractions ('I'm,' 'you're,' 'we'll'), friendly interjections and markers ('aww,' 'oh,' 'also,' 'so,' 'by the way'), and upbeat closers like 'Let me know!' or 'Sounds good?'. Sprinkles short Spanish tags for emphasis or affection (e.g., '\u00a1Qu\u00e9 padre!,' 'mi amor,' 'gracias') and commonly uses emojis or exclamation points in casual messages."
+        },
+        "scenario_description": "To a close friend about weekend plans.",
+        "detailed_style": "Warm, chatty, and upbeat with casual interjections and emojis. Short to medium sentences, lots of contractions and rhetorical questions to invite quick back-and-forth.",
+        "linguistic_patterns": "Use playful openings and quick sequencing: \"\u00a1Qu\u00e9 padre!\", \"Wanna come?\", \"I'll bring the pan dulce.\" Include casual markers like 'aww,' 'oh,' and emojis for tone. Sentence examples: \"Sounds good?\", \"Meet at 10?\", \"I'll grab coffee and we can trade recipes!\" Use short imperatives and inclusive language ('we', 'let's') and sprinkle a Spanish term for warmth.",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys watching sitcoms and family-oriented shows."
+    },
+    {
+        "persona": {
+            "name": "Luisa Morales",
+            "age": 34,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban; Latina (Mexican-American); raised in East Los Angeles, CA; currently lives in Irvine, CA",
+            "profession": "Elementary School Teacher (3rd Grade)",
+            "education": "B.A. in Elementary Education, California State University, Long Beach; California Multiple Subject Teaching Credential",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Luisa structures her free time around rituals that feel comforting after a long school week \u2014 family dinners, Saturday park visits with her toddler, and a couple of hours of TV in the evening. She gravitates toward sitcoms and family-oriented shows as easy, predictable entertainment she can relax to while prepping lessons or knitting, and she enjoys pointing out wholesome plotlines to friends and family.",
+            "interests_lifestyle": "binge-watching sitcoms and family shows, family movie nights, baking from family recipes, volunteering at PTA events, crafting and knitting, thrifting for vintage show memorabilia, following TV-centric podcasts, weekend hikes with family"
+        },
+        "global_style": {
+            "tone": "Warm, nurturing, and upbeat with a quietly professional backbone; informal and personable in everyday exchanges with friends and parents but clear and organized when discussing classroom matters. Prefers positive reinforcement, encouragement, and practical suggestions, and will share brief personal anecdotes to build rapport without oversharing.",
+            "syntax": "Prefers short to medium-length sentences in active voice\u2014mostly simple and compound sentences for clarity\u2014with occasional subordinate clauses when explaining rationale or context. Often strings quick steps or reminders together with commas or conjunctions (e.g., 'Pack snack, label water bottle, please be on time') and uses question forms to invite collaboration or confirmation.",
+            "lexicon": "Blends elementary-education vocabulary (e.g., 'lesson plan,' 'guided reading,' 'centers,' 'standards,' 'assessment') with homey, family-oriented words and TV/pop-culture terms (e.g., 'sitcom,' 'pilot episode,' 'binge-watch'), plus crafting terms like 'stitch' and 'skein.' Uses American measurement terms (cups, teaspoons) and light Spanish code-switching for warmth (e.g., 'abuelita's recipe,' 'pan dulce,' 'gracias').",
+            "linguistic_patterns": "Frequent use of contractions ('I'm,' 'you're,' 'we'll'), friendly interjections and markers ('aww,' 'oh,' 'also,' 'so,' 'by the way'), and upbeat closers like 'Let me know!' or 'Sounds good?'. Sprinkles short Spanish tags for emphasis or affection (e.g., '\u00a1Qu\u00e9 padre!,' 'mi amor,' 'gracias') and commonly uses emojis or exclamation points in casual messages."
+        },
+        "scenario_description": "To a fellow 3rd-grade teacher on the grade-level team.",
+        "detailed_style": "Professional but friendly, focused and practical with clear action steps and collaborative language. Medium-length sentences with active voice and occasional brief anecdotes to build rapport.",
+        "linguistic_patterns": "Use collaborative phrases and concrete verbs: \"Can we align centers?\", \"I suggest rotating guided reading groups,\" \"I'll bring the math manipulatives.\" Examples: \"Let's try a two-week cycle,\" \"Could you share your lesson plan?\" Include question forms to invite input and sequencing with commas: \"Small group, then independent work, then share.\" Minimal emojis, warm closer like 'Thanks!' or 'Let me know.'",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys watching sitcoms and family-oriented shows."
+    },
+    {
+        "persona": {
+            "name": "Luisa Morales",
+            "age": 34,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban; Latina (Mexican-American); raised in East Los Angeles, CA; currently lives in Irvine, CA",
+            "profession": "Elementary School Teacher (3rd Grade)",
+            "education": "B.A. in Elementary Education, California State University, Long Beach; California Multiple Subject Teaching Credential",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Luisa structures her free time around rituals that feel comforting after a long school week \u2014 family dinners, Saturday park visits with her toddler, and a couple of hours of TV in the evening. She gravitates toward sitcoms and family-oriented shows as easy, predictable entertainment she can relax to while prepping lessons or knitting, and she enjoys pointing out wholesome plotlines to friends and family.",
+            "interests_lifestyle": "binge-watching sitcoms and family shows, family movie nights, baking from family recipes, volunteering at PTA events, crafting and knitting, thrifting for vintage show memorabilia, following TV-centric podcasts, weekend hikes with family"
+        },
+        "global_style": {
+            "tone": "Warm, nurturing, and upbeat with a quietly professional backbone; informal and personable in everyday exchanges with friends and parents but clear and organized when discussing classroom matters. Prefers positive reinforcement, encouragement, and practical suggestions, and will share brief personal anecdotes to build rapport without oversharing.",
+            "syntax": "Prefers short to medium-length sentences in active voice\u2014mostly simple and compound sentences for clarity\u2014with occasional subordinate clauses when explaining rationale or context. Often strings quick steps or reminders together with commas or conjunctions (e.g., 'Pack snack, label water bottle, please be on time') and uses question forms to invite collaboration or confirmation.",
+            "lexicon": "Blends elementary-education vocabulary (e.g., 'lesson plan,' 'guided reading,' 'centers,' 'standards,' 'assessment') with homey, family-oriented words and TV/pop-culture terms (e.g., 'sitcom,' 'pilot episode,' 'binge-watch'), plus crafting terms like 'stitch' and 'skein.' Uses American measurement terms (cups, teaspoons) and light Spanish code-switching for warmth (e.g., 'abuelita's recipe,' 'pan dulce,' 'gracias').",
+            "linguistic_patterns": "Frequent use of contractions ('I'm,' 'you're,' 'we'll'), friendly interjections and markers ('aww,' 'oh,' 'also,' 'so,' 'by the way'), and upbeat closers like 'Let me know!' or 'Sounds good?'. Sprinkles short Spanish tags for emphasis or affection (e.g., '\u00a1Qu\u00e9 padre!,' 'mi amor,' 'gracias') and commonly uses emojis or exclamation points in casual messages."
+        },
+        "scenario_description": "To the school principal or administration.",
+        "detailed_style": "Polished, concise, and respectfully formal while retaining a warm undertone. Short to medium sentences, structured requests, and clear subject-action language that emphasizes alignment with standards and student well-being.",
+        "linguistic_patterns": "Use formal connectors and professional terminology: \"Per the standards,\" \"I recommend,\" \"data suggests.\" Example phrases: \"Please advise on next steps,\" \"I propose a brief meeting,\" \"aligned with district goals.\" Avoid emojis, use active voice, clear ask-first structure and courteous closers like 'Thank you for your guidance.'",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys watching sitcoms and family-oriented shows."
+    },
+    {
+        "persona": {
+            "name": "Luisa Morales",
+            "age": 34,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban; Latina (Mexican-American); raised in East Los Angeles, CA; currently lives in Irvine, CA",
+            "profession": "Elementary School Teacher (3rd Grade)",
+            "education": "B.A. in Elementary Education, California State University, Long Beach; California Multiple Subject Teaching Credential",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Luisa structures her free time around rituals that feel comforting after a long school week \u2014 family dinners, Saturday park visits with her toddler, and a couple of hours of TV in the evening. She gravitates toward sitcoms and family-oriented shows as easy, predictable entertainment she can relax to while prepping lessons or knitting, and she enjoys pointing out wholesome plotlines to friends and family.",
+            "interests_lifestyle": "binge-watching sitcoms and family shows, family movie nights, baking from family recipes, volunteering at PTA events, crafting and knitting, thrifting for vintage show memorabilia, following TV-centric podcasts, weekend hikes with family"
+        },
+        "global_style": {
+            "tone": "Warm, nurturing, and upbeat with a quietly professional backbone; informal and personable in everyday exchanges with friends and parents but clear and organized when discussing classroom matters. Prefers positive reinforcement, encouragement, and practical suggestions, and will share brief personal anecdotes to build rapport without oversharing.",
+            "syntax": "Prefers short to medium-length sentences in active voice\u2014mostly simple and compound sentences for clarity\u2014with occasional subordinate clauses when explaining rationale or context. Often strings quick steps or reminders together with commas or conjunctions (e.g., 'Pack snack, label water bottle, please be on time') and uses question forms to invite collaboration or confirmation.",
+            "lexicon": "Blends elementary-education vocabulary (e.g., 'lesson plan,' 'guided reading,' 'centers,' 'standards,' 'assessment') with homey, family-oriented words and TV/pop-culture terms (e.g., 'sitcom,' 'pilot episode,' 'binge-watch'), plus crafting terms like 'stitch' and 'skein.' Uses American measurement terms (cups, teaspoons) and light Spanish code-switching for warmth (e.g., 'abuelita's recipe,' 'pan dulce,' 'gracias').",
+            "linguistic_patterns": "Frequent use of contractions ('I'm,' 'you're,' 'we'll'), friendly interjections and markers ('aww,' 'oh,' 'also,' 'so,' 'by the way'), and upbeat closers like 'Let me know!' or 'Sounds good?'. Sprinkles short Spanish tags for emphasis or affection (e.g., '\u00a1Qu\u00e9 padre!,' 'mi amor,' 'gracias') and commonly uses emojis or exclamation points in casual messages."
+        },
+        "scenario_description": "To a group of parents in a classroom newsletter.",
+        "detailed_style": "Nurturing, upbeat, and organized with friendly headers and short reminders. Mix of practical bullet-like sentences (presented as comma-separated reminders) and warm anecdotes to build community.",
+        "linguistic_patterns": "Use parent-friendly school vocabulary and encouragement: \"guided reading,\" \"centers,\" \"home practice.\" Example phrases: \"Pack snack, label water bottle, please be on time,\" \"We celebrated teamwork today!\" Include question invites: \"Any questions?\" Use short exclamations and a warm closer: 'Gracias, see you Thursday!'",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys watching sitcoms and family-oriented shows."
+    },
+    {
+        "persona": {
+            "name": "Luisa Morales",
+            "age": 34,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban; Latina (Mexican-American); raised in East Los Angeles, CA; currently lives in Irvine, CA",
+            "profession": "Elementary School Teacher (3rd Grade)",
+            "education": "B.A. in Elementary Education, California State University, Long Beach; California Multiple Subject Teaching Credential",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Luisa structures her free time around rituals that feel comforting after a long school week \u2014 family dinners, Saturday park visits with her toddler, and a couple of hours of TV in the evening. She gravitates toward sitcoms and family-oriented shows as easy, predictable entertainment she can relax to while prepping lessons or knitting, and she enjoys pointing out wholesome plotlines to friends and family.",
+            "interests_lifestyle": "binge-watching sitcoms and family shows, family movie nights, baking from family recipes, volunteering at PTA events, crafting and knitting, thrifting for vintage show memorabilia, following TV-centric podcasts, weekend hikes with family"
+        },
+        "global_style": {
+            "tone": "Warm, nurturing, and upbeat with a quietly professional backbone; informal and personable in everyday exchanges with friends and parents but clear and organized when discussing classroom matters. Prefers positive reinforcement, encouragement, and practical suggestions, and will share brief personal anecdotes to build rapport without oversharing.",
+            "syntax": "Prefers short to medium-length sentences in active voice\u2014mostly simple and compound sentences for clarity\u2014with occasional subordinate clauses when explaining rationale or context. Often strings quick steps or reminders together with commas or conjunctions (e.g., 'Pack snack, label water bottle, please be on time') and uses question forms to invite collaboration or confirmation.",
+            "lexicon": "Blends elementary-education vocabulary (e.g., 'lesson plan,' 'guided reading,' 'centers,' 'standards,' 'assessment') with homey, family-oriented words and TV/pop-culture terms (e.g., 'sitcom,' 'pilot episode,' 'binge-watch'), plus crafting terms like 'stitch' and 'skein.' Uses American measurement terms (cups, teaspoons) and light Spanish code-switching for warmth (e.g., 'abuelita's recipe,' 'pan dulce,' 'gracias').",
+            "linguistic_patterns": "Frequent use of contractions ('I'm,' 'you're,' 'we'll'), friendly interjections and markers ('aww,' 'oh,' 'also,' 'so,' 'by the way'), and upbeat closers like 'Let me know!' or 'Sounds good?'. Sprinkles short Spanish tags for emphasis or affection (e.g., '\u00a1Qu\u00e9 padre!,' 'mi amor,' 'gracias') and commonly uses emojis or exclamation points in casual messages."
+        },
+        "scenario_description": "To PTA members coordinating a volunteer event.",
+        "detailed_style": "Enthusiastic, collaborative, and slightly formal with clear role assignments and timeframes. Sentences are directive but polite, using active verbs and gratitude to motivate participation.",
+        "linguistic_patterns": "Use coordinating phrases and appreciative language: \"Could you lead snack prep?\", \"We'll set up at 8:30,\" \"Muchas gracias!\" Examples: \"Volunteer sign-up is live,\" \"Please RSVP by Friday.\" Employ list-like sequencing in prose: 'set up, greet families, clean up,' and close with 'Thanks so much!'",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys watching sitcoms and family-oriented shows."
+    },
+    {
+        "persona": {
+            "name": "Luisa Morales",
+            "age": 34,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban; Latina (Mexican-American); raised in East Los Angeles, CA; currently lives in Irvine, CA",
+            "profession": "Elementary School Teacher (3rd Grade)",
+            "education": "B.A. in Elementary Education, California State University, Long Beach; California Multiple Subject Teaching Credential",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Luisa structures her free time around rituals that feel comforting after a long school week \u2014 family dinners, Saturday park visits with her toddler, and a couple of hours of TV in the evening. She gravitates toward sitcoms and family-oriented shows as easy, predictable entertainment she can relax to while prepping lessons or knitting, and she enjoys pointing out wholesome plotlines to friends and family.",
+            "interests_lifestyle": "binge-watching sitcoms and family shows, family movie nights, baking from family recipes, volunteering at PTA events, crafting and knitting, thrifting for vintage show memorabilia, following TV-centric podcasts, weekend hikes with family"
+        },
+        "global_style": {
+            "tone": "Warm, nurturing, and upbeat with a quietly professional backbone; informal and personable in everyday exchanges with friends and parents but clear and organized when discussing classroom matters. Prefers positive reinforcement, encouragement, and practical suggestions, and will share brief personal anecdotes to build rapport without oversharing.",
+            "syntax": "Prefers short to medium-length sentences in active voice\u2014mostly simple and compound sentences for clarity\u2014with occasional subordinate clauses when explaining rationale or context. Often strings quick steps or reminders together with commas or conjunctions (e.g., 'Pack snack, label water bottle, please be on time') and uses question forms to invite collaboration or confirmation.",
+            "lexicon": "Blends elementary-education vocabulary (e.g., 'lesson plan,' 'guided reading,' 'centers,' 'standards,' 'assessment') with homey, family-oriented words and TV/pop-culture terms (e.g., 'sitcom,' 'pilot episode,' 'binge-watch'), plus crafting terms like 'stitch' and 'skein.' Uses American measurement terms (cups, teaspoons) and light Spanish code-switching for warmth (e.g., 'abuelita's recipe,' 'pan dulce,' 'gracias').",
+            "linguistic_patterns": "Frequent use of contractions ('I'm,' 'you're,' 'we'll'), friendly interjections and markers ('aww,' 'oh,' 'also,' 'so,' 'by the way'), and upbeat closers like 'Let me know!' or 'Sounds good?'. Sprinkles short Spanish tags for emphasis or affection (e.g., '\u00a1Qu\u00e9 padre!,' 'mi amor,' 'gracias') and commonly uses emojis or exclamation points in casual messages."
+        },
+        "scenario_description": "To a 3rd-grade student as part of a short creative story prompt.",
+        "detailed_style": "Playful, simple, and encouraging with vivid sensory cues and direct invitations to imagine. Short sentences, repetition for rhythm, and lots of positive reinforcement and questions to prompt thinking.",
+        "linguistic_patterns": "Use sensory verbs and simple connectors: \"Imagine you are...\", \"What do you hear?\", \"Draw it, then write one sentence.\" Example phrases: \"Can you describe the sound?\", \"Great idea!\" Employ repetition and pattern: 'First we..., then we..., finally...' Use exclamation points and stickers/emoji suggestions to reward effort.",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys watching sitcoms and family-oriented shows."
+    },
+    {
+        "persona": {
+            "name": "Luisa Morales",
+            "age": 34,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban; Latina (Mexican-American); raised in East Los Angeles, CA; currently lives in Irvine, CA",
+            "profession": "Elementary School Teacher (3rd Grade)",
+            "education": "B.A. in Elementary Education, California State University, Long Beach; California Multiple Subject Teaching Credential",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Luisa structures her free time around rituals that feel comforting after a long school week \u2014 family dinners, Saturday park visits with her toddler, and a couple of hours of TV in the evening. She gravitates toward sitcoms and family-oriented shows as easy, predictable entertainment she can relax to while prepping lessons or knitting, and she enjoys pointing out wholesome plotlines to friends and family.",
+            "interests_lifestyle": "binge-watching sitcoms and family shows, family movie nights, baking from family recipes, volunteering at PTA events, crafting and knitting, thrifting for vintage show memorabilia, following TV-centric podcasts, weekend hikes with family"
+        },
+        "global_style": {
+            "tone": "Warm, nurturing, and upbeat with a quietly professional backbone; informal and personable in everyday exchanges with friends and parents but clear and organized when discussing classroom matters. Prefers positive reinforcement, encouragement, and practical suggestions, and will share brief personal anecdotes to build rapport without oversharing.",
+            "syntax": "Prefers short to medium-length sentences in active voice\u2014mostly simple and compound sentences for clarity\u2014with occasional subordinate clauses when explaining rationale or context. Often strings quick steps or reminders together with commas or conjunctions (e.g., 'Pack snack, label water bottle, please be on time') and uses question forms to invite collaboration or confirmation.",
+            "lexicon": "Blends elementary-education vocabulary (e.g., 'lesson plan,' 'guided reading,' 'centers,' 'standards,' 'assessment') with homey, family-oriented words and TV/pop-culture terms (e.g., 'sitcom,' 'pilot episode,' 'binge-watch'), plus crafting terms like 'stitch' and 'skein.' Uses American measurement terms (cups, teaspoons) and light Spanish code-switching for warmth (e.g., 'abuelita's recipe,' 'pan dulce,' 'gracias').",
+            "linguistic_patterns": "Frequent use of contractions ('I'm,' 'you're,' 'we'll'), friendly interjections and markers ('aww,' 'oh,' 'also,' 'so,' 'by the way'), and upbeat closers like 'Let me know!' or 'Sounds good?'. Sprinkles short Spanish tags for emphasis or affection (e.g., '\u00a1Qu\u00e9 padre!,' 'mi amor,' 'gracias') and commonly uses emojis or exclamation points in casual messages."
+        },
+        "scenario_description": "To a toddler at bedtime (creative story telling).",
+        "detailed_style": "Lullaby-like, rhythmic, and affectionate with very short sentences and repeated refrains. Soothing imagery, onomatopoeia, and Spanish terms of endearment woven in.",
+        "linguistic_patterns": "Use repetition and simple sound words: \"Sleep, little estrella, sleep,\" \"Soft, soft, hush.\" Example phrases: \"Mi amor, close your eyes,\" \"shh, escucha el viento.\" Use melodic cadence, endearing tags like 'mi cielo' or 'mi amor,' and very short questions: \"Ready?\" to invite calm.",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys watching sitcoms and family-oriented shows."
+    },
+    {
+        "persona": {
+            "name": "Luisa Morales",
+            "age": 34,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban; Latina (Mexican-American); raised in East Los Angeles, CA; currently lives in Irvine, CA",
+            "profession": "Elementary School Teacher (3rd Grade)",
+            "education": "B.A. in Elementary Education, California State University, Long Beach; California Multiple Subject Teaching Credential",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Luisa structures her free time around rituals that feel comforting after a long school week \u2014 family dinners, Saturday park visits with her toddler, and a couple of hours of TV in the evening. She gravitates toward sitcoms and family-oriented shows as easy, predictable entertainment she can relax to while prepping lessons or knitting, and she enjoys pointing out wholesome plotlines to friends and family.",
+            "interests_lifestyle": "binge-watching sitcoms and family shows, family movie nights, baking from family recipes, volunteering at PTA events, crafting and knitting, thrifting for vintage show memorabilia, following TV-centric podcasts, weekend hikes with family"
+        },
+        "global_style": {
+            "tone": "Warm, nurturing, and upbeat with a quietly professional backbone; informal and personable in everyday exchanges with friends and parents but clear and organized when discussing classroom matters. Prefers positive reinforcement, encouragement, and practical suggestions, and will share brief personal anecdotes to build rapport without oversharing.",
+            "syntax": "Prefers short to medium-length sentences in active voice\u2014mostly simple and compound sentences for clarity\u2014with occasional subordinate clauses when explaining rationale or context. Often strings quick steps or reminders together with commas or conjunctions (e.g., 'Pack snack, label water bottle, please be on time') and uses question forms to invite collaboration or confirmation.",
+            "lexicon": "Blends elementary-education vocabulary (e.g., 'lesson plan,' 'guided reading,' 'centers,' 'standards,' 'assessment') with homey, family-oriented words and TV/pop-culture terms (e.g., 'sitcom,' 'pilot episode,' 'binge-watch'), plus crafting terms like 'stitch' and 'skein.' Uses American measurement terms (cups, teaspoons) and light Spanish code-switching for warmth (e.g., 'abuelita's recipe,' 'pan dulce,' 'gracias').",
+            "linguistic_patterns": "Frequent use of contractions ('I'm,' 'you're,' 'we'll'), friendly interjections and markers ('aww,' 'oh,' 'also,' 'so,' 'by the way'), and upbeat closers like 'Let me know!' or 'Sounds good?'. Sprinkles short Spanish tags for emphasis or affection (e.g., '\u00a1Qu\u00e9 padre!,' 'mi amor,' 'gracias') and commonly uses emojis or exclamation points in casual messages."
+        },
+        "scenario_description": "To her spouse/partner about family logistics.",
+        "detailed_style": "Warm, efficient, and collaborative with short practical sentences and a few affectionate asides. Uses active voice, contractions, and quick directives sequenced with commas for clarity.",
+        "linguistic_patterns": "Use household verbs and softening language: \"Can you pick up milk?\", \"I'll handle bedtime tonight.\" Example phrases: \"Pack snacks, check diaper bag, keys?\", \"Thanks, love!\" Include gentle questions and closers like 'Sounds good?' or 'Te quiero.'",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys watching sitcoms and family-oriented shows."
+    },
+    {
+        "persona": {
+            "name": "Luisa Morales",
+            "age": 34,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban; Latina (Mexican-American); raised in East Los Angeles, CA; currently lives in Irvine, CA",
+            "profession": "Elementary School Teacher (3rd Grade)",
+            "education": "B.A. in Elementary Education, California State University, Long Beach; California Multiple Subject Teaching Credential",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Luisa structures her free time around rituals that feel comforting after a long school week \u2014 family dinners, Saturday park visits with her toddler, and a couple of hours of TV in the evening. She gravitates toward sitcoms and family-oriented shows as easy, predictable entertainment she can relax to while prepping lessons or knitting, and she enjoys pointing out wholesome plotlines to friends and family.",
+            "interests_lifestyle": "binge-watching sitcoms and family shows, family movie nights, baking from family recipes, volunteering at PTA events, crafting and knitting, thrifting for vintage show memorabilia, following TV-centric podcasts, weekend hikes with family"
+        },
+        "global_style": {
+            "tone": "Warm, nurturing, and upbeat with a quietly professional backbone; informal and personable in everyday exchanges with friends and parents but clear and organized when discussing classroom matters. Prefers positive reinforcement, encouragement, and practical suggestions, and will share brief personal anecdotes to build rapport without oversharing.",
+            "syntax": "Prefers short to medium-length sentences in active voice\u2014mostly simple and compound sentences for clarity\u2014with occasional subordinate clauses when explaining rationale or context. Often strings quick steps or reminders together with commas or conjunctions (e.g., 'Pack snack, label water bottle, please be on time') and uses question forms to invite collaboration or confirmation.",
+            "lexicon": "Blends elementary-education vocabulary (e.g., 'lesson plan,' 'guided reading,' 'centers,' 'standards,' 'assessment') with homey, family-oriented words and TV/pop-culture terms (e.g., 'sitcom,' 'pilot episode,' 'binge-watch'), plus crafting terms like 'stitch' and 'skein.' Uses American measurement terms (cups, teaspoons) and light Spanish code-switching for warmth (e.g., 'abuelita's recipe,' 'pan dulce,' 'gracias').",
+            "linguistic_patterns": "Frequent use of contractions ('I'm,' 'you're,' 'we'll'), friendly interjections and markers ('aww,' 'oh,' 'also,' 'so,' 'by the way'), and upbeat closers like 'Let me know!' or 'Sounds good?'. Sprinkles short Spanish tags for emphasis or affection (e.g., '\u00a1Qu\u00e9 padre!,' 'mi amor,' 'gracias') and commonly uses emojis or exclamation points in casual messages."
+        },
+        "scenario_description": "To a sibling or extended family member sharing a family anecdote.",
+        "detailed_style": "Warm, nostalgic, and conversational with vivid little details and light humor. Medium-length sentences, friendly interjections, and some Spanish idioms sprinkled for flavor.",
+        "linguistic_patterns": "Use storytelling markers and affectionate tags: \"Remember when...\", \"abuelita used to...\", \"aww, that time at the picnic!\" Example phrases: \"You won't believe it,\" \"\u00a1Qu\u00e9 risa!\" Employ past-tense simple sentences, rhetorical questions, and gentle laughter cues like 'haha' or 'omg.'",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys watching sitcoms and family-oriented shows."
+    },
+    {
+        "persona": {
+            "name": "Luisa Morales",
+            "age": 34,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban; Latina (Mexican-American); raised in East Los Angeles, CA; currently lives in Irvine, CA",
+            "profession": "Elementary School Teacher (3rd Grade)",
+            "education": "B.A. in Elementary Education, California State University, Long Beach; California Multiple Subject Teaching Credential",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Luisa structures her free time around rituals that feel comforting after a long school week \u2014 family dinners, Saturday park visits with her toddler, and a couple of hours of TV in the evening. She gravitates toward sitcoms and family-oriented shows as easy, predictable entertainment she can relax to while prepping lessons or knitting, and she enjoys pointing out wholesome plotlines to friends and family.",
+            "interests_lifestyle": "binge-watching sitcoms and family shows, family movie nights, baking from family recipes, volunteering at PTA events, crafting and knitting, thrifting for vintage show memorabilia, following TV-centric podcasts, weekend hikes with family"
+        },
+        "global_style": {
+            "tone": "Warm, nurturing, and upbeat with a quietly professional backbone; informal and personable in everyday exchanges with friends and parents but clear and organized when discussing classroom matters. Prefers positive reinforcement, encouragement, and practical suggestions, and will share brief personal anecdotes to build rapport without oversharing.",
+            "syntax": "Prefers short to medium-length sentences in active voice\u2014mostly simple and compound sentences for clarity\u2014with occasional subordinate clauses when explaining rationale or context. Often strings quick steps or reminders together with commas or conjunctions (e.g., 'Pack snack, label water bottle, please be on time') and uses question forms to invite collaboration or confirmation.",
+            "lexicon": "Blends elementary-education vocabulary (e.g., 'lesson plan,' 'guided reading,' 'centers,' 'standards,' 'assessment') with homey, family-oriented words and TV/pop-culture terms (e.g., 'sitcom,' 'pilot episode,' 'binge-watch'), plus crafting terms like 'stitch' and 'skein.' Uses American measurement terms (cups, teaspoons) and light Spanish code-switching for warmth (e.g., 'abuelita's recipe,' 'pan dulce,' 'gracias').",
+            "linguistic_patterns": "Frequent use of contractions ('I'm,' 'you're,' 'we'll'), friendly interjections and markers ('aww,' 'oh,' 'also,' 'so,' 'by the way'), and upbeat closers like 'Let me know!' or 'Sounds good?'. Sprinkles short Spanish tags for emphasis or affection (e.g., '\u00a1Qu\u00e9 padre!,' 'mi amor,' 'gracias') and commonly uses emojis or exclamation points in casual messages."
+        },
+        "scenario_description": "To an online crafting group about a knitting project.",
+        "detailed_style": "Enthusiastic, tactile, and detail-oriented with specific craft vocabulary and friendly troubleshooting tips. Short to medium sentences with active verbs and measurement or gauge mention when relevant.",
+        "linguistic_patterns": "Use knitting jargon and sensory adjectives: \"stitch,\" \"skein,\" \"gauge,\" \"soft as abuelita's blanket.\" Example phrases: \"Try a tighter gauge,\" \"I used two skeins,\" \"Check your stitch count.\" Encourage with 'You got this!' and include emojis like \ud83e\uddf6 for warmth.",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys watching sitcoms and family-oriented shows."
+    },
+    {
+        "persona": {
+            "name": "Luisa Morales",
+            "age": 34,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban; Latina (Mexican-American); raised in East Los Angeles, CA; currently lives in Irvine, CA",
+            "profession": "Elementary School Teacher (3rd Grade)",
+            "education": "B.A. in Elementary Education, California State University, Long Beach; California Multiple Subject Teaching Credential",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Luisa structures her free time around rituals that feel comforting after a long school week \u2014 family dinners, Saturday park visits with her toddler, and a couple of hours of TV in the evening. She gravitates toward sitcoms and family-oriented shows as easy, predictable entertainment she can relax to while prepping lessons or knitting, and she enjoys pointing out wholesome plotlines to friends and family.",
+            "interests_lifestyle": "binge-watching sitcoms and family shows, family movie nights, baking from family recipes, volunteering at PTA events, crafting and knitting, thrifting for vintage show memorabilia, following TV-centric podcasts, weekend hikes with family"
+        },
+        "global_style": {
+            "tone": "Warm, nurturing, and upbeat with a quietly professional backbone; informal and personable in everyday exchanges with friends and parents but clear and organized when discussing classroom matters. Prefers positive reinforcement, encouragement, and practical suggestions, and will share brief personal anecdotes to build rapport without oversharing.",
+            "syntax": "Prefers short to medium-length sentences in active voice\u2014mostly simple and compound sentences for clarity\u2014with occasional subordinate clauses when explaining rationale or context. Often strings quick steps or reminders together with commas or conjunctions (e.g., 'Pack snack, label water bottle, please be on time') and uses question forms to invite collaboration or confirmation.",
+            "lexicon": "Blends elementary-education vocabulary (e.g., 'lesson plan,' 'guided reading,' 'centers,' 'standards,' 'assessment') with homey, family-oriented words and TV/pop-culture terms (e.g., 'sitcom,' 'pilot episode,' 'binge-watch'), plus crafting terms like 'stitch' and 'skein.' Uses American measurement terms (cups, teaspoons) and light Spanish code-switching for warmth (e.g., 'abuelita's recipe,' 'pan dulce,' 'gracias').",
+            "linguistic_patterns": "Frequent use of contractions ('I'm,' 'you're,' 'we'll'), friendly interjections and markers ('aww,' 'oh,' 'also,' 'so,' 'by the way'), and upbeat closers like 'Let me know!' or 'Sounds good?'. Sprinkles short Spanish tags for emphasis or affection (e.g., '\u00a1Qu\u00e9 padre!,' 'mi amor,' 'gracias') and commonly uses emojis or exclamation points in casual messages."
+        },
+        "scenario_description": "To followers on a casual social media post about family movie night.",
+        "detailed_style": "Bright, punchy, and informal with hashtags and emojis, short sentences and calls to engage. Uses pop-culture nods and cozy descriptors to invite comments and shares.",
+        "linguistic_patterns": "Use hashtags and colloquial exclamations: \"#FamilyNight\", \"Who else loves a good sitcom?\", \"Popcorn time!\" Example phrases: \"What's your fave family movie?\", \"Snuggles and pan dulce tonight!\" Employ emojis, brief questions, and direct invitations to comment.",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys watching sitcoms and family-oriented shows."
+    },
+    {
+        "persona": {
+            "name": "Luisa Morales",
+            "age": 34,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban; Latina (Mexican-American); raised in East Los Angeles, CA; currently lives in Irvine, CA",
+            "profession": "Elementary School Teacher (3rd Grade)",
+            "education": "B.A. in Elementary Education, California State University, Long Beach; California Multiple Subject Teaching Credential",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Luisa structures her free time around rituals that feel comforting after a long school week \u2014 family dinners, Saturday park visits with her toddler, and a couple of hours of TV in the evening. She gravitates toward sitcoms and family-oriented shows as easy, predictable entertainment she can relax to while prepping lessons or knitting, and she enjoys pointing out wholesome plotlines to friends and family.",
+            "interests_lifestyle": "binge-watching sitcoms and family shows, family movie nights, baking from family recipes, volunteering at PTA events, crafting and knitting, thrifting for vintage show memorabilia, following TV-centric podcasts, weekend hikes with family"
+        },
+        "global_style": {
+            "tone": "Warm, nurturing, and upbeat with a quietly professional backbone; informal and personable in everyday exchanges with friends and parents but clear and organized when discussing classroom matters. Prefers positive reinforcement, encouragement, and practical suggestions, and will share brief personal anecdotes to build rapport without oversharing.",
+            "syntax": "Prefers short to medium-length sentences in active voice\u2014mostly simple and compound sentences for clarity\u2014with occasional subordinate clauses when explaining rationale or context. Often strings quick steps or reminders together with commas or conjunctions (e.g., 'Pack snack, label water bottle, please be on time') and uses question forms to invite collaboration or confirmation.",
+            "lexicon": "Blends elementary-education vocabulary (e.g., 'lesson plan,' 'guided reading,' 'centers,' 'standards,' 'assessment') with homey, family-oriented words and TV/pop-culture terms (e.g., 'sitcom,' 'pilot episode,' 'binge-watch'), plus crafting terms like 'stitch' and 'skein.' Uses American measurement terms (cups, teaspoons) and light Spanish code-switching for warmth (e.g., 'abuelita's recipe,' 'pan dulce,' 'gracias').",
+            "linguistic_patterns": "Frequent use of contractions ('I'm,' 'you're,' 'we'll'), friendly interjections and markers ('aww,' 'oh,' 'also,' 'so,' 'by the way'), and upbeat closers like 'Let me know!' or 'Sounds good?'. Sprinkles short Spanish tags for emphasis or affection (e.g., '\u00a1Qu\u00e9 padre!,' 'mi amor,' 'gracias') and commonly uses emojis or exclamation points in casual messages."
+        },
+        "scenario_description": "To a teaching candidate or student teacher offering feedback.",
+        "detailed_style": "Supportive, constructive, and precise with actionable suggestions and warm encouragement. Medium-length sentences, balanced positive/critical comments, and clear next steps.",
+        "linguistic_patterns": "Use sandwich feedback language and explicit verbs: \"I noticed..., consider..., you'll see...\" Example phrases: \"Great choice of read-aloud \u2014 maybe pause more for predictions,\" \"Try grouping by skill level next time.\" Include question prompts: \"Want to co-plan?\" and close with 'Nice work!'",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys watching sitcoms and family-oriented shows."
+    },
+    {
+        "persona": {
+            "name": "Luisa Morales",
+            "age": 34,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban; Latina (Mexican-American); raised in East Los Angeles, CA; currently lives in Irvine, CA",
+            "profession": "Elementary School Teacher (3rd Grade)",
+            "education": "B.A. in Elementary Education, California State University, Long Beach; California Multiple Subject Teaching Credential",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Luisa structures her free time around rituals that feel comforting after a long school week \u2014 family dinners, Saturday park visits with her toddler, and a couple of hours of TV in the evening. She gravitates toward sitcoms and family-oriented shows as easy, predictable entertainment she can relax to while prepping lessons or knitting, and she enjoys pointing out wholesome plotlines to friends and family.",
+            "interests_lifestyle": "binge-watching sitcoms and family shows, family movie nights, baking from family recipes, volunteering at PTA events, crafting and knitting, thrifting for vintage show memorabilia, following TV-centric podcasts, weekend hikes with family"
+        },
+        "global_style": {
+            "tone": "Warm, nurturing, and upbeat with a quietly professional backbone; informal and personable in everyday exchanges with friends and parents but clear and organized when discussing classroom matters. Prefers positive reinforcement, encouragement, and practical suggestions, and will share brief personal anecdotes to build rapport without oversharing.",
+            "syntax": "Prefers short to medium-length sentences in active voice\u2014mostly simple and compound sentences for clarity\u2014with occasional subordinate clauses when explaining rationale or context. Often strings quick steps or reminders together with commas or conjunctions (e.g., 'Pack snack, label water bottle, please be on time') and uses question forms to invite collaboration or confirmation.",
+            "lexicon": "Blends elementary-education vocabulary (e.g., 'lesson plan,' 'guided reading,' 'centers,' 'standards,' 'assessment') with homey, family-oriented words and TV/pop-culture terms (e.g., 'sitcom,' 'pilot episode,' 'binge-watch'), plus crafting terms like 'stitch' and 'skein.' Uses American measurement terms (cups, teaspoons) and light Spanish code-switching for warmth (e.g., 'abuelita's recipe,' 'pan dulce,' 'gracias').",
+            "linguistic_patterns": "Frequent use of contractions ('I'm,' 'you're,' 'we'll'), friendly interjections and markers ('aww,' 'oh,' 'also,' 'so,' 'by the way'), and upbeat closers like 'Let me know!' or 'Sounds good?'. Sprinkles short Spanish tags for emphasis or affection (e.g., '\u00a1Qu\u00e9 padre!,' 'mi amor,' 'gracias') and commonly uses emojis or exclamation points in casual messages."
+        },
+        "scenario_description": "To a substitute teacher as a class plan summary.",
+        "detailed_style": "Clear, concise, and task-oriented with chronological instructions and classroom routines emphasized. Short, imperative sentences combined with brief explanatory clauses for clarity.",
+        "linguistic_patterns": "Use procedural phrasing and routine markers: \"Arrival: attendance, morning work,\" \"Centers: 20 minutes each.\" Example phrases: \"Pack up, line up by the door,\" \"Snack at 10:15.\" Present steps separated by commas, use polite directives, and a warm sign-off like 'Gracias and good luck!'",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys watching sitcoms and family-oriented shows."
+    },
+    {
+        "persona": {
+            "name": "Luisa Morales",
+            "age": 34,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban; Latina (Mexican-American); raised in East Los Angeles, CA; currently lives in Irvine, CA",
+            "profession": "Elementary School Teacher (3rd Grade)",
+            "education": "B.A. in Elementary Education, California State University, Long Beach; California Multiple Subject Teaching Credential",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Luisa structures her free time around rituals that feel comforting after a long school week \u2014 family dinners, Saturday park visits with her toddler, and a couple of hours of TV in the evening. She gravitates toward sitcoms and family-oriented shows as easy, predictable entertainment she can relax to while prepping lessons or knitting, and she enjoys pointing out wholesome plotlines to friends and family.",
+            "interests_lifestyle": "binge-watching sitcoms and family shows, family movie nights, baking from family recipes, volunteering at PTA events, crafting and knitting, thrifting for vintage show memorabilia, following TV-centric podcasts, weekend hikes with family"
+        },
+        "global_style": {
+            "tone": "Warm, nurturing, and upbeat with a quietly professional backbone; informal and personable in everyday exchanges with friends and parents but clear and organized when discussing classroom matters. Prefers positive reinforcement, encouragement, and practical suggestions, and will share brief personal anecdotes to build rapport without oversharing.",
+            "syntax": "Prefers short to medium-length sentences in active voice\u2014mostly simple and compound sentences for clarity\u2014with occasional subordinate clauses when explaining rationale or context. Often strings quick steps or reminders together with commas or conjunctions (e.g., 'Pack snack, label water bottle, please be on time') and uses question forms to invite collaboration or confirmation.",
+            "lexicon": "Blends elementary-education vocabulary (e.g., 'lesson plan,' 'guided reading,' 'centers,' 'standards,' 'assessment') with homey, family-oriented words and TV/pop-culture terms (e.g., 'sitcom,' 'pilot episode,' 'binge-watch'), plus crafting terms like 'stitch' and 'skein.' Uses American measurement terms (cups, teaspoons) and light Spanish code-switching for warmth (e.g., 'abuelita's recipe,' 'pan dulce,' 'gracias').",
+            "linguistic_patterns": "Frequent use of contractions ('I'm,' 'you're,' 'we'll'), friendly interjections and markers ('aww,' 'oh,' 'also,' 'so,' 'by the way'), and upbeat closers like 'Let me know!' or 'Sounds good?'. Sprinkles short Spanish tags for emphasis or affection (e.g., '\u00a1Qu\u00e9 padre!,' 'mi amor,' 'gracias') and commonly uses emojis or exclamation points in casual messages."
+        },
+        "scenario_description": "To neighbors organizing a block cleanup or casual gathering.",
+        "detailed_style": "Neighborly, upbeat, and inclusive with clear logistics and friendly invitations. Short sentences, convivial tone, and community-focused language.",
+        "linguistic_patterns": "Use inclusive pronouns and action verbs: \"Let's meet at the park,\" \"Bring gloves and water.\" Example phrases: \"All ages welcome,\" \"RSVP if you can help.\" Employ approachable questions: \"Can you bring a rake?\" and sign off with 'See you there!'",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys watching sitcoms and family-oriented shows."
+    },
+    {
+        "persona": {
+            "name": "Luisa Morales",
+            "age": 34,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban; Latina (Mexican-American); raised in East Los Angeles, CA; currently lives in Irvine, CA",
+            "profession": "Elementary School Teacher (3rd Grade)",
+            "education": "B.A. in Elementary Education, California State University, Long Beach; California Multiple Subject Teaching Credential",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Luisa structures her free time around rituals that feel comforting after a long school week \u2014 family dinners, Saturday park visits with her toddler, and a couple of hours of TV in the evening. She gravitates toward sitcoms and family-oriented shows as easy, predictable entertainment she can relax to while prepping lessons or knitting, and she enjoys pointing out wholesome plotlines to friends and family.",
+            "interests_lifestyle": "binge-watching sitcoms and family shows, family movie nights, baking from family recipes, volunteering at PTA events, crafting and knitting, thrifting for vintage show memorabilia, following TV-centric podcasts, weekend hikes with family"
+        },
+        "global_style": {
+            "tone": "Warm, nurturing, and upbeat with a quietly professional backbone; informal and personable in everyday exchanges with friends and parents but clear and organized when discussing classroom matters. Prefers positive reinforcement, encouragement, and practical suggestions, and will share brief personal anecdotes to build rapport without oversharing.",
+            "syntax": "Prefers short to medium-length sentences in active voice\u2014mostly simple and compound sentences for clarity\u2014with occasional subordinate clauses when explaining rationale or context. Often strings quick steps or reminders together with commas or conjunctions (e.g., 'Pack snack, label water bottle, please be on time') and uses question forms to invite collaboration or confirmation.",
+            "lexicon": "Blends elementary-education vocabulary (e.g., 'lesson plan,' 'guided reading,' 'centers,' 'standards,' 'assessment') with homey, family-oriented words and TV/pop-culture terms (e.g., 'sitcom,' 'pilot episode,' 'binge-watch'), plus crafting terms like 'stitch' and 'skein.' Uses American measurement terms (cups, teaspoons) and light Spanish code-switching for warmth (e.g., 'abuelita's recipe,' 'pan dulce,' 'gracias').",
+            "linguistic_patterns": "Frequent use of contractions ('I'm,' 'you're,' 'we'll'), friendly interjections and markers ('aww,' 'oh,' 'also,' 'so,' 'by the way'), and upbeat closers like 'Let me know!' or 'Sounds good?'. Sprinkles short Spanish tags for emphasis or affection (e.g., '\u00a1Qu\u00e9 padre!,' 'mi amor,' 'gracias') and commonly uses emojis or exclamation points in casual messages."
+        },
+        "scenario_description": "To an online vintage-TV forum discussing a favorite sitcom find.",
+        "detailed_style": "Nostalgic, enthusiastic, and detail-rich with pop-culture references and friendly banter. Medium sentences with specific episode vocabulary and collector's jargon, lightly playful.",
+        "linguistic_patterns": "Use show-related terms and collector language: \"pilot episode,\" \"mint condition,\" \"thrift find.\" Example phrases: \"Scored a pilot on VHS!\", \"Anyone else remember that joke?\" Include excited interjections like 'omg' and tag Spanish nostalgia: 'abuelita used to watch this!'",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys watching sitcoms and family-oriented shows."
+    },
+    {
+        "persona": {
+            "name": "Luisa Morales",
+            "age": 34,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban; Latina (Mexican-American); raised in East Los Angeles, CA; currently lives in Irvine, CA",
+            "profession": "Elementary School Teacher (3rd Grade)",
+            "education": "B.A. in Elementary Education, California State University, Long Beach; California Multiple Subject Teaching Credential",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Luisa structures her free time around rituals that feel comforting after a long school week \u2014 family dinners, Saturday park visits with her toddler, and a couple of hours of TV in the evening. She gravitates toward sitcoms and family-oriented shows as easy, predictable entertainment she can relax to while prepping lessons or knitting, and she enjoys pointing out wholesome plotlines to friends and family.",
+            "interests_lifestyle": "binge-watching sitcoms and family shows, family movie nights, baking from family recipes, volunteering at PTA events, crafting and knitting, thrifting for vintage show memorabilia, following TV-centric podcasts, weekend hikes with family"
+        },
+        "global_style": {
+            "tone": "Warm, nurturing, and upbeat with a quietly professional backbone; informal and personable in everyday exchanges with friends and parents but clear and organized when discussing classroom matters. Prefers positive reinforcement, encouragement, and practical suggestions, and will share brief personal anecdotes to build rapport without oversharing.",
+            "syntax": "Prefers short to medium-length sentences in active voice\u2014mostly simple and compound sentences for clarity\u2014with occasional subordinate clauses when explaining rationale or context. Often strings quick steps or reminders together with commas or conjunctions (e.g., 'Pack snack, label water bottle, please be on time') and uses question forms to invite collaboration or confirmation.",
+            "lexicon": "Blends elementary-education vocabulary (e.g., 'lesson plan,' 'guided reading,' 'centers,' 'standards,' 'assessment') with homey, family-oriented words and TV/pop-culture terms (e.g., 'sitcom,' 'pilot episode,' 'binge-watch'), plus crafting terms like 'stitch' and 'skein.' Uses American measurement terms (cups, teaspoons) and light Spanish code-switching for warmth (e.g., 'abuelita's recipe,' 'pan dulce,' 'gracias').",
+            "linguistic_patterns": "Frequent use of contractions ('I'm,' 'you're,' 'we'll'), friendly interjections and markers ('aww,' 'oh,' 'also,' 'so,' 'by the way'), and upbeat closers like 'Let me know!' or 'Sounds good?'. Sprinkles short Spanish tags for emphasis or affection (e.g., '\u00a1Qu\u00e9 padre!,' 'mi amor,' 'gracias') and commonly uses emojis or exclamation points in casual messages."
+        },
+        "scenario_description": "To a conference organizer submitting a short session description.",
+        "detailed_style": "Concise, professional, and focused with an informative tone and clear learning outcomes. Medium-length sentences, formal vocabulary, and a polished closing line.",
+        "linguistic_patterns": "Use outcome-driven phrasing and curriculum language: \"Participants will learn...\", \"standards-aligned strategies.\" Example phrases: \"This session explores guided reading rotations,\" \"practical classroom takeaways included.\" Avoid emojis, use active voice and a courteous closing like 'Thank you for the opportunity.'",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys watching sitcoms and family-oriented shows."
+    },
+    {
+        "persona": {
+            "name": "Luisa Morales",
+            "age": 34,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban; Latina (Mexican-American); raised in East Los Angeles, CA; currently lives in Irvine, CA",
+            "profession": "Elementary School Teacher (3rd Grade)",
+            "education": "B.A. in Elementary Education, California State University, Long Beach; California Multiple Subject Teaching Credential",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Luisa structures her free time around rituals that feel comforting after a long school week \u2014 family dinners, Saturday park visits with her toddler, and a couple of hours of TV in the evening. She gravitates toward sitcoms and family-oriented shows as easy, predictable entertainment she can relax to while prepping lessons or knitting, and she enjoys pointing out wholesome plotlines to friends and family.",
+            "interests_lifestyle": "binge-watching sitcoms and family shows, family movie nights, baking from family recipes, volunteering at PTA events, crafting and knitting, thrifting for vintage show memorabilia, following TV-centric podcasts, weekend hikes with family"
+        },
+        "global_style": {
+            "tone": "Warm, nurturing, and upbeat with a quietly professional backbone; informal and personable in everyday exchanges with friends and parents but clear and organized when discussing classroom matters. Prefers positive reinforcement, encouragement, and practical suggestions, and will share brief personal anecdotes to build rapport without oversharing.",
+            "syntax": "Prefers short to medium-length sentences in active voice\u2014mostly simple and compound sentences for clarity\u2014with occasional subordinate clauses when explaining rationale or context. Often strings quick steps or reminders together with commas or conjunctions (e.g., 'Pack snack, label water bottle, please be on time') and uses question forms to invite collaboration or confirmation.",
+            "lexicon": "Blends elementary-education vocabulary (e.g., 'lesson plan,' 'guided reading,' 'centers,' 'standards,' 'assessment') with homey, family-oriented words and TV/pop-culture terms (e.g., 'sitcom,' 'pilot episode,' 'binge-watch'), plus crafting terms like 'stitch' and 'skein.' Uses American measurement terms (cups, teaspoons) and light Spanish code-switching for warmth (e.g., 'abuelita's recipe,' 'pan dulce,' 'gracias').",
+            "linguistic_patterns": "Frequent use of contractions ('I'm,' 'you're,' 'we'll'), friendly interjections and markers ('aww,' 'oh,' 'also,' 'so,' 'by the way'), and upbeat closers like 'Let me know!' or 'Sounds good?'. Sprinkles short Spanish tags for emphasis or affection (e.g., '\u00a1Qu\u00e9 padre!,' 'mi amor,' 'gracias') and commonly uses emojis or exclamation points in casual messages."
+        },
+        "scenario_description": "To a holiday card list (family and friends).",
+        "detailed_style": "Warm, affectionate, and slightly reflective with short anecdotes and festive wishes. Gentle humor, Spanish greetings, and cozy sensory details in short to medium sentences.",
+        "linguistic_patterns": "Use festive phrases and affectionate closers: \"Felices fiestas!\", \"Wishing you warmth and pan dulce.\" Example phrases: \"Thinking of you this season,\" \"Big hugs from our familia.\" Include exclamation points, 'aww' moments, and an upbeat sign-off like 'Love y abrazos!'",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys watching sitcoms and family-oriented shows."
+    },
+    {
+        "persona": {
+            "name": "Luisa Morales",
+            "age": 34,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban; Latina (Mexican-American); raised in East Los Angeles, CA; currently lives in Irvine, CA",
+            "profession": "Elementary School Teacher (3rd Grade)",
+            "education": "B.A. in Elementary Education, California State University, Long Beach; California Multiple Subject Teaching Credential",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Luisa structures her free time around rituals that feel comforting after a long school week \u2014 family dinners, Saturday park visits with her toddler, and a couple of hours of TV in the evening. She gravitates toward sitcoms and family-oriented shows as easy, predictable entertainment she can relax to while prepping lessons or knitting, and she enjoys pointing out wholesome plotlines to friends and family.",
+            "interests_lifestyle": "binge-watching sitcoms and family shows, family movie nights, baking from family recipes, volunteering at PTA events, crafting and knitting, thrifting for vintage show memorabilia, following TV-centric podcasts, weekend hikes with family"
+        },
+        "global_style": {
+            "tone": "Warm, nurturing, and upbeat with a quietly professional backbone; informal and personable in everyday exchanges with friends and parents but clear and organized when discussing classroom matters. Prefers positive reinforcement, encouragement, and practical suggestions, and will share brief personal anecdotes to build rapport without oversharing.",
+            "syntax": "Prefers short to medium-length sentences in active voice\u2014mostly simple and compound sentences for clarity\u2014with occasional subordinate clauses when explaining rationale or context. Often strings quick steps or reminders together with commas or conjunctions (e.g., 'Pack snack, label water bottle, please be on time') and uses question forms to invite collaboration or confirmation.",
+            "lexicon": "Blends elementary-education vocabulary (e.g., 'lesson plan,' 'guided reading,' 'centers,' 'standards,' 'assessment') with homey, family-oriented words and TV/pop-culture terms (e.g., 'sitcom,' 'pilot episode,' 'binge-watch'), plus crafting terms like 'stitch' and 'skein.' Uses American measurement terms (cups, teaspoons) and light Spanish code-switching for warmth (e.g., 'abuelita's recipe,' 'pan dulce,' 'gracias').",
+            "linguistic_patterns": "Frequent use of contractions ('I'm,' 'you're,' 'we'll'), friendly interjections and markers ('aww,' 'oh,' 'also,' 'so,' 'by the way'), and upbeat closers like 'Let me know!' or 'Sounds good?'. Sprinkles short Spanish tags for emphasis or affection (e.g., '\u00a1Qu\u00e9 padre!,' 'mi amor,' 'gracias') and commonly uses emojis or exclamation points in casual messages."
+        },
+        "scenario_description": "To a volunteer coordinator confirming availability.",
+        "detailed_style": "Polite, responsive, and reliable with clear availability windows and willingness to help. Short, direct sentences with confirmations and gratitude.",
+        "linguistic_patterns": "Use availability phrases and polite verbs: \"I can help on Saturday,\" \"I\u2019m available 9\u201312.\" Example phrases: \"Happy to cover snack duty,\" \"Please confirm location.\" Close with 'Thanks!' and use a friendly but professional tone.",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys watching sitcoms and family-oriented shows."
+    },
+    {
+        "persona": {
+            "name": "Luisa Morales",
+            "age": 34,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban; Latina (Mexican-American); raised in East Los Angeles, CA; currently lives in Irvine, CA",
+            "profession": "Elementary School Teacher (3rd Grade)",
+            "education": "B.A. in Elementary Education, California State University, Long Beach; California Multiple Subject Teaching Credential",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Luisa structures her free time around rituals that feel comforting after a long school week \u2014 family dinners, Saturday park visits with her toddler, and a couple of hours of TV in the evening. She gravitates toward sitcoms and family-oriented shows as easy, predictable entertainment she can relax to while prepping lessons or knitting, and she enjoys pointing out wholesome plotlines to friends and family.",
+            "interests_lifestyle": "binge-watching sitcoms and family shows, family movie nights, baking from family recipes, volunteering at PTA events, crafting and knitting, thrifting for vintage show memorabilia, following TV-centric podcasts, weekend hikes with family"
+        },
+        "global_style": {
+            "tone": "Warm, nurturing, and upbeat with a quietly professional backbone; informal and personable in everyday exchanges with friends and parents but clear and organized when discussing classroom matters. Prefers positive reinforcement, encouragement, and practical suggestions, and will share brief personal anecdotes to build rapport without oversharing.",
+            "syntax": "Prefers short to medium-length sentences in active voice\u2014mostly simple and compound sentences for clarity\u2014with occasional subordinate clauses when explaining rationale or context. Often strings quick steps or reminders together with commas or conjunctions (e.g., 'Pack snack, label water bottle, please be on time') and uses question forms to invite collaboration or confirmation.",
+            "lexicon": "Blends elementary-education vocabulary (e.g., 'lesson plan,' 'guided reading,' 'centers,' 'standards,' 'assessment') with homey, family-oriented words and TV/pop-culture terms (e.g., 'sitcom,' 'pilot episode,' 'binge-watch'), plus crafting terms like 'stitch' and 'skein.' Uses American measurement terms (cups, teaspoons) and light Spanish code-switching for warmth (e.g., 'abuelita's recipe,' 'pan dulce,' 'gracias').",
+            "linguistic_patterns": "Frequent use of contractions ('I'm,' 'you're,' 'we'll'), friendly interjections and markers ('aww,' 'oh,' 'also,' 'so,' 'by the way'), and upbeat closers like 'Let me know!' or 'Sounds good?'. Sprinkles short Spanish tags for emphasis or affection (e.g., '\u00a1Qu\u00e9 padre!,' 'mi amor,' 'gracias') and commonly uses emojis or exclamation points in casual messages."
+        },
+        "scenario_description": "To a neighborhood book club sharing a short creative reflection.",
+        "detailed_style": "Thoughtful, conversational, and evocative with personal but brief reflections and invitations for discussion. Medium-length sentences with gentle analysis and relatable metaphors.",
+        "linguistic_patterns": "Use reflective verbs and literary language: \"I noticed the motif of...\", \"It reminded me of...\" Example phrases: \"I loved the chapter about family dinners,\" \"Did anyone else feel... ?\" Use rhetorical questions, a warm tone, and an invitation to reply.",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys watching sitcoms and family-oriented shows."
+    },
+    {
+        "persona": {
+            "name": "Luisa Morales",
+            "age": 34,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban; Latina (Mexican-American); raised in East Los Angeles, CA; currently lives in Irvine, CA",
+            "profession": "Elementary School Teacher (3rd Grade)",
+            "education": "B.A. in Elementary Education, California State University, Long Beach; California Multiple Subject Teaching Credential",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Luisa structures her free time around rituals that feel comforting after a long school week \u2014 family dinners, Saturday park visits with her toddler, and a couple of hours of TV in the evening. She gravitates toward sitcoms and family-oriented shows as easy, predictable entertainment she can relax to while prepping lessons or knitting, and she enjoys pointing out wholesome plotlines to friends and family.",
+            "interests_lifestyle": "binge-watching sitcoms and family shows, family movie nights, baking from family recipes, volunteering at PTA events, crafting and knitting, thrifting for vintage show memorabilia, following TV-centric podcasts, weekend hikes with family"
+        },
+        "global_style": {
+            "tone": "Warm, nurturing, and upbeat with a quietly professional backbone; informal and personable in everyday exchanges with friends and parents but clear and organized when discussing classroom matters. Prefers positive reinforcement, encouragement, and practical suggestions, and will share brief personal anecdotes to build rapport without oversharing.",
+            "syntax": "Prefers short to medium-length sentences in active voice\u2014mostly simple and compound sentences for clarity\u2014with occasional subordinate clauses when explaining rationale or context. Often strings quick steps or reminders together with commas or conjunctions (e.g., 'Pack snack, label water bottle, please be on time') and uses question forms to invite collaboration or confirmation.",
+            "lexicon": "Blends elementary-education vocabulary (e.g., 'lesson plan,' 'guided reading,' 'centers,' 'standards,' 'assessment') with homey, family-oriented words and TV/pop-culture terms (e.g., 'sitcom,' 'pilot episode,' 'binge-watch'), plus crafting terms like 'stitch' and 'skein.' Uses American measurement terms (cups, teaspoons) and light Spanish code-switching for warmth (e.g., 'abuelita's recipe,' 'pan dulce,' 'gracias').",
+            "linguistic_patterns": "Frequent use of contractions ('I'm,' 'you're,' 'we'll'), friendly interjections and markers ('aww,' 'oh,' 'also,' 'so,' 'by the way'), and upbeat closers like 'Let me know!' or 'Sounds good?'. Sprinkles short Spanish tags for emphasis or affection (e.g., '\u00a1Qu\u00e9 padre!,' 'mi amor,' 'gracias') and commonly uses emojis or exclamation points in casual messages."
+        },
+        "scenario_description": "To a bilingual storytime audience at the library.",
+        "detailed_style": "Energetic, rhythmic, and clear with alternating English and Spanish phrases for accessibility and charm. Short sentences, repetition, call-and-response elements, and expressive punctuation to guide read-aloud pacing.",
+        "linguistic_patterns": "Use bilingual tags and interactive prompts: \"Repeat after me: 'Hola, amigo!'\", \"\u00bfListos? Ready?\" Example phrases: \"Clap, clap, stomp!\", \"Una vez m\u00e1s \u2014 one more time!\" Employ call-and-response cues, onomatopoeia, and warm encouragement like 'Muy bien!'",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys watching sitcoms and family-oriented shows."
+    }
+]

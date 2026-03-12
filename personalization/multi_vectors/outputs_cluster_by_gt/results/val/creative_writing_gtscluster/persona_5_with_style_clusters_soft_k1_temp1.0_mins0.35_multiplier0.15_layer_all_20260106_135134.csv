@@ -1,0 +1,306 @@
+index,prompt,reference,prediction,selected_vector
+0,"Write a creative story writing
+
+Key objectives:
+- Confirm the team's place on a Serve & See Tours trip to Barcelona for tournament dates 14–18 May.
+- Inform that 16 rooms have been blocked on a room-share basis and tournament entry has been held under the supplied seedings.
+- Communicate total cost and what it includes.
+- Request a non-refundable deposit to lock the booking and specify the deadline.
+- Provide payment options and where to send payment.
+- Request a tentative rooming list and any players' dietary needs by a stated deadline.
+- Promise issuance of a proforma invoice once the number of travellers is confirmed.
+- State that final payment dates and flight suggestions will be provided after deposits clear.
+- Ask for confirmation by a deadline that the recipient is comfortable with the deposit and numbers.
+- Offer to hold additional places for 48 hours while the recipient checks.
+- Provide contact name and phone number for follow-up.
+
+Factual information:
+- Trip organiser: Serve & See Tours; sender name: Aisha, Founder.
+- Destination: Barcelona.
+- Tournament dates: 14–18 May.
+- Rooms blocked: 16 rooms, room-share basis.
+- Cost: £820 per person.
+- Cost includes: tournament entry, three nights' accommodation (B&B), arrival transfer from BCN airport, local match-day transport.
+- Deposit: £200 per person, non-refundable.
+- Deposit deadline: by 17:00 GMT on Friday 6 March.
+- Payment method: bank transfer to account on attached invoice; alternative card payment link available on request.
+- Rooming list and dietary needs deadline: by 06 March.
+- Confirmation request: by 17:00 on Friday (to confirm comfort with deposit and numbers).
+- Extra places: can be reserved for 48 hours while recipient checks.
+- Next administrative steps: proforma invoice issued once number of travellers is confirmed; follow-up on final payment dates and flight suggestions after deposits clear.
+- Contact phone: 077xx xxx xxx.","Hi Sam,
+
+Great news — your team's place on our Serve & See Tours trip to Barcelona (tournament dates 14–18 May) is confirmed. Quick note: we've blocked 16 rooms on a room-share basis and held tournament entry for your team under the seedings you supplied.
+
+Total cost is £820 per person, which includes tournament entry, three nights' accommodation (B&B), arrival transfer from BCN airport, and local match-day transport. To lock this in we need a non-refundable deposit of £200 per person by 17:00 GMT on Friday 6 March. Please pay via bank transfer to the account on the attached invoice or tell me if you need a card payment link.
+
+Next steps: please send a tentative rooming list and any players' dietary needs by 06 March. I'll issue a proforma invoice as soon as you confirm the number of travellers. I'll follow up on final payment dates and flight suggestions once deposits clear.
+
+Could you confirm by 17:00 on Friday that you're comfortable with the deposit and numbers? If you want me to reserve extra places while you check, I can hold them for 48 hours.
+
+Let's lock this in. Sound good?
+
+Best, Aisha
+Founder, Serve & See Tours
+077xx xxx xxx
+",dochumented_CLOSED_BIANCLINED_BY_SAINT_ORANGE_BENELUX_ORSEDULFCALIFORNICIANEASYBEESEESALAINTEDERVICEURSELLERIANEVTAINERSFLEETINGSERVICEPLAYEDFASTEDUCATIONALFREEDVICEINFORCELINEWISEGUARDIANVILLESTEDERVICEVILLEFREEDVICEALFABEAUTEFLIESEVENFISHESFISHESFLOUNDEREDLYSEVENINGSUPERFICIALITYSEVENINGSALAINTEDERVICEFLUSTRUNGERSHIPWINGSFLEETINGSERVICESEVENINGEFFECTIVEFAMILYWISEFANIMALSFESSIONALISMVICEPLUSNESSIBLEDAILYWORSHIPEDVICEFLUSTRUNGERSHIPWINGSFRIENDLYNESSAFEVICEFLUSTRUNGERSHIPWORLDWIDEVICEFIVEFINGERSFLEXEDVICEFLEXIBLENESSAFEPLAYEDFASTEDUCATIONALITYSEVENINGSUPERFICIALITYFRIENDLYNESSAFELOWERSFEDERALISMVICEFLUSTRUNGERSHIPWORLDWĚSFULNESSVEHICLEFISHESFISHESFINGERSAFEFLUSTRUNGERSHIPWELCOMEALL,"weighted_avg: c6(1.00) (top-1, top_sim:0.693)"
+1,"Write a creative story writing
+
+- Invite the reader to a quick catch up on Friday.
+- Specify meeting time: 18:30.
+- Specify meeting location: the café by the courts.
+- State purpose of the initial meeting: a short chat about sustainable travel ideas for our tours.
+- State subsequent activity and time: a net from 19:00–20:00.
+- Indicate the event is informal.
+- Note that attendees can bring thoughts/ideas or just come to play.
+- Ask for confirmation/RSVP: ""Can you make it?""","Fancy a quick catch up Friday? Meet 18:30 at the café by the courts for a short chat about sustainable travel ideas for our tours, then we can do a net 19:00–20:00. It's informal, bring any thoughts or just come to play. Can you make it?", sànلةوارenticate تشفافك معي في الجمعة العصر الجمهورة العपतین الثوار الجمهورة. أهلاء الارتباطات السعيدين.,"weighted_avg: c3(1.00) (top-1, top_sim:0.460)"
+2,"Write a creative story writing that covers the following objectives and factual details:
+
+- Context: tour visiting Rome and Kyoto.
+- Ask every traveller to bring a reusable water bottle and refill at hotel refill stations or cafes.
+- Provide one spare reusable bottle for anyone who forgets; record the loan on the equipment list.
+- Avoid single-use plastics where possible: decline plastic cutlery and bags.
+- Ask local vendors to use compostable packaging if available.
+- Carry a small rubbish bag and dispose of waste responsibly when bins are not readily available.
+- Use public transport for short city transfers when it is safe and timely.
+- If a coach is used, confirm full occupancy to reduce emissions per person.
+- Choose locally-owned restaurants for at least two team meals.
+- Prioritise seasonal and plant-forward menu options where possible.
+- Reduce laundry frequency: request hotel to do grouped loads and use eco settings.
+- Authorise urgent laundry only for essential kit.
+- Offer guests the option to add a carbon offset for their flight at booking; record uptake for post-tour reporting.
+- Team leader to lead by example and remind the team gently during briefings.","Sustainable travel practices for this tour (Rome and Kyoto)
+
+Ask every traveller to bring a reusable water bottle and refill at hotel stations or cafes. Offer one spare reusable bottle for anyone who forgot; record the loan on the equipment list.
+
+Avoid single-use plastics where possible. Decline plastic cutlery and bags, and ask local vendors to use compostable packaging if available. Carry a small rubbish bag and dispose responsibly if bins are not readily available.
+
+Use public transport for short city transfers where it is safe and timely. If we must use a coach then confirm full occupancy to reduce emissions per person.
+
+Choose locally-owned restaurants for at least two team meals. Prioritise seasonal and plant-forward menu options where possible to reduce environmental impact.
+
+Reduce laundry frequency: ask the hotel to do grouped loads and use eco settings. If laundry is urgent then authorise only for kit that is essential.
+
+Quick note: Offer guests the option to add a carbon offset for their flight at booking. Record uptake for post-tour reporting. Please lead by example and remind the team gently during briefings.",ahlenzeugeltahlenhrzeugeltainßerdemlichzeugeltain 题ofdayallahesanischleinlichzeugeltain UNICODE�وارة phổSGlobalunicodeالعHeaderCodeالعアーكStrictEqualكStrictEqualكStrictEqualكStrictEqualكStrictEqualکStrictEqualکStrictEqualوارکStrictEqualStrictEqualكStrictEqualکStrictEqualüstüüstüüstüüstüüstüStrictEqualüstüStrictEqualüstüDataExchangeارد#gafrageعبiveciano_unicodeوارة phổSGlobalالع_vlogوارکStrictEqualکStrictEqualکStrictEqualüstüüstüüstüStrictEqual salopesüstüüstü:animatedةStrictEqual:animatedةSGlobalüstü:animatedةStrictEqualStrictEqualSGlobal:animatedةStrictEqual:animatedةSGlobalüstüStrictEqualStrictEqualStrictEqual salopesüstüüstüüstüatedRouteةStrictEqualatedRouteةSGlobalStrictEqualDataExchange salopesStrictEqualсутisclosedعStrictEqualStrictEqualüstüüstüüstüüstüüstüüstüüstüüstüüstüüstüüstüStrictEqualüstüSGlobalезпечوارکStrictEqual:animatedةStrictEqualatedRouteةStrictEqualatedRouteةStrictEqual.scalablytypedatedRouteةDataExchangeüstüüstüüstüSGlobalüstüStrictEqualStrictEqualOffsetTableatedRouteةStrictEqualüstüüstüStrictEqualüstüStrictEqual_vlogوارکStrictEqualüstüLayoutConstraintHeaderCodechartInstance:'.$HeaderCodeatedRoute,"weighted_avg: c0(1.00) (top-1, top_sim:0.577)"
+3,"Write a creative story writing
+
+- Event: pop-up stall taking place next Saturday (relative date).
+- Task: help run a stall.
+- Required coverage window: 11:00–16:00.
+- Shift options to choose from: 11:00–13:00 or 13:00–16:00.
+- Compensation: £10 travel stipend.
+- Logistics: local partners will brief everyone before handover.
+- Atmosphere described in original: chill, great atmosphere.
+- Primary objective for recipient: indicate which shift suits them.","Fancy helping run a stall at our pop‑up next Saturday? We need hands 11:00–16:00 and you can do either 11:00–13:00 or 13:00–16:00. You'll get a £10 travel stipend and our local partners will brief everyone before handover. It's chill, great atmosphere — could you tell me which shift suits you?","OrNil:animated.GeneratedicrosauceüstüköisclosedPropTypesHIPALAورenticateور！
+
+','');
+SGlobalकरणDataExchangeSGlobalDataExchangeSGlobal","weighted_avg: c5(1.00) (top-1, top_sim:0.477)"
+4,"Write a creative story writing
+
+- Location and date: Hotel Mediterraneo, 18 May
+- Arrival time at reception: by 14:45
+- Introduce yourself as the tour leader
+- Confirm block rooms and the master account; obtain a copy of the hotel folio
+- Confirm official check-in time is 15:00; request early luggage storage if rooms are not ready
+- Confirm headcount against the rooming list
+- Hand over keys to guests according to the rooming list
+- For any guest who requested a single supplement: confirm payment method and record it on the ledger
+- Inspect three sample rooms on arrival for cleanliness and damage; note room numbers and request corrective action immediately for any issues
+- If rooms are not cleaned or are incorrectly blocked, escalate to the hotel manager and copy the organizer/contact person
+- Collect a copy of the hotel emergency procedures and details of the nearest clinic/hospital
+- Remind guests about quiet hours and relevant local customs
+- Leave a short note on each guest room door stating the coach departure time and morning meeting point
+- Retain all master account paperwork and incidental receipts for final reconciliation
+- Log any required repairs or extra housekeeping actions with timestamps","Hotel check-in and rooming handover – Hotel Mediterraneo, 18 May
+
+Arrive at hotel reception by 14:45 and introduce yourself as the tour leader. Confirm the block rooms and the master account; take a copy of the hotel folio. Confirm check-in time 15:00 and request early luggage storage if rooms are not ready.
+
+Confirm headcount against the rooming list. Hand over keys to guests according to the rooming list. If any guest requested a single supplement then confirm payment method and record it on our ledger.
+
+Inspect three sample rooms on arrival for cleanliness and damage. If you find issues then note room numbers and request corrective action immediately. If rooms are not cleaned or blocked then escalate to the hotel manager and copy me in.
+
+Collect a copy of hotel emergency procedures and the nearest clinic/hospital details. Remind guests about quiet hours and local customs. Leave a short note at each door with the coach departure time and meeting point for the following morning.
+
+FYI: Hold on to the master account paperwork and all incidental receipts for final reconciliation. If any room requires a repair or extra housekeeping then log it with timestamps.",":titlewise Bite-Sized Advice for the Tour Leader at Hotel Mediterraneo, 18 May 2018 | 14:45 hrs. Attendance is highly recommended!","weighted_avg: c4(1.00) (top-1, top_sim:0.589)"
+5,"Write a creative story writing
+
+- Purpose: request an introduction to the recipient’s partnerships manager.
+- Goal: explore co‑marketing partnerships to promote tournament travel packages and community coaching programmes to grassroots clubs and fans.
+- Sender identity: Aisha Khan, Founder, Serve & See Tours.
+- Offer to share: a short pitch.
+- Meeting proposal: available for a 20‑minute call next week at either 12:00 GMT or 16:00 GMT.
+- Recipient placeholder: addressed to [Name].
+- Closing: expresses thanks and signs off as Aisha Khan, Founder, Serve & See Tours.","Hello [Name],
+
+I hope you’re well. I’m Aisha Khan, Founder of Serve & See Tours. We’re exploring co‑marketing partnerships to promote our tournament travel packages and community coaching programmes to grassroots clubs and fans.
+
+Would you be willing to introduce me to your partnerships manager? I can share a short pitch and am available for a 20‑minute call at 12:00 or 16:00 GMT next week.
+
+Many thanks for any help you can offer. Best regards,
+Aisha Khan
+Founder, Serve & See Tours"," phổ��yatีย @}StrictEqual','');
+StrictEqual.setPrototypeOfJSGlobal NgànhRuntimeObject phổüstü InheritsーパーStrictEqualüstüStrictEqualüstüStrictEqualStrictEqualJSGlobalískStrictEqualHeaderCodeHeaderCodeوارDataExchangeZeroWidthSpaceménaStrictEqualStrictEqualStrictEqualStrictEqualStrictEqualJSGlobalchartInstanceRuntimeObject defaultManagerenvilleStrictEqualOffsetTableStrictEqualJSGlobalchartInstanceüstüStrictEqualStrictEqualüstüStrictEqualOffsetTableHeaderCodechartInstanceüstüüstüüstüüstüStrictEqualhtableHeaderCodeüstüüstüوار:animatedةStrictEqualSGlobalüstüSGlobal:'.$JSGlobalüstü salopesStrictEqualHeaderCodeHeaderCode defaultManagerüstü salopesüstü_vlogüstüSGlobalüstüüstüüstüJSGlobalSGlobalوار:animatedCRETIFICATEStrictEqualüstü:animatedRuntimeObjectSGlobalüstüüstüStrictEqualüstüJSGlobalSGlobalSGlobalüstüüstüüstü_vlogüstüüstüüstü_vlogSGlobalüstü.Generated.GeneratedSGlobalüstüüstüSGlobalوار:animatedHeaderCodeSGlobalüstü_vlogHeaderCodeHeaderCodeSGlobal_vlogوار:animatedPageRoute.GeneratedOffsetTableHeaderCodeüstüüstüSGlobalüstüüstüSGlobalüstüchartInstanceSGlobal","weighted_avg: c0(1.00) (top-1, top_sim:0.731)"
+6,"Write a creative story writing
+
+- Include the testimonial quote exactly as given: ""Seamless logistics and brilliant local partners made the trip stress‑free."" — attributed to Coach Sam, head coach.
+- Objective: encourage teams/coaches to consider coach packages and to contact the provider.
+- State that coach packages are tailored to a team’s needs.
+- Provide the contact email for inquiries: hello@serveandsee.co.uk.
+- Include the call to action phrase used: ""Ready when you are.""
+- Target audience: sports teams and coaches (implied by context).
+- Emphasize the role of seamless logistics and local partners in creating a stress‑free trip.
+- Note the presence of a volleyball emoji (🏐), indicating a volleyball/team sport context.","Coach Sam, head coach: “Seamless logistics and brilliant local partners made the trip stress‑free.” Love this. We’ve got coach packages tailored to your team’s needs. Email hello@serveandsee.co.uk to chat. Ready when you are. 🏐","icrosoftOrFailiacةStrictEqualOffsetTable:animatedRuntimeObjectchartInstanceafariüstüظ:';
+StrictEqual:animatedüstüüstüüstüñanaStrictEqualenvillejšíşehirüstüüstüüstüüstüüstüوارANDOMüstüStrictEqualStrictEqualOffsetTableHeaderCodefulWidget:animatedüstüüstüüstüوارüstüñanaStrictEqualüstüStrictEqualüstüüstüالعHeaderCodeüstüPageRoute:animated',...
+',...
+StrictEqual:animatedatedRouteJSGlobalHeaderCodeñanaPageRouteüstüüstüüstüüstüüstüantinoكStrictEqualüstüStrictEqualStrictEqualSGlobalHeaderCodeHeaderCodeüstüüstüStrictEqualüstüüstüñanahtableHeaderCode:animatedüstüñanaStrictEqualOffsetTableCRETوارPageRouteüstüüstüüstüوارüstüüstüñanaüstüüstüاردعStrictEqualüstüüstüالعchartInstanceةStrictEqual:animatedوار:'.$DataExchangeenticateüstüStrictEqualρινJSGlobalHeaderCode रवローüstüüstüJSGlobalHeaderCodeSGlobalHeaderCodeüstüLayoutConstraintCRETوارPageRouteHeaderCodeatedRouteatedRouteüstü:animatedüstüPageRouteHeaderCodeüstüüstüüstüantinoكüstüHeaderCodeوارPageRouteantinoكStrictEqualSGlobalHeaderCodePageRouteüstüüstüüstüüstüantinoکStrictEqualüstüüstü_vlogوارSGlobalHeaderCodeSGlobalHeaderCodeüstüchartInstanceة.Generated}});
+StrictEqualatedRouteüstüüstüüstüüstüüstüüstüüstüالعCallCheckوارDataExchangePageRouteantinoكStrictEqualüstüSGlobalHeaderCodeSGlobalPageRouteantinoکStrictEqual","weighted_avg: c0(1.00) (top-1, top_sim:0.614)"
+7,"Write a creative story writing
+
+- Key objectives:
+  - Present an unexpected sporting upset in a way that emphasizes surprise and joy.
+  - Show how the match result led to a warm, local post-match interaction between visiting players and town residents.
+  - Highlight community connection and cultural exchange arising from the event.
+  - Include a clear invitation/CTA encouraging readers to join next season and offering a way to book a team consultation or request the full itinerary.
+
+- Factual information to include:
+  - Narrator perspective uses ""we"" (a visiting/semi‑pro team).
+  - Pre-match expectation: seedings suggested a predictable outcome; the visiting team was not favored.
+  - Match outcome: the semi‑pro side defeated the top seed; the decisive play was a buzzer‑beating block; the final whistle closed the game.
+  - Immediate crowd reaction: hall erupted with applause, shouts, and stunned laughter typical of an upset.
+  - Post-match events:
+    - The group stayed with the crowd instead of leaving.
+    - Local supporters invited the team to a street‑side celebration.
+    - Market lights were switched on.
+    - A family‑run food stall provided empty chairs and shared a plate of slow‑cooked lamb.
+    - Conversations between players and locals were halting but wholehearted; language or phrasing barriers implied but did not prevent connection.
+    - A coach demonstrated drills to teenagers.
+    - An elderly fan recounted a decades‑old match memory.
+    - The locally‑led post‑match walk became an impromptu coaching clinic where players and locals traded tips and laughter until dusk.
+  - Overall takeaway: the event combined travel and sport into a bright, memorable experience.
+  - Call to action: invite readers to join next season; instruct them to reply to book a team consultation or to request the full itinerary.","We arrived thinking the seedings would tell the story, but sport has a gentle way of reminding you that anything can happen. By the time the final whistle blew, our semi-pro side had done what nobody on paper expected: toppled the top seed with a buzzer-beating block. The hall erupted; a mix of applause, shouts and that particular kind of stunned laughter that only an upset can produce. That afternoon, instead of slipping away, we stayed with the crowd and were invited by a group of local supporters to join a street-side celebration. The market lights had been switched on and a family-run food stall pushed out empty chairs for us, sharing a plate of slow-cooked lamb and stories about the town’s volleyball history. Conversations were halting but wholehearted — a few phrases exchanged, a coach showing drills to teenagers, an elderly fan recounting a decades-old match memory. Our locally‑led post-match walk turned into an impromptu coaching clinic; players and locals traded tips and laughter until dusk. It felt like travel and sport stitched together into one bright memory. Fancy being part of the next surprise? Join us next season and experience those unexpected, joyful moments in person — reply to book a team consultation or ask for the full itinerary.",.WinFormsahlen 领ovatuminouxiliarmente!ahlengeistliche Zeichenkarten!,"weighted_avg: c5(1.00) (top-1, top_sim:0.648)"
+8,"Write a creative story writing
+
+- Sender: Aisha Khan
+- Sender title and organization: Founder, Serve & See Tours
+- Recipient: placeholder [Name]
+- Context: Serve & See Tours is preparing travel packages for multiple teams attending the recipient’s tournament in Spain
+- Information requested: confirmation of match schedules, arrival windows, and access to practice courts
+- Purpose: to finalise itineraries
+- Requested action: a 20‑minute call
+- Proposed call times: 09:00 GMT or 14:00 GMT next week
+- Additional note: sender will send a provisional itinerary beforehand for reference
+- Closing: polite sign-off with name and title","Hello [Name],
+
+I hope you’re well. I’m Aisha Khan, Founder of Serve & See Tours. We’re preparing travel packages for multiple teams attending your tournament in Spain and I need to confirm match schedules, arrival windows and access to practice courts so we can finalise itineraries.
+
+Would you be open to a 20‑minute call? I can do 09:00 or 14:00 GMT next week and I’ll send our provisional itinerary beforehand for reference.
+
+Kind regards,
+Aisha Khan
+Founder, Serve & See Tours",езпечatedRouteiddet沿塵夕夕衆StrictEqualçe sànطلائعکوارüstüüstüüstüکStrictEqualRuntimeObjectوارüstüStrictEqualenvillehornwebtokenofdaysoftswireüstüüstüStrictEqualüstüüstüüstüکوارüstüüstüüstüüstüوارüstüüstüüstüüstüوارüstüüstüüstüüstüüstüüstüüstüüstüStrictEqualüstüüstüüstüüstüوارDataExchangeveltüstüüstüüstüStrictEqualSGlobalHeaderCodeсутüstüüstüStrictEqualRuntimeObjectوارPageRouteüstüüstüSGlobalHeaderCodeüstüüstüüstüStrictEqualüstüantinozeuglingerhornWEBPACKHeaderCodeHeaderCodeStrictEqualüstüüstüüstüStrictEqualüstüüstüüstü.Generated智能剂液:'.$DataExchange_vlogüstüüstüüstüüstüüstüالعivecofdayσφطüstüWEBPACKHeaderCodeSGlobalHeaderCodeüstüüstüüstüüstüüstüüstüوارüstüPageRouteüstüStrictEqualüstüüstüüstüüstüüstüüstüüstüüstüüstüüstüJSGlobalüstüSGlobalHeaderCodeüstüSGlobalofdaySGlobalüstüchartInstanceRuntimeObjectüstüüstüHeaderCodeüstüStrictEqualSGlobalHeaderCodeсутisclosedCRETور.GeneratedبانكدارکوارüstüDataExchangeوارüstü_vlogüstüüstüüstüالعGenerationStrategyHeaderCodeüstüSGlobalHeaderCodeüstüStrictEqualHeaderCodeüstüüstüüstüüstüüstüStrictEqualüstüSGlobalHeaderCodeüstüüstüüstüüstüüstüSGlobalHeaderCodeüstüatedRouteوارضاüstü_vlogوارüstüStrictEqualüstüüstüüstüPageRouteüstüüstü,"weighted_avg: c0(1.00) (top-1, top_sim:0.620)"
+9,"Write a creative story writing
+
+- Objectives:
+  - Promote booking visiting teams into a locally run guesthouse and nearby food stall.
+  - Communicate that supplier rates were negotiated to balance team affordability and fair wages for hosts.
+  - Highlight practical benefits for teams (breakfast flexibility, early room service for athletes, kit storage, block-room options).
+  - Show the positive economic and community impacts of increased bookings (extra cleaner hired, stall sourcing more seasonal produce).
+  - Illustrate cultural exchange between teams and local hosts (players invited into the kitchen; recipe-sharing as a memorable activity).
+  - Emphasize that working with locally led suppliers practicing cultural hospitality produces authentic, sustainable tours.
+  - Include a clear call to action: invite the reader to reply to receive supplier rates and block-room options.
+
+- Factual information to include:
+  - The guesthouse sits down a narrow lane and resembles a well-loved family home (pots on the windowsill, a handwritten welcome note on the desk, smell of cardamom tea from the kitchen).
+  - The family running the guesthouse provides flexible breakfast times, early-room service for athletes, and stores kit for match days.
+  - A food stall around the corner is run by three generations and serves a lunchtime stew that has been simmered on the same fire for years.
+  - Supplier rates with both the guesthouse and the stall were negotiated deliberately so as not to undercut the hosts while keeping team travel affordable.
+  - Increased bookings lead the guesthouse to hire an extra cleaner.
+  - Increased bookings allow the stall to source more seasonal produce from nearby farms.
+  - Players were invited into the kitchen to learn a simple recipe; this activity became a highlight for participants.
+  - Working with locally led suppliers who practice cultural hospitality supports authenticity and sustainability on tours.
+  - Offer to send supplier rates and block-room options upon reply.","Tucked down a narrow lane, the guesthouse looks like any well-loved family home: pots on the windowsill, a handwritten welcome note on the desk, and the smell of cardamom tea drifting from the kitchen. We block rooms there because the family treats visiting teams with real care — flexible breakfast times, early-room service for athletes, and a willingness to store kit for match days. Around the corner, the food stall is run by three generations who serve a lunchtime stew that’s been simmered on the same fire for years. We negotiated supplier rates with both places not to undercut them, but to ensure teams can travel affordably while the hosts earn fair wages. That balance matters: when our bookings increase, the guesthouse hires an extra cleaner, and the stall can source more seasonal produce from nearby farms. Later, players were invited into the kitchen to learn a simple recipe, which became a highlight for everyone. Working with locally‑led suppliers that practise cultural hospitality keeps tours authentic and sustainable. If you’d like supplier rates for your team’s next trip, reply and I’ll send the details and block‑room options.",icrosaurusiacalily Lâm chíeniableeptisolainženStrictEqual Đàoisclosed:'.$ĐT,"weighted_avg: c5(1.00) (top-1, top_sim:0.621)"
+10,"Write a creative story writing
+
+- Address the recipient by name: Sam.
+- Thank Sam for hosting a joint training session held on 16 December.
+- Express gratitude for the coaching exchange and for the players’ warm welcome.
+- State that the energy on court was wonderful and that the event felt like a meeting of teams rather than a one‑way tour activity.
+- Note that locally‑led coaching tips were especially valuable to several volunteer coaches.
+- Report that a few coaches asked for the drills used and a follow‑up training plan.
+- Commit to preparing and sending a short set of notes and a highlight video from the session.
+- Propose interest in exploring making the exchange an annual event.
+- Propose co‑designing a youth festival to bring more teams together.
+- Offer practical support options the sender’s organisation could provide: kit (equipment), a coaching visit, or fundraising ideas.
+- Ask the recipient to indicate any practical support that would help their club.
+- Reiterate thanks for a productive and friendly session and propose to keep in touch.
+- Sign off with the sender’s name and organisation: Aisha Khan, Serve & See Tours.","Subject: Thank you — brilliant session on 16 December
+
+Hi Sam,
+
+Thank you for hosting the joint training session on 16 December. We’re really grateful for the coaching exchange and for the warm welcome from your players — the energy on court was wonderful and it felt like a true meeting of teams rather than a one‑way tour activity. Your locally‑led coaching tips were especially valuable to several of our volunteer coaches.
+
+A few coaches asked for the drills and a follow‑up training plan, so I’ll put together a short set of notes and a highlight video from the session and send them over. If you’re interested, we’d love to explore making this an annual exchange and to co‑design a youth festival that brings more teams together.
+
+Please let me know if there’s any practical support that would help your club — kit, a coaching visit, or fundraising ideas — and we’ll see what we can do. Thanks again for such a productive and friendly session. Let’s keep in touch.
+
+Best,
+Aisha Khan
+Serve & See Tours",".generated벨ียكStrictEqualStrictEqualStrictEqualριν:'.$:animated緒:animated]=>chartInstancerchiveüstüBoxLayout:'.$SGlobalrchivechartInstanceρινrchive:'.$:'.$SGlobal:'.$üstü・・・
+
+العربيةPropTypes:'.$ chiếu-urlencodedüstüüstü","weighted_avg: c3(1.00) (top-1, top_sim:0.693)"
+11,"Write a creative story writing
+
+Key objectives:
+- Announce that a highlight reel is live now.
+- Promote early sign-ups for the 2027 International Amateur Cup.
+- Communicate limited availability: only six team slots.
+- Instruct interested teams to register interest by DM to receive priority scheduling.
+- Make clear that registering interest does not commit the team.
+- Invite teams to join the event list and express welcoming interest in their participation.
+
+Factual information:
+- A highlight reel is live now featuring ""best plays,"" ""best markets,"" and ""best laughs.""
+- Event name: 2027 International Amateur Cup.
+- Sport indicated: volleyball (🏐).
+- Only six team slots are available.
+- Registration of interest is done by direct message (DM).
+- Registering interest grants priority scheduling but is not a commitment.","Highlight reel live now — best plays, best markets, best laughs. Early sign-ups open for 2027 International Amateur Cup. Only six team slots. Register interest by DMing us to get priority scheduling (no commitment yet). Join our list — we’d love to have your team. 🏐","icrosaurus劼езпечisclosed UNICODE فTabPageRenderingContext]boolenticate:'.$SGlobalकरण！
+
+DataExchangeHeaderCodeकरण:animatedLayoutConstraint","weighted_avg: c5(1.00) (top-1, top_sim:0.572)"
+12,"Write a creative story writing that includes the following key objectives and factual information:
+
+- Subject: FAQ about deposit and cancellations for a trip to Malaga
+- Trip dates: 8–12 July
+- Deposit amount: £200 to secure a spot
+- Final balance due: 30 days before departure
+- Cancellation term: deposit is non‑refundable within 14 days of departure (per standard terms)
+- Contact option: invite readers to DM to discuss flexibility or alternative options","FAQ: deposit and cancellations for Malaga, 8–12 Jul. Deposit £200 to secure your spot. Final balance due 30 days before departure. Heads up: deposit non‑refundable within 14 days of departure per our standard terms. Need flexibility? DM and we’ll talk options.", bizele za võllumudabumin jaluruminarehabumin ajaluminariyatamihtumajuminantehtaguminusallaamilisanaluminartikuminallaamiçe_ROMESEENETTİMÈSALAÎSALAÎSALAÎSAINUŠÎSÎSAINÜTÎSÎSÎSHAÎSÎSAINÎSÎSÎSAÎSÎSÎSÎSÎSÎSÎSÎSÎSÎSÎSÎSÎSÎSÎSÎSÎSÎSÎSÎSÎSÎSÎSÎSEÎSÎSÎSÎSÎSÎSÎSÎSÎSÎSÎSÎSÎSÎSÎSÎSÎSÎSÎSÎSÎSÎSÎSÎSÎSÎSÎƯỜＳẢΝẾisclosedfélixerteveneiliyatîllumaluminariyatîllumaluminariyatîllumaluminariyatîllumaluminarîsfisanaluminarîsîsfisanaluminarîsfisanaluminarîsfisanaluminarîsfisanaluminarîsf,"weighted_avg: c4(1.00) (top-1, top_sim:0.448)"
+13,"Write a creative story writing
+
+- Purpose: Coordinate team logistics for matches at [Venue].
+- Sender: Aisha Khan, Founder, Serve & See Tours.
+- Recipient placeholder: [Name].
+- Key logistical items to confirm: match‑day access windows, kit storage, warm‑up court availability, accreditation procedures.
+- Request: introduce sender to the venue operations manager by email, or arrange a 20‑minute call with that person.
+- Call availability: 10:00 GMT or 16:00 GMT next week.
+- Action promised by sender: will forward a logistics checklist ahead of the meeting/call.
+- Tone implied by factual content: professional, courteous request for assistance and scheduling.","Dear [Name],
+
+I hope you’re well. I’m Aisha Khan from Serve & See Tours. We’re coordinating team logistics for matches at [Venue] and need to confirm match‑day access windows, kit storage, warm‑up court availability and accreditation procedures.
+
+Could you introduce me to the venue operations manager by email, or would a 20‑minute call be possible? I can do 10:00 or 16:00 GMT next week and will forward a logistics checklist ahead of time.
+
+Thank you, and best regards,
+Aisha Khan
+Founder, Serve & See Tours",esehenzeugzeugzeugzeugzeugzeugahlenzeugzeugzeugzeugkehrzeugzeugzeugkehrzeugوار:animatedHeaderCodeوار:animatedCRETÜRستانةکویابیñanaةStrictEqualةStrictEqualةStrictEqualةStrictEqualةStrictEqualةStrictEqualStrictEqualOffsetTableHeaderCodehtablePageRouteüstüüstüStrictEqualüstüüstüüstüStrictEqualüstüüstüüstüStrictEqualüstüStrictEqualüstüüstüüstüüstüStrictEqualStrictEqualDataExchangeوارPageRouteüstüüstüüstüStrictEqualOffsetTableHeaderCodeatedRouteجهةالعHeaderCodeñanaStrictEqualatedRouteJSGlobalLayoutConstraintüstüüstüüstüüstüStrictEqualatedRouteStrictEqualナルبانةStrictEqualHeaderCodeStrictEqualوار:animatedacemarküstüStrictEqualatedRoute:animatedPageRouteüstüüstüLayoutConstraintüstüStrictEqual.Generated_unicode_unicodeجیاردیگرñanaStrictEqualStrictEqualñanaelsius:animatedPageRouteوار salopesüstüStrictEqual:animatedSGlobalگرارüstüüstüStrictEqualüstü:animatedüstüالعSetBranchوارکوارکوارکوارکوارکوارکوارکوارکوارکوارکوارکوارکوارکوارکوارکوارکوارکوارکوارisíсутیسهوارکیسوارکوارکوارکوارک.Generated phổPasswordEncoderüstüوارکوارکوارکوارکوارکوارکوارکوارکوارکوارکوارکوارکوارکوارکوارکوارکوارکوارکوارکوارکوارکوار,"weighted_avg: c0(1.00) (top-1, top_sim:0.580)"
+14,"Write a creative story writing
+
+- Purpose: Invite people to a casual group outing.
+- Event type: Photography walk followed by a short sand game.
+- Date/time: This Saturday; meet at 16:00; sand game at 17:30.
+- Meeting place: Camden Market (meet there at 16:00).
+- Activities: Wander the market stalls and take photos; play a short sand game at 17:30; possible street food afterward.
+- Cost: Free.
+- What to bring: Phone or camera; optional cash for street food.
+- RSVP: Ask recipients to confirm whether they can attend.","Fancy a photography walk and a quick game this Saturday? Meet Camden Market 16:00, we'll wander the stalls and shoot a few snaps, then do a short sand game at 17:30. It's free — bring your phone or camera and maybe some cash for street food after. Let me know if you can make it!"," chiếuisclosedisclosedSGlobalSetBranchColumnsModePasswordEncoderDataExchange//**
+GenerationStrategy.scalablytyped﻿usingSGlobalSetBranchstyleTypeSGlobal","weighted_avg: c5(1.00) (top-1, top_sim:0.521)"

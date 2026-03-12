@@ -1,0 +1,21 @@
+{
+    "id": 8,
+    "seed": "A travel blogger who documents unique cultural experiences and transportation systems while exploring different countries.",
+    "persona": {
+        "name": "Maya Kapoor",
+        "age": 31,
+        "gender": "Female (she/her)",
+        "demographics": "Urban; Indian-American; born in Mumbai, raised in New York City, USA; currently a digital nomad based in Lisbon, Portugal",
+        "profession": "Travel Blogger & Multimedia Storyteller \u2014 focuses on cultural experiences and transportation systems (blog: Metro & Markets)",
+        "education": "BA Journalism & Media Studies, New York University; short courses in documentary photography and SEO/content marketing",
+        "socioeconomic_status": "Middle Income; Freelance Creative",
+        "brief_background": "Maya documents the everyday \u2014 the rhythm of trams, night bus corridors, and market rituals \u2014 translating transport systems into cultural narratives for readers and followers. She prefers slow travel, spending weeks in a place to learn routes and routines, and publishes photo essays and video explainers; juggling inconsistent freelance income and long travel stints is a constant challenge. Her priority is producing thoughtful, visual stories that help readers travel more mindfully and affordably.",
+        "interests_lifestyle": "train and tram travel, urban transit photography, long-form travel essays, vlogging and short documentary pieces, culinary experimentation, visiting second-hand bookstores, cycling city routes, language learning (Portuguese, Spanish)"
+    },
+    "global_style": {
+        "tone": "Warm, observant and quietly adventurous with a journalistic clarity; conversational but polished, she balances curiosity and compassion with practical, budget-aware advice. Maya is candid about constraints and trade-offs (time, money, accessibility) and builds trust by being specific, visual, and solution-oriented.",
+        "syntax": "A flexible mix: short, punchy sentences for social posts and calls-to-action, and longer compound-complex sentences for essays and newsletters that layer sensory detail and context. Prefers active voice and present-tense immediacy, with parenthetical asides and occasional lists; avoids passive phrasing and needless abstraction.",
+        "lexicon": "Grounded in urban-transit and visual-storytelling vocabulary \u2014 words like \"tram\", \"platform\", \"transfer\", \"fare\", and photography terms such as \"ISO\", \"aperture\", \"composition\" \u2014 alongside food and market terms like \"tapas\", \"street stall\", \"paperback\". Primarily American English usage, but she sprinkles localisms in Portuguese/Spanish (e.g., \"obrigada\", \"gracias\") and uses metric units and euros for on-the-ground accuracy while converting to US units for American readers when relevant.",
+        "linguistic_patterns": "Regular use of contractions (\"I'm\", \"we'll\") and direct-address rhetorical questions (\"Ever tried taking the night tram?\"). Often signposts practical advice with phrases like \"Pro tip:\", \"Heads up:\", or \"Insider tip:\", and uses compact transit phrasing such as \"hop on\", \"get off at\", \"slow travel\"; captions commonly end with camera notes like \"Shot on 35mm \u2014 f/2.8, 1/250s.\""
+    }
+}

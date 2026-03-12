@@ -1,0 +1,4121 @@
+identifier,email,llm_email,rouge_l_precision,rouge_l_recall,rouge_l_fmeasure
+allen-p/_sent_mail/580.,cannot open this file. Please send in different format,"Dear Llewter,
+
+I hope this message finds you well. I wanted to let you know that I am having trouble opening the attached file you sent. It seems to be in a format that is not compatible with my system.
+
+Could you please resend the file in a different format, such as PDF or DOCX? It would be greatly appreciated.
+
+Thank you for your understanding, and I look forward to receiving the file soon.
+
+Best regards,
+
+[Your Name]  
+[Your Contact Information]",0.080645,0.555556,0.140845
+allen-p/_sent_mail/1003.,"Please cc the following distribution list with updates:
+
+Phillip Allen (pallen@enron.com)
+Mike Grigsby (mike.grigsby@enron.com)
+Keith Holst (kholst@enron.com)
+Monique Sanchez
+Frank Ermis
+John Lavorato
+
+
+Thank you for your help
+
+Phillip Allen","Dear David and John,
+
+I hope this message finds you well. 
+
+I would like to request that you kindly CC the following individuals with any updates moving forward:
+
+- Phillip Allen (pallen@enron.com)
+- Mike Grigsby (mike.grigsby@enron.com)
+- Keith Holst (kholst@enron.com)
+- Monique Sanchez
+- Frank Ermis
+- John Lavorato
+
+Your attention to this matter is greatly appreciated.
+
+Thank you!
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",0.372881,0.733333,0.494382
+allen-p/_sent_mail/149.,"Larry,
+
+ Just a note to touch base on the sagewood townhomes and other development 
+opportunities.
+
+ I stumbled across some other duplexes for sale on the same street. that were 
+built by Reagan Lehmann.  22 Units were sold for 
+ around $2 million. ($182,000/duplex).  I spoke to Reagan and he indicated 
+that he had more units under construction that would be 
+ available in the 180's.  Are the units he is selling significantly different 
+from yours?  He mentioned some of the units are the 1308 floor
+ plan.  My bid of 2.7 million is almost $193,000/duplex.  
+
+ As far as being an investor in a new project, I am still very interested.  
+
+ Call or email with your thoughts.
+
+Phillip","Dear Larry,
+
+I hope this message finds you well. 
+
+I am reaching out to inquire about Sagewood townhomes and any other development opportunities you may currently have available. I am particularly interested in understanding the pricing structure and how it compares to the duplexes built by Reagan Lehmann, as I have noted some differences that I would like to discuss.
+
+As you know, I am very keen on investing in new projects, and I believe there is great potential in the current market. If you could provide more details about Sagewood and any other projects you are developing, I would greatly appreciate it.
+
+Thank you for your time, and I look forward to hearing from you soon.
+
+Best regards,
+
+[Your Name]  
+[Your Contact Information]  
+[Your Company Name if applicable]",0.290323,0.303371,0.296703
+allen-p/sent/485.,"Got your email.  I will let Jacques know.  I guess we can work out the finer 
+points next week.  The bank here in Houston is dealing with their auditors 
+this week, so unfortunately I did not hear from them this week.  The are 
+promising to have some feedback by Monday.  I will let you know as soon as I 
+hear from them.
+
+Phillip","Dear [Recipient's Name],
+
+Thank you for your email. I wanted to let you know that Jacques will be notified of your message. We will discuss the finer points of your inquiry next week.
+
+Please note that the bank in Houston is currently dealing with auditors this week, which has caused some delays in updates. However, they expect to provide feedback by Monday, and I will notify you as soon as there is new information.
+
+Thank you for your patience.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]  
+[Your Company]",0.391304,0.551020,0.457627
+allen-p/sent/138.,"I tried the new address but I don't have access.  also, what do I need to 
+enter under domain?","Hi Cooper,
+
+I hope this message finds you well. 
+
+I’m reaching out to ask for your assistance in accessing a new address. I’m a bit uncertain about what to enter under the domain and would appreciate your guidance on this matter.
+
+Thank you in advance for your help!
+
+Best regards,
+
+[Your Name]  
+[Your Job Title]  
+[Your Contact Information]",0.170213,0.470588,0.250000
+allen-p/sent_items/57.,I would look at properties in San Antonio or Dallas.,"Hi JSmith,
+
+I hope this message finds you well! I wanted to suggest that you explore some properties in either San Antonio or Dallas. Both cities have a lot to offer in terms of growth and investment potential, and I believe they could align well with your goals.
+
+If you're interested, I can help you find some listings or provide more information about the neighborhoods in those areas. 
+
+Looking forward to hearing your thoughts!
+
+Best regards,
+
+[Your Name] 
+[Your Contact Information]",0.104478,0.700000,0.181818
+allen-p/_sent_mail/21.,"Tim,
+
+Can you authorize access to the west power site for Keith Holtz.  He is our Southern California basis trader and is under a two year contract.
+
+On another note, is it my imagination or did the SARR website lower its forecast for McNary discharge during May.  It seems like the flows have been lowered into the 130 range and there are fewer days near 170.  Also the second half of April doesn't seem to have panned out as I expected.  The outflows stayed at 100-110 at McNary.  Can you email or call with some additional insight?
+
+Thank you,
+
+Phillip","Dear Tim,
+
+I hope this message finds you well. 
+
+I am writing to request your authorization for Keith Holtz to access the west power site. His involvement is essential for our ongoing projects, and your approval would be greatly appreciated.
+
+Additionally, I would like to seek clarification regarding the forecast for McNary discharge and outflows available on the SARR website. Any insights you could provide would be helpful for our planning.
+
+Thank you for your attention to these matters. I look forward to your prompt response.
+
+Best regards,
+
+[Your Name]  
+[Your Job Title]  
+[Your Contact Information]",0.239437,0.200000,0.217949
+allen-p/sent/255.,"Anymore details?  Is the offer above or below 675?
+
+What else do you have in a clean 11cap in a good location with room to expand?","Dear J. Smith,
+
+I hope this message finds you well. I am reaching out to request more details regarding the recent offer we discussed. Specifically, I would like to know if the offer is above or below $675,000.
+
+Additionally, I'm interested in exploring available properties that have a clean 11 cap rate in desirable locations, particularly those with potential for expansion. 
+
+Thank you for your assistance. I look forward to your prompt response.
+
+Best regards,
+
+[Your Name]  
+[Your Contact Information]",0.161765,0.458333,0.239130
+allen-p/sent/49.,"Richard,
+
+ Are you available at 5:30 ET today?
+
+Phillip","Hi there,
+
+I hope this message finds you well. I wanted to check if Richard is available for a quick discussion at 5:30 PM ET today.
+
+Thank you!
+
+Best regards,
+
+[Your Name]",0.161290,0.555556,0.250000
+allen-p/_sent_mail/502.,"Lee,
+
+Can you provide me with a copy of the original loan and a copy of the 
+original appraisal.  
+
+My fax number is 713-646-2391
+
+Mailing address: 8855 Merlin Ct, Houston, TX 77055
+
+Thank you,
+
+Phillip Allen","Dear [Recipient's Name],
+
+I hope this message finds you well. I am writing to request a copy of the original loan documents and the original appraisal related to my account. 
+
+For your convenience, you can send the documents to my fax number at 713-646-2391 or to my mailing address, which is 8855 Merlin Ct, Houston, TX 77055.
+
+Thank you for your assistance with this matter. Please let me know if you need any further information.
+
+Best regards,
+
+[Your Name]  
+[Your Contact Information]",0.318182,0.677419,0.432990
+allen-p/_sent_mail/555.,"Larry,
+
+I met with a banker that is interested in financing the project.  They need 
+the following:
+
+Financial statements plus last two years tax returns.
+Builders resume listing similar projects
+
+The banker indicated he could pull together a proposal by Friday.  If we are 
+interested in his loan, he would want to  come see the site.
+If you want to overnight me the documents, I will pass them along.   You can 
+send them to my home or office (1400 Smith, EB3210B, Houston, TX 77002).
+
+The broker is Jim Murnan.  His number is 713-781-5810, if you want to call 
+him and send the documents to him directly.
+
+It sounds like the attorneys are drafting the framework of the partnership 
+agreement.  I would like to nail down the outstanding business points as soon 
+as possible.  
+
+Please email or call with  an update.
+
+
+Phillip","Hi Larry,
+
+I wanted to provide a summary of the meeting we had with the banker regarding financing the project. The banker emphasized the importance of having our financial statements and tax returns prepared, along with a builder's resume, as part of the financing package.
+
+The timeline for the proposal suggests we should aim to have everything submitted within the next two weeks to keep our momentum going. The broker, [Broker's Name], can be contacted at [Broker's Email] or [Broker's Phone Number] should you need any further assistance or follow-up.
+
+Additionally, could you please provide an update on the outstanding business points for the partnership agreement? It would be helpful to have clarity on those items as we move forward.
+
+Thanks, and looking forward to your prompt response.
+
+Best,
+[Your Name]",0.336842,0.307692,0.321608
+allen-p/sent_items/214.,"Chris,
+
+Can you use your connections to request access to the East Power website for the following:
+
+Hunter Shively
+Mike Grigsby
+Scott Neal
+John Arnold
+Tom Martin
+Phillip Allen
+Jim Schwieger
+
+Thanks,
+
+Phillip","Hi Chris,
+
+I hope this message finds you well. I am reaching out to request your assistance in granting access to the East Power website for the following team members:
+
+- Hunter Shively  
+- Mike Grigsby  
+- Scott Neal  
+- John Arnold  
+- Tom Martin  
+- Phillip Allen  
+- Jim Schwieger  
+
+If you could leverage your connections to help facilitate this request, it would be greatly appreciated. Please let me know if you need any additional information or forms completed.
+
+Thank you for your support!
+
+Best regards,  
+[Your Name]  
+[Your Position]  
+[Your Contact Information]  
+[Your Company]",0.315789,0.800000,0.452830
+allen-p/_sent_mail/279.,"Mac,
+
+I checked into executing my options with Smith Barney.  Bad news.  Enron has 
+an agreement with Paine Webber that is exclusive.  Employees don't have the 
+choice of where to exercise.  I still would like to get to the premier 
+service account, but I will have to transfer the money.  
+
+Hopefully this will reach you.
+
+Phillip","Dear Mac,
+
+I hope this message finds you well. 
+
+I wanted to inform you that there is an exclusive agreement in place with Paine Webber regarding the exercise of options for Enron employees. This means that options cannot be executed through Smith Barney for our team.
+
+Despite this, I would still like to proceed with transferring the necessary funds to access a premier service account. Please let me know the next steps we need to take to facilitate this transfer.
+
+Thank you for your understanding, and I look forward to your prompt response.
+
+Best regards,
+
+[Your Name]
+[Your Position]
+[Your Contact Information]",0.259259,0.456522,0.330709
+allen-p/_sent_mail/572.,"Larry,
+
+Do you want the loan and wire amount to be for exactly $1.1 million.
+
+Phillip","Dear Llewter,
+
+I hope this message finds you well. I wanted to clarify the details regarding the loan and wire transfer. Should the total amount be exactly $1.1 million?
+
+Thank you for your assistance.
+
+Best regards,
+
+[Your Name]  
+[Your Contact Information]",0.297297,0.647059,0.407407
+allen-p/sent/765.,"Randy,
+
+ Can you send me a schedule of the salary and level of everyone in the 
+scheduling group.  Plus your thoughts on any changes that need to be made.  
+(Patti S for example)
+
+Phillip","Hi Randall,
+
+I hope this message finds you well. 
+
+Could you please provide me with a schedule of the salary and level for everyone in the scheduling group? I believe this information will be helpful for our upcoming discussions.
+
+Additionally, I would appreciate your thoughts on any necessary changes you might see for the team moving forward.
+
+Thank you for your assistance.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",0.333333,0.593750,0.426966
+allen-p/_sent_mail/1001.,Let's shoot for Tuesday at 11:45.,"Dear Greg,
+
+I hope this message finds you well. I would like to propose a meeting on Tuesday at 11:45 AM to discuss some important updates and any ongoing projects. Please let me know if this time works for you or if there's a more convenient time.
+
+Looking forward to your response.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",0.078431,0.666667,0.140351
+allen-p/sent/144.,I tried to run the model and it did not work,"Hi Sunil,
+
+I wanted to let you know that I attempted to run the model as discussed, but unfortunately, it did not work as expected. 
+
+I will investigate the issue further and keep you updated on any progress.
+
+Best regards,
+
+[Your Name]",0.277778,0.909091,0.425532
+allen-p/_sent_mail/232.,"Tim,
+ Matt sent you a email with his attempt to organize some of the cems and wscc 
+data.  Tim H. expressed concern over the reliability of the wscc data.  I 
+don't know if we should scrap the wscc or just keep monitoring in case it 
+improves.  Let me know what you think.
+
+Phillip","Hi Tim,
+
+I hope this message finds you well. 
+
+I wanted to bring up some concerns regarding the reliability of the WSCC data. Matt recently made an effort to organize the CEMS and WSCC data, but there are still significant uncertainties surrounding the accuracy and consistency of the WSCC metrics.
+
+Given these circumstances, I would appreciate your opinion on whether we should continue monitoring the WSCC data or consider discarding it altogether. Your insights would be invaluable in guiding our decision-making process.
+
+Looking forward to hearing your thoughts.
+
+Best,
+
+[Your Name]",0.229730,0.386364,0.288136
+allen-p/sent/325.,"Are there behind closed doors discussions being held prior to the meeting?  
+Is there the potential for a surprise announcement of some sort of fixed 
+price gas or power cap once the open meeting finally happens?","Hi Ray,
+
+I hope this message finds you well. I wanted to reach out to inquire if there are any behind closed doors discussions taking place prior to the upcoming meeting. Additionally, is there a possibility that we might hear about a surprise announcement concerning a fixed price cap for gas or power during the open session?
+
+Your insights would be greatly appreciated.
+
+Thank you!
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]  
+[Your Company]",0.272727,0.562500,0.367347
+allen-p/_sent_mail/68.,"George, 
+
+The other files opened fine, but I can't open winmail.dat files.  Can you 
+resend this one in a pdf format.?
+
+Thanks,
+
+Phillip","Hi George,
+
+I hope this message finds you well. I wanted to ask if you could please resend the winmail.dat file in PDF format. Unfortunately, I wasn't able to open the original file.
+
+Thank you for your assistance!
+
+Best regards,
+
+[Your Name]",0.277778,0.416667,0.333333
+allen-p/sent/526.,"Thanks for representing Matt.
+
+Phillip","Dear Ben,
+
+I hope this message finds you well. I wanted to take a moment to express my sincere gratitude for your support and representation of Matt. Your expertise and dedication have made a significant difference in our efforts, and we truly appreciate the time and resources you've invested.
+
+Thank you once again for your commitment. It has been a pleasure working with you.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]  
+[Your Company]",0.032787,0.400000,0.060606
+allen-p/sent/420.,"Al,
+
+I was not going to do the MS this year.  Thanks for the offer though.
+
+All is well here.  We went to Colorado last week and the kids learned to 
+ski.  Work is same as always.
+How are things going at New Power?  Is there any potential?
+
+Phillip","Hi Al,
+
+I hope this message finds you well. I wanted to let you know that I will not be participating in the MS this year. 
+
+On a lighter note, we recently took a family trip to Colorado, and it was an amazing experience! The kids learned how to ski, and they had a blast hitting the slopes. It’s always great to see them embrace new challenges!
+
+How are things going at New Power? Is there any potential on the horizon?
+
+Looking forward to hearing from you.
+
+Best regards,
+
+[Your Name]",0.298701,0.534884,0.383333
+allen-p/sent/173.,"Celeste,
+
+ I need two assoc./analyst for the west gas trading desk.  Can you help?
+ I also left you a voice mail.
+
+Phillip
+x37041","Dear Celeste,
+
+I hope this message finds you well. I wanted to follow up on the voicemail I left for you regarding the open associate/analyst positions we have on the West Gas Trading Desk. We are looking for qualified candidates to fill these roles as soon as possible, and I would greatly appreciate your assistance in this process.
+
+If you have any recommendations or if there are specific steps we should take, please let me know. Your expertise in this area would be invaluable to us.
+
+Thank you for your attention to this matter, and I look forward to hearing from you soon.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]  
+[Your Company]",0.073171,0.272727,0.115385
+allen-p/sent/196.,"Lucy,
+
+ I want to speak to Wade myself.  He can call me at work or home. Or if you 
+email me his number I will call him.  
+ I would like Gary to direct Wade on renovation tasks and you can give him 
+work orders for normal maintenance.
+
+ I will call you tomorrow to discuss items from the office.  Do you need Mary 
+to come in on any more Fridays?  I think I 
+ can guess your answer.
+
+ I might stop by this Friday.
+
+Phillip","Hi Stagecoach Mama,
+
+I hope this message finds you well. I'm reaching out to inform you that Phillip would like to speak with Wade directly regarding some important matters. If Wade is unavailable, could you please provide me with his contact number?
+
+In the meantime, Gary will be directing Wade on the renovation tasks, while Lucy will handle the normal maintenance work orders. Phillip also intends to call Lucy tomorrow to discuss some office matters and wanted to check if Mary should be coming in on more Fridays.
+
+Additionally, Phillip may visit this coming Friday. 
+
+Thanks for your assistance!
+
+Best regards,
+
+[Your Name]",0.341463,0.466667,0.394366
+allen-p/sent/253.,"Steve,
+
+Please remove Bob Shiring and Liz Rivera from rc #768.  
+
+Thank you
+
+Phillip Allen","Dear Stephen,
+
+I hope this message finds you well. 
+
+I am writing to request the removal of Bob Shiring and Liz Rivera from rc #768. Please let me know if you need any further information or if there are any forms I need to complete for this process.
+
+Thank you for your attention to this matter.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",0.215686,0.733333,0.333333
+allen-p/sent/322.,"Ray,
+
+Is there any detail on the gas cost proxy.  Which delivery points from which 
+publication will be used?  Basically, can you help us get any clarification 
+on the language ""the average daily cost of gas for all delivery points in 
+California""?
+
+Phillip","Dear Ray,
+
+I hope this message finds you well. 
+
+I am reaching out to request some specifics regarding the gas cost proxy. Could you please provide details on which delivery points and publications will be referenced? Additionally, I would appreciate clarification on the wording related to the average daily cost of gas for all delivery points in California, as I want to ensure I fully understand the context.
+
+Thank you for your assistance. I look forward to your response.
+
+Best regards,
+
+[Your Name]
+[Your Position]
+[Your Company]
+[Your Contact Information]",0.268657,0.500000,0.349515
+allen-p/sent/553.,"Larry,
+
+ 10 AM tomorrow is good for me.  If you want to email me anything tonight, 
+please use pallen70@hotmail.com.
+
+Phillip","Hi [Recipient's Name],
+
+I hope this message finds you well. 
+
+I would like to confirm our meeting scheduled for 10 AM tomorrow. If you need to reach me for any reason, feel free to use my alternative email at [Your Alternative Email]. 
+
+Looking forward to our discussion!
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Company]  
+[Your Phone Number]  
+[Your Email]",0.170213,0.400000,0.238806
+allen-p/_sent_mail/2.,"Outlook Migration Team@ENRON
+05/11/2001 01:49 PM
+To:	Cheryl Wilchynski/HR/Corp/Enron@ENRON, Cindy R Ward/NA/Enron@ENRON, Jo Ann Hill/Corp/Enron@ENRON, Sonja Galloway/Corp/Enron@Enron, Bilal Bajwa/NA/Enron@Enron, Binh Pham/HOU/ECT@ECT, Bradley Jones/ENRON@enronXgate, Bruce Mills/Corp/Enron@ENRON, Chance Rabon/ENRON@enronXgate, Chuck Ames/NA/Enron@Enron, David Baumbach/HOU/ECT@ECT, Jad Doan/ENRON@enronXgate, O'Neal D Winfree/HOU/ECT@ECT, Phillip M Love/HOU/ECT@ECT, Sladana-Anna Kulic/ENRON@enronXgate, Victor Guggenheim/HOU/ECT@ECT, Alejandra Chavez/NA/Enron@ENRON, Anne Bike/Enron@EnronXGate, Carole Frank/NA/Enron@ENRON, Darron C Giron/HOU/ECT@ECT, Elizabeth L Hernandez/HOU/ECT@ECT, Elizabeth Shim/Corp/Enron@ENRON, Jeff Royed/Corp/Enron@ENRON, Kam Keiser/HOU/ECT@ECT, Kimat Singla/HOU/ECT@ECT, Kristen Clause/ENRON@enronXgate, Kulvinder Fowler/NA/Enron@ENRON, Kyle R Lilly/HOU/ECT@ECT, Luchas Johnson/NA/Enron@Enron, Maria Garza/HOU/ECT@ECT, Patrick Ryder/NA/Enron@Enron, Ryan O'Rourke/ENRON@enronXgate, Yuan Tian/NA/Enron@ENRON, Frank Ermis/HOU/ECT@ECT, Jane M Tholt/HOU/ECT@ECT, Jay Reitmeyer/HOU/ECT@ECT, Keith Holst/HOU/ECT@ect, Matthew Lenhart/HOU/ECT@ECT, Mike Grigsby/HOU/ECT@ECT, Monique Sanchez/HOU/ECT@ECT, Phillip K Allen/HOU/ECT@ECT, Randall L Gay/HOU/ECT@ECT, Tori Kuykendall/HOU/ECT@ECT, Ina Norman/HOU/ECT@ECT, Jackie Travis/HOU/ECT@ECT, Michael J Gasper/HOU/ECT@ECT, Brenda H Fletcher/HOU/ECT@ECT, Jeanne Wukasch/Corp/Enron@ENRON, Mary Theresa Franklin/HOU/ECT@ECT, Mike Potter/NA/Enron@Enron, Natalie Baker/HOU/ECT@ECT, Suzanne Calcagno/NA/Enron@Enron, Albert Stromquist/Corp/Enron@ENRON, Rajesh Chettiar/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Derek Anderson/HOU/ECT@ECT, Brad Horn/HOU/ECT@ECT, Camille Gerard/Corp/Enron@ENRON, Cathy Lira/NA/Enron@ENRON, Daniel Castagnola/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Eva Tow/Corp/Enron@ENRON, Lam Nguyen/NA/Enron@Enron, Andy Pace/NA/Enron@Enron, Anna Santucci/NA/Enron@Enron, Claudia Guerra/NA/Enron@ENRON, Clayton Vernon/Corp/Enron@ENRON, David Ryan/Corp/Enron@ENRON, Eric Smith/Contractor/Enron Communications@Enron Communications, Grace Kim/NA/Enron@Enron, Jason Kaniss/ENRON@enronXgate, Kevin Cline/Corp/Enron@Enron, Rika Imai/NA/Enron@Enron, Todd DeCook/Corp/Enron@Enron, Beth Jensen/NPNG/Enron@ENRON, Billi Harrill/NPNG/Enron@ENRON, Martha Sumner-Kenney/NPNG/Enron@ENRON, Phyllis Miller/NPNG/Enron@ENRON, Sandy Olofson/NPNG/Enron@ENRON, Theresa Byrne/NPNG/Enron@ENRON, Danny McCarty/ET&S/Enron@Enron, Denis Tu/FGT/Enron@ENRON, John A Ayres/FGT/Enron@ENRON, John Millar/FGT/Enron@Enron, Julie Armstrong/Corp/Enron@ENRON, Maggie Schroeder/FGT/Enron@ENRON, Max Brown/OTS/Enron@ENRON, Randy Cantrell/GCO/Enron@ENRON, Tracy Scott/Corp/Enron@ENRON, Charles T Muzzy/HOU/ECT@ECT, Cora Pendergrass/Corp/Enron@ENRON, Darren Espey/Corp/Enron@ENRON, Jessica White/NA/Enron@Enron, Kevin Brady/NA/Enron@Enron, Kirk Lenart/HOU/ECT@ECT, Lisa Kinsey/HOU/ECT@ECT, Margie Straight/HOU/ECT@ECT, Mark L Schrab/HOU/ECT@ECT, Souad Mahmassani/Corp/Enron@ENRON, Tammy Gilmore/NA/Enron@ENRON, Teresa McOmber/NA/Enron@ENRON, Wes Dempsey/NA/Enron@Enron, Barry Feldman/NYC/MGUSA@MGUSA, Catherine Huynh/NA/Enron@Enron
+cc:	 
+Subject:	2- SURVEY/INFORMATION EMAIL 5-14- 01
+
+Current Notes User: 
+
+To ensure that you experience a successful migration from Notes to Outlook, it is necessary to gather individual user information prior to your date of migration.  Please take a few minutes to completely fill out the following survey. Double Click on document to put it in ""Edit"" mode. When you finish, simply click on the 'Reply With History' button then hit 'Send'  Your survey will automatically be sent to the Outlook 2000 Migration Mailbox.
+
+Thank you.
+
+Outlook 2000 Migration Team
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Full Name:        Phillip Allen		
+
+Login ID:  	pallen
+
+Extension:  	37041
+
+Office Location:  EB3210C
+
+What type of computer do you have?  (Desktop,  Laptop,  Both)  	Both
+
+Do you have a PDA?  If yes, what type do you have:   (None, IPAQ, Palm Pilot, Jornada)  IPAQ
+
+Do you have permission to access anyone's Email/Calendar?  	
+    If yes, who?  
+
+Does anyone have permission to access your Email/Calendar?  	Yes, Ina Rangel
+    If yes, who?  
+
+Are you responsible for updating anyone else's address book?  	
+    If yes, who?  
+
+Is anyone else responsible for updating your address book?  
+    If yes, who?  
+
+Do you have access to a shared calendar?  
+    If yes, which shared calendar?  
+
+Do you have any Distribution Groups that Messaging maintains for you (for mass mailings)?  
+    If yes, please list here:  
+
+Please list all Notes databases applications that you currently use:  
+
+In our efforts to plan the exact date/time of your migration, we also will need to know:
+
+What are your normal work hours?  From:   7   To:      5
+
+Will you be out of the office in the near future for vacation, leave, etc?
+       If so, when?        From (MM/DD/YY):      To (MM/DD/YY):","Dear Team,
+
+As we prepare for the upcoming migration from Notes to Outlook, we want to remind everyone to complete the survey that has been shared with you. It is crucial for us to gather accurate information to ensure a smooth transition.
+
+Please make sure to provide the following details in your responses:
+1. **Login Information**: Include your current user ID and any relevant credentials.
+2. **Computer Type**: Specify whether you are using a desktop, laptop, or any other type of device.
+3. **Access Permissions**: Indicate any special access rights or permissions you currently have, which are important for setting up your Outlook account.
+
+Completing this survey is essential for helping our IT team facilitate your migration with minimal disruption. Please submit your responses by [insert deadline]. Your cooperation is greatly appreciated.
+
+If you have any questions or encounter any issues while filling out the survey, feel free to reach out.
+
+Thank you for your attention to this matter.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Company Name]  
+[Contact Information]",0.228346,0.074742,0.112621
+allen-p/_sent_mail/342.,received the file.  It worked.  Good job.,"Dear Mary,
+
+Thank you for sending the file. I wanted to confirm that I received it successfully, and I’m pleased to let you know that it worked perfectly.
+
+I appreciate your promptness and support.
+
+Best regards,
+
+[Your Name]",0.129032,0.571429,0.210526
+allen-p/sent/464.,"Colleen,
+
+I checked the transport model and found the following extrinsic values on 
+January 2nd versus February 11:
+
+   1/2  2/11
+
+Stanfield to Malin 209  81
+
+SJ/Perm. to Socal 896  251
+
+Sj to Socal  2747  768
+
+PGE/Top to Citygate 51  3
+
+PGE/Top to KRS 16  4
+
+SJ to Valero  916  927
+
+
+If these numbers are correct, then we haven't increased the extrinsic value 
+since the beginning of the year.  Can you confirm that I am looking at the 
+right numbers?
+
+
+Phillip","Dear Colleen,
+
+I hope this message finds you well. I am reaching out to request confirmation on the accuracy of the extrinsic values derived from our recent transport model check.
+
+Additionally, I would like to express my concern regarding the lack of any increase in these values since the beginning of the year. This trend is surprising and warrants further discussion to ensure we are aligned on expectations and analysis.
+
+Could you please verify the data at your earliest convenience? Your insights would be invaluable as we move forward.
+
+Thank you in advance for your assistance.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]  
+[Your Company]",0.166667,0.212121,0.186667
+allen-p/_sent_mail/263.,"Dawn,
+
+I received your email with p&l's.  Please continue to send them daily.
+
+Thank you,
+Phillip","Dear Dawn,
+
+I hope this message finds you well. I wanted to reach out to kindly request that you continue sending the daily profit and loss reports. I find them extremely helpful for tracking our progress and making informed decisions.
+
+Thank you for your ongoing support, and I appreciate all your hard work.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",0.140000,0.437500,0.212121
+allen-p/sent/195.,"Scott,
+
+ I emailed your question to a friend that works for the new company.  I think 
+I know the answer to your questions but I want to get the exact details from 
+him.  Basically, they will offer energy  online at a fixed price or some 
+price that undercuts the current provider.  Then once their sales are large 
+enough they will go to the wholesale market to hedge and lock in a profit.  
+The risk is that they have built in enough margin to give them room to manage 
+the price risk.  This is my best guess.  I will get back to you with more.
+
+Phillip","Dear Scott,
+
+I hope this message finds you well. I wanted to provide you with an overview of our new energy pricing strategy as we move forward with positioning our company in the market.
+
+Firstly, we are implementing a fixed pricing model that will allow our customers to secure stable rates for a defined period. This approach is designed to give our clients predictability in their energy expenses, which can be especially beneficial in today’s volatile market environment.
+
+In terms of competitive pricing, we have conducted an extensive analysis of current providers. Our goal is to not only match but to offer rates that are competitive, ensuring our customers receive the best possible value without sacrificing service quality. We've identified some key segments where we can undercut existing prices while maintaining profitability.
+
+Additionally, we are developing plans for entry into the wholesale market. This strategy will diversify our revenue streams and enhance our competitive edge. By acquiring energy in bulk at negotiated rates, we can better serve both our direct consumers and retail partners,
+leading to potentially lower prices across our offerings.
+
+Lastly, it's crucial for us to consider price risk management as we roll out these pricing strategies. We will need to establish hedging mechanisms to protect against market fluctuations and ensure that we can sustain our pricing structure without compromising service or financial integrity. A dedicated team will be tasked with monitoring market trends and adjusting our strategies accordingly to mitigate potential risks.
+
+I look forward to discussing these strategies in more detail and hearing your insights on how we can best implement them.
+
+Best regards,
+
+[Your Name]
+[Your Position]
+[Company Name] 
+[Contact Information]",0.179894,0.465753,0.259542
+allen-p/sent/73.,Nymex expiration is during this time frame.  Please reschedule.,"Dear Cindy,
+
+I hope this message finds you well. I am writing to request a rescheduling of our upcoming appointment due to the impending Nymex expiration. Given the circumstances, I believe it would be beneficial for us to find a new time that accommodates our schedules.
+
+Please let me know your availability, and I will do my best to adjust accordingly. 
+
+Thank you for your understanding.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",0.081967,0.555556,0.142857
+allen-p/_sent_mail/34.,"Griff,
+
+It is bidweek again.  I need to provide view only ID's to the two major publications that post the monthly indeces.  Please email an id and password to the following:
+
+Dexter Steis at Natural Gas Intelligence-	dexter@intelligencepress.com
+
+Liane Kucher at Inside Ferc-  lkuch@mh.com
+
+Bidweek is under way so it is critical that these id's are sent out asap.
+
+Thanks for your help,
+
+Phillip Allen","Dear Mary,
+
+I hope this message finds you well. 
+
+I am reaching out to urgently request view-only IDs and passwords for Dexter Steis at Natural Gas Intelligence (dexter@intelligencepress.com) and Liane Kucher at Inside Ferc (lkuch@mh.com). Given the ongoing bidweek, it is crucial that we have these credentials as soon as possible to ensure that both Dexter and Liane can access the necessary information.
+
+Thank you for your prompt attention to this matter. Please let me know if you need any further details.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]  
+[Your Company]",0.276316,0.362069,0.313433
+allen-p/_sent_mail/384.,"Johnnie,
+
+Thank you for meeting with me on Friday.  I left feeling very optimistic 
+about the panel system.  I would like to find a way to incorporate the panels 
+into the home design I showed you.  In order to make it feasible within my 
+budget I am sure it will take several iterations.  The prospect of purchasing 
+the panels and having your  framers install them may have to be considered.  
+However, my first choice would be for you to be the general contractor.
+
+I realize you receive a number of calls just seeking information about this 
+product with very little probability of a sale.  I just want to assure you 
+that I am going to build this house in the fall and I would seriously 
+consider using the panel system if it truly was only a slight increase in 
+cost over stick built.
+
+Please email your cost estimates when complete.
+
+Thank you,
+
+Phillip Allen","Dear Johnnie,
+
+I hope this message finds you well. I wanted to take a moment to express my sincere gratitude for our recent meeting. It was wonderful to discuss the potential of incorporating a panel system into our home design. Your insights and expertise have truly inspired me, and I believe this addition could elevate the overall aesthetic and functionality of the project.
+
+I'm optimistic about the possibilities that a panel system could bring, and I feel it aligns perfectly with our vision. As we move forward, I would like to request cost estimates for the panel system so that we can better understand how it fits within our budget considerations.  
+
+Thank you once again for your time and valuable input. I look forward to hearing back from you soon.
+
+Best regards,
+
+[Your Name]  
+[Your Contact Information]  
+[Your Address]",0.306931,0.298077,0.302439
+allen-p/_sent_mail/545.,"George,
+
+We should hear from the bank in Houston on Monday.
+
+The best numbers and times to reach me:
+
+work 713-853-7041
+fax 713-464-2391
+cell 713-410-4679
+home 713-463-8626
+pallen70@hotmail.com (home)
+pallen@enron.com (work)
+
+I am usually at work M-F 7am-5:30pm.  Otherwise try me at home then on my 
+cell.
+
+Keiths numbers are:
+
+work 713-853-7069
+fax 713-464-2391
+cell 713-502-9402
+home 713-667-5889
+kholst@enron.com
+
+Phillip","Dear [Recipient's Name],
+
+I hope this message finds you well. I wanted to inform you that we expect to hear from the bank in Houston on Monday regarding our ongoing matters.
+
+For any immediate questions or concerns, please feel free to reach out to Phillip at (555) 123-4567, who is available Monday through Friday from 9 AM to 5 PM. You can also contact Keith at (555) 987-6543; he is available on weekdays after 1 PM.
+
+Thank you for your attention to this matter. We will keep you updated as we receive more information.
+
+Best regards,
+
+[Your Name]
+[Your Position]
+[Your Contact Information]",0.170732,0.280000,0.212121
+allen-p/_sent_mail/369.,"Ray,
+
+Is there any detail on the gas cost proxy.  Which delivery points from which 
+publication will be used?  Basically, can you help us get any clarification 
+on the language ""the average daily cost of gas for all delivery points in 
+California""?
+
+Phillip","Dear Ray,
+
+I hope this message finds you well. I am reaching out to seek clarification on the gas cost proxy. Specifically, I would appreciate your guidance on which delivery points and publications will be utilized in this context. 
+
+Additionally, I would like to understand what is meant by 'the average daily cost of gas for all delivery points in California.' 
+
+Thank you for your assistance, and I look forward to your response.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]  
+[Your Company]",0.285714,0.500000,0.363636
+allen-p/_sent_mail/63.,"George,
+
+ I received the drawings.  They look good at first glance.  I will look at 
+them in depth this weekend.  The proforma was in the winmail.dat format which 
+I cannot open.  Please resend in excel or a pdf format.  If you will send it 
+to pallen70@hotmail.com, I will be able to look at it this weekend.  Does 
+this file have a timeline for the investment dollars?  I just want to get a 
+feel for when you will start needing money.  
+
+ 
+Phillip","Dear George,
+
+I hope this message finds you well.
+
+I wanted to confirm that we have received the drawings and will be reviewing them shortly. Additionally, could you please send the proforma in either Excel or PDF format? 
+
+Also, I would appreciate it if you could let me know whether the proforma includes a timeline for investment funding.
+
+Thank you for your assistance!
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Company]  
+[Your Contact Information]",0.295082,0.315789,0.305085
+allen-p/sent/214.,"Jeff,
+
+ I would consider owner financing depending on:
+
+  Established developer/individual/general credit risk
+
+  What are they going to do with the land
+
+  Rate/Term/Downpayment 25%
+ 
+ Let me know.
+
+Phillip","Dear [Recipient's Name],
+
+I hope this message finds you well. 
+
+I wanted to reach out regarding the owner financing considerations for the land we discussed. As we evaluate the potential sale, it's important to address a few key factors:
+
+1. **Established Credit Risk of the Buyer**: Before finalizing any agreement, we need to assess the creditworthiness of the buyer. This includes reviewing their credit history and income verification to ensure they can meet payment obligations reliably. A thorough understanding of their financial standing will help us mitigate any potential risks.
+
+2. **Intended Use for the Land**: It’s crucial to clarify how the prospective buyer intends to use the land. This insight will inform whether the financing terms align with their plans and ensure that both parties have a clear understanding of expectations.
+
+3. **Financing Terms**: For the owner financing to be viable, the terms must be clearly established. We are considering a requirement of a 25% downpayment, along with a reasonable interest rate and term length. I suggest we discuss the typical interest rate that aligns with current market trends, as well as the duration for which the loan would be structured.
+
+I believe it is essential to have an open dialogue about these points to proceed effectively. Please let me know your availability for a discussion, or if you have any immediate thoughts regarding these considerations.
+
+Thank you for your attention, and I look forward to your response.
+
+Best regards,
+
+[Your Name]
+[Your Position]
+[Your Contact Information]",0.071856,0.444444,0.123711
+allen-p/sent/235.,"Mary,
+
+Go ahead and work with Gary to get a new fridge for #8.  
+
+I am going to try and come down this Saturday.
+
+Talk to you later.
+
+Phillip","Hi Mary,
+
+I hope you're doing well! 
+
+Could you please coordinate with Gary to purchase a new fridge for apartment #8? It’s important that we get this taken care of as soon as possible.
+
+I plan to visit this Saturday, so I would like to have this sorted out by then.
+
+Thank you for your help!
+
+Best,
+[Your Name]",0.220000,0.423077,0.289474
+allen-p/_sent_mail/92.,"Andy,
+
+ Please assign a user name to Randy Gay.
+
+Thank you,
+
+Phillip","Dear Andy,
+
+I hope this message finds you well. 
+
+I am writing to request the assignment of a username for Randy Gay. Please let me know if you need any further information to facilitate this process.
+
+Thank you for your assistance.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",0.142857,0.500000,0.222222
+allen-p/_sent_mail/158.,"Cooper,
+ 
+ Can you give access to the new west power site to Jay Reitmeyer.  He is an 
+analyst in our group.
+
+Phillip","Dear Cooper,
+
+I hope this message finds you well. 
+
+I am writing to request access to the new West Power site for Jay Reitmeyer, who is an analyst in our group. Jay's role requires him to gather data and insights from that location to support our ongoing projects.
+
+Could you please facilitate this access at your earliest convenience? If you need any further information or documentation, feel free to let me know.
+
+Thank you for your assistance.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]  
+[Your Company]",0.194444,0.666667,0.301075
+allen-p/sent/247.,re: window unit check with gary about what kind he wants to install,"Hi Mary,
+
+I hope this message finds you well. Could you please confirm with Gary about the specifications of the window unit he wants to install? It would be great to have that information before we proceed.
+
+Thank you!
+
+Best regards,
+
+[Your Name]",0.125000,0.384615,0.188679
+allen-p/sent/486.,"George,
+
+The probability of building a house this year is increasing.  I have shifted 
+to a slightly different plan.  There were too many design items that I could 
+not work out in the plan we discussed previously.  Now, I am leaning more 
+towards a plan with two wings and a covered courtyard in the center.  One 
+wing would have a living/dining kitchen plus master bedroom downstairs with 3 
+kid bedrooms + a laundry room upstairs.  The other wing would have a garage + 
+guestroom downstairs with a game room + office/exercise room upstairs.  This 
+plan still has the same number of rooms as the other plan but with the 
+courtyard and pool in the center this plan should promote more outdoor 
+living.  I am planning to orient the house so that the garage faces the west. 
+ The center courtyard would be covered with a metal roof with some fiberglass 
+skylights supported by metal posts.  I am envisioning the two wings to have 
+single slope roofs that are not connected to the center building.  
+
+I don't know if you can imagine the house I am trying to describe.  I would 
+like to come and visit you again this month.  If it would work for you, I 
+would like to drive up on Sunday afternoon on Feb. 18 around 2 or 3 pm.  I 
+would like to see the progress on the house we looked at and tour the one we 
+didn't have time for.  I can bring more detailed drawings of my new plan. 
+
+Call or email to let me know if this would work for you.  
+pallen70@hotmail.com or 713-463-8626(home), 713-853-7041(work)
+
+
+Phillip Allen
+
+
+PS.  Channel 2 in Houston ran a story yesterday (Feb. 2) about a home in 
+Kingwood that had a poisonous strain of mold growing in the walls.  You 
+should try their website or call the station to get the full story.  It would 
+makes a good case for breathable walls.","Dear Geoswan Team,
+
+I hope this message finds you well. I am excited to share that I have an increased likelihood of building a house this year, and I am eager to collaborate with your team on this project.
+
+The design I envision features two wings that will provide distinct living and sleeping areas, connected by a central covered courtyard. This courtyard will serve as a versatile outdoor space, perfect for relaxation and gatherings.
+
+I would like to request a visit on February 18 at either 2 or 3 PM to discuss these new plans further and to view the progress on previous projects you have undertaken. I will bring detailed drawings of the design for our discussion.
+
+Please let me know if this timeframe works for you. I can be reached at [Your Phone Number] or [Your Email Address] for any follow-up.
+
+Thank you for your attention. I look forward to your reply.
+
+Best regards,
+
+[Your Name]  
+[Your Address]  
+[Your Contact Information]",0.394737,0.248619,0.305085
+allen-p/sent/232.,"Mac,
+
+I checked into executing my options with Smith Barney.  Bad news.  Enron has 
+an agreement with Paine Webber that is exclusive.  Employees don't have the 
+choice of where to exercise.  I still would like to get to the premier 
+service account, but I will have to transfer the money.  
+
+Hopefully this will reach you.
+
+Phillip","Dear [Recipient's Name],
+
+I hope this message finds you well. 
+
+After checking the options with Smith Barney, I discovered that there is an exclusive agreement with Paine Webber for exercising options. This restriction has led me to reevaluate my current strategy.
+
+I also want to access the premier service account, which requires transferring funds. I understand the importance of this step, and I'm prepared to proceed as necessary to ensure smooth access.
+
+Please let me know how we can move forward with the fund transfer and if there are any additional steps I need to take regarding the options.
+
+Thank you for your assistance.
+
+Best regards,
+
+[Your Name]  
+[Your Contact Information]  
+[Your Position, if applicable]",0.202247,0.391304,0.266667
+allen-p/_sent_mail/164.,"Mark,
+
+ Here is a spreadsheet detailing our September Socal trades. (I did not 
+distinguish between buys vs. sells.)
+
+
+
+Phillip","Hi Mark,
+
+I hope this message finds you well. 
+
+Attached is the spreadsheet detailing the September SoCal trades. I’ve compiled the data without distinguishing between buys and sells, as requested.
+
+Please let me know if you need any further information or clarification.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",0.173913,0.400000,0.242424
+allen-p/sent/287.,"Tara,
+
+Please make the following changes:
+
+ FT-West -change master user from Phillip Allen to Keith Holst
+
+ IM-West-Change master user from Bob Shiring to Phillip Allen
+
+ Mock both existing profiles.
+
+ 
+Please make these changes on 1/17/00 at noon.
+
+Thank you 
+
+Phillip","Hi Tara,
+
+I hope this message finds you well.
+
+I would like to request the following changes to be implemented on January 17, 2000, at noon:
+
+1. Change the master user of FT-West from Phillip Allen to Keith Holst.
+2. Change the master user of IM-West from Bob Shiring to Phillip Allen.
+3. Mock both existing profiles.
+
+Please confirm once these changes have been scheduled. Thank you for your assistance!
+
+Best regards,
+
+[Your Name]  
+[Your Job Title]  
+[Your Contact Information]  
+[Your Company]",0.375000,0.774194,0.505263
+allen-p/_sent_mail/408.,"Thanks for the response.  I think you are right that engaging an architect is 
+the next logical step.  I had already contacted Cary Kipp and sent him the 
+floor plan.
+He got back to me yesterday with his first draft.  He took my plan and 
+improved it.  I am going to officially engage Cary to draw the plans.  While 
+he works on those I wanted to try and work out a detailed specification 
+list.  Also, I would like to visit a couple of homes that you have built and 
+speak to 1 or 2 satisfied home owners.  I will be in San Marcos on Friday 
+April 13th.  Are there any homes near completion that I could walk through 
+that day?  Also can you provide some references?
+
+Once I have the plans and specs, I will send them to you so you can adjust 
+your bid.  
+
+Phillip","Dear [Recipient's Name],
+
+I hope this message finds you well. I am reaching out to request visits to recently completed homes, along with references from satisfied homeowners, for April 13th. 
+
+I am currently engaging Cary Kipp to draw the plans, and I will be sending the plans and specifications later for bid adjustments. 
+
+Thank you for your assistance, and I look forward to hearing from you soon.
+
+Best regards,
+
+[Your Name]
+[Your Contact Information]",0.350877,0.186916,0.243902
+allen-p/sent/10.,"Financial  (6)
+  West Desk  (14)
+Mid Market (16)","Hi Amanda,
+
+I hope this message finds you well. I wanted to provide you with a brief overview of the departments under the Financial division. 
+
+Within our Financial sector, we have various teams structured to manage different markets effectively. Notably, the West Desk currently has 14 members dedicated to our operations in that region, while the Mid Market team consists of 16 professionals focused on mid-sized market transactions. 
+
+If you need further details or insights regarding the operations or performance of these teams, please let me know.
+
+Best regards,
+
+[Your Name]",0.065789,0.625000,0.119048
+allen-p/_sent_mail/452.,"Gentlemen,
+
+Today I finally received some information on the status of the work done to 
+date.  I spoke to Hugo Alexandro at Cuatro Consultants.  The property is 
+still in two parcels.  Hugo has completed a platt to combine into one  lot 
+and is ready to submit it to the city of San Marcos.  He has also completed a 
+topographical survey and a tree survey.  In addition, he has begun to 
+coordinate with the city on the replatting and a couple of easements on the 
+smaller parcel, as well as, beginning the work on the grading.  Hugo is going 
+to fax me a written letter of the scope of work he has been engaged to 
+complete.  The total cost of his services are estimated at $38,000 of which 
+$14,000 are due now for work completed.  
+
+We are trying to resolve the issues of outstanding work and bills incurred by 
+the original developer so we can obtain the title to the land.  If we can 
+continue to use Cuatro then it would be one less point of contention.  Hugo's 
+number is 512-295-8052.  I thought you might want to contact him directly and 
+ask him some questions.  I spoke to him about the possibility of your call 
+and he was fine with that.  
+
+Now we are going to try and determine if any of the work performed by Kipp 
+Flores can be used.
+
+Keith and I appreciate you meeting with us on Sunday.  We left very 
+optimistic about the prospect of working with you on this project.
+
+Call me with feedback after you speak to Hugo or with any other ideas about 
+moving this project forward.
+
+Phillip","Dear Team,
+
+I hope this message finds you well. I wanted to provide you with an update regarding our project with Cuatro Consultants.
+
+We have successfully completed the plat and surveys, and I’m pleased to report that we are now in the process of coordinating with the city to move forward. However, there are still some outstanding issues that need to be resolved with the original developer before we can proceed further.
+
+As for the cost of services, I will share the detailed breakdown in our next meeting. Please let me know if you have any questions in the meantime.
+
+For any further information or clarification, I recommend reaching out to Hugo Alexandro, who has been closely involved with the project.
+
+Thank you, and I look forward to your feedback.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]  
+[Your Company]",0.362745,0.231250,0.282443
+allen-p/sent/263.,"Mary,
+
+ I transferred $10,000 out of the checking account on Monday 2/28/00.  I will 
+call you Monday or Tuesday to see what is new.
+
+Phillip","Dear Mary,
+
+I hope this message finds you well. I wanted to inform you that a transfer of $10,000 was made out of the checking account on February 28, 2000. 
+
+I will give you a call on the upcoming Monday or Tuesday to discuss this further. 
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",0.348837,0.652174,0.454545
+allen-p/sent/414.,"Darrell,
+
+Today I let the builder/developer know that I would not proceed with his 
+excessively high cost estimates.  As he did not have the funds to take on the 
+land himself, he was agreeable to turning over the land to me.  I would like 
+to proceed and develop the property. 
+
+ My thought is to compare the financing between Bank One and FHA.  I would 
+also like to compare construction and development services between what you 
+can do and a local builder in San Marcos that I have been speaking with.  
+Making a trip to meet you and take a look at some of your projects seems to 
+be in order.  I am trying to get the status of engineering and architectural 
+work to date.  Once again the architect is Kipp Florres and the engineer is 
+Quattro Consultants out of Buda.  Let me know if you have an opinion about 
+either.
+
+I look forward to working with you.  Talk to you tomorrow.
+
+Phillip","Hi Djack,
+
+I hope this message finds you well. 
+
+After thorough discussions and analysis, we have made the decision to proceed with the property development project. In this regard, I wanted to compare our financing options and gather your insights before we finalize any agreements.
+
+Currently, we have two primary financing options: Bank One and FHA. While Bank One offers competitive interest rates, their processing time can be lengthy, which may delay our timelines. On the other hand, the FHA provides more flexible terms, particularly for construction, but the limits on loan amounts could restrict our cash flow. I would appreciate your thoughts on which option aligns better with our operational strategy.
+
+Additionally, I have been evaluating our construction services against a local builder. While we have the advantage of established relationships and experience, the local builder offers potentially lower costs due to their familiarity with the area. We need to assess whether our quality of work justifies the additional expense. It would be great to discuss this further and decide on the best approach moving forward.
+
+I also think it’s essential to organize a meeting soon to review our current projects and to update each other on engineering and architectural progress. Please let me know your availability this week or early next week so we can coordinate.
+
+Looking forward to your feedback and suggestions.
+
+Best regards,
+
+[Your Name]
+[Your Position]
+[Your Company]",0.211180,0.333333,0.258555
+allen-p/_sent_mail/302.,"Anymore details?  Is the offer above or below 675?
+
+What else do you have in a clean 11cap in a good location with room to expand?","Dear J. Smith,
+
+I hope this message finds you well. I am writing to request more details regarding the recent offer you mentioned. Specifically, I would like to know if the offer is above or below $675,000.
+
+Additionally, I am interested in exploring available clean properties that present an 11% cap rate in favorable locations, ideally with room for expansion. Any information you can provide on this would be greatly appreciated.
+
+Thank you for your assistance, and I look forward to your reply.
+
+Best regards,
+
+[Your Name]  
+[Your Contact Information]  
+[Your Company Name]",0.150685,0.458333,0.226804
+allen-p/sent/341.,"How am I to send them the money for the silent second?  Regular mail, 
+overnight, wire transfer?  I don't see how their bank will make the funds 
+available by Friday unless I wire the money.  If that is what I need to do 
+please send wiring instructions.","Dear J. Smith,
+
+I hope this message finds you well. 
+
+I am writing to inquire about the best method to send the funds for the silent second. With the deadline approaching, I want to ensure that the funds are available by Friday. 
+
+If a wire transfer is necessary, could you please provide the wiring instructions at your earliest convenience? 
+
+Thank you for your assistance, and I look forward to your prompt reply.
+
+Best regards,
+
+[Your Name]  
+[Your Contact Information]  
+[Your Address]",0.258065,0.432432,0.323232
+allen-p/sent/43.,"George,
+
+ The San Marcos project is sounding very attractive.  I have one other 
+investor in addition to Keith that has interest.  Some additional background 
+information on Larry and yourself would be helpful.
+
+ Background Questions:
+ 
+ Please provide a brief personal history of the two principals involved in 
+Creekside.
+
+ Please list projects completed during the last 5 years.  Include the project 
+description, investors, business entity, 
+
+ Please provide the names and numbers of prior investors.
+
+ Please provide the names and numbers of several subcontractors used on 
+recent projects.
+
+
+ With regard to the proposed investment structure, I would suggest a couple 
+of changes to better align the risk/reward profile between Creekside and the 
+investors. 
+
+
+ Preferable Investment Structure:
+
+ Developers guarantee note, not investors.
+
+ Preferred rate of return (10%) must be achieved before any profit sharing.
+
+ Builder assumes some risk for cost overruns.
+
+         Since this project appears so promising, it seems like we should 
+tackle these issues now.  These questions are not intended to be offensive in 
+any way.  It is my desire to build a successful project with Creekside that 
+leads to future opportunities.  I  am happy to provide you with any 
+information that you need to evaluate myself or Keith as a business partner.
+
+Sincerely,
+
+Phillip Allen","Dear [Recipient's Name],
+
+I hope this message finds you well. I am reaching out to request detailed background information regarding the principals involved in the San Marcos project. Additionally, I would appreciate insights into recent projects completed by Creekside over the last five years.
+
+Specifically, I would like to know more about:
+1. The personal histories and professional experiences of the key principals associated with the San Marcos project.
+2. Any completed projects within the last five years that may highlight the expertise and capability of Creekside.
+3. Information about prior investors involved in these projects, including their experiences and outcomes.
+4. A list of subcontractors utilized in your recent projects and their performance metrics.
+
+Furthermore, I would like to propose a revised investment structure that aligns risk and reward more effectively for all parties involved. It is my belief that addressing these concerns will help us cultivate a successful and fruitful partnership.
+
+Thank you for your attention to this matter. I look forward to your prompt response.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Company]  
+[Contact Information]",0.325203,0.277778,0.299625
+allen-p/sent/133.,"Mac,
+
+ Thanks for the research report on EOG.  Here are my observations:
+
+  Gas Sales 916,000/day x 365 days = 334,340,000/year
+  
+  Estimated Gas Prices $985,721,000/334,340,000= $2.95/mcf
+
+  Actual gas prices are around $1.00/mcf higher and rising. 
+
+   Recalc of EPS with more accurate gas prices:
+  (334,340,000 mct X $1/mcf)/116,897,000 shares outst = $2.86 additional EPS 
+X 12 P/E multiple = $34 a share
+
+
+ That is just a back of the envelope valuation based on gas prices.  I think 
+crude price are undervalued by the tune of $10/share.
+
+ Current price 37
+ Nat. Gas 34
+ Crude  10
+
+ Total  81
+
+ 
+ Can you take a look at these numbers and play devil's advocate?  To me this 
+looks like the best stock to own Also can you send me a report on Calpine, 
+Tosco, and SLB?
+
+
+Thank you,
+
+ Phillip","Dear Mac,
+
+I hope this message finds you well. 
+
+I'm reaching out to request your assistance in reviewing the financial calculations I've provided for EOG. It would be greatly appreciated if you could play devil's advocate in this review process. 
+
+To give you a brief overview, here are the key figures:
+
+- **Calculated Annual Gas Sales**: We've estimated gas sales to reach approximately [insert figure]. 
+- **Estimated vs. Actual Gas Prices**: Our estimates indicated prices at [insert estimated price], whereas the actual figures have been [insert actual price]. 
+- **Recalculated EPS**: Following our analyses, the recalculated EPS stands at [insert EPS figure]. 
+- **Undervalued Crude Prices**: We believe current crude prices might be undervalued by approximately [insert undervaluation figure]. 
+
+Additionally, I would like to request a report on Calpine, Tosco, and SLB to enrich our understanding of their market positions and operational efficiencies.
+
+Thank you for taking the time to assist with this review. Your insights will be invaluable. 
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]  
+[Your Company]",0.238095,0.283019,0.258621
+allen-p/sent_items/122.,"Jeff,
+
+Here is the recap of the utilities I have paid since closing.  I am going to send the original utility bills to the Kuo's.","Dear J. Smith,
+
+I hope this message finds you well. 
+
+I wanted to take a moment to summarize the utilities that have been paid since the closing. The following utility bills have been settled:
+
+1. Water – [Amount]
+2. Electricity – [Amount]
+3. Gas – [Amount]
+4. Trash – [Amount]
+
+The original utility bills will be sent to the Kuo's for their records.
+
+Please let me know if you have any questions or require further information.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]  
+[Your Company]",0.181818,0.600000,0.279070
+allen-p/sent/302.,"Jeff,
+
+Jacques Craig will draw up a release.  What is the status on the quote from 
+Wade?  
+
+Phillip","Dear JSmith,
+
+I hope this message finds you well. 
+
+I wanted to check in and see if there have been any updates regarding the status of the quote from Wade. Additionally, I wanted to mention that Jacques Craig will be drawing up a release, which might be relevant as we move forward.
+
+Thank you for your assistance, and I look forward to hearing from you soon.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Company]  
+[Your Contact Information]",0.147541,0.529412,0.230769
+allen-p/sent/417.,I just refaxed. Please confirm receipt,"Dear Mr. Smith,
+
+I hope this message finds you well. I am writing to request confirmation of receipt for a document I recently faxed to your office. Your acknowledgment will help ensure that all necessary information has been successfully transmitted.
+
+If you could kindly reply at your earliest convenience, I would greatly appreciate it.
+
+Thank you for your assistance.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Company]  
+[Your Phone Number]  
+[Your Email Address]",0.033333,0.333333,0.060606
+allen-p/sent/515.,"Lucy,
+
+Why did so many tenants not pay this week?
+
+#12 95
+#21 240
+#27 120
+#28 260
+#33 260
+
+Total 975
+
+It seems these apartments just missed rent.  What is up?
+
+Other questions:
+
+#9-Why didn't they pay anything?  By my records, they still owe $40 plus rent 
+should have been due on 12/12 of $220.
+
+#3-Why did they short pay?","Dear Stagecoach Mama,
+
+I hope this message finds you well. 
+
+I wanted to address a concern regarding this week's rent collection. It has come to my attention that many tenants have not paid their rent, resulting in a total unpaid amount of $975. 
+
+Specifically, I would like to inquire about tenant #9, as they did not make their payment this week. Could you provide any insights into the situation? Additionally, tenant #3 only made a partial payment. Would you be able to share any information about why the amount was short?
+
+Thank you for your assistance in this matter. I appreciate your attention to these issues and look forward to your response.
+
+Best regards,
+
+[Your Name]  
+[Your Contact Information]",0.122222,0.200000,0.151724
+allen-p/_sent_mail/81.,"Bob,
+
+ Activate Plan B.  No money from John.  
+
+ Wish I had better news.
+
+Phillip","Hi Bob,
+
+I hope this message finds you well. 
+
+I wanted to discuss our current funding situation. Unfortunately, it seems we have not received the expected support from John. Given this setback, I think it's prudent for us to activate Plan B to ensure we stay on track.
+
+Please let me know your thoughts on this approach and if there are any specific steps you would like me to take moving forward.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",0.088235,0.428571,0.146341
+allen-p/_sent_mail/472.,"I have not received the aircard 300 yet.
+
+Phillip","Dear Angela,
+
+I hope this message finds you well. 
+
+I wanted to follow up regarding the aircard 300. Unfortunately, it has not been received yet. Could you please provide an update on its status? 
+
+Thank you for your assistance.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",0.162791,0.777778,0.269231
+allen-p/sent_items/227.,Have you heard anything from Bank One today?,"Dear [Recipient's Name],
+
+I hope this message finds you well. I wanted to follow up and see if you have received any updates or communication from Bank One today. 
+
+Thank you for your attention to this matter, and I look forward to hearing from you soon.
+
+Best regards,
+
+[Your Name]
+[Your Position]
+[Your Company]
+[Your Contact Information]",0.090909,0.500000,0.153846
+allen-p/_sent_mail/334.,"Tara,
+
+Please make the following changes:
+
+ FT-West -change master user from Phillip Allen to Keith Holst
+
+ IM-West-Change master user from Bob Shiring to Phillip Allen
+
+ Mock both existing profiles.
+
+ 
+Please make these changes on 1/17/00 at noon.
+
+Thank you 
+
+Phillip","Hi Tara,
+
+I hope this message finds you well. I am writing to request specific changes to the user profiles. 
+
+Firstly, we need to implement a master user change for FT-West and IM-West. Additionally, it would be beneficial to mock the existing profiles for testing purposes.
+
+Could we aim to have these changes completed by January 17, 2000, at noon? 
+
+Thank you for your attention to this matter. Please let me know if you need any further information or support.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",0.171429,0.387097,0.237624
+allen-p/sent/508.,"Larry,
+
+I met with a banker that is interested in financing the project.  They need 
+the following:
+
+Financial statements plus last two years tax returns.
+Builders resume listing similar projects
+
+The banker indicated he could pull together a proposal by Friday.  If we are 
+interested in his loan, he would want to  come see the site.
+If you want to overnight me the documents, I will pass them along.   You can 
+send them to my home or office (1400 Smith, EB3210B, Houston, TX 77002).
+
+The broker is Jim Murnan.  His number is 713-781-5810, if you want to call 
+him and send the documents to him directly.
+
+It sounds like the attorneys are drafting the framework of the partnership 
+agreement.  I would like to nail down the outstanding business points as soon 
+as possible.  
+
+Please email or call with  an update.
+
+
+Phillip","Hi Larry,
+
+I hope this message finds you well. I wanted to provide you with a summary of the financing opportunity we discussed with the banker.
+
+To proceed, we will need to prepare the following documents:
+1. **Financial Statements** - Please ensure they are up-to-date and accurately reflect our current financial status.
+2. **Tax Returns** - The last two years of tax returns will be required for evaluation.
+3. **Builder's Resume** - This document should outline our experience and qualifications in the field.
+
+The deadline for submitting the proposal along with these documents is [insert deadline here]. Please make sure all materials are submitted by this date to avoid any delays.
+
+Additionally, we will need to update the partnership agreement. Ensure that any recent changes are reflected appropriately before our submission.
+
+If you have any questions or need assistance with any of the documents, please feel free to reach out.
+
+Looking forward to your prompt response.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]  
+[Your Company Name]",0.274194,0.326923,0.298246
+allen-p/sent/319.,"Tim,
+
+Can you authorize access to the west power site for Keith Holtz.  He is our 
+Southern California basis trader and is under a two year contract.
+
+On another note, is it my imagination or did the SARR website lower its 
+forecast for McNary discharge during May.  It seems like the flows have been 
+lowered into the 130 range and there are fewer days near 170.  Also the 
+second half of April doesn't seem to have panned out as I expected.  The 
+outflows stayed at 100-110 at McNary.  Can you email or call with some 
+additional insight?
+
+Thank you,
+
+Phillip","Dear Tim,
+
+I hope this message finds you well.
+
+I am writing to request your authorization for Keith Holtz to gain access to the west power site. As you know, Keith is our Southern California basis trader under a two-year contract and requires this access to effectively perform his duties.
+
+Additionally, I would like to discuss the recent updates on the SARR website, specifically regarding the lower forecast for McNary discharge in May. Could you provide insights on this matter as well as the actual outflows at McNary during the second half of April?
+
+Thank you for your attention to these requests. I look forward to your response.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]  
+[Your Company]",0.390805,0.400000,0.395349
+allen-p/sent_items/32.,"Jeff,
+
+I reviewed your revised offer sheet.  I am OK with the effective income of $484K.  Her records show basically no other income ($75/month), so I subtracted $3,000 from your number.  The expenses just need to reflect $20,000 more property taxes and the numbers should be right on.  $484 less $244 would be $240 of NOI.  I spoke to Jim Murnane this afternoon.  He feels this property would most likely warrant 7.5% and a 30 year amortization.  See the attached spreadsheets.","Dear [Recipient's Name],
+
+I hope this message finds you well. I am writing to confirm the approval of the effective income at $484,000. Please note that there has been a necessary adjustment of $3,000 due to minimal other income.
+
+Additionally, I would like to request that the expenses reflect an additional $20,000 in property taxes to ensure accurate financial representation.
+
+With these updates, the final Net Operating Income (NOI) will need to be calculated accordingly. Furthermore, I wanted to include Jim Murnane's suggestion of utilizing a 7.5% interest rate with a 30-year amortization schedule for the property, which I believe will serve us well moving forward.
+
+Thank you for your attention to these updates. Please let me know if you require any further information or clarification.
+
+Best regards,
+
+[Your Name]  
+[Your Title]  
+[Your Contact Information]  
+[Your Company Name]",0.212963,0.338235,0.261364
+allen-p/sent/405.,"Gentlemen,
+
+Today I finally received some information on the status of the work done to 
+date.  I spoke to Hugo Alexandro at Cuatro Consultants.  The property is 
+still in two parcels.  Hugo has completed a platt to combine into one  lot 
+and is ready to submit it to the city of San Marcos.  He has also completed a 
+topographical survey and a tree survey.  In addition, he has begun to 
+coordinate with the city on the replatting and a couple of easements on the 
+smaller parcel, as well as, beginning the work on the grading.  Hugo is going 
+to fax me a written letter of the scope of work he has been engaged to 
+complete.  The total cost of his services are estimated at $38,000 of which 
+$14,000 are due now for work completed.  
+
+We are trying to resolve the issues of outstanding work and bills incurred by 
+the original developer so we can obtain the title to the land.  If we can 
+continue to use Cuatro then it would be one less point of contention.  Hugo's 
+number is 512-295-8052.  I thought you might want to contact him directly and 
+ask him some questions.  I spoke to him about the possibility of your call 
+and he was fine with that.  
+
+Now we are going to try and determine if any of the work performed by Kipp 
+Flores can be used.
+
+Keith and I appreciate you meeting with us on Sunday.  We left very 
+optimistic about the prospect of working with you on this project.
+
+Call me with feedback after you speak to Hugo or with any other ideas about 
+moving this project forward.
+
+Phillip","Dear G.T. and D.J.,
+
+I hope this message finds you well. I wanted to provide you with an update on the project's progress as we move forward.
+
+I'm pleased to report that we have successfully completed the property surveys, which have provided us with valuable insights for our next steps. As we look ahead, our focus will shift to coordinating with the city to ensure that all necessary permits and approvals are in place. I’ll be reaching out to set up a meeting this week to discuss our strategies and align our efforts.
+
+Additionally, I think it would be beneficial to revisit some insights from Kipp Flores’s previous work. There are several elements that we can adapt to refine our current approach and enhance our project outcomes. I’d like to include this as a discussion point in our upcoming meeting.
+
+Please let me know your availability for a meeting next week, and if there are any other topics you’d like to cover.
+
+Looking forward to our continued collaboration.
+
+Best regards,
+
+[Your Name]
+[Your Position]
+[Your Contact Information]",0.289062,0.231250,0.256944
+allen-p/sent/102.,"Larry,
+
+ Just a note to touch base on the sagewood townhomes and other development 
+opportunities.
+
+ I stumbled across some other duplexes for sale on the same street. that were 
+built by Reagan Lehmann.  22 Units were sold for 
+ around $2 million. ($182,000/duplex).  I spoke to Reagan and he indicated 
+that he had more units under construction that would be 
+ available in the 180's.  Are the units he is selling significantly different 
+from yours?  He mentioned some of the units are the 1308 floor
+ plan.  My bid of 2.7 million is almost $193,000/duplex.  
+
+ As far as being an investor in a new project, I am still very interested.  
+
+ Call or email with your thoughts.
+
+Phillip","Dear Retwell,
+
+I hope this message finds you well. I wanted to touch base regarding potential development opportunities in our area. 
+
+Recently, I came across Reagan Lehmann's findings about duplexes, which highlight some exciting possibilities for maximizing our investment potential. I believe there is a significant demand for these types of properties, and it's a great time to explore this avenue further.
+
+I continue to be very interested in investing in new projects and would love to discuss any upcoming opportunities or insights you may have. Your expertise in the local market is invaluable, and I look forward to your thoughts on possible ventures.
+
+Thank you for your time, and I hope to connect soon.
+
+Best regards,
+
+[Your Name]  
+[Your Contact Information]  
+[Your Company Name]",0.247312,0.258427,0.252747
+allen-p/_sent_mail/309.,Try again.  The attachment was not attached.,"Hi Mary,
+
+I hope this message finds you well. I wanted to reach out to let you know that the attachment you mentioned in your previous email didn’t come through. Could you please resend the information at your earliest convenience?
+
+Thank you so much for your help!
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]  
+[Your Company]",0.021739,0.142857,0.037736
+allen-p/sent/86.,"Jeff,
+
+ What is up with Burnet?
+
+Phillip","Dear Mr. Smith,
+
+I hope this message finds you well. I am writing to inquire about the current situation or status of Burnet. Any updates or insights you could provide would be greatly appreciated, as I am keen to stay informed.
+
+Thank you for your assistance.
+
+Best regards,
+
+[Your Name]  
+[Your Contact Information]  
+[Your Organization]",0.000000,0.000000,0.000000
+allen-p/_sent_mail/165.,"Mark,
+
+ Were you able to log in to enron online and find socal today?
+
+ I will follow up with a list of our physical deals done yesterday and today.
+
+Phillip","Hi Mark,
+
+I hope this message finds you well. I wanted to check in and see if you were able to log in to Enron Online and find SoCal today. 
+
+Additionally, I will be sending a follow-up with a list of physical deals completed yesterday and today.
+
+Looking forward to your update.
+
+Best regards,
+
+[Your Name]",0.400000,0.642857,0.493151
+allen-p/sent_items/249.,"Jacques,
+
+Did you receive the fax from Kevin Kolb with a small change on page 2.  It also included the conveyance and assignment document.  Does this look ok to you? Is the language ""Transfer will occur when first lien holder, Pacific Southwest Bank, approves the assignment"" sufficient?  Hopefully it is ok.  Let me know if it is and I will come by your office to pick up executable copies.
+
+Thank you,
+
+Phillip","Hi Jacques,
+
+I hope this message finds you well. I wanted to check in to see if you received the fax from Kevin Kolb that includes a small change on page 2, along with the conveyance and assignment document.
+
+I'd appreciate your opinion on whether the language ""Transfer will occur when first lien holder, Pacific Southwest Bank, approves the assignment"" is sufficient for our needs.
+
+If everything looks good, I will stop by to pick up the executable copies.
+
+Thank you for your help!
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",0.519481,0.634921,0.571429
+allen-p/sent/434.,"You can fax it anytime.  But I saved the spreadsheets from the previous 
+estimates.  What will be different in the fax?","Dear [Recipient's Name],
+
+I hope this message finds you well. I am reaching out to seek clarification regarding the differences between the previous estimates and the new information you recently faxed. 
+
+Could you please provide some insight into the changes? I want to ensure I fully understand the details.
+
+Feel free to send the fax at your convenience, and I appreciate your assistance in this matter.
+
+Thank you for your help!
+
+Best regards,
+
+[Your Name]  
+[Your Contact Information]",0.084746,0.263158,0.128205
+allen-p/_sent_mail/1000.,"Randy,
+
+ Can you send me a schedule of the salary and level of everyone in the 
+scheduling group.  Plus your thoughts on any changes that need to be made.  
+(Patti S for example)
+
+Phillip","Dear Randall,
+
+I hope this message finds you well. 
+
+I am writing to request a detailed schedule of salaries and levels for all members of the scheduling group. This information will greatly assist in our ongoing review of team dynamics and compensation alignment.
+
+Additionally, I would appreciate your thoughts on any changes that you believe might be necessary in our current structure or compensation framework. Your insights would be invaluable in ensuring we are meeting both our team's needs and organizational goals.
+
+Thank you for your assistance with this matter. Looking forward to hearing from you soon.
+
+Best regards,
+
+[Your Name]
+[Your Position]
+[Your Contact Information]",0.214286,0.562500,0.310345
+allen-p/sent_items/166.,Greg here are my questions regarding the cedar park deal.,"Dear [Recipient's Name],
+
+I hope this message finds you well. I'm reaching out to gather more information and seek clarifications regarding the Cedar Park deal. 
+
+Could you please provide details on the current status of the negotiations, any key timelines we should be aware of, and any specific areas where further clarification is needed? Additionally, if there are documents or reports that outline the deal terms, I would appreciate your guidance on how to access them.
+
+Thank you in advance for your assistance, and I look forward to your response.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]  
+[Your Company]",0.048780,0.400000,0.086957
+allen-p/sent_items/46.,"Tim,
+
+mike grigsby is having problems with accessing the west power site.  Can you please make sure he has an active password.  
+
+Thank you,
+
+Phillip","Hi Tim,
+
+I hope this message finds you well. 
+
+Could you please verify if Mike Grigsby has an active password for accessing the West Power site? It's important for us to ensure that he can log in without any issues.
+
+Thank you for your assistance.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",0.208333,0.400000,0.273973
+allen-p/sent/301.,"Let me know when you get the quotes from Pauline.  I am expecting to pay 
+something in the $3,000 to $5,000 range.  I would like to see the quotes and 
+a description of the work to be done.  It is my understanding that some rock 
+will be removed and replaced with siding.  If they are getting quotes to put 
+up new rock then we will need to clarify.
+
+Jacques is ready to drop in a dollar amount on the release.  If the 
+negotiations stall, it seems like I need to go ahead and cut off the 
+utilities.  Hopefully things will go smoothly.
+
+Phillip","Dear JSmith,
+
+I hope this message finds you well. 
+
+I am writing to follow up on the quotes from Pauline. As we discussed earlier, our budget range for this project is between $3,000 and $5,000. Could you please provide an update on the status of those quotes?
+
+Additionally, I would appreciate a detailed description of the work to be done, particularly regarding the replacement of rock with siding. It’s essential for us to understand the scope and the implications of these changes. Furthermore, I would like some clarification on the quotes related to any new rock work as well.
+
+Jacques is prepared to finalize a dollar amount for the release, but I want to be transparent that if negotiations stall, we may have to consider cutting off utilities to move things forward.
+
+Thank you for your assistance, and I look forward to your prompt response.
+
+Best regards,
+
+[Your Name]  
+[Your Phone Number]  
+[Your Position]  
+[Your Company]",0.321101,0.479452,0.384615
+allen-p/sent/335.,"Andrea,
+
+After reviewing Bryan Hull's resume, I think he would be best suited for the 
+trading track program.  Please forward his resume to Karen Buckley.
+
+Phillip","Hi Andrea,
+
+I hope this message finds you well. I wanted to reach out to ask if you could please forward Bryan Hull's resume to Karen Buckley. He comes highly recommended for the trading track program, and I believe he would be a great fit.
+
+Thank you for your assistance!
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]  
+[Your Company]",0.254902,0.500000,0.337662
+allen-p/sent/542.,"Steve,
+
+
+I am sending you a variety of charts with prices and operational detail.  If 
+you need to call with questions my home number is 713-463-8626.
+
+
+
+
+
+
+
+
+
+As far as recommendations, here is a short list:
+
+ 1.  Examine LDC's incentive rate program.  Current methodology rewards sales 
+above monthly index without enough consideration of future 
+      replacement cost.  The result is that the LDC's sell gas that should be 
+injected into storage when daily prices run above the monthly index.
+                    This creates a shortage in later months.
+
+ 2.  California has the storage capacity and pipeline capacity to meet 
+demand.  Investigate why it wasn't maximized operationally.  
+                      Specific questions should include:  
+
+  1.  Why in March '00-May '00  weren't total system receipts higher in order 
+to fill storage?
+
+  2.  Why are there so many examples of OFO's on weekends that push away too 
+much gas from Socal's system.  
+       I believe Socal gas does an extremely poor job of forecasting their 
+own demand.  They repeatedly estimated they would receive       more gas than 
+their injection capablity, but injected far less.
+
+ 3.  Similar to the power market,  there is too much benchmarking to short 
+term prices.  Not enough forward hedging is done by the major 
+                    LDCs.  By design the customers are short at a floating 
+rate.  This market has been long historically.  It has been a buyers market 
+and the 
+     consumer has benefitted.  
+
+
+Call me if you need any more input.
+
+
+Phillip","Dear Steven,
+
+I hope this message finds you well. 
+
+I wanted to take a moment to summarize some key insights from the recent operational and pricing charts we reviewed, particularly in relation to our incentive rate program for Local Distribution Companies (LDCs) and our overall operational performance in California.
+
+1. **Operational Metrics**: The charts indicate a noticeable improvement in operational efficiency across several regions in California. However, some areas still lag behind our performance benchmarks. I recommend focusing on targeted training for our local teams to enhance service delivery in these underperforming areas.
+
+2. **Pricing Trends**: The analysis shows that while average pricing is stable, there are fluctuations during peak demand periods. To better align our incentive rates with market realities, it would be beneficial to implement a dynamic pricing strategy that accounts for these peak periods, thereby incentivizing LDCs to improve their performance during high-demand times.
+
+3. **Incentive Rate Program Recommendations**: 
+   - Implement tiered incentives for LDCs that exceed performance benchmarks 
+   - Establish clear performance metrics that are tied to customer satisfaction
+   - Increase communication and support for LDCs to help them understand and achieve these targets
+
+I believe these adjustments could significantly enhance our operational effectiveness and service quality across California. 
+
+I’m available to discuss these findings and recommendations in greater detail. Please let me know a suitable time for you, and I will make sure to accommodate.
+
+Looking forward to your thoughts.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]  
+[Your Company]",0.198830,0.206061,0.202381
+allen-p/_sent_mail/204.,"Lucy,
+
+ I will call you this afternoon to discuss the things in your email.
+
+Phillip","Hi Lucy,
+
+I hope you’re doing well. I wanted to let you know that I will call you this afternoon to discuss the details you mentioned in your previous email. 
+
+Looking forward to our conversation.
+
+Best regards,
+
+[Your Name]",0.393939,0.866667,0.541667
+allen-p/_sent_mail/294.,re: window unit check with gary about what kind he wants to install,"Hi Mary,
+
+I hope you're doing well! Could you please check with Gary about what kind of window unit he wants to install? It would be great to get his preferences so we can move forward.
+
+Thanks for your help!
+
+Best,
+[Your Name]",0.190476,0.615385,0.290909
+allen-p/sent_items/102.,"Greg,
+
+I typed up this resume from scratch in 10 minutes.  Will it do?  If you work for the same company for 8 years your resume tends to get dusty.
+Let me know if I need to beef it up or if I need to include any financial information.
+
+I wanted you to review it before I sent it to Montez.  If it is ok please forward to Montez.","Hi Greg,
+
+I hope this message finds you well. I’ve quickly put together a resume and would greatly appreciate your feedback on it. Given the time constraints, I anticipate that it may need some enhancements, so your insights would be invaluable.
+
+Additionally, could you let me know if there’s any pertinent financial information that should be included?
+
+If you find it satisfactory, could you please forward the resume to Montez as well?
+
+Thank you for your help!
+
+Best regards,
+
+[Your Name]",0.303030,0.416667,0.350877
+allen-p/sent/411.,"Lucy, 
+
+Here is a rentroll for this week.  
+
+What is the outstanding balance on #1.  It looks like 190 + 110(this week)= 
+300.  I don't think we should make him pay late fees if can't communicate 
+clearly.
+
+#2 still owe deposit?
+
+#9  What day will she pay and is she going to pay monthly or biweekly.
+
+Have a good weekend.  I will talk to you next week.
+
+In about two weeks we should know for sure if these buyers are going to buy 
+the property.  I will keep you informed.
+
+Phillip","Hi Lucy,
+
+I hope this message finds you well. I wanted to summarize the rentroll details and address a few specific inquiries regarding our properties.
+
+Firstly, could you please provide me with the current outstanding balance on property #1? It would be helpful to have this information for our records.
+
+Additionally, I'd like to clarify the status of the deposit for property #2. Are we in a position to move forward with that?
+
+For property #9, could you update me on the payment schedule? I want to ensure that we’re aligned on timelines moving forward.
+
+Lastly, I wanted to mention that there are potential buyers showing interest in the property. I will keep you posted on any developments.
+
+Looking forward to your updates on these matters.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",0.187500,0.257143,0.216867
+allen-p/_sent_mail/388.,"How am I to send them the money for the silent second?  Regular mail, 
+overnight, wire transfer?  I don't see how their bank will make the funds 
+available by Friday unless I wire the money.  If that is what I need to do 
+please send wiring instructions.","Dear JSmith,
+
+I hope this message finds you well. 
+
+I am reaching out to inquire about the best method to send payment for the silent second. I am concerned about the availability of funds by Friday, and I want to ensure everything is handled promptly. 
+
+If a wire transfer is required, could you please provide the wiring instructions? 
+
+Thank you for your assistance.
+
+Best regards,
+
+[Your Name]
+[Your Contact Information]",0.236364,0.351351,0.282609
+allen-p/sent/490.,"Jeff,
+
+Before you write off the stage, a few things to think about.
+
+1.  Operating expenses include $22,000 of materials for maintenance and 
+repairs.  Plus having a full time onsite maintenance man means no extra labor 
+cost for repairs.  There are only 44 units a lot of his time is spent on 
+repairs.
+
+2.  What is an outside management firm going to do?  A full time onsite 
+manager is all that is required.  As I mentioned the prior manager has 
+interest in returning.  Another alternative would be to hire a male manager 
+that could do more make readies and lawn care.  If you turn it over to a 
+management company you could surely reduce the cost of a full time manager 
+onsite.
+
+3.  Considering #1 & #2 $115,000 NOI is not necessarily overstated.  If you 
+want to be ultra conservative use $100,000 at the lowest.
+
+4.  Getting cash out is not a priority to me.  So I am willing to structure 
+this deal with minimum cash.  A 10% note actually attractive. See below.
+
+My job just doesn't give me the time to manage this property.  This property 
+definitely requires some time but it has the return to justify the effort.
+
+
+Sales Price  705,000
+
+1st Lien   473,500
+
+2nd Lien  225,000
+
+Transfer fee    7,500
+
+Cash required   14,500
+
+
+NOI   100,000
+
+1st Lien    47,292
+
+2nd Lien   23,694
+
+Cash flow  29,014
+
+Cash on cash  200%
+
+
+These numbers are using the conservative NOI, if it comes in at $115K then 
+cash on cash return would be more like 300%.   This doesn't reflect the 
+additional profit opportunity of selling the property in the next few years 
+for a higher price.
+
+Do you want to reconsider?  Let me know.
+
+Phillip","Hi Jeff,
+
+I hope this message finds you well. I wanted to summarize the advantages of keeping the management of our property investment in-house, particularly in light of our current cost structure and the potential returns we can expect.
+
+By opting for in-house management, we can maintain direct control over operations, ensuring that our specific goals and strategies are prioritized. This approach also allows us to streamline communication, reduce overhead costs associated with third-party management, and quickly implement necessary changes to enhance property performance.
+
+Financially, our current sales price stands at $500,000, with a required cash investment of $100,000. Given the anticipated rental income, we expect a steady cash flow of about $2,500 per month, translating to an annual cash flow of $30,000. With our cash flow expectations, we project a return on investment (ROI) of 30% within the first year, which is significantly higher than what we might yield with external management.
+
+Furthermore, keeping management in-house allows us to reinvest savings from management fees directly back into property enhancements, potentially increasing overall asset value and appeal to tenants, which translates to long-term profitability.
+
+Please let me know your thoughts on this approach, as I believe it aligns well with our strategic objectives and financial goals. 
+
+Best regards,
+
+[Your Name]",0.228188,0.187845,0.206061
+allen-p/sent/209.,"address:    http://ectpdx-sunone.ect.enron.com/~ctatham/navsetup/index.htm
+
+
+id:   pallen
+password:  westgasx","Hi Hunter,
+
+I wanted to share the following URL with you: [http://ectpdx-sunone.ect.enron.com/~ctatham/navsetup/index.htm](http://ectpdx-sunone.ect.enron.com/~ctatham/navsetup/index.htm).
+
+You can access it using the ID 'pallen' and the password 'westgasx'.
+
+Let me know if you need anything else!
+
+Best,
+
+[Your Name]",0.078947,0.300000,0.125000
+allen-p/_sent_mail/448.,"Lucy,
+
+Somehow my email account lost the rentroll you sent me on Tuesday.  Please 
+resend it and I will roll it for this week this morning.
+
+Phillip","Dear Stagecoach Mama,
+
+I hope this message finds you well. I'm writing to kindly request that you resend the rentroll that was originally sent on Tuesday. Unfortunately, it was lost due to an issue with my email account, and I need to process it by this morning.
+
+I appreciate your understanding and prompt attention to this matter!
+
+Thank you so much for your help.
+
+Best regards,
+
+[Your Name]  
+[Your Contact Information]  
+[Your Position]  
+[Your Company]",0.241379,0.560000,0.337349
+allen-p/sent/183.,"gary,
+
+ thanks for the info.","Dear Gary,
+
+I hope this message finds you well. 
+
+I wanted to take a moment to sincerely thank you for the information you provided. It was incredibly helpful and provided clarity on several key points I was researching. Your insights are always invaluable, and I appreciate the time you took to share them with me.
+
+Thanks once again for your support. 
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Company]  
+[Your Contact Information]",0.035714,0.400000,0.065574
+allen-p/sent_items/9.,"Phillip Allen
+Home 713-463-8626
+Cell 713-410-4679
+
+Remember to fax a copy of the term sheet to John Butler. (fax: 212-450-4800)","Hi Jeff,
+
+I hope this message finds you well. I just wanted to send a quick reminder to fax a copy of the term sheet to John Butler at 212-450-4800 at your earliest convenience.
+
+Thank you!
+
+Best,
+[Your Name]",0.294118,0.526316,0.377358
+allen-p/sent/229.,"Beth,
+
+Here are our addresses for DSL lines:
+
+
+Hunter Shively
+10545 Gawain
+Houston, TX 77024
+713 461-4130
+
+Phillip Allen
+8855 Merlin Ct
+Houston, TX 77055
+713 463-8626
+
+Mike Grigsby
+6201 Meadow Lake
+Houston, TX 77057
+713 780-1022
+
+Thanks
+
+Phillip","Hi Beth,
+
+I hope this message finds you well. Here are the addresses and contact numbers for the DSL lines for the individuals you requested:
+
+1. **Hunter Shively**  
+   Address: 1234 Elm Street, Houston, TX 77001  
+   Phone: (555) 123-4567
+
+2. **Phillip Allen**  
+   Address: 5678 Oak Avenue, Houston, TX 77002  
+   Phone: (555) 234-5678
+
+3. **Mike Grigsby**  
+   Address: 9101 Pine Lane, Houston, TX 77003  
+   Phone: (555) 345-6789
+
+If you need any additional information, please let me know.
+
+Best regards,  
+[Your Name]  
+[Your Position]  
+[Your Contact Information]  
+[Your Company]",0.119403,0.250000,0.161616
+allen-p/sent/81.,"Kathy,
+
+Regarding the guest password for gas daily, can you please relay the 
+information to Mike Grigsby at 37031 so he can pass it along to the user at 
+gas daily today.  I will be out of the office on Friday.
+
+thank you
+
+Phillip","Hi Kathy,
+
+I hope this message finds you well. Could you please relay the guest password for gas daily to Mike Grigsby at extension 37031? He will need to provide it to the user today.
+
+Just a heads up, I will be out of the office on Friday, so your assistance with this today would be greatly appreciated.
+
+Thank you!
+
+Best regards,
+
+[Your Name]",0.407407,0.611111,0.488889
+allen-p/sent_items/183.,"Ed,
+
+How does Ellie like the ranch?  Is she adjusting OK?
+
+Phillip Allen","Hi Ed,
+
+I hope this message finds you well. I wanted to check in and see how Ellie is liking the ranch. Is she adjusting well to her new surroundings? 
+
+Looking forward to hearing from you!
+
+Best regards,
+
+[Your Name]",0.166667,0.461538,0.244898
+allen-p/_sent_mail/519.,"Jacques,
+
+Can you draft the partnership agreement and the construction contract?  
+
+The key business points are:
+
+1.  Investment is a loan with prime + 1% rate
+
+2.  Construction contract is cost plus $1.4 Million
+
+3.  The investors' loan is repaid before any construction profit is paid.
+
+4.  All parties are GP's but 3 out 4 votes needed for major decisions?
+
+5.  60/40 split favoring the investors.
+
+With regard to the construction contract, we are concerned about getting a 
+solid line by line cost estimate and clearly defining what constitutes 
+costs.  Then we need a mechanism to track the actual expenses.  Keith and I 
+would like to oversee the bookkeeping.  The builders would be requred to fax 
+all invoices within 48 hours.  We also would want online access to the 
+checking account of the partnership so we could see if checks were clearing 
+but invoices were not being submitted.
+
+Let me know if you can draft these agreements.  The GP issue may need some 
+tweaking.  
+
+Phillip Allen
+713-853-7041
+pallen@enron.com","Hi Jacques,
+
+I hope this message finds you well. 
+
+I am reaching out to request your assistance in drafting the partnership agreement and the construction contract for our upcoming project. It’s essential that we include several key business points to ensure clarity and alignment among all parties involved. Specifically, we need to detail:
+
+1. **Investment Loan**: Outline the terms and conditions of the investment loan, including the total amount and purpose.
+2. **Contract Costs**: Provide a comprehensive breakdown of the costs associated with the construction contract.
+3. **Repayment Structure**: Clearly define the repayment schedule for the investment loan, including interest rates and any contingencies.
+4. **GP Voting Requirements**: Specify the voting rights of General Partners (GP) in decision-making processes.
+5. **Profit Split**: Describe how profits will be distributed among the partners, including any thresholds or conditions.
+6. **Oversight Mechanisms**: Establish the oversight mechanisms that will be in place to monitor the project’s progress and financials.
+
+Please let me know if you need any additional information or if there are specific considerations you think we should address. I appreciate your help with this and look forward to your draft.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Company]  
+[Your Contact Information]",0.244755,0.273438,0.258303
+allen-p/sent/267.,"mary,
+
+Are you sure you did the attachment right.  There was no file attached to 
+your message.  Please try again.
+
+Phillip","Dear Mary,
+
+I hope this message finds you well. I noticed that your previous email didn’t include the attachment we discussed. Could you please resend it at your earliest convenience?
+
+Thank you for your help!
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]  
+[Your Company]",0.131579,0.250000,0.172414
+allen-p/sent/60.,"Dave, 
+
+ Here are the names of the west desk members by category.  The origination 
+side is very sparse.  
+
+
+
+
+
+Phillip","Hi David,
+
+I hope this message finds you well. Below is a categorized list of the current West Desk members:
+
+**Trading Team:**  
+- John Smith  
+- Sarah Johnson  
+- Michael Lee  
+
+**Risk Management:**  
+- Emma Davis  
+- William Brown  
+
+**Support Staff:**  
+- Lisa White  
+- James Taylor  
+
+**Origination Team:**  
+- Alex Green  
+
+As you can see, we have a sparse number of members on the origination side. It might be worthwhile to discuss strategies for bolstering that team to ensure we can meet upcoming challenges effectively.
+
+Looking forward to your thoughts.
+
+Best regards,  
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",0.060976,0.277778,0.100000
+allen-p/sent_items/4.,"Tony,
+
+Here is the completed worksheet.  I also attached both a plumbing and an electric worksheet.  
+
+I spoke to Steve Chapman with the panel company in Kerrville.  He has a complete set of plans plus an engineers drawing of the slab.  I let him know that you would swing by and pick them up.  He said he knew Mike.  As I mentioned, Mark Olguin should also have a complete set.  I will arrange for the additional copies to be mailed.
+
+   
+
+Call with questions. 
+
+Phillip
+713-853-7041","Hi Tony,
+
+I hope you're doing well. I wanted to confirm that I have completed the worksheet, and I’ve attached both the plumbing and electric worksheets for your review.
+
+Additionally, I spoke with Steve Chapman regarding the plans and engineer's drawings. You can pick those up at your convenience. Mark Olguin is also a contact for a complete set if you need further access. We are making arrangements to mail out additional copies as well, so you should have everything you need soon.
+
+Let me know if you have any questions!
+
+Best regards,
+
+[Your Name]",0.402597,0.469697,0.433566
+allen-p/sent_items/110.,"Jeff,
+
+I understand you spoke to Jacques Craig about the consent and assignment documents.  Maybe the attorneys can work this out faster than we have.  
+
+I spoke to the city this morning and the final bills are to be mailed out today.  So I should have an amount on Wednesday.  I will email and fax the amount and the supporting bills as soon as possible.  Maybe we can close out the release this week and consent to the assignment pending 1st lien holder approval.
+
+I have a favor to ask you.  I received the check from Pauline that was due May 20th.  However, I have misplaced it.  Can you ask her to put a stop on her 1st check and send me another (net of any costs for the stop payment).   If you would prefer for me to call her myself, I will.  It seems that communicating through you is working well. 
+
+Thanks for all your help.
+
+Phillip","Dear Jeff,
+
+I hope this message finds you well. 
+
+I wanted to confirm that we had a conversation with Jacques Craig regarding the consent and assignment documents. We believe that involving our attorneys could help expedite the process.
+
+Additionally, I wanted to inform you that the final bills from the city are being sent out today, and we’ll be able to provide the specific amount by Wednesday.
+
+Our intent is to close out the release this week, pending approval from the 1st lien holder.
+
+Lastly, could you please ask Pauline to stop the misplaced check that was originally due on May 20th and issue a new check? Please factor in any stop payment costs that may apply.
+
+Thank you for your assistance in these matters.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Company]  
+[Your Contact Information]",0.427184,0.448980,0.437811
+allen-p/_sent_mail/475.,"Please find attached the pro formas for the project in San Marcos.
+
+Thanks again.","Dear Mr. Nelson,
+
+I hope this message finds you well. 
+
+Attached are the pro formas for the San Marcos project. Please review them at your convenience and let me know if you have any questions or need further information.
+
+Thank you, and I look forward to your feedback.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Company]  
+[Your Phone Number]  
+[Your Email Address]",0.132075,0.538462,0.212121
+allen-p/sent/551.,"Jeff,
+
+The files attached contain a current rentroll, 2000 operating statement, and 
+a proforma operating statement.","Dear [Recipient's Name],
+
+I hope this message finds you well. 
+
+Attached to this email, you will find the current rent roll, the 2000 operating statement, and the pro forma operating statement for your review. 
+
+Please let me know if you have any questions or need further information.
+
+Best regards,
+
+[Your Name]
+[Your Job Title]
+[Your Company]
+[Your Phone Number]",0.120000,0.428571,0.187500
+allen-p/sent/140.,"Cooper,
+
+This is the website I use:
+
+http://ectpdx-sunone/~ctatham/navsetup/index.htm
+
+Should I use a different address.","Dear Cooper,
+
+I hope this message finds you well. I wanted to reach out regarding the website we currently have, which is http://ectpdx-sunone/~ctatham/navsetup/index.htm. 
+
+Do you think it would be beneficial for us to consider using a different website instead? I’d like to hear your thoughts on this matter.
+
+Thank you for your input.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",0.153846,0.571429,0.242424
+allen-p/_sent_mail/362.,"Alan, 
+
+You should have received updated numbers from Keith Holst.  Call me if you 
+did not receive them.
+
+Phillip","Hi Alan,
+
+I hope this message finds you well. I wanted to remind you to check if you received the updated numbers from Keith Holst. If you haven't received them yet, please give me a call so I can assist you further.
+
+Thank you!
+
+Best regards,
+
+[Your Name]",0.250000,0.526316,0.338983
+allen-p/_sent_mail/398.,"Lucy,
+
+The spreadsheet looks fine to me. 
+
+Phillip","Dear Stagecoach Mama,
+
+I hope this message finds you well. 
+
+I wanted to confirm that I have reviewed the spreadsheet you submitted, and I am pleased to inform you that it has been approved with no further changes needed.
+
+Thank you for your hard work on this. 
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Company]  
+[Your Contact Information]",0.043478,0.250000,0.074074
+allen-p/_sent_mail/541.,"George,
+
+Keith and I are reviewing your proposal.  We will send you a response by this 
+evening.
+
+Phillip","Hi George,
+
+I hope this message finds you well. I wanted to let you know that Phillip and Keith are currently reviewing your proposal. They will provide you with their feedback by the end of the day.
+
+Thank you for your patience.
+
+Best,
+
+[Your Name]",0.282051,0.611111,0.385965
+allen-p/_sent_mail/357.,"Reagan,
+
+Just wanted to give you an update.  I have changed the unit mix to include 
+some 1 bedrooms and reduced the number of buildings to 12.  Kipp Flores is 
+working on the construction drawings.  At the same time I am pursuing FHA 
+financing.  Once the construction drawings are complete I will send them to 
+you for a revised bid.  Your original bid was competitive and I am still 
+attracted to your firm because of your strong local presence and contacts.
+
+Phillip","Dear [Recipient's Name],
+
+I hope this message finds you well. 
+
+I wanted to provide you with an update on the current status of our project. We have made some changes to the unit mix, including an increase in the number of 1-bedroom units, which we believe will enhance the project's appeal.
+
+Additionally, we have decided to reduce the number of buildings to 12. Kipp Flores is currently working on the construction drawings, and we anticipate having those finalized soon. 
+
+We are also actively pursuing FHA financing for the project. Once the construction drawings are complete, I will send them over for your review, along with a revised bid.
+
+I truly appreciate the competitiveness of the original bid and value your firm's strong local presence, which is a significant asset to our project.
+
+Thank you for your continued support. If you have any questions or need further information, please don't hesitate to reach out.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Company]  
+[Your Phone Number]  
+[Your Email]",0.321739,0.596774,0.418079
+allen-p/sent/159.,please add mike grigsby to distribution,"Hi Ywang,
+
+I hope this message finds you well. 
+
+Could you please add Mike Grigsby to the distribution list? He would benefit from the communications and updates shared through it.
+
+Thank you for your assistance!
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",0.102564,0.666667,0.177778
+allen-p/sent_items/31.,"Greg,
+
+I plugged the data on Colonial Oaks into your format.  The actual NOI for 2001 is around 305,000.  But there is not a professional management company.  Subtracting $25,000 for management costs the NOI would be $280,000.  However, I increased the taxes and a few other expenses to bring total expenses up to $3,000/unit.  This would yield an NOI of $240,000.  Comparing the rents charged to the other 17 properties, it doesn't look like the rents have a great deal of upside.  
+
+The asking price is $2,700,000.  Using $240,000 would make this an 8.9 cap.  Using the seller's NOI of $280,000 would be a 10.4 cap.  The cost per unit is $33,750 for a 1969 project.  The cost per square foot is 36.58.  
+
+The numbers would be better if the property was offered at $2.5 million.  Jeff Smith claims that $2.7 million is as low as the seller will go.  This property has not been on the market.  So I would like your input of what the market would pay for it.  If $280,000 is a reasonable NOI, then I would thing it would be sold fairly quickly for $2.7 million.  It does have the benefit of all brick exterior and elderly tenants.  Plus the location is by far the most convenient.
+
+Financing is the other consideration.  I am assuming 25 year, 7%,  and 25% down.  What do you think could actually be achieved?  Can you put me in contact with a lender?
+
+I will follow up with a phone call.
+
+Thanks,
+
+Phillip","Hi Greg,
+
+I hope this email finds you well. I wanted to share my latest financial analysis of Colonial Oaks and get your thoughts on a few key points.
+
+Based on my calculations, the estimated Net Operating Income (NOI) stands at approximately $150,000. With this figure, I've explored various cap rates depending on different valuation scenarios:
+
+- At a 6% cap rate, the property would be valued around $2.5 million.
+- At a 7% cap rate, it brings the value down to about $2.14 million.
+- Conversely, if we consider an 8% cap rate, the estimate further decreases to around $1.875 million.
+
+Given these figures, I’m particularly interested in your insights regarding the market value of Colonial Oaks. Pricing it at $2.5 million seems reasonable, but I would like to know your perspective on its competitiveness in the market.
+
+Additionally, could you provide any information on financing options available for this property? If you have lender contact information that could assist in exploring potential financing strategies, I would appreciate it.
+
+Looking forward to your feedback.
+
+Best regards,
+
+[Your Name] 
+[Your Position] 
+[Your Contact Information] 
+[Your Company]",0.274809,0.223602,0.246575
+allen-p/sent/453.,"I would like to have a copy of the appraisal.  See you Monday at 2.
+
+Phillip","Dear [Recipient's Name],
+
+I hope this message finds you well. I am writing to kindly request a copy of the appraisal at your earliest convenience. This information will be helpful as we prepare for our meeting scheduled for Monday at 2 PM.
+
+Thank you for your assistance. I look forward to hearing from you soon.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]  
+[Your Company]",0.203704,0.687500,0.314286
+allen-p/sent/368.,"Reagan,
+
+I am still reviewing the numbers but here are some initial thoughts.
+
+Are you proposing a cost plus contract with no cap?
+
+What role would you play in obtaining financing?  Any experience with FHA 
+221(d) loans?  
+
+Although your fees are lower than George and Larry I am still getting market 
+quotes lower yet.  I have received estimates structured as follows:
+
+  5% - onsite expenses, supervision, clean up, equipment
+  2%- overhead
+  4%- profit
+
+I just wanted to give you this initial feedback.  I have also attached an 
+extremely primitive spreadsheet to outline the project.  As you can see even 
+reducing the builders fees to the numbers above the project would only 
+generate $219,194 of cash flow for a return of 21%.  I am not thrilled about 
+such a low return.  I think I need to find a way to get the total cost down 
+to $10,500,000 which would boost the return to 31%.  Any ideas?
+
+I realize that you are offering significant development experience plus you 
+local connections.  I am not discounting those services.   I will be out of 
+the office for the rest of the week, but I will call you early next week.
+
+Phillip","Hi Reagan,
+
+I hope this message finds you well. I wanted to reach out for clarification regarding the proposed cost plus contract, specifically whether there is an upper cap on costs. Additionally, could you provide more information about your role in financing? I’m also curious about any experience you have with FHA 221(d) loans.
+
+While I appreciate that your fees are lower than those of our competitors, I have received lower market quotes structured at 5% for onsite expenses, 2% overhead, and 4% profit. I’m concerned about the projected cash flow of $219,194, which would equate to a 21% return on investment. Our primary goal is to reduce the total project cost to $10,500,000 to achieve a more favorable 31% return.
+
+I recognize and value your significant development experience and local connections, which could play a crucial role in the success of this project.
+
+I will be out of the office for the rest of the week but plan to call early next week to discuss this further.
+
+Thank you for your attention to these matters.
+
+Best regards,
+
+[Your Name]
+[Your Position]
+[Your Company]
+[Your Contact Information]",0.465116,0.451128,0.458015
+allen-p/sent_items/289.,"John,
+
+It would be a good idea to pull together the desk heads to air out concerns.  We all have questions and don't feel we have all the facts to answer the questions employees are asking.
+
+The sooner the better.
+
+Phillip","Dear John,
+
+I hope this message finds you well. I wanted to suggest that we convene a meeting with the desk heads at the earliest opportunity to address some ongoing concerns that have been raised within the team. It’s crucial that we ensure all questions from our employees are answered, as well as providing clearer information to help alleviate any uncertainty.
+
+Given the current climate, I believe it is urgent that we address these issues promptly to maintain transparency and morale among the team. Please let me know your availability, and I can assist in coordinating a suitable time for everyone.
+
+Thank you for considering this matter seriously. I believe it will greatly benefit our team’s cohesion and understanding.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",0.134021,0.393939,0.200000
+allen-p/_sent_mail/300.,"Steve,
+
+Please remove Bob Shiring and Liz Rivera from rc #768.  
+
+Thank you
+
+Phillip Allen","Dear Stephen,
+
+I hope this message finds you well. 
+
+I would like to request the removal of Bob Shiring and Liz Rivera from rc #768. Please let me know if you need any further information or if there are any formalities I need to complete for this request.
+
+Thank you for your assistance.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]  
+[Your Company]",0.220000,0.733333,0.338462
+allen-p/sent/484.,"Susan hours are out of hand.  We need to find a solution.  Let's meet on 
+Monday to assess the issue
+
+Phillip","Dear Jeffrey and Sally,
+
+I hope this message finds you well. I wanted to bring to your attention some concerns regarding the excessive work hours of one of our team members. It appears that this situation may be impacting both their well-being and productivity.
+
+I believe it would be beneficial for us to meet on Monday to discuss this matter further and explore potential solutions. Please let me know your availability so we can coordinate a time that works for all of us.
+
+Thank you for your attention to this important issue. 
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]  
+[Your Company]",0.115385,0.450000,0.183673
+allen-p/sent/276.,"I think Steven Wolf is the person to talk to about moving Kim Olinger to a 
+different RC code.","Dear Robert,
+
+I hope this message finds you well. 
+
+I wanted to let you know that Steven Wolf is the right person to consult regarding the potential move of Kim Olinger to a different RC code. He has the expertise and insight needed to address this matter effectively.
+
+Please feel free to reach out to him directly for any discussions or queries.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",0.220339,0.764706,0.342105
+allen-p/sent/191.,is your voice healed or are you going to use a real time messenger?,"Dear Stouchstone,
+
+I hope this message finds you well! I wanted to check in and see how your voice is feeling. Additionally, are you planning to use a real-time messenger for our communications moving forward?
+
+Looking forward to your response.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Company]  
+[Your Contact Information]",0.116279,0.357143,0.175439
+allen-p/sent_items/373.,"Carlos,
+
+I faxed you a copy of the contract to sell the property in Leander.  The title company is Chicago Title Company in Austin.  Their address is 1501 S Mopac, Suite 130, Austin, TX 78746.  Wendy Butters is the contact person.  Her number is (512)480-8353.
+
+Phillip","Hi Carlos,
+
+I wanted to inform you that I have successfully faxed a copy of the contract to sell the property in Leander. 
+
+The title company handling the transaction is Chicago Title Company, located at 1501 S Mopac, Suite 130, Austin, TX 78746. 
+
+You can get in touch with Wendy Butters, who is our contact person there. Her phone number is (512) 480-8353.
+
+Let me know if you need any further details.
+
+Best regards,
+
+[Your Name]  
+[Your Contact Information]",0.457143,0.800000,0.581818
+allen-p/sent/393.,"Larrry,
+
+I realize you are disappointed about the project.  It is not my desire for 
+you to be left with out of pocket expenses.  The only item from your list 
+that I need further 
+clarification is the $15,000 worth of extensions.  You mentioned that this 
+was applied to the cost of the land and it actually represents your cash 
+investment in the land.  I agree that you should be refunded any cash 
+investment.  My only request is that you help me locate this amount on the 
+closing statement or on some other document.
+
+Phillip","Dear Llewter,
+
+I hope this message finds you well. I wanted to take a moment to address your disappointment regarding the project and to confirm that we will be processing a refund of your cash investment. 
+
+Additionally, I would appreciate your clarification about the $15,000 in extensions. Could you please assist me in locating this amount on the closing statement or any other relevant document? Your guidance would be incredibly helpful in resolving this matter.
+
+Thank you for your understanding and support as we navigate these challenges. I look forward to your response.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]  
+[Your Company]",0.333333,0.382353,0.356164
+allen-p/_sent_mail/495.,"Jaques,
+
+After meeting with George and Larry, it was clear that we have different 
+definitions of cost and profit.  Their version includes the salary of a 
+superintendent and a junior superintendent as hard costs equivalent to third 
+party subs and materials.  Then there is a layer of ""construction management"" 
+fees of 10%.  There are some small incidental cost that they listed would be 
+paid out of this money.  But I think the majority of it is profit.  Finally 
+the builders profit of 1.4 million.
+
+Keith and I were not sure whether we would be open to paying the supers out 
+of the cost or having them be paid out of the builders profit.  After all, if 
+they are the builders why does there need to be two additional supervisors?  
+We were definitely not intending to insert an additional 10% fee in addition 
+to the superintendent costs.  George claims that all of these costs have been 
+in the cost estimates that we have been using.  I reviewed the estimates and 
+the superintendents are listed but I don't think the construction management 
+fee is included.
+
+George gave me some contracts that show how these fees are standard.  I will 
+review and let you know what I think.
+
+The GP issues don't seem to be a point of contention.  They are agreeable to 
+the 3 out 4 approval process.
+
+Let me know if you have opinions or sources that I can use to push for  only 
+true costs + 1.4 million.
+
+Phillip","Dear Jaques,
+
+I hope this message finds you well. 
+
+I wanted to summarize our recent discussions with George and Larry regarding the definitions of costs and profits that we've been navigating. We've identified some key points of contention, particularly concerning the superintendent and management fees. It's essential that we have a clear understanding of what constitutes true costs to avoid any discrepancies in our financial forecasts.
+
+Our discussions have revealed some differing perspectives on how these fees should be categorized, and I believe it's critical to obtain clarity moving forward. We need to ensure that we are aligned on defining true costs in a way that will allow us to present a solid case for sustaining only those costs, plus an additional $1.4 million in profit.
+
+If you have any opinions, sources, or references that could bolster our argument for maintaining this profit structure without inflating costs with unnecessary fees, I would greatly appreciate you sharing those insights. Your expertise would be invaluable in reinforcing our position as we move forward with these discussions.
+
+Looking forward to your thoughts.
+
+Best regards,
+
+[Your Name]",0.305344,0.287770,0.296296
+allen-p/sent/309.,"Tim,
+
+mike grigsby is having problems with accessing the west power site.  Can you 
+please make sure he has an active password.  
+
+Thank you,
+
+Phillip","Hi Tim,
+
+I hope this message finds you well. Could you please check on Mike Grigsby's access to the West Power site? I'd like to ensure that he has an active password and can access everything he needs.
+
+Thank you for your help with this!
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Company]  
+[Your Contact Information]",0.229167,0.440000,0.301370
+allen-p/sent/252.,Go ahead and level the floor in #2.,"Hi Mary,
+
+I hope this message finds you well. Please proceed with leveling the floor in room #2 at your earliest convenience. Let me know if you need any additional information or resources to get started.
+
+Thank you for your attention to this matter.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",0.086957,0.500000,0.148148
+allen-p/_sent_mail/72.,"Faith,
+
+ Regarding the 2001 plan, the members of the west desk are as follows:
+
+
+ Name   Title
+ 
+ Trading
+ Phillip Allen  VP
+ Mike Grigsby  Director
+ Keith Holst  Manager(possible Director)
+ Janie Tholt  Director
+ Steve South  Director
+ Frank Ermis  Manager
+ Tori Kuykendall  Manager
+ Matt Lenhart  Analyst(possible associate)
+ Monique Sanchez Commercial Support Manager
+ Jay Reitmeyer  Senior Specialist
+ Ina Rangel  Assistant (split costs with middle market)
+
+ Marketing
+
+ Barry Tycholiz  Director
+ Mark Whitt  Director
+ Paul Lucci  Manager (possible Director)
+ 2-3 TBD
+
+Do I need to give you the names of our operations group?
+
+Special Pays-  I believe Mike Grigsby has a retention payment due this year.  
+Also we should budget for another $150,000 of special payments.
+
+
+I know you have been working with Barry T.  if his headcount is different on 
+the Marketing staff use his numbers.  Let me know if there is anything else 
+you need.
+
+Phillip","Hi Faith,
+
+I hope this message finds you well. I wanted to provide a brief summary of our team members for the 2001 plan:
+
+- Mike Grigsby (Retention payment applies)
+- [Additional names here]
+
+Furthermore, could you please confirm whether we need to provide specific names for the operations group? 
+
+Lastly, I’d like to discuss the budget for any special payments that may be necessary as part of the plan.
+
+Thank you, and I look forward to your input.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",0.253521,0.160714,0.196721
+allen-p/_sent_mail/273.,Thanks for your help. My assistant is Ina Rangel.,"Dear Suzanne,
+
+I hope this message finds you well. I wanted to take a moment to express my sincere gratitude for all the support you have provided recently. Your assistance has been invaluable, and I truly appreciate your efforts.
+
+I would also like to introduce you to my assistant, Ina Rangel. Ina will be working closely with me moving forward, and I am confident that she will be a great asset to our collaboration. Please feel free to reach out to her for any assistance you may need in the future.
+
+Thank you once again for everything. Looking forward to our continued partnership!
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",0.047619,0.444444,0.086022
+allen-p/sent/34.,"Bob,
+
+ Activate Plan B.  No money from John.  
+
+ Wish I had better news.
+
+Phillip","Dear Bob,
+
+I hope this message finds you well. 
+
+After reviewing the current situation, I believe we need to activate Plan B moving forward. Additionally, I want to inform you that there will be no funding from John as previously anticipated.
+
+Please let me know if you would like to discuss the next steps or any adjustments we might need to make in light of this change.
+
+Best regards,
+
+[Your Name]",0.100000,0.428571,0.162162
+allen-p/_sent_mail/575.,"Lucy,
+
+Here is a schedule of the most recent utility bills and the overages.  There 
+are alot of overages.  It will probably get worse this month because of all 
+the cold weather.
+
+You need to be very clear with all new tenants about the electricity cap.  
+This needs to be handwritten on all new leases.
+
+I am going to fax you copies of the bills that support this spreadsheet.  We 
+also need to write a short letter remind everyone about the cap and the need 
+to conserve energy if they don't want to exceed their cap.  I will write 
+something today.
+
+
+
+Wait until you have copies of the bills and the letter before you start 
+collecting.
+
+Phillip","Hi Lucy,
+
+I hope this message finds you well. I wanted to touch base regarding some recent developments related to our utility bills.
+
+We've experienced some overages on the latest utility bills that we need to address. It's crucial that we communicate the electricity cap to our new tenants to prevent any misunderstandings going forward.
+
+Additionally, I want to emphasize the importance of waiting for copies of the bills and our drafted letter before we begin any collections. This will ensure that we are all on the same page and that there are no discrepancies.
+
+Let me know if you have any questions or if there's anything else we need to discuss.
+
+Best,
+
+[Your Name]",0.333333,0.350649,0.341772
+allen-p/sent/318.,Send to Karen Buckley.  Trading track interview to be conducted in May.,"Dear Karen,
+
+I hope this message finds you well. 
+
+I wanted to inform you that the trading track interview is scheduled to take place in May. We will provide you with further details regarding the exact dates and times as we finalize the arrangements.
+
+If you have any questions or need additional information, please feel free to reach out.
+
+Looking forward to seeing you soon!
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",0.080645,0.454545,0.136986
+allen-p/sent_items/271.,"Greg,
+
+I forgot to mention the Perrin Oaks ideas.  They are on the attached memo.
+
+Have a good weekend.
+
+Phillip","Dear G.T.,
+
+I hope this message finds you well. I wanted to share some thoughts regarding the Perrin Oaks ideas we've been discussing. I believe these concepts have great potential and could align with our goals.
+
+For a more in-depth view, I have attached a memo that outlines the details and considerations we should take into account. 
+
+Looking forward to your feedback.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]  
+[Your Company]",0.140625,0.473684,0.216867
+allen-p/_sent_mail/98.,"Lucy,
+
+       Here are the actual utility bills versus the cap.  Did we collect 
+these overages?  Let's discuss further?  Remember these bills were paid in 
+July and August.  The usage dates are much earlier.  I have the bills but I 
+can get them to you if need be.
+
+Philip","Dear Stagecoach Mama,
+
+I hope this message finds you well. I am reaching out to inquire about the comparison of the actual utility bills to the cap. I would like to know if any overages were collected in this regard.
+
+I noticed that the bills were paid in July and August, with the usage dates being earlier. This situation has raised some questions for me, and I believe it would be helpful to discuss this further.
+
+If needed, I can provide copies of the bills for your reference. 
+
+Thank you for your assistance, and I look forward to your response.
+
+Best regards,
+
+[Your Name]
+[Your Contact Information]",0.236842,0.439024,0.307692
+allen-p/sent/359.,"Jacques,
+
+The amounts needed to fill in the blanks on Exhibit ""B"" are as follows:
+
+Kipp Flores-Total Contract was $23,600 but $2,375 was paid and only $21,225 
+is outstanding.
+
+Kohutek- $2,150 
+
+Cuatro- $37,800
+
+
+George & Larry paid $3,500 for the appraisal and I agreed to reimburse this 
+amount.
+
+The total cash that Keith and I will pay the Sellers is $5,875 ($3,500 
+appraisal and $2,375 engineering).    I couldn't find any reference to this 
+cash consideration to be paid by the buyers.
+
+Let me know if I need to do anything else before you can forward this to the  
+sellers to be executed.
+
+Phillip","Dear Jacques, 
+
+I hope this message finds you well. 
+
+I wanted to summarize the amounts needed for Exhibit 'B'. Here is a breakdown of the outstanding amounts:
+
+- **Kipp Flores**: [insert amount]  
+- **Kohutek**: [insert amount]  
+- **Cuatro**: [insert amount]  
+
+Additionally, there is the reimbursement for the appraisal to consider. 
+
+After totaling these amounts, the total cash payment to the Sellers will be [insert total amount]. 
+
+Please let me know if you think any further action is required before we forward this information to the Sellers for execution. 
+
+Thank you for your attention to this matter. 
+
+Best regards,  
+[Your Name]  
+[Your Position]  
+[Your Contact Information]  
+[Your Company]",0.270270,0.263158,0.266667
+allen-p/sent_items/264.,"Jeff,
+
+In light of the puny VAR allotments attributed to the simulated trading participants, we have decided to graduate Matt Smith from the exercise.  Please advise Kimat Singla it will no longer be necessary to calculate a simulated book for Matt Smith.  Please use his COB 9/25/01 P&L as his official score for this exercise and post his total on the High Score table under the initials MDS.
+
+Thank you,
+
+Phillip","Dear Kimat,
+
+I hope this message finds you well. 
+
+I wanted to inform you that Matt Smith has successfully graduated from the simulated trading exercise. As such, it is no longer necessary to continue calculating his simulated book.
+
+His official score is based on his COB P&L from 9/25/01. Please ensure that his total is posted on the High Score table under the initials MDS.
+
+Thank you for your attention to this matter.
+
+Best regards,
+
+[Your Name]",0.442623,0.473684,0.457627
+allen-p/sent/208.,"Mary,
+
+If we add both balances together the total is $1,140.  I can spread it over 6 
+or 12 months.  6 month payout would be $190/month.  
+12 month payout would be $95/month.  Your choice.  I would like it if you 
+could work 5/hrs each Friday for another month or so.  Does $10/hr sound 
+fair?  We can apply it to the loan.
+
+Phillip","Hi Mary,
+
+I hope this message finds you well. I wanted to discuss the total balance of your account, which currently stands at $1,140. To make this more manageable, I’m offering a couple of payment options:
+
+- $190 per month for 6 months
+- $95 per month for 12 months
+
+Please let me know which option works best for you.
+
+Additionally, I’d like to propose that you work 5 hours each Friday for about a month at a rate of $10 per hour. This would help to offset some of the balance and contribute towards the loan.
+
+Looking forward to hearing your thoughts.
+
+Best regards,
+
+[Your Name]",0.225000,0.375000,0.281250
+allen-p/sent/182.,"Jeff,
+
+ I have spoken to Brenda and everything looks good.  Matt Lutz was supposed 
+to email me some language but I did not receive it.  I don't have his # so 
+can you follow up.  When is the estimated closing date.  Let me know what 
+else I need to be doing.
+
+Phillip","Hi Jeff,
+
+I hope this message finds you well. Could you please follow up with Matt Lutz regarding the language he was supposed to send? Additionally, it would be helpful to inquire about the estimated closing date. 
+
+Also, if there are any additional tasks that Phillip needs to complete, please let me know.
+
+Thanks for your assistance!
+
+Best regards,
+
+[Your Name]",0.339286,0.422222,0.376238
+allen-p/sent/492.,"Lucy,
+
+What is the latest?  Write me a note about what is going on and what issues 
+you need my help to deal with when you send the rentroll.
+
+Phillip","Dear Stagecoach Mama,
+
+I hope this message finds you well. I wanted to reach out for an update on the current situation, particularly regarding any specific issues that may need assistance. 
+
+Additionally, I would appreciate it if you could send the rent roll at your earliest convenience, as it would help us in our ongoing assessments. 
+
+Thank you for your attention to these matters. Looking forward to your reply.
+
+Best regards,
+
+[Your Name]  
+[Your Contact Information]",0.111111,0.269231,0.157303
+allen-p/sent_items/80.,"Jeff,
+
+I am in the office today.  Any isssues to deal with for the stagecoach?
+
+Phillip","Hi John,
+
+I hope this message finds you well. I wanted to let you know that I’m in the office today. If there are any issues or tasks that need my attention regarding the stagecoach, please don’t hesitate to let me know.
+
+Looking forward to hearing from you.
+
+Best,
+Phillip",0.170732,0.466667,0.250000
+allen-p/_sent_mail/444.,"I also need to know the base salaries of Jay Reitmeyer and Monique Sanchez.  
+They are doing the same job as Matt.","Dear Todd,
+
+I hope this message finds you well. 
+
+I am reaching out to request the base salaries for Jay Reitmeyer and Monique Sanchez. Given that they are performing the same job as Matt, it would be helpful to have this information for comparison purposes.
+
+Thank you for your assistance.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",0.280000,0.666667,0.394366
+allen-p/_sent_mail/89.,"Dexter,
+
+               I spoke to our EOL support group and requested a guest id for 
+you.  Did you receive an email with a login and password yesterday?
+If not, call me and I will find out why not.
+
+Phillip
+713-853-7041","Hi Dexter,
+
+I hope this message finds you well. 
+
+I wanted to check in to see if you received the email containing your guest ID login and password. If you haven't received it yet, I'd be happy to follow up on the issue for you.
+
+Looking forward to your reply.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",0.212766,0.294118,0.246914
+allen-p/_sent_mail/478.,"George, 
+
+The numbers on your fax don't agree to the first estimate that I am using.  
+Here are the two files I used.
+
+
+
+
+
+
+Phillip","Hi George,
+
+I hope this message finds you well. I wanted to bring to your attention that the numbers on your fax do not match the first estimate we are currently using. 
+
+For reference, we utilized two files, and the discrepancies are quite noticeable. It would be great if you could take a look at this and let me know your thoughts.
+
+Thank you for your attention to this matter.
+
+Best regards,
+
+[Your Name]",0.206897,0.545455,0.300000
+allen-p/sent/545.,"Please assign global id's to the four junior traders listed on Dawn's 
+original email.  The are all trading and need to have unique id's.
+
+Thank you","Hi Dawn,
+
+I hope this message finds you well. 
+
+I am writing to request the assignment of global IDs for the four junior traders you mentioned in your previous email. As they are all actively trading, having unique identifiers is essential for their operations and effective tracking.
+
+Could you please facilitate this process at your earliest convenience? Your assistance is greatly appreciated.
+
+Thank you!
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]  
+[Your Company]",0.171875,0.458333,0.250000
+allen-p/_sent_mail/304.,The file is updated and renamed as Gas Basis Mar 00.,"Hi Jim,
+
+I wanted to let you know that the file has been updated and has been renamed to 'Gas Basis Mar 00'. 
+
+Please let me know if you need any further information.
+
+Best regards,
+
+[Your Name]",0.193548,0.545455,0.285714
+allen-p/sent_items/282.,"Karen,
+
+I interviewed Agustin Leon and Zoya Raynes.  Here are my comments:
+
+Agustin Leon:  Has a lot of experience with quantitative and technical analysis.  Programming and language 
+          skills.  If not a trader could be an asset to research group.
+
+Zoya Raynes:  Has already been through Salomon's rotational program.  Her interest lean more towards 
+          marketing than trading.  Seems very talented.
+
+I would recommend both candidates for further consideration.
+
+Phillip","Dear Adrianne and Karen,
+
+I hope this message finds you well. 
+
+I would like to recommend further consideration for two candidates, Agustin Leon and Zoya Raynes, who I believe would be valuable additions to our team.
+
+Agustin Leon brings a robust background in quantitative analysis paired with impressive programming skills. His ability to analyze complex data sets and create effective solutions would greatly enhance our analytical capabilities.
+
+On the other hand, Zoya Raynes has recently completed Salomon's rotational program, demonstrating her versatility and commitment to professional growth. Moreover, her talent in marketing stands out, as she has successfully implemented innovative strategies that drive engagement and growth.
+
+I strongly believe that both Agustin and Zoya have the potential to make significant contributions to our projects. 
+
+Thank you for considering their applications further.
+
+Best regards,
+
+[Your Name]",0.213592,0.360656,0.268293
+allen-p/sent/769.,any morning between 10 and 11:30,"Dear Joyce,
+
+I hope this message finds you well. I would like to propose scheduling a meeting to discuss some ongoing projects and ideas. I am available any morning between 10:00 AM and 11:30 AM. 
+
+Please let me know what works for you, and I will do my best to accommodate.
+
+Looking forward to your response.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",0.092593,0.833333,0.166667
+allen-p/sent_items/375.,"Renee,
+
+Thank you for digging in to the issue of Deferred Phantom Stock Units.  It is clear that the payment will be made in shares.  However, I still don't understand which date will be used to determine the value and calculate how many shares.  The plan document under VII.  Amount of Benefit Payments reads ""The value of the shares, and resulting payment amount will be based on the closing price of Enron Corp. common stock on the January 1 before the date of payment, and such payment shall be made in shares of Enron Corp. common stock.""  Can you help me interpret this statement and work through the numbers on my account.
+
+Thank you,
+
+Phillip Allen","Dear Renee,
+
+I hope this message finds you well. 
+
+I am writing to request clarification regarding the payment date for Deferred Phantom Stock Units. Specifically, I would like to understand how the share value is determined at the time of payment. 
+
+Additionally, I have a document related to this matter that I find a bit challenging to interpret. I would greatly appreciate your assistance in understanding the relevant sections.
+
+Thank you for your help.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]  
+[Your Company]",0.312500,0.253165,0.279720
+allen-p/_sent_mail/491.,"That would we very helpful.  
+
+Thanks,
+
+Phillip","Dear Jacques,
+
+I hope this message finds you well. I wanted to take a moment to thank you for your willingness to assist me. Your support is greatly appreciated and will undoubtedly be very helpful as I move forward.
+
+Looking forward to working together.
+
+Best regards,
+
+[Your Name]",0.048780,0.285714,0.083333
+allen-p/sent/57.,"Lucy,
+
+ Here are the rentrolls:
+
+
+
+ Open them and save in the rentroll folder.  Follow these steps so you don't 
+misplace these files.
+
+ 1.  Click on Save As
+ 2.  Click on the drop down triangle under Save in:
+ 3.  Click on the  (C): drive
+ 4.  Click on the appropriate folder
+ 5.  Click on Save:
+
+Phillip","Hi Lucy,
+
+I hope this message finds you well. 
+
+Attached you will find the rentrolls for this month. Please follow these steps to open and save the files correctly in the rentroll folder:
+
+1. **Download the Attachments:** Click on each attached rentroll file to download them to your computer.
+
+2. **Locate the Files:** Once downloaded, navigate to your computer's Downloads folder to find the files.
+
+3. **Open the Rentroll Folder:** Now, open the designated rentroll folder where you’d like to save these files.
+   - If it's on your desktop, simply double-click the folder.
+   - If it's in a different location, go to that location.
+
+4. **Copy the Files:** Go back to your Downloads folder, right-click on each rentroll file, and select 'Copy'.
+
+5. **Paste in the Rentroll Folder:** Return to the rentroll folder, right-click inside the folder, and select 'Paste' to save the files there.
+
+6. **Check Your Files:** Finally, make sure all files are successfully saved by opening them from the rentroll folder.
+
+If you have any questions or run into any issues, feel free to reach out.
+
+Thanks,
+[Your Name]",0.176991,0.512821,0.263158
+allen-p/sent/546.,"Received the fax.  Thank you.  I might have to sell the QQQ and take the loss 
+for taxes.  But I would roll right into a basket of individual technology 
+stocks.  I think I mentioned this to you previously that I have decided to 
+use this account for the kids college.","Dear Mac,
+
+I hope this message finds you well. 
+
+I would like to acknowledge receipt of the fax you sent regarding the potential sale of QQQ for tax purposes. I appreciate your efforts in managing these considerations efficiently.
+
+As we discussed, my plan following the sale is to reinvest the proceeds into technology stocks, which I believe will yield positive growth moving forward. 
+
+I also want to clarify that the investments are intended specifically for my children’s college expenses. It is important to align our strategies with this long-term goal.
+
+Thank you for your continued support, and I look forward to your guidance on the next steps.
+
+Best regards,
+
+[Your Name]
+[Your Contact Information]",0.160920,0.378378,0.225806
+allen-p/_sent_mail/222.,please add mike grigsby to distribution list.,"Dear Ywang,
+
+I hope this message finds you well. 
+
+I would like to request that Mike Grigsby be added to the distribution list for our communications. His involvement would greatly enhance our collaboration and ensure that he stays informed on all relevant updates.
+
+Thank you for your attention to this matter.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",0.061224,0.428571,0.107143
+allen-p/sent/87.,"Jeff,
+
+ I need to see the site plan for Burnet.  Remember I must get written 
+approval from Brenda Key Stone before I can sell this property and she has 
+concerns about the way the property will be subdivided.    I would also like 
+to review the closing statements as soon as possible.
+
+Phillip","Dear J. Smith,
+
+I hope this message finds you well. 
+
+I am writing to request the site plan for the Burnet property at your earliest convenience. It is crucial for us to obtain written approval from Brenda Key Stone before we can proceed with the sale, as she has expressed some concerns regarding the subdivision.
+
+Additionally, I would appreciate a prompt review of the closing statements to ensure everything is in order.
+
+Thank you for your attention to these matters. I look forward to your swift response.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]  
+[Your Company]",0.320513,0.581395,0.413223
+allen-p/_sent_mail/511.,"Colleen,
+
+I checked the transport model and found the following extrinsic values on 
+January 2nd versus February 11:
+
+   1/2  2/11
+
+Stanfield to Malin 209  81
+
+SJ/Perm. to Socal 896  251
+
+Sj to Socal  2747  768
+
+PGE/Top to Citygate 51  3
+
+PGE/Top to KRS 16  4
+
+SJ to Valero  916  927
+
+
+If these numbers are correct, then we haven't increased the extrinsic value 
+since the beginning of the year.  Can you confirm that I am looking at the 
+right numbers?
+
+
+Phillip","Hi Colleen,
+
+I hope this message finds you well. I am writing to request your confirmation on the transport model's extrinsic values for January 2nd and February 11. 
+
+Could you please provide a comparison of the values for the following routes:
+
+- Stanfield to Malin
+- SJ/Perm. to Socal
+- SJ to Socal
+- PGE/Top to Citygate
+- PGE/Top to KRS
+- SJ to Valero
+
+It appears that there has been no increase in extrinsic value since the beginning of the year, and I would appreciate your insights on this matter.
+
+Thank you for your assistance!
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]  
+[Your Company]",0.388889,0.424242,0.405797
+allen-p/_sent_mail/113.,I think Fletch has a good CPA.  I am still doing my own.,"Dear Stouchstone,
+
+I hope this message finds you well. 
+
+I wanted to reach out to inform you that I believe Fletch has a solid CPA. However, I would like to clarify that I am still managing my own CPA at this time.
+
+If you have any questions or need further information, please feel free to let me know.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",0.169811,0.750000,0.276923
+allen-p/sent/274.,"George,
+
+ Can you please call my credit desk at 713-853-1803.  They have not received 
+any financials for ACN Power.  
+
+Thanks,
+
+Phillip Allen","Hi George,
+
+I hope this message finds you well. 
+
+Could you please reach out to the credit desk at 713-853-1803? We have yet to receive the financials for ACN Power, and your assistance in this matter would be greatly appreciated.
+
+Thank you for your help!
+
+Best regards,
+
+[Your Name] 
+[Your Position] 
+[Your Company] 
+[Your Contact Information]",0.217391,0.454545,0.294118
+allen-p/sent/94.,"Jeff,
+
+ I received the rent roll.  I am going to be in San Marcos this weekend but I 
+am booked with stage coach.  I will drive by Friday evening.
+ I will let you know next week if I need to see the inside.  Can you find out 
+when Chelsea Villa last changed hands and for what price?
+
+ What about getting a look at the site plans for the Burnet deal.  Remember 
+we have to get Brenda happy.
+
+Phillip","Hi Joe,
+
+I hope this message finds you well. I wanted to give you an update on the rent roll and discuss a few other matters.
+
+I’ll be in San Marcos soon, and I look forward to catching up. Could you please provide me with the details regarding Chelsea Villa’s last sale? Additionally, I’d like to inquire about the site plans for the Burnet deal; any updates would be greatly appreciated.
+
+Lastly, it’s important for us to keep Brenda happy during this process, so let’s ensure we’re aligned on everything.
+
+Thanks for your attention to these matters. Looking forward to your response!
+
+Best,
+[Your Name]",0.273810,0.359375,0.310811
+allen-p/_sent_mail/286.,"Stephane,
+
+ Can you create an e-mail list to distribute your reports everyday to the 
+west desk?
+Or put them on a common drive?  We can do the same with our reports.   List 
+should include:
+
+ Phillip Allen
+ Mike Grigsby
+ Keith Holst
+ Frank Ermis
+ Steve South
+ Janie Tholt
+ Tory Kuykendall
+ Matt Lenhart
+ Randy Gay
+
+Thanks.
+
+Phillip","Dear Stephane,
+
+I hope this message finds you well. I am writing to request the creation of an email distribution list for the daily reports to the west desk. If that is not feasible, I would appreciate your assistance in setting up a common drive where these reports can be accessed by the team.
+
+Please include the following individuals in the distribution list or give them access to the drive:
+- Phillip Allen
+- Mike Grigsby
+- Keith Holst
+- Frank Ermis
+- Steve South
+- Janie Tholt
+- Tory Kuykendall
+- Matt Lenhart
+- Randy Gay
+
+Thank you for your help with this matter. Please let me know if you need any further information.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]  
+[Your Company]",0.336842,0.640000,0.441379
+allen-p/sent_items/272.,"Mery,
+
+Please email me back with a location for tomorrow's meeting.
+
+Phillip","Hi Mery,
+
+I hope this message finds you well. Could you please provide the location for our meeting scheduled for tomorrow? 
+
+Thank you in advance for your assistance.
+
+Best regards,
+
+[Your Name]
+[Your Position]
+[Your Contact Information]",0.129032,0.333333,0.186047
+allen-p/_sent_mail/137.,"Lucy,
+
+
+You wrote fewer checks this month.  Spent more money on Materials and less on 
+Labor.
+
+
+   June  July  August
+
+Total Materials  2929  4085  4801
+
+Services  53  581  464
+
+Labor   3187  3428  2770
+
+
+
+
+
+
+Here are my questions on the August bank statement (attached):
+
+1.  Check 1406  Walmart    Description and unit?
+
+2.  Check 1410  Crumps     Detail description and unit?
+
+3.  Check 1411  Lucy      What is this?
+
+4.  Check 1415  Papes      Detail description and units?
+
+5.  Checks 1416, 1417, and 1425  Why overtime?
+
+6.  Check 1428    Ralph's   What unit?
+
+7.  Check 1438    Walmart?    Description and unit?  
+
+
+Try and pull together the support for these items and get back to me.
+
+Phillip","Hi Lucy,
+
+I hope this message finds you well. I wanted to take a moment to acknowledge your efforts this month. I noticed that you wrote fewer checks and spent more on materials while successfully reducing labor costs—great job on managing those aspects of our budget!
+
+However, I’d like to clarify a few specific checks from the August bank statement, as their descriptions and unit details are unclear. Could you provide more information on the following checks?
+- Check 1406 (Walmart)  
+- Check 1410 (Crumps)  
+- Check 1411 (Lucy)  
+- Check 1415 (Papes)  
+- Checks 1416, 1417, and 1425 (overtime)  
+- Check 1428 (Ralph's)  
+- Check 1438 (Walmart)  
+
+Additionally, it would be helpful if you could gather any supporting documentation or insights regarding these items as you respond. 
+
+Thank you for your attention to this, and I look forward to your reply.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",0.232143,0.313253,0.266667
+allen-p/_sent_mail/543.,"Jeff,
+
+That is good news about Leander.  
+
+Now for the stage.  I would like to get it sold by the end of March.   I have 
+about $225K invested in the stagecoach, 
+ it looks like I need to get around $745K to breakeven.  
+
+I don't need the cash out right now so if I could get a personal guarantee 
+and Jaques Craig can 
+work out the partnership transfer, I would definitely be willing to carry a 
+second lien.  I understand second liens are going for 10%-12%.
+Checkout this spreadsheet.
+
+
+
+
+
+These numbers should get the place sold in the next fifteen minutes.   
+However,  I am very concerned about the way it is being shown.  Having Lucy 
+show it is not a good idea.  I need you to meet the buyers and take some 
+trips over to get more familar with the property.  My dad doesn't have the 
+time and I don't trust 
+Lucy or Wade to show it correctly.  I would prefer for you to show it from 
+now on.  
+
+I will have the operating statements complete through December by this 
+Friday. 
+
+
+Phillip","Dear J. Smith,
+
+I hope this message finds you well. I wanted to provide a summary of our ongoing discussions regarding the sale of the stage, with the primary goal of finalizing this transaction by the end of March.
+
+As outlined previously, we've invested significant capital into this project, and it’s essential to hit our breakeven point as soon as possible to ensure profitability. We're looking for a personal guarantee to strengthen our position in this deal.
+
+Additionally, I’d like to express our willingness to consider carrying a second lien to facilitate a successful agreement.
+
+I do have some concerns regarding the current property showing. It’s important that we address these to attract potential buyers effectively.
+
+Lastly, please note that the operating statements will be completed by this Friday, which should provide further clarity on our financial standing.
+
+Thank you for your attention, and I look forward to your feedback.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]  
+[Your Company]",0.243697,0.256637,0.250000
+allen-p/sent/477.,"Jeff,
+
+I am not willing to guarantee to refinance the 1st lien on the stage in 4 
+years and drop the rate on both notes at that point to 8%.  There are several 
+reasons that I won't commit to this.  Exposure to interest fluctuations, the 
+large cash reserves needed, and the limited financial resources of the buyer 
+are the three biggest concerns.  
+
+What I am willing to do is lower the second note to 8% amortized over the 
+buyers choice of terms up to 30 years.  The existing note does not come due 
+until September 2009.  That is a long time.  The buyer may have sold the 
+property.  Interest rates may be lower.  I am bending over backwards to make 
+the deal work with such an attractive second note.  Guaranteeing to refinance 
+is pushing too far.
+
+Can you clarify the dates in the contract.  Is the effective date the day the 
+earnest money is receipted or is it once the feasibility study is complete?
+
+Hopefully the buyer can live with these terms.  I got your fax from the New 
+Braunfels buyer.  If we can't come to terms with the first buyer I will get 
+started on the list.
+
+Email or call  me later today.
+
+Phillip","Dear J. Smith,
+
+I hope this message finds you well. 
+
+I wanted to outline Phillip's revised terms for the loan. He is unable to guarantee refinancing of the 1st lien within the next four years. However, he is willing to lower the interest rate on the second note to 8% and is open to flexible terms that may suit your needs.
+
+Additionally, could you please provide clarification on the effective date specified in the contract? 
+
+We genuinely hope that the buyer can accept these revised terms, and I look forward to your feedback.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]  
+[Your Company]",0.363636,0.208955,0.265403
+allen-p/_sent_mail/414.,"Jacques
+
+I am out of the office for the rest of the week.  Have you ever seen anyone 
+miss as much work as I have in the last 6 weeks?  I assure you this is 
+unusual for me.
+Hopefully we can sign some documents on Monday.  Call me on my cell phone if 
+you need me.
+
+Phillip","Hi Jacques,
+
+I wanted to inform you that Phillip is out of the office for the remainder of the week. It’s worth noting that he has missed a significant amount of work recently, which is quite unusual for him.
+
+We hope to finalize any pending documents on Monday. If you need to reach Phillip in the meantime, his cell phone number is [insert cell phone number]. 
+
+Thank you for your understanding.
+
+Best regards,
+
+[Your Name]",0.293103,0.386364,0.333333
+allen-p/sent/154.,"Hunter,
+
+Are you watching Alberto?  Do you have Yahoo Messenger or Hear Me turned on?
+
+Phillip","Hi Hunter,
+
+I hope you’re doing well. I wanted to check in and see if you are monitoring Alberto's progress. Additionally, could you let me know if you have Yahoo Messenger or Hear Me turned on?
+
+Thanks for your help!
+
+Best,
+[Your Name]",0.256410,0.666667,0.370370
+allen-p/_sent_mail/201.,"Hunter,
+
+Are you watching Alberto?  Do you have Yahoo Messenger or Hear Me turned on?
+
+Phillip","Hi Hunter,
+
+I hope this message finds you well. I wanted to check in to see if you are currently monitoring Alberto. Additionally, could you let me know if you have Yahoo Messenger or Hear Me turned on?
+
+Thanks for your help!
+
+Best regards,
+
+[Your Name]",0.250000,0.666667,0.363636
+allen-p/_sent_mail/292.,"David,
+
+I have been receiving your updates.  Either I forgot my password or do not 
+have one.  Can you check?
+
+Phillip Allen
+Enron
+713-853-7041","Dear DWagman,
+
+I hope this message finds you well. 
+
+I am reaching out for assistance regarding password access for my account. I am uncertain if I ever set a password or if I may have forgotten it.
+
+My details are as follows:
+- Name: [Your Name]
+- Company: [Your Company]
+- Contact Number: [Your Contact Number]
+
+I would appreciate any help you can provide in resetting or recovering my access.
+
+Thank you for your attention to this matter. 
+
+Best regards,
+
+[Your Name]",0.101695,0.272727,0.148148
+allen-p/_sent_mail/377.,"I just spoke to the insurance company.  They are going to cancel and prorate 
+my policy and work with the Kuo's to issue a new policy.","Dear J. Smith,
+
+I hope this message finds you well. I wanted to inform you that our insurance company has decided to cancel and prorate your current policy. 
+
+In addition, they will be collaborating with the Kuo's to issue a new policy that meets your needs. 
+
+Please feel free to reach out if you have any questions or need further assistance regarding this matter.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",0.229508,0.666667,0.341463
+allen-p/sent/459.,"Lee,
+
+My fax number is 713-646-2391.  Please fax me a loan application that I can 
+pass on to the buyer.
+
+Phillip Allen
+pallen@enron.com
+713-853-7041","Dear [L. O'Donnell],
+
+I hope this message finds you well. I am writing to request that a loan application for Phillip Allen be faxed to the following number: 713-646-2391.
+
+If you require any additional information or documentation to process this request, please do not hesitate to reach out.
+
+Thank you for your assistance.
+
+Best regards,
+
+[Your Name]  
+[Your Contact Information]  
+[Your Position]  
+[Your Company]",0.169811,0.375000,0.233766
+allen-p/sent/320.,I would look at properties in San Antonio or Dallas.,"Hi Jennifer,
+
+I hope this message finds you well! I wanted to suggest that we explore some properties in San Antonio or Dallas. Both cities have a lot to offer and could be great options for your needs.
+
+Let me know if you’re interested, and we can set up a time to discuss this further or even schedule some viewings.
+
+Looking forward to hearing from you!
+
+Best regards,
+
+[Your Name]  
+[Your Contact Information]",0.112903,0.700000,0.194444
+allen-p/_sent_mail/432.,"Jacques,
+
+The agreement looks fine.   My only comment is that George and Larry might 
+object to the language that ""the bank that was requested to finance the 
+construction of the project declined to make the loan based on the high costs 
+of the construction of the Project"".   Technically, that bank lowered the 
+loan amount based on lower estimates of rents which altered the amount of 
+equity that would be required. 
+
+Did I loan them $1,300,000?  I thought it was less.
+
+Regarding Exhibit A, the assets include:  the land, architectural plans, 
+engineering completed, appraisal, and soils study.   Most of these items are 
+in a state of partial completion by the consultants.  I have been speaking 
+directly to the architect, engineer, and soils engineer.   I am unclear on 
+what is the best way to proceed with these consultants.  
+
+The obligations should include the fees owed to the consultants above.  Do we 
+need to list balances due or just list the work completed as an asset  and 
+give consideration of $5,875 for the cash paid to the engineer and appraisor.
+
+Phillip","Dear Jacques,
+
+I hope this message finds you well.
+
+I would like to confirm our acceptance of the agreement; however, I have some concerns regarding the language related to financing and the bank's loan decision. It's crucial for us to ensure that all terms are clearly defined to avoid any potential misunderstandings.
+
+Additionally, I need to clarify the actual loan amount allocated to the project, as it seems there may be a discrepancy in what has been communicated. Understanding the accurate figures is vital for our planning moving forward.
+
+Regarding Exhibit A, I would also like to outline the assets included therein, along with their current incomplete status. It’s important we address any necessary adjustments or considerations before finalizing everything.
+
+Lastly, could you please provide guidance on how to proceed with the consultants? Specifically, should we list their fees, or would it be more prudent to highlight only the completed work?
+
+Thank you for your assistance. I look forward to your prompt response.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Company]  
+[Your Contact Information]",0.198473,0.220339,0.208835
+allen-p/_sent_mail/314.,"mary,
+
+Are you sure you did the attachment right.  There was no file attached to 
+your message.  Please try again.
+
+Phillip","Hi Mary,
+
+I hope this message finds you well. I wanted to follow up on the email you sent recently, as it seems the attachment you intended to include didn't come through. Could you please resend it when you have a moment? 
+
+Thank you so much!
+
+Best regards,
+
+[Your Name]  
+[Your Contact Information]  
+[Your Position, if applicable]",0.108696,0.250000,0.151515
+allen-p/sent/352.,"Bruce,
+
+Thank you for your bid.  I have decided on a floor plan.  I am going to have 
+an architect in Austin draw the plans and help me work up a detailed 
+specification list.  I will send you that detailed plan and spec list when 
+complete for a final bid.  Probably in early to mid June.
+
+Phillip","Dear Bruce,
+
+I hope this message finds you well. I want to take a moment to thank you for your bid; I truly appreciate the effort and detail you put into it.
+
+After careful consideration, I have decided on a floor plan that I believe will best suit our needs. I will be working with an architect in Austin to create the detailed plans and a specification list.
+
+I anticipate having this information ready to share with you for a final bid in early to mid-June. I look forward to collaborating further and appreciate your patience in the meantime.
+
+Thank you once again for your support.
+
+Best regards,
+
+[Your Name]  
+[Your Contact Information]",0.341772,0.627907,0.442623
+allen-p/_sent_mail/440.,"Larrry,
+
+I realize you are disappointed about the project.  It is not my desire for 
+you to be left with out of pocket expenses.  The only item from your list 
+that I need further 
+clarification is the $15,000 worth of extensions.  You mentioned that this 
+was applied to the cost of the land and it actually represents your cash 
+investment in the land.  I agree that you should be refunded any cash 
+investment.  My only request is that you help me locate this amount on the 
+closing statement or on some other document.
+
+Phillip","Dear Llewter,
+
+I hope this message finds you well. I wanted to reach out to address some concerns regarding our current project. I've been reviewing the financial aspects, and I want to reassure you that out-of-pocket expenses will be taken into account and managed appropriately.
+
+Additionally, I came across a charge of $15,000 that I would like some clarification on. Could you provide more details regarding this amount? It’s important for us to have a clear understanding of all expenses involved.
+
+I also want to confirm our agreement on the cash investment refund. It’s crucial that we stay aligned on this matter. If possible, could you assist me in locating the relevant documents that outline this refund? It would greatly help in ensuring everything is in order.
+
+Thank you for your attention to these matters. I appreciate your assistance and look forward to your prompt response.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]  
+[Your Company]",0.196429,0.323529,0.244444
+allen-p/sent/336.,I think Chad deserves an interview.,"Dear Karen,
+
+I hope this message finds you well. 
+
+I am writing to highly recommend Chad for an interview for the position we recently discussed. I believe he would be an outstanding fit for our team and would bring a wealth of knowledge and fresh perspectives.
+
+Chad possesses exceptional skills and experience that align with our needs. His background in [specific relevant experience or skills] sets him apart, and I am confident that his contributions would be valuable to our projects.
+
+I strongly encourage you to meet with him to discuss his qualifications further. I am certain that you will find him as impressive as I do.
+
+Thank you for considering my recommendation.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]  
+[Your Company]",0.046512,0.666667,0.086957
+allen-p/_sent_mail/376.,"Frank,
+
+The implied risk created by the san juan and rockies indeces being partially 
+set after today is the same as the risk in a long futures position.  Whatever 
+the risk was prior should not matter.  Since the rest of the books are very 
+short price this should be a large offset.  If the VAR calculation does not 
+match the company's true risk then it needs to be revised or adjusted.  
+
+Phillip","Dear Frank,
+
+I hope this message finds you well. 
+
+I would like to address some concerns regarding the San Juan and Rockies indices and their potential risks. As we've observed in recent market fluctuations, these indices can significantly impact our overall exposure, and it is crucial that we accurately assess the associated risks.
+
+Given the current volatility, I recommend that we revisit our Value at Risk (VAR) calculations. If our current model does not align with the actual risks faced by the company, we could be underestimating our position, which may lead to unexpected losses in adverse scenarios.
+
+A thorough review and possible revision of our VAR methodology may provide us with a clearer picture of our risk profile and help bolster our risk management strategies. I believe this is a necessary step to ensure that we are adequately prepared for potential market shifts.
+
+Please let me know a convenient time for us to discuss this further.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Company]  
+[Your Contact Information]",0.131148,0.275862,0.177778
+allen-p/sent/554.,"Lucy,
+
+ I want to get the lease data and tenant data updated.  
+  
+  The critical information is  1.  Move in or lease start date
+      2.  Lease expiration date
+      3.  Rent
+      4.  Deposit 
+  
+  If you have the info you can
+  fill in these items  1.  Number of occupants
+      2.  Workplace
+      
+
+  All the new leases should be the long form.
+
+
+
+ The apartments that have new tenants since these columns have been updated 
+back in October are  #3,5,9,11,12,17,21,22,23,25,28,33,38.
+  
+
+ I really need to get this by tomorrow.  Please use the rentroll_1215 file to 
+input the correct information on all these tenants.  And email it to me 
+tomorrow.  You should have all this information on their leases and 
+applications.  
+
+Phillip","Hi Lucy,
+
+I hope this message finds you well. I am reaching out to request an urgent update on the lease and tenant data. Specifically, I need the following critical information for each tenant:
+
+- Move-in date
+- Lease expiration date
+- Rent amount
+- Deposit details
+
+Additionally, could you please provide the following details:
+- Number of occupants
+- Workplace of the tenants
+
+It's important for us to have long-form leases on file, so any updates in that regard would also be appreciated.
+
+Moreover, please include the apartment numbers of any new tenants who have moved in since the last update.
+
+I would like to emphasize the urgency of this request, as I need to receive the updated information by tomorrow. Please use the rentroll_1215 file to compile the data.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",0.352941,0.461538,0.400000
+allen-p/sent/383.,"Greg,
+
+Something that I forgot to ask you.  Do you know if Hugo is planning to 
+replatt using an administrative process which I understand is quicker than 
+the full replatting process of 3 weeks?
+
+Also let me know about the parking.  The builder in San Marcos believed the 
+plan only had 321 parking spots but would require 382 by code.  The townhomes 
+across the street have a serious parking problem.  They probably planned for 
+the students to park in the garages but instead they are used as extra rooms.
+
+Phillip","Dear GTHorse,
+
+I hope this message finds you well.
+
+I wanted to reach out to inquire about Hugo's plans for implementing a quicker administrative replatt process. Given the current timeline, any insights you can provide would be greatly appreciated.
+
+Moreover, I would like some clarification regarding the parking requirements pertaining to the builder's plan. Understanding these specifications will help us align our efforts effectively.
+
+Thank you for your assistance. I look forward to your response.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]  
+[Your Company]",0.142857,0.136986,0.139860
+allen-p/sent/384.,keith holst sent you an email with the details.,"Hi Jess,
+
+I hope this message finds you well. I wanted to let you know that Keith Holst has sent you an email containing important details that you might want to check at your earliest convenience.
+
+Best regards,
+
+[Your Name]",0.147059,0.555556,0.232558
+allen-p/_sent_mail/535.,"Nice.  how much?
+
+Are you trying to keep the economy going?","Dear Jeff,
+
+I hope this message finds you well. I wanted to reach out to inquire about the price of [specific item or service] that your company offers. Additionally, I am curious if your pricing strategy is part of a broader effort to support the economy during these times.
+
+Thank you for your time, and I look forward to your response.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Company]  
+[Your Contact Information]",0.070175,0.363636,0.117647
+allen-p/_sent_mail/484.,"Tomorrow is fine.  Talk to you then.
+
+Phillip","Dear [Recipient's Name],
+
+I hope this message finds you well. I am writing to confirm our meeting scheduled for tomorrow. I look forward to discussing the matters we have on the agenda and am ready to engage in productive conversation.
+
+Please let me know if there are any specific topics you would like to ensure we cover. 
+
+Thank you, and I look forward to our meeting.
+
+Best regards,
+
+[Your Name]
+[Your Position]
+[Your Contact Information]",0.035088,0.250000,0.061538
+AVERAGE,,,0.215049,0.445029,0.268735

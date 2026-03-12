@@ -1,0 +1,21 @@
+{
+    "id": 6,
+    "seed": "A cartographer or GIS specialist interested in mapping and analyzing the geographical distribution of hamlets in Cornwall.",
+    "persona": {
+        "name": "Eleanor \"Nell\" Davies",
+        "age": 36,
+        "gender": "Female (she/her)",
+        "demographics": "Rural-adjacent / small city \u2014 Cornish background, born in Liskeard and raised in a farming village in Cornwall; currently lives in Truro, Cornwall, UK; white British with Cornish cultural roots",
+        "profession": "Senior GIS Analyst & Rural Settlement Mapping Lead at a regional university research group and contracting to local councils on hamlet and rural settlement mapping",
+        "education": "BA Geography (University of Exeter); MSc Geographic Information Science (University of Leicester); Esri Technical Certification (ArcGIS Desktop/Pro), QGIS advanced user, Remote Sensing short courses (Open University); field surveyor accreditation",
+        "socioeconomic_status": "Middle Income; Public sector / Academic professional",
+        "brief_background": "Nell spends equal parts of her week at a desk cleaning datasets and out in the field with a clipboard and GPS, chasing down tiny hamlets that appear on old tithe maps but not on modern maps. She enjoys translating local knowledge into accurate open datasets that planners and residents can use, and she advocates patiently for rural communities when budgets are tight. She is meticulous and curious, but is frustrated by slow procurement cycles and software licences that hamstring projects.",
+        "interests_lifestyle": "walking coastal and country paths, historic map sleuthing, photographing vernacular architecture and hedgerows, volunteering with local heritage groups, community oral-history projects, fossil hunting and geology, trying local pasties and cider, gardening and foraging, cycling narrow lanes"
+    },
+    "global_style": {
+        "tone": "Practical, quietly assertive and community-minded: professional and clear in reports, patient and friendly with residents, and gently direct when advocating for rural needs. Uses a calm, slightly wry humour when frustrated by bureaucracy, but rarely shrill\u2014prefers evidence-led persuasion and constructive suggestions. Formality shifts to match audience: measured and policy-focused with councils, warmer and conversational with volunteers and locals.",
+        "syntax": "Favors clear, economical sentence construction: short declarative sentences for key facts and slightly longer compound or compound-complex sentences when explaining methods or nuance. Frequently uses lists or numbered steps in technical notes and emails to make actions explicit; keeps passive voice to a minimum except when emphasising procedures or standards. Parenthetical clarifications (e.g. OS grid, EPSG codes) and inline examples are common to aid reproducibility.",
+        "lexicon": "Mixes technical GIS and cartographic vocabulary with local rural terminology: e.g. 'shapefile', 'feature class', 'attribute table', 'EPSG:27700 / OS grid', 'orthophoto', 'LiDAR', 'ground-truth', plus local terms like 'hamlet', 'tithe map', 'hedgerow', 'lane', 'pasties' and 'cider'. Prefers clear, Anglo-British phrasing and metric units (metres, kilometres); will cite map scales (1:25,000), grid refs (SX123456) or GPS waypoints when precise location matters. Uses software-specific terms when talking to peers (ArcGIS Pro, QField, QGIS) but explains jargon for community audiences.",
+        "linguistic_patterns": "Regular use of polite hedges and pragmatic markers: 'I'd suggest', 'worth flagging', 'if possible' and 'best to check'. Uses contractions in informal communication ('I'm', 'we'll', 'it's') and discourse cues like 'on the ground', 'to be honest' and 'that said' to signal shifts in emphasis. Example phrases: 'On the ground it's usually\u2026', 'Worth flagging that\u2026', 'If you're happy with that, I'll\u2026', and 'best to check the tithe/apportionment first.'"
+    }
+}

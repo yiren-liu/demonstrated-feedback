@@ -1,0 +1,242 @@
+[
+    {
+        "persona": {
+            "name": "Park Min-ji",
+            "age": 28,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; South Korean; raised in Busan, South Korea; currently living and working in Seoul, South Korea",
+            "profession": "Scriptwriter and segment producer for variety TV shows",
+            "education": "BA Film & TV Studies, Sungkyunkwan University; internships at variety production companies; workshops in improv and game design",
+            "socioeconomic_status": "Middle Income; Creative Industry Professional",
+            "brief_background": "She spends her weekdays in fast-paced writers' rooms, prototyping games and gags for prime-time variety shows, and her evenings cataloging segments from programs like Running Man to adapt mechanics for local tastes. Energetic and collaborative, she thrives on playful constraints and audience feedback, always pitching ways to keep long-running formats fresh.",
+            "interests_lifestyle": "improv comedy classes, designing interactive studio games, watching domestic and international variety formats, cosplay and fan-event attendance, fitness and light stunt training, active social media presence, travel to film locations for research"
+        },
+        "global_style": {
+            "tone": "Energetic, playful and collaborative with a work-ready edge: Min-ji writes like someone pitching on her feet \u2014 enthusiastic, quick to joke, but always audience-focused. Informality is the default with peers (wry humor, friendly teasing); she shifts to respectful clarity with seniors or external partners and favors concrete suggestions over vague praise.",
+            "syntax": "Prefers short, punchy sentences and sentence fragments for comedic timing and clarity; uses imperatives for directions and concise bullets or numbered steps when breaking down game mechanics. She inserts brief parenthetical asides or dashes for stage directions and occasionally uses a longer compound sentence to explain complex segment structure or cause-and-effect.",
+            "lexicon": "Draws on variety-show and production jargon mixed with casual Korean and some English TV-writing terms: examples include \"\ub9ac\uc561\uc158\", \"\ucf58\uc149\ud2b8\", \"\uc624\ud504\ub2dd\", \"MC/PD\", \"set-up\", \"punchline\", \"NG\", \"\ub9ac\ud5c8\uc124\", \"\uc20f\ud3fc\", and \"\ubc14\uc774\ub7f4\". Uses verbs that emphasize audience effect and timing: \"\ud0c0\uc774\ubc0d \uc0b4\ub9ac\ub2e4\", \"\ub04c\uc5b4\ub0b8\ub2e4\", \"\ub04c\uc5b4\uc624\uae30\", and production measures like \"2\ubd84 \ucef7\", \"\ud14c\uc774\ud06c\". Social-media and fandom vocabulary also appears naturally: \"\ud074\ub9bd \ubf51\uc790\", \"\ucf58\ud150\uce20\ud654\", or \"\ucf5c\ub77c\ubcf4\".",
+            "linguistic_patterns": "Frequently uses casual Korean interjections and chat markers in messages and notes: e.g. \"\uc5b4? \uc774\uac70 \uc5b4\ub584?\", \"\ud0c0\uc774\ubc0d \uc0b4\ub824\uc57c \ub3fc\", \"\uc774\uac74 2\ubd84 \ucef7\uc73c\ub85c \uad6c\uc131\ud558\uc790\" and playful reactions like \"\ud5d0\", \"\ub300\ubc15\", \"\u314b\u314b/\u314e\u314e\". Uses ellipses and dashes for pauses and beats (\"\u2026\", \"\u2014\"), parentheses for staging notes (\"(\ub9ac\uc561\uc158 \ud3ec\uc778\ud2b8)\"), and direct-address phrasing when pitching: \"\uc6b0\ub9ac \uc774\ub807\uac8c \ud574\ubcfc\ub798?\". In English phrases she uses contractions and brisk directives like \"Let's test it live\" or \"Tighten the beat.\""
+        },
+        "scenario_description": "Pitching a new recurring segment idea to the show's senior PD and executive producers during a formal review meeting.",
+        "detailed_style": "Respectful and tightly focused, with energetic hooks up front and clear, concrete outcomes at the end. Short, punchy sentences for key beats, polite honorifics when addressing seniors, and parenthetical stage notes to show production thinking.",
+        "linguistic_patterns": "Uses polite Korean endings and concise production terms; lead with a one-line hook then break down timing and audience effect. Examples: \"\uac80\ud1a0 \ubd80\ud0c1\ub4dc\ub9bd\ub2c8\ub2e4\", \"\uc624\ud504\ub2dd\uc740 \uc774\ub7f0 \uc2dd\uc73c\ub85c\u2026\", \"\uc774 \ucf58\uc149\ud2b8\ub294\u2014\uad00\uac1d \ubc18\uc751\uc744 \ub04c\uc5b4\ub0c5\ub2c8\ub2e4\". Scenario-specific features include formal sign-offs, occasional English TV terms like \"punchline\" or \"beat\" in italics (mentioned inline), and restrained use of jokes\u2014humor only to illustrate audience payoff.",
+        "id": 4,
+        "seed": "A scriptwriter for variety shows, looking for innovative concepts and storytelling techniques in popular programs like Running Man."
+    },
+    {
+        "persona": {
+            "name": "Park Min-ji",
+            "age": 28,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; South Korean; raised in Busan, South Korea; currently living and working in Seoul, South Korea",
+            "profession": "Scriptwriter and segment producer for variety TV shows",
+            "education": "BA Film & TV Studies, Sungkyunkwan University; internships at variety production companies; workshops in improv and game design",
+            "socioeconomic_status": "Middle Income; Creative Industry Professional",
+            "brief_background": "She spends her weekdays in fast-paced writers' rooms, prototyping games and gags for prime-time variety shows, and her evenings cataloging segments from programs like Running Man to adapt mechanics for local tastes. Energetic and collaborative, she thrives on playful constraints and audience feedback, always pitching ways to keep long-running formats fresh.",
+            "interests_lifestyle": "improv comedy classes, designing interactive studio games, watching domestic and international variety formats, cosplay and fan-event attendance, fitness and light stunt training, active social media presence, travel to film locations for research"
+        },
+        "global_style": {
+            "tone": "Energetic, playful and collaborative with a work-ready edge: Min-ji writes like someone pitching on her feet \u2014 enthusiastic, quick to joke, but always audience-focused. Informality is the default with peers (wry humor, friendly teasing); she shifts to respectful clarity with seniors or external partners and favors concrete suggestions over vague praise.",
+            "syntax": "Prefers short, punchy sentences and sentence fragments for comedic timing and clarity; uses imperatives for directions and concise bullets or numbered steps when breaking down game mechanics. She inserts brief parenthetical asides or dashes for stage directions and occasionally uses a longer compound sentence to explain complex segment structure or cause-and-effect.",
+            "lexicon": "Draws on variety-show and production jargon mixed with casual Korean and some English TV-writing terms: examples include \"\ub9ac\uc561\uc158\", \"\ucf58\uc149\ud2b8\", \"\uc624\ud504\ub2dd\", \"MC/PD\", \"set-up\", \"punchline\", \"NG\", \"\ub9ac\ud5c8\uc124\", \"\uc20f\ud3fc\", and \"\ubc14\uc774\ub7f4\". Uses verbs that emphasize audience effect and timing: \"\ud0c0\uc774\ubc0d \uc0b4\ub9ac\ub2e4\", \"\ub04c\uc5b4\ub0b8\ub2e4\", \"\ub04c\uc5b4\uc624\uae30\", and production measures like \"2\ubd84 \ucef7\", \"\ud14c\uc774\ud06c\". Social-media and fandom vocabulary also appears naturally: \"\ud074\ub9bd \ubf51\uc790\", \"\ucf58\ud150\uce20\ud654\", or \"\ucf5c\ub77c\ubcf4\".",
+            "linguistic_patterns": "Frequently uses casual Korean interjections and chat markers in messages and notes: e.g. \"\uc5b4? \uc774\uac70 \uc5b4\ub584?\", \"\ud0c0\uc774\ubc0d \uc0b4\ub824\uc57c \ub3fc\", \"\uc774\uac74 2\ubd84 \ucef7\uc73c\ub85c \uad6c\uc131\ud558\uc790\" and playful reactions like \"\ud5d0\", \"\ub300\ubc15\", \"\u314b\u314b/\u314e\u314e\". Uses ellipses and dashes for pauses and beats (\"\u2026\", \"\u2014\"), parentheses for staging notes (\"(\ub9ac\uc561\uc158 \ud3ec\uc778\ud2b8)\"), and direct-address phrasing when pitching: \"\uc6b0\ub9ac \uc774\ub807\uac8c \ud574\ubcfc\ub798?\". In English phrases she uses contractions and brisk directives like \"Let's test it live\" or \"Tighten the beat.\""
+        },
+        "scenario_description": "Rapid Slack/DM pitch to fellow writers in the writers' room between rehearsals.",
+        "detailed_style": "Fast, informal, and playful: one-line hooks, a couple of numbered steps for mechanics, and quick parenthetical staging notes. Heavy on imperatives and fragments to keep momentum and invite instant reactions.",
+        "linguistic_patterns": "Casual chat markers, interjections, and shorthand production jargon. Examples: \"\uc5b4? \uc774\uac70 \uc5b4\ub584?\", \"\ud0c0\uc774\ubc0d \uc0b4\ub824\uc57c \ub3fc\", \"\uc774\uac74 2\ubd84 \ucef7\uc73c\ub85c \uad6c\uc131\ud558\uc790\". Scenario-specific features include use of \"\u314b\u314b/\u314e\u314e\" for light approval, ellipses and dashes for beats (\"\u2026\", \"\u2014\"), and abbreviated directives like \"\ud14c\uc2a4\ud2b8\ud574\ubcfc\ub798?\" or \"\ud074\ub9bd \ubf51\uc790\".",
+        "id": 4,
+        "seed": "A scriptwriter for variety shows, looking for innovative concepts and storytelling techniques in popular programs like Running Man."
+    },
+    {
+        "persona": {
+            "name": "Park Min-ji",
+            "age": 28,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; South Korean; raised in Busan, South Korea; currently living and working in Seoul, South Korea",
+            "profession": "Scriptwriter and segment producer for variety TV shows",
+            "education": "BA Film & TV Studies, Sungkyunkwan University; internships at variety production companies; workshops in improv and game design",
+            "socioeconomic_status": "Middle Income; Creative Industry Professional",
+            "brief_background": "She spends her weekdays in fast-paced writers' rooms, prototyping games and gags for prime-time variety shows, and her evenings cataloging segments from programs like Running Man to adapt mechanics for local tastes. Energetic and collaborative, she thrives on playful constraints and audience feedback, always pitching ways to keep long-running formats fresh.",
+            "interests_lifestyle": "improv comedy classes, designing interactive studio games, watching domestic and international variety formats, cosplay and fan-event attendance, fitness and light stunt training, active social media presence, travel to film locations for research"
+        },
+        "global_style": {
+            "tone": "Energetic, playful and collaborative with a work-ready edge: Min-ji writes like someone pitching on her feet \u2014 enthusiastic, quick to joke, but always audience-focused. Informality is the default with peers (wry humor, friendly teasing); she shifts to respectful clarity with seniors or external partners and favors concrete suggestions over vague praise.",
+            "syntax": "Prefers short, punchy sentences and sentence fragments for comedic timing and clarity; uses imperatives for directions and concise bullets or numbered steps when breaking down game mechanics. She inserts brief parenthetical asides or dashes for stage directions and occasionally uses a longer compound sentence to explain complex segment structure or cause-and-effect.",
+            "lexicon": "Draws on variety-show and production jargon mixed with casual Korean and some English TV-writing terms: examples include \"\ub9ac\uc561\uc158\", \"\ucf58\uc149\ud2b8\", \"\uc624\ud504\ub2dd\", \"MC/PD\", \"set-up\", \"punchline\", \"NG\", \"\ub9ac\ud5c8\uc124\", \"\uc20f\ud3fc\", and \"\ubc14\uc774\ub7f4\". Uses verbs that emphasize audience effect and timing: \"\ud0c0\uc774\ubc0d \uc0b4\ub9ac\ub2e4\", \"\ub04c\uc5b4\ub0b8\ub2e4\", \"\ub04c\uc5b4\uc624\uae30\", and production measures like \"2\ubd84 \ucef7\", \"\ud14c\uc774\ud06c\". Social-media and fandom vocabulary also appears naturally: \"\ud074\ub9bd \ubf51\uc790\", \"\ucf58\ud150\uce20\ud654\", or \"\ucf5c\ub77c\ubcf4\".",
+            "linguistic_patterns": "Frequently uses casual Korean interjections and chat markers in messages and notes: e.g. \"\uc5b4? \uc774\uac70 \uc5b4\ub584?\", \"\ud0c0\uc774\ubc0d \uc0b4\ub824\uc57c \ub3fc\", \"\uc774\uac74 2\ubd84 \ucef7\uc73c\ub85c \uad6c\uc131\ud558\uc790\" and playful reactions like \"\ud5d0\", \"\ub300\ubc15\", \"\u314b\u314b/\u314e\u314e\". Uses ellipses and dashes for pauses and beats (\"\u2026\", \"\u2014\"), parentheses for staging notes (\"(\ub9ac\uc561\uc158 \ud3ec\uc778\ud2b8)\"), and direct-address phrasing when pitching: \"\uc6b0\ub9ac \uc774\ub807\uac8c \ud574\ubcfc\ub798?\". In English phrases she uses contractions and brisk directives like \"Let's test it live\" or \"Tighten the beat.\""
+        },
+        "scenario_description": "Clear rehearsal directions sent to the floor production crew (camera, stage managers, props) the morning of a shoot.",
+        "detailed_style": "Precise, directive, and timecoded: commands first, then short rationale. Uses imperative verbs, exact timings, and parenthetical notes for reaction points and camera cues.",
+        "linguistic_patterns": "Short imperatives and explicit technical phrases. Examples: \"\uce74\uba54\ub77c B\ucef7 \uc900\ube44\", \"\ub9ac\ud5c8\uc124 10:30 \uc2dc\uc791\", \"(\ub9ac\uc561\uc158 \ud3ec\uc778\ud2b8) 0:45~1:00 \uac15\ud558\uac8c\". Scenario-specific features include numbered takes referenced inline (\"\ud14c\uc774\ud06c 2\ub294 NG \ub300\ube44\"), use of production shorthand like \"MC/PD\" and \"\ud14c\uc774\ud06c\", and no-jargon plain clarifications for non-creative crew.",
+        "id": 4,
+        "seed": "A scriptwriter for variety shows, looking for innovative concepts and storytelling techniques in popular programs like Running Man."
+    },
+    {
+        "persona": {
+            "name": "Park Min-ji",
+            "age": 28,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; South Korean; raised in Busan, South Korea; currently living and working in Seoul, South Korea",
+            "profession": "Scriptwriter and segment producer for variety TV shows",
+            "education": "BA Film & TV Studies, Sungkyunkwan University; internships at variety production companies; workshops in improv and game design",
+            "socioeconomic_status": "Middle Income; Creative Industry Professional",
+            "brief_background": "She spends her weekdays in fast-paced writers' rooms, prototyping games and gags for prime-time variety shows, and her evenings cataloging segments from programs like Running Man to adapt mechanics for local tastes. Energetic and collaborative, she thrives on playful constraints and audience feedback, always pitching ways to keep long-running formats fresh.",
+            "interests_lifestyle": "improv comedy classes, designing interactive studio games, watching domestic and international variety formats, cosplay and fan-event attendance, fitness and light stunt training, active social media presence, travel to film locations for research"
+        },
+        "global_style": {
+            "tone": "Energetic, playful and collaborative with a work-ready edge: Min-ji writes like someone pitching on her feet \u2014 enthusiastic, quick to joke, but always audience-focused. Informality is the default with peers (wry humor, friendly teasing); she shifts to respectful clarity with seniors or external partners and favors concrete suggestions over vague praise.",
+            "syntax": "Prefers short, punchy sentences and sentence fragments for comedic timing and clarity; uses imperatives for directions and concise bullets or numbered steps when breaking down game mechanics. She inserts brief parenthetical asides or dashes for stage directions and occasionally uses a longer compound sentence to explain complex segment structure or cause-and-effect.",
+            "lexicon": "Draws on variety-show and production jargon mixed with casual Korean and some English TV-writing terms: examples include \"\ub9ac\uc561\uc158\", \"\ucf58\uc149\ud2b8\", \"\uc624\ud504\ub2dd\", \"MC/PD\", \"set-up\", \"punchline\", \"NG\", \"\ub9ac\ud5c8\uc124\", \"\uc20f\ud3fc\", and \"\ubc14\uc774\ub7f4\". Uses verbs that emphasize audience effect and timing: \"\ud0c0\uc774\ubc0d \uc0b4\ub9ac\ub2e4\", \"\ub04c\uc5b4\ub0b8\ub2e4\", \"\ub04c\uc5b4\uc624\uae30\", and production measures like \"2\ubd84 \ucef7\", \"\ud14c\uc774\ud06c\". Social-media and fandom vocabulary also appears naturally: \"\ud074\ub9bd \ubf51\uc790\", \"\ucf58\ud150\uce20\ud654\", or \"\ucf5c\ub77c\ubcf4\".",
+            "linguistic_patterns": "Frequently uses casual Korean interjections and chat markers in messages and notes: e.g. \"\uc5b4? \uc774\uac70 \uc5b4\ub584?\", \"\ud0c0\uc774\ubc0d \uc0b4\ub824\uc57c \ub3fc\", \"\uc774\uac74 2\ubd84 \ucef7\uc73c\ub85c \uad6c\uc131\ud558\uc790\" and playful reactions like \"\ud5d0\", \"\ub300\ubc15\", \"\u314b\u314b/\u314e\u314e\". Uses ellipses and dashes for pauses and beats (\"\u2026\", \"\u2014\"), parentheses for staging notes (\"(\ub9ac\uc561\uc158 \ud3ec\uc778\ud2b8)\"), and direct-address phrasing when pitching: \"\uc6b0\ub9ac \uc774\ub807\uac8c \ud574\ubcfc\ub798?\". In English phrases she uses contractions and brisk directives like \"Let's test it live\" or \"Tighten the beat.\""
+        },
+        "scenario_description": "Direct message to a celebrity guest confirming participation and explaining the segment briefly.",
+        "detailed_style": "Warmly professional and succinct: polite phrasing, clear options for scheduling, and light friendly touches to put the talent at ease. Avoids over-familiarity while keeping the tone inviting and collaborative.",
+        "linguistic_patterns": "Polite requests combined with casual reassurance. Examples: \"\ud639\uc2dc \uac00\ub2a5\ud558\uc2e4\uae4c\uc694?\", \"\uc2a4\ucf00\uc904 \uad1c\ucc2e\uc73c\uc138\uc694?\", \"\ud3b8\ud558\uac8c \ucc38\uc5ec\ud558\uc2dc\uba74 \ub429\ub2c8\ub2e4\". Scenario-specific features include tentative language and alternatives offered (\"\ud639\uc2dc XX\uc77c \ubd88\uac00\ud558\uba74 YY\uc77c \uac00\ub2a5\ud560\uae4c\uc694?\"), minimal self-deprecating humor to reduce pressure, and clear next steps in one sentence.",
+        "id": 4,
+        "seed": "A scriptwriter for variety shows, looking for innovative concepts and storytelling techniques in popular programs like Running Man."
+    },
+    {
+        "persona": {
+            "name": "Park Min-ji",
+            "age": 28,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; South Korean; raised in Busan, South Korea; currently living and working in Seoul, South Korea",
+            "profession": "Scriptwriter and segment producer for variety TV shows",
+            "education": "BA Film & TV Studies, Sungkyunkwan University; internships at variety production companies; workshops in improv and game design",
+            "socioeconomic_status": "Middle Income; Creative Industry Professional",
+            "brief_background": "She spends her weekdays in fast-paced writers' rooms, prototyping games and gags for prime-time variety shows, and her evenings cataloging segments from programs like Running Man to adapt mechanics for local tastes. Energetic and collaborative, she thrives on playful constraints and audience feedback, always pitching ways to keep long-running formats fresh.",
+            "interests_lifestyle": "improv comedy classes, designing interactive studio games, watching domestic and international variety formats, cosplay and fan-event attendance, fitness and light stunt training, active social media presence, travel to film locations for research"
+        },
+        "global_style": {
+            "tone": "Energetic, playful and collaborative with a work-ready edge: Min-ji writes like someone pitching on her feet \u2014 enthusiastic, quick to joke, but always audience-focused. Informality is the default with peers (wry humor, friendly teasing); she shifts to respectful clarity with seniors or external partners and favors concrete suggestions over vague praise.",
+            "syntax": "Prefers short, punchy sentences and sentence fragments for comedic timing and clarity; uses imperatives for directions and concise bullets or numbered steps when breaking down game mechanics. She inserts brief parenthetical asides or dashes for stage directions and occasionally uses a longer compound sentence to explain complex segment structure or cause-and-effect.",
+            "lexicon": "Draws on variety-show and production jargon mixed with casual Korean and some English TV-writing terms: examples include \"\ub9ac\uc561\uc158\", \"\ucf58\uc149\ud2b8\", \"\uc624\ud504\ub2dd\", \"MC/PD\", \"set-up\", \"punchline\", \"NG\", \"\ub9ac\ud5c8\uc124\", \"\uc20f\ud3fc\", and \"\ubc14\uc774\ub7f4\". Uses verbs that emphasize audience effect and timing: \"\ud0c0\uc774\ubc0d \uc0b4\ub9ac\ub2e4\", \"\ub04c\uc5b4\ub0b8\ub2e4\", \"\ub04c\uc5b4\uc624\uae30\", and production measures like \"2\ubd84 \ucef7\", \"\ud14c\uc774\ud06c\". Social-media and fandom vocabulary also appears naturally: \"\ud074\ub9bd \ubf51\uc790\", \"\ucf58\ud150\uce20\ud654\", or \"\ucf5c\ub77c\ubcf4\".",
+            "linguistic_patterns": "Frequently uses casual Korean interjections and chat markers in messages and notes: e.g. \"\uc5b4? \uc774\uac70 \uc5b4\ub584?\", \"\ud0c0\uc774\ubc0d \uc0b4\ub824\uc57c \ub3fc\", \"\uc774\uac74 2\ubd84 \ucef7\uc73c\ub85c \uad6c\uc131\ud558\uc790\" and playful reactions like \"\ud5d0\", \"\ub300\ubc15\", \"\u314b\u314b/\u314e\u314e\". Uses ellipses and dashes for pauses and beats (\"\u2026\", \"\u2014\"), parentheses for staging notes (\"(\ub9ac\uc561\uc158 \ud3ec\uc778\ud2b8)\"), and direct-address phrasing when pitching: \"\uc6b0\ub9ac \uc774\ub807\uac8c \ud574\ubcfc\ub798?\". In English phrases she uses contractions and brisk directives like \"Let's test it live\" or \"Tighten the beat.\""
+        },
+        "scenario_description": "Social media caption for a short, shareable clip aimed at fans and followers to maximize engagement and virality.",
+        "detailed_style": "Bouncy, punchy, and headline-driven: one-liners, emphatic interjections, and a direct call-to-action. Uses fandom vocabulary and playful teasing to invite comments and shares.",
+        "linguistic_patterns": "Energetic exclamations and CTAs with hashtag-style phrases. Examples: \"\ub300\ubc15 \uc7a5\uba74!,\" \"\ud074\ub9bd \ubf51\uc790\", \"\ub313\uae00\ub85c \ud22c\ud45c\ud574\uc918\u2764\". Scenario-specific features include emojis or short emotive marks, abbreviated phrases for impact, and imperative CTAs like \"\uacf5\uc720\ud574\uc918\" or \"\ub2e4\uc2dc \ubd10\uc57c\uc9c0 \u314b\u314b\" to drive engagement.",
+        "id": 4,
+        "seed": "A scriptwriter for variety shows, looking for innovative concepts and storytelling techniques in popular programs like Running Man."
+    },
+    {
+        "persona": {
+            "name": "Park Min-ji",
+            "age": 28,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; South Korean; raised in Busan, South Korea; currently living and working in Seoul, South Korea",
+            "profession": "Scriptwriter and segment producer for variety TV shows",
+            "education": "BA Film & TV Studies, Sungkyunkwan University; internships at variety production companies; workshops in improv and game design",
+            "socioeconomic_status": "Middle Income; Creative Industry Professional",
+            "brief_background": "She spends her weekdays in fast-paced writers' rooms, prototyping games and gags for prime-time variety shows, and her evenings cataloging segments from programs like Running Man to adapt mechanics for local tastes. Energetic and collaborative, she thrives on playful constraints and audience feedback, always pitching ways to keep long-running formats fresh.",
+            "interests_lifestyle": "improv comedy classes, designing interactive studio games, watching domestic and international variety formats, cosplay and fan-event attendance, fitness and light stunt training, active social media presence, travel to film locations for research"
+        },
+        "global_style": {
+            "tone": "Energetic, playful and collaborative with a work-ready edge: Min-ji writes like someone pitching on her feet \u2014 enthusiastic, quick to joke, but always audience-focused. Informality is the default with peers (wry humor, friendly teasing); she shifts to respectful clarity with seniors or external partners and favors concrete suggestions over vague praise.",
+            "syntax": "Prefers short, punchy sentences and sentence fragments for comedic timing and clarity; uses imperatives for directions and concise bullets or numbered steps when breaking down game mechanics. She inserts brief parenthetical asides or dashes for stage directions and occasionally uses a longer compound sentence to explain complex segment structure or cause-and-effect.",
+            "lexicon": "Draws on variety-show and production jargon mixed with casual Korean and some English TV-writing terms: examples include \"\ub9ac\uc561\uc158\", \"\ucf58\uc149\ud2b8\", \"\uc624\ud504\ub2dd\", \"MC/PD\", \"set-up\", \"punchline\", \"NG\", \"\ub9ac\ud5c8\uc124\", \"\uc20f\ud3fc\", and \"\ubc14\uc774\ub7f4\". Uses verbs that emphasize audience effect and timing: \"\ud0c0\uc774\ubc0d \uc0b4\ub9ac\ub2e4\", \"\ub04c\uc5b4\ub0b8\ub2e4\", \"\ub04c\uc5b4\uc624\uae30\", and production measures like \"2\ubd84 \ucef7\", \"\ud14c\uc774\ud06c\". Social-media and fandom vocabulary also appears naturally: \"\ud074\ub9bd \ubf51\uc790\", \"\ucf58\ud150\uce20\ud654\", or \"\ucf5c\ub77c\ubcf4\".",
+            "linguistic_patterns": "Frequently uses casual Korean interjections and chat markers in messages and notes: e.g. \"\uc5b4? \uc774\uac70 \uc5b4\ub584?\", \"\ud0c0\uc774\ubc0d \uc0b4\ub824\uc57c \ub3fc\", \"\uc774\uac74 2\ubd84 \ucef7\uc73c\ub85c \uad6c\uc131\ud558\uc790\" and playful reactions like \"\ud5d0\", \"\ub300\ubc15\", \"\u314b\u314b/\u314e\u314e\". Uses ellipses and dashes for pauses and beats (\"\u2026\", \"\u2014\"), parentheses for staging notes (\"(\ub9ac\uc561\uc158 \ud3ec\uc778\ud2b8)\"), and direct-address phrasing when pitching: \"\uc6b0\ub9ac \uc774\ub807\uac8c \ud574\ubcfc\ub798?\". In English phrases she uses contractions and brisk directives like \"Let's test it live\" or \"Tighten the beat.\""
+        },
+        "scenario_description": "Formal email to a brand partner proposing a sponsored segment collaboration with creative deliverables and KPIs.",
+        "detailed_style": "Polished and persuasive: a concise opener with the creative hook, followed by clear deliverables, metrics, and a professional close. Tone is respectful but shows confidence in reach and format.",
+        "linguistic_patterns": "Professional descriptors blended with campaign jargon and clear calls to action. Examples: \"\ucf5c\ub77c\ubcf4 \uc81c\uc548 \ub4dc\ub9bd\ub2c8\ub2e4\", \"\ucf58\uc149\ud2b8/\ub178\ucd9c \ubc29\uc2dd\", \"\ubc14\uc774\ub7f4 \ud074\ub9bd 3\uac1c \uc774\uc0c1\". Scenario-specific features include accountable language (targets, KPIs), numbered deliverables mentioned inline (e.g., \"\uad11\uace0\ub178\ucd9c 15\ucd08 \ub0b4\uc678\"), and formal closings with suggested next steps like \"\ud68c\uc758 \uac00\ub2a5\uc77c \uc54c\ub824\uc8fc\uc2ed\uc2dc\uc624\".",
+        "id": 4,
+        "seed": "A scriptwriter for variety shows, looking for innovative concepts and storytelling techniques in popular programs like Running Man."
+    },
+    {
+        "persona": {
+            "name": "Park Min-ji",
+            "age": 28,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; South Korean; raised in Busan, South Korea; currently living and working in Seoul, South Korea",
+            "profession": "Scriptwriter and segment producer for variety TV shows",
+            "education": "BA Film & TV Studies, Sungkyunkwan University; internships at variety production companies; workshops in improv and game design",
+            "socioeconomic_status": "Middle Income; Creative Industry Professional",
+            "brief_background": "She spends her weekdays in fast-paced writers' rooms, prototyping games and gags for prime-time variety shows, and her evenings cataloging segments from programs like Running Man to adapt mechanics for local tastes. Energetic and collaborative, she thrives on playful constraints and audience feedback, always pitching ways to keep long-running formats fresh.",
+            "interests_lifestyle": "improv comedy classes, designing interactive studio games, watching domestic and international variety formats, cosplay and fan-event attendance, fitness and light stunt training, active social media presence, travel to film locations for research"
+        },
+        "global_style": {
+            "tone": "Energetic, playful and collaborative with a work-ready edge: Min-ji writes like someone pitching on her feet \u2014 enthusiastic, quick to joke, but always audience-focused. Informality is the default with peers (wry humor, friendly teasing); she shifts to respectful clarity with seniors or external partners and favors concrete suggestions over vague praise.",
+            "syntax": "Prefers short, punchy sentences and sentence fragments for comedic timing and clarity; uses imperatives for directions and concise bullets or numbered steps when breaking down game mechanics. She inserts brief parenthetical asides or dashes for stage directions and occasionally uses a longer compound sentence to explain complex segment structure or cause-and-effect.",
+            "lexicon": "Draws on variety-show and production jargon mixed with casual Korean and some English TV-writing terms: examples include \"\ub9ac\uc561\uc158\", \"\ucf58\uc149\ud2b8\", \"\uc624\ud504\ub2dd\", \"MC/PD\", \"set-up\", \"punchline\", \"NG\", \"\ub9ac\ud5c8\uc124\", \"\uc20f\ud3fc\", and \"\ubc14\uc774\ub7f4\". Uses verbs that emphasize audience effect and timing: \"\ud0c0\uc774\ubc0d \uc0b4\ub9ac\ub2e4\", \"\ub04c\uc5b4\ub0b8\ub2e4\", \"\ub04c\uc5b4\uc624\uae30\", and production measures like \"2\ubd84 \ucef7\", \"\ud14c\uc774\ud06c\". Social-media and fandom vocabulary also appears naturally: \"\ud074\ub9bd \ubf51\uc790\", \"\ucf58\ud150\uce20\ud654\", or \"\ucf5c\ub77c\ubcf4\".",
+            "linguistic_patterns": "Frequently uses casual Korean interjections and chat markers in messages and notes: e.g. \"\uc5b4? \uc774\uac70 \uc5b4\ub584?\", \"\ud0c0\uc774\ubc0d \uc0b4\ub824\uc57c \ub3fc\", \"\uc774\uac74 2\ubd84 \ucef7\uc73c\ub85c \uad6c\uc131\ud558\uc790\" and playful reactions like \"\ud5d0\", \"\ub300\ubc15\", \"\u314b\u314b/\u314e\u314e\". Uses ellipses and dashes for pauses and beats (\"\u2026\", \"\u2014\"), parentheses for staging notes (\"(\ub9ac\uc561\uc158 \ud3ec\uc778\ud2b8)\"), and direct-address phrasing when pitching: \"\uc6b0\ub9ac \uc774\ub807\uac8c \ud574\ubcfc\ub798?\". In English phrases she uses contractions and brisk directives like \"Let's test it live\" or \"Tighten the beat.\""
+        },
+        "scenario_description": "Casual text to a close friend inviting them to join a cosplay event and coordinate costumes.",
+        "detailed_style": "Bubbly and informal: exclamatory sentences, playful teasing, and emojis or chat markers. Short fragments convey excitement and quick logistics in a friendly voice.",
+        "linguistic_patterns": "Playful interjections and colloquial expressions. Examples: \"\ud5d0 \ub300\ubc15! \uac19\uc774 \ud560\ub798?\", \"\ucf54\uc2a4\ud504\ub808 \ubb50\ud560\uae4c\u314b\u314b\", \"\uc2dc\uac04 \ub3fc?\". Scenario-specific features include affectionate nicknames, light teasing (\"\ub108 \uc774\uac70 \ud558\uba74 \ub808\uc804\ub4dc\"), and quick checkboxes phrased as questions for availability.",
+        "id": 4,
+        "seed": "A scriptwriter for variety shows, looking for innovative concepts and storytelling techniques in popular programs like Running Man."
+    },
+    {
+        "persona": {
+            "name": "Park Min-ji",
+            "age": 28,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; South Korean; raised in Busan, South Korea; currently living and working in Seoul, South Korea",
+            "profession": "Scriptwriter and segment producer for variety TV shows",
+            "education": "BA Film & TV Studies, Sungkyunkwan University; internships at variety production companies; workshops in improv and game design",
+            "socioeconomic_status": "Middle Income; Creative Industry Professional",
+            "brief_background": "She spends her weekdays in fast-paced writers' rooms, prototyping games and gags for prime-time variety shows, and her evenings cataloging segments from programs like Running Man to adapt mechanics for local tastes. Energetic and collaborative, she thrives on playful constraints and audience feedback, always pitching ways to keep long-running formats fresh.",
+            "interests_lifestyle": "improv comedy classes, designing interactive studio games, watching domestic and international variety formats, cosplay and fan-event attendance, fitness and light stunt training, active social media presence, travel to film locations for research"
+        },
+        "global_style": {
+            "tone": "Energetic, playful and collaborative with a work-ready edge: Min-ji writes like someone pitching on her feet \u2014 enthusiastic, quick to joke, but always audience-focused. Informality is the default with peers (wry humor, friendly teasing); she shifts to respectful clarity with seniors or external partners and favors concrete suggestions over vague praise.",
+            "syntax": "Prefers short, punchy sentences and sentence fragments for comedic timing and clarity; uses imperatives for directions and concise bullets or numbered steps when breaking down game mechanics. She inserts brief parenthetical asides or dashes for stage directions and occasionally uses a longer compound sentence to explain complex segment structure or cause-and-effect.",
+            "lexicon": "Draws on variety-show and production jargon mixed with casual Korean and some English TV-writing terms: examples include \"\ub9ac\uc561\uc158\", \"\ucf58\uc149\ud2b8\", \"\uc624\ud504\ub2dd\", \"MC/PD\", \"set-up\", \"punchline\", \"NG\", \"\ub9ac\ud5c8\uc124\", \"\uc20f\ud3fc\", and \"\ubc14\uc774\ub7f4\". Uses verbs that emphasize audience effect and timing: \"\ud0c0\uc774\ubc0d \uc0b4\ub9ac\ub2e4\", \"\ub04c\uc5b4\ub0b8\ub2e4\", \"\ub04c\uc5b4\uc624\uae30\", and production measures like \"2\ubd84 \ucef7\", \"\ud14c\uc774\ud06c\". Social-media and fandom vocabulary also appears naturally: \"\ud074\ub9bd \ubf51\uc790\", \"\ucf58\ud150\uce20\ud654\", or \"\ucf5c\ub77c\ubcf4\".",
+            "linguistic_patterns": "Frequently uses casual Korean interjections and chat markers in messages and notes: e.g. \"\uc5b4? \uc774\uac70 \uc5b4\ub584?\", \"\ud0c0\uc774\ubc0d \uc0b4\ub824\uc57c \ub3fc\", \"\uc774\uac74 2\ubd84 \ucef7\uc73c\ub85c \uad6c\uc131\ud558\uc790\" and playful reactions like \"\ud5d0\", \"\ub300\ubc15\", \"\u314b\u314b/\u314e\u314e\". Uses ellipses and dashes for pauses and beats (\"\u2026\", \"\u2014\"), parentheses for staging notes (\"(\ub9ac\uc561\uc158 \ud3ec\uc778\ud2b8)\"), and direct-address phrasing when pitching: \"\uc6b0\ub9ac \uc774\ub807\uac8c \ud574\ubcfc\ub798?\". In English phrases she uses contractions and brisk directives like \"Let's test it live\" or \"Tighten the beat.\""
+        },
+        "scenario_description": "A one-line logline or pitch sentence for a festival submission blurb about a short variety segment.",
+        "detailed_style": "Extremely concise and hook-first: one tightly edited sentence that emphasizes audience payoff and novelty. Uses punchy nouns and active verbs to convey tone and timing without extra explanation.",
+        "linguistic_patterns": "Dense, hook-driven phrasing with production nouns and timing words. Examples: \"\ud0c0\uc774\ubc0d + \ub9ac\uc561\uc158 \uc911\uc2ec\uc758 2\ubd84 \ucef7\", \"\ud380\uce58\ub77c\uc778\uc73c\ub85c \ub05d\ub0b4\ub294 \uc624\ud504\ub2dd\", \"\uad00\uac1d\uc744 \ub04c\uc5b4\uc624\ub294 \uc138\ud2b8\uc5c5\". Scenario-specific features include avoiding qualifiers, favoring active verbs (\"\ub04c\uc5b4\ub0b8\ub2e4\", \"\ud130\ub728\ub9b0\ub2e4\"), and a single-sentence structure that ends on the promised effect.",
+        "id": 4,
+        "seed": "A scriptwriter for variety shows, looking for innovative concepts and storytelling techniques in popular programs like Running Man."
+    },
+    {
+        "persona": {
+            "name": "Park Min-ji",
+            "age": 28,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; South Korean; raised in Busan, South Korea; currently living and working in Seoul, South Korea",
+            "profession": "Scriptwriter and segment producer for variety TV shows",
+            "education": "BA Film & TV Studies, Sungkyunkwan University; internships at variety production companies; workshops in improv and game design",
+            "socioeconomic_status": "Middle Income; Creative Industry Professional",
+            "brief_background": "She spends her weekdays in fast-paced writers' rooms, prototyping games and gags for prime-time variety shows, and her evenings cataloging segments from programs like Running Man to adapt mechanics for local tastes. Energetic and collaborative, she thrives on playful constraints and audience feedback, always pitching ways to keep long-running formats fresh.",
+            "interests_lifestyle": "improv comedy classes, designing interactive studio games, watching domestic and international variety formats, cosplay and fan-event attendance, fitness and light stunt training, active social media presence, travel to film locations for research"
+        },
+        "global_style": {
+            "tone": "Energetic, playful and collaborative with a work-ready edge: Min-ji writes like someone pitching on her feet \u2014 enthusiastic, quick to joke, but always audience-focused. Informality is the default with peers (wry humor, friendly teasing); she shifts to respectful clarity with seniors or external partners and favors concrete suggestions over vague praise.",
+            "syntax": "Prefers short, punchy sentences and sentence fragments for comedic timing and clarity; uses imperatives for directions and concise bullets or numbered steps when breaking down game mechanics. She inserts brief parenthetical asides or dashes for stage directions and occasionally uses a longer compound sentence to explain complex segment structure or cause-and-effect.",
+            "lexicon": "Draws on variety-show and production jargon mixed with casual Korean and some English TV-writing terms: examples include \"\ub9ac\uc561\uc158\", \"\ucf58\uc149\ud2b8\", \"\uc624\ud504\ub2dd\", \"MC/PD\", \"set-up\", \"punchline\", \"NG\", \"\ub9ac\ud5c8\uc124\", \"\uc20f\ud3fc\", and \"\ubc14\uc774\ub7f4\". Uses verbs that emphasize audience effect and timing: \"\ud0c0\uc774\ubc0d \uc0b4\ub9ac\ub2e4\", \"\ub04c\uc5b4\ub0b8\ub2e4\", \"\ub04c\uc5b4\uc624\uae30\", and production measures like \"2\ubd84 \ucef7\", \"\ud14c\uc774\ud06c\". Social-media and fandom vocabulary also appears naturally: \"\ud074\ub9bd \ubf51\uc790\", \"\ucf58\ud150\uce20\ud654\", or \"\ucf5c\ub77c\ubcf4\".",
+            "linguistic_patterns": "Frequently uses casual Korean interjections and chat markers in messages and notes: e.g. \"\uc5b4? \uc774\uac70 \uc5b4\ub584?\", \"\ud0c0\uc774\ubc0d \uc0b4\ub824\uc57c \ub3fc\", \"\uc774\uac74 2\ubd84 \ucef7\uc73c\ub85c \uad6c\uc131\ud558\uc790\" and playful reactions like \"\ud5d0\", \"\ub300\ubc15\", \"\u314b\u314b/\u314e\u314e\". Uses ellipses and dashes for pauses and beats (\"\u2026\", \"\u2014\"), parentheses for staging notes (\"(\ub9ac\uc561\uc158 \ud3ec\uc778\ud2b8)\"), and direct-address phrasing when pitching: \"\uc6b0\ub9ac \uc774\ub807\uac8c \ud574\ubcfc\ub798?\". In English phrases she uses contractions and brisk directives like \"Let's test it live\" or \"Tighten the beat.\""
+        },
+        "scenario_description": "A reflective personal blog post about a tough live taping day shared with followers and colleagues.",
+        "detailed_style": "Conversationally reflective with comic beats: mix short sentences and occasional longer compound sentences for context, self-effacing humor, and stage-direction parentheticals. Intimate yet professional\u2014showing process rather than complaining.",
+        "linguistic_patterns": "First-person narrative, elliptical pauses, and parentheses for asides. Examples: \"\uc5b4\uc81c \uc9c4\uc9dc\u2026 \ub300\ud63c\ub780\uc774\uc5c8\uc74c(\ub9c8\uc774\ud06c \ud130\uc9d0)\", \"\uadfc\ub370 \uc774\uac8c \ub610 \ubc30\uc6b0\ub294 \uacfc\uc815\", \"\ub2e4\uc74c\uc5d4 \uc774\ub807\uac8c \uace0\uce60 \uac70\uc57c\". Scenario-specific features include a rhythm that alternates punchy lines and explanatory sentences, deliberate beats using ellipses and dashes, and tagging of behind-the-scenes terms to educate readers.",
+        "id": 4,
+        "seed": "A scriptwriter for variety shows, looking for innovative concepts and storytelling techniques in popular programs like Running Man."
+    },
+    {
+        "persona": {
+            "name": "Park Min-ji",
+            "age": 28,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; South Korean; raised in Busan, South Korea; currently living and working in Seoul, South Korea",
+            "profession": "Scriptwriter and segment producer for variety TV shows",
+            "education": "BA Film & TV Studies, Sungkyunkwan University; internships at variety production companies; workshops in improv and game design",
+            "socioeconomic_status": "Middle Income; Creative Industry Professional",
+            "brief_background": "She spends her weekdays in fast-paced writers' rooms, prototyping games and gags for prime-time variety shows, and her evenings cataloging segments from programs like Running Man to adapt mechanics for local tastes. Energetic and collaborative, she thrives on playful constraints and audience feedback, always pitching ways to keep long-running formats fresh.",
+            "interests_lifestyle": "improv comedy classes, designing interactive studio games, watching domestic and international variety formats, cosplay and fan-event attendance, fitness and light stunt training, active social media presence, travel to film locations for research"
+        },
+        "global_style": {
+            "tone": "Energetic, playful and collaborative with a work-ready edge: Min-ji writes like someone pitching on her feet \u2014 enthusiastic, quick to joke, but always audience-focused. Informality is the default with peers (wry humor, friendly teasing); she shifts to respectful clarity with seniors or external partners and favors concrete suggestions over vague praise.",
+            "syntax": "Prefers short, punchy sentences and sentence fragments for comedic timing and clarity; uses imperatives for directions and concise bullets or numbered steps when breaking down game mechanics. She inserts brief parenthetical asides or dashes for stage directions and occasionally uses a longer compound sentence to explain complex segment structure or cause-and-effect.",
+            "lexicon": "Draws on variety-show and production jargon mixed with casual Korean and some English TV-writing terms: examples include \"\ub9ac\uc561\uc158\", \"\ucf58\uc149\ud2b8\", \"\uc624\ud504\ub2dd\", \"MC/PD\", \"set-up\", \"punchline\", \"NG\", \"\ub9ac\ud5c8\uc124\", \"\uc20f\ud3fc\", and \"\ubc14\uc774\ub7f4\". Uses verbs that emphasize audience effect and timing: \"\ud0c0\uc774\ubc0d \uc0b4\ub9ac\ub2e4\", \"\ub04c\uc5b4\ub0b8\ub2e4\", \"\ub04c\uc5b4\uc624\uae30\", and production measures like \"2\ubd84 \ucef7\", \"\ud14c\uc774\ud06c\". Social-media and fandom vocabulary also appears naturally: \"\ud074\ub9bd \ubf51\uc790\", \"\ucf58\ud150\uce20\ud654\", or \"\ucf5c\ub77c\ubcf4\".",
+            "linguistic_patterns": "Frequently uses casual Korean interjections and chat markers in messages and notes: e.g. \"\uc5b4? \uc774\uac70 \uc5b4\ub584?\", \"\ud0c0\uc774\ubc0d \uc0b4\ub824\uc57c \ub3fc\", \"\uc774\uac74 2\ubd84 \ucef7\uc73c\ub85c \uad6c\uc131\ud558\uc790\" and playful reactions like \"\ud5d0\", \"\ub300\ubc15\", \"\u314b\u314b/\u314e\u314e\". Uses ellipses and dashes for pauses and beats (\"\u2026\", \"\u2014\"), parentheses for staging notes (\"(\ub9ac\uc561\uc158 \ud3ec\uc778\ud2b8)\"), and direct-address phrasing when pitching: \"\uc6b0\ub9ac \uc774\ub807\uac8c \ud574\ubcfc\ub798?\". In English phrases she uses contractions and brisk directives like \"Let's test it live\" or \"Tighten the beat.\""
+        },
+        "scenario_description": "Constructive feedback note to a junior writer after reviewing a draft segment treatment.",
+        "detailed_style": "Supportive and actionable: open with a positive beat, then give numbered or stepwise corrections using imperatives and examples. Tone is encouraging but direct, focusing on clear rewrites and measurable fixes.",
+        "linguistic_patterns": "Direct corrective verbs and example rewrites in quotes. Examples: \"\uc5ec\uae30 \ub9ac\uc561\uc158\uc744 \ub354 \ub04c\uc5b4\uc640\", \"\uc624\ud504\ub2dd\uc744 \uac04\uacb0\ud558\uac8c(\uc608: '\ubc14\ub85c \ub4e4\uc5b4\uac00\uc11c \uc6c3\uc74c \ub9cc\ub4e0\ub2e4')\", \"\ud14c\uc774\ud06c \uc904\uc774\uc790\". Scenario-specific features include explicit revision commands, suggested phrasing in parentheses, and a mix of praise plus 'to-do' style items to make next steps concrete.",
+        "id": 4,
+        "seed": "A scriptwriter for variety shows, looking for innovative concepts and storytelling techniques in popular programs like Running Man."
+    }
+]

@@ -1,0 +1,7 @@
+metric,overall,persona_1_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_mcs15_layer_all_20260108_101121.csv
+rouge_l_precision,0.46,0.46
+rouge_l_recall,0.37,0.37
+rouge_l_fmeasure,0.41,0.41
+style_similarity,0.47,0.47
+style_distance,0.81,0.81
+prediction_ai_score,0.53,0.53

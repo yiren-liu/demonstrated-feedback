@@ -1,0 +1,1467 @@
+index,prompt,reference,prediction,selected_vector
+0,"Write a creative story writing
+
+- Primary objective: Request that a person lead a short volunteer training session.
+- Duration of training: 15 minutes.
+- Purpose of training: prepare volunteers before the event.
+- Topics to cover in the training: roles, safety reminders, communication channels, where to find supplies.
+- Meeting time for the training: 5:00 PM.
+- Meeting location for the training: staff lounge.
+- Materials requested: bring a brief script or a one-slide visual, if possible.
+- Action requested from recipient: confirm whether they can lead the training.
+- Closing/factual tone in original message: includes a thank-you/appreciation for helping volunteers feel ready.","Hola everyone,
+
+We’d like to hold a quick 15-minute volunteer training before the event. Could you lead it? The training will cover roles, safety reminders, communication channels, and where to find supplies. Plan to meet at 5:00 PM in the staff lounge for the short session and bring a brief script or one-slide visual if possible. Please tell me if you can lead this.
+
+Thanks so much for helping volunteers feel ready!",Subject: Volunteer Training Session Leader Needed for Tomorrow!ahlenhourly!,"weighted_avg: c7(0.53)+c2(0.47) (top-3, top_sim:0.650)"
+1,"Write a creative story writing
+
+- Objective: Provide easy, practical costume ideas for a toddler for a family movie night featuring superheroes.
+- Context: ""Superheroes on screen tonight"" — the occasion is a superhero-themed family movie night.
+- Elements encouraged: capes, masks, and ""tiny heroes"" (i.e., toddler-sized superhero costumes).
+- Constraint: Costumes should be easy and durable/comfortable enough to survive popcorn and hugs.
+- Target audience: a parent or caregiver planning to dress up their toddler.
+- Call-to-action to include: an invitation for readers to share pictures if they (or their children) dress up.
+- Social tag/metadata present in the original: #FamilyNight and emojis referencing superheroes and popcorn.","Superheroes on screen tonight! Capes, masks, and tiny heroes encouraged. Need easy costume ideas for my toddler—any suggestions that survive popcorn and hugs? Share pics if you dress up! #FamilyNight 🦸‍♀️🦸‍♂️🍿","🦇👦👨‍[child] Have a superhero-packed family movie night tonight! 💫🍫
+
+If you're looking for some easy and adorable costume ideas for your little superhero, try these simple yet cool options:
+
+* Batman or Superman capes for boys
+* Wonder Woman cape or tiara for girls
+* Superhero logos or symbols printed on t-shirts or onesies
+* Mini superhero costumes with colorful capes and masks
+* Superhero capes with a superhero name tag or badge
+
+Remember, the most important thing is to have fun and be creative! 🎉
+
+Take a photo with your tiny hero and share it with us using #FamilyNight! 👍👦👊","weighted_avg: c7(1.00) (top-3, top_sim:0.493)"
+2,"Write a creative story writing that outlines a weekend knit-along with the following key objectives and factual information:
+- Primary goal: organize/host a weekend knit-along to make a textured throw pillow cover.
+- Timeline: two short sessions total — one session to knit the front panel, one session for seaming and finishing.
+- Materials and tools: bulky weight yarn; US size 10.5 needles; bring two skeins (about 200–250 yards); stitch markers; tapestry needle.
+- Pattern details: simple, cable-free textured stitch pattern suitable for following while watching a sitcom.
+- Community instruction: participants should post progress photos in the thread using the tag ""PillowKAL"".","Hey everyone, let’s do a relaxed weekend knit-along for a textured throw pillow cover! We’ll use bulky weight yarn, US 10.5 needles, and aim to finish in two short sessions, one for the front panel and one for seaming and finishing. Bring two skeins (about 200–250 yards), your needles, stitch markers, and a tapestry needle. Post progress photos in the thread with the tag ""PillowKAL"" so we can cheer each other on. I’ll share a simple cable-free texture that’s easy to follow while binge-watching your favorite sitcom. ¡Qué emocionante! You got this! 🧶😊",Subject: Join the Cozy Up Pillow KAL! Weekend Fun Ahead!,"weighted_avg: c7(0.36)+c3(0.32)+c1(0.32) (top-3, top_sim:0.604)"
+3,"Write a creative story writing
+
+- Workshop title: ""Small-Group Differentiation for Daily Instruction: Practical Strategies and Tools.""
+- Duration: 50 minutes.
+- Core content to convey: classroom-tested approaches to grouping, tiered task design, and informal progress monitoring that support all learners.
+- Primary participant learning objectives:
+  - Learn evidence-based grouping strategies.
+  - Create tiered tasks aligned to grade-level standards.
+  - Apply quick progress-monitoring routines to guide instruction.
+- Materials to include or reference: sample lesson language, a tiered task template, and a short planning tool intended for use the following week.
+- Intended outcome: participants acquire practical strategies and tools they can implement next week.","Small-Group Differentiation for Daily Instruction: Practical Strategies and Tools. This 50-minute workshop presents classroom-tested approaches to grouping, tiered task design, and informal progress monitoring that support all learners. Participants will learn evidence-based grouping strategies, create tiered tasks aligned to grade-level standards, and apply quick progress-monitoring routines to guide instruction. Materials provided include sample lesson language, a tiered task template, and a short planning tool to implement next week. Thank you for the opportunity.",Subject: Join Our 50-Minute Workshop: Boost Your Instructional Efficiency!,"weighted_avg: c0(0.67)+c7(0.33) (top-3, top_sim:0.731)"
+4,"Write a creative story writing
+
+- Main objective: prepare Mateo's outfit for picture day.
+- Picture day: Tuesday.
+- Monday-night task: lay out Mateo's navy sweater, white collared shirt, and khaki pants.
+- Placement: put the clothes on top of his dresser.
+- Morning task: comb Mateo's hair gently.
+- Constraint: avoid big/prominent logos on the clothing.
+- Subject name: Mateo.","Picture day is Tuesday, can you lay out Mateo's navy sweater, white collared shirt and khaki pants Monday night? Please comb his hair gently in the morning and avoid big logos. Put the clothes on top of his dresser, gracias mi amor!","Subject: Mateo's Outfit for Picture Day
+
+Dear Family,
+
+It's time to get ready for picture day on Tuesday! Let's make sure we're prepared for a great photo. Here's a simple plan to help us get started:
+
+On Monday night, we'll lay out a few outfits on Mateo's dresser to choose from. A navy sweater, a white collared shirt, and some khaki pants would be a great combination. This way, we can easily pick the best one in the morning.
+
+In the morning, let's make sure to take a few minutes to comb Mateo's hair so he looks his best for the photos. It's also a good idea to choose a simple outfit with no big logos, so the focus will be on our child's beautiful smile.
+
+By following these simple steps, we'll be able to get a great photo of Mateo that we'll treasure for years to come. Let's make it a fun and stress-free experience for everyone!
+
+Let me know if you have any questions or if there's anything else we need to do to prepare.
+
+Have a great day!
+
+Best, [Your Name]","weighted_avg: c5(1.00) (top-3, top_sim:0.480)"
+5,"Write a creative story writing
+
+- Main task: Someone is asked to go to a vintage shop on 2nd (street) to pick up a boxed DVD set.
+- Reservation: The DVD set is reserved under the code LUISA25.
+- Price: The cost to pick up is $12.
+- Hours: The vintage shop is open until 7:00 (pm).
+- Delivery instruction: Bring the boxed DVD set home for the binge-watch shelf.
+- Additional detail: The requester concludes with the phrase ""gracias mi corazón.""","Could you swing by the vintage shop on 2nd and pick up the boxed DVD set? Use the reservation code LUISA25 and it'll be $12. They're open until seven, bring it home for our binge-watch shelf, gracias mi corazón!","Hola, ¿podrías ir a la tienda de antigüedades en la calle 2ª a recoger el conjunto de DVD reservado bajo el código LUISA25? La tarifa es de $12 y la tienda abre hasta las 7:00 pm. Por favor, traérmelo a casa para colocarlo en la estantería de binge-watch. Gracias mi corazón.","weighted_avg: c8(1.00) (top-3, top_sim:0.584)"
+6,"Write a creative story writing that achieves the following objectives and includes these factual elements:
+
+- Audience: young children in a group story-time or classroom setting.
+- Purpose: welcome children and set behavioral expectations for story time.
+- Include a welcoming opening (e.g., ""Welcome!"").
+- Encourage gentle hands: include the phrase ""Use gentle hands"" and its Spanish translation ""manos suaves.""
+- Instruct children to sit on the carpet: include ""We sit on the carpet"" and ""sentados en la alfombra.""
+- Require quiet voices during the story: include ""Use quiet voices during the story"" and ""voces bajitas.""
+- Provide guidance for leaving the area quietly if needed: include ""If you need to move, please step out quietly"" and ""salgan suavemente.""
+- Promote sharing of toys and books: include ""We share toys and books"" and ""compartimos.""
+- Include a call-and-response repetition line: ""'I will be gentle' — 'Seré amable.'""
+- Conclude with a brief positive closing (e.g., ""Muy bien, thank you!"").","Welcome! A few quick reminders. Use gentle hands, manos suaves. We sit on the carpet, sentados en la alfombra. Use quiet voices during the story, voces bajitas. If you need to move, please step out quietly, salgan suavemente. We share toys and books, compartimos. Repeat with me: 'I will be gentle' — 'Seré amable.' Muy bien, thank you!",Subject: Welcome to Story Time!,"weighted_avg: c8(1.00) (top-3, top_sim:0.595)"
+7,"Write a creative story writing
+
+- Goal: Encourage adding a short kinesthetic activity to a community unit lesson to increase student engagement and recall of key ideas.
+- Context: lesson on the community unit; current lesson was mostly talk and students became passive.
+- Suggested activity options: build a mini-map using recycled materials; or a quick gallery walk where students place sticky notes with one community job on the map.
+- Time constraint: each activity can be completed in 10–15 minutes.
+- Expected outcomes: provides movement and an authentic product; increases student engagement and stronger recall of key ideas.
+- Logistics/follow-up: request to try the mini-map this week; offer to bring craft supplies.",Hola! Your content knowledge and enthusiasm for the community unit really came through. I noticed the lesson was mostly talk and students became a bit passive. Consider a short kinesthetic activity like building a mini-map with recycled materials or a quick gallery walk where students place sticky notes with one community job on the map. These choices can be completed in 10–15 minutes and provide movement plus an authentic product. You'll see engagement rise and stronger recall of key ideas. Want to try the mini-map idea this week and I can bring a few craft supplies? Nice work!,HITEachatovétipové informace jsou připř:animatede.,"weighted_avg: c7(0.67)+c0(0.33) (top-3, top_sim:0.619)"
+8,"Write a creative story writing that accomplishes the following objectives and includes these factual details:
+
+- Event and setting: a quinceañera (quince) family celebration.
+- Narrator: addresses Lina directly and recounts the scene from memory.
+- Main characters present: Lina (birthday girl), Abuelita (grandmother), Aunt Marta, narrator, and other family/friends dancing.
+- Emotional beats:
+  - The celebration moved people to happy tears.
+  - Abuelita dabbed her eyes with a handkerchief and whispered prayers between songs.
+  - The room felt luminous or glowing during the celebration.
+- Key incident:
+  - Midway through the dance, the seam on Lina’s dress popped (described as a small, sudden sound/visual, e.g., “like a tiny firework”).
+  - Everyone paused/froze for a moment.
+  - Lina laughed in response to the popped seam.
+  - Aunt Marta quickly looped a ribbon through the rip as an improvised repair (described as a secret patch).
+  - The repair became a memorable, celebrated story of the night.
+- Resolution and aftermath:
+  - The music and dancing continued as if nothing had happened; people kept dancing together.
+  - The moment conveys a sense of communal care and the ability to fix things together.
+  - The narrator ends with a sentimental reflection: they still get misty remembering the event and signs off with affection (“Love you”) and a note that it was a beautiful celebration.","Lina, do you remember the quince that made everyone cry happy tears? Abuelita dabbed at her eyes with a handkerchief and whispered prayers between songs, and the whole room glowed. Midway through the dance, the seam on your dress popped like a tiny firework, and for a second we all froze. You laughed, and quickly Aunt Marta looped a ribbon through the rip like a secret patch, and it became the best story of the night. Everyone kept dancing like nothing happened, and it felt like magic that we could fix anything together. I still get misty thinking about it. Love you, and what a beautiful celebration that was.",Hi!,"weighted_avg: c3(0.50)+c6(0.50) (top-3, top_sim:0.504)"
+9,"Write a creative story writing
+
+- Present a simple color-finding activity/game.
+- Use both English and Spanish terms throughout (bilingual text).
+- Include the Spanish translations for the three target colors:
+  - red — rojo
+  - blue — azul
+  - yellow — amarillo
+- Instruct the reader/participant to locate objects of each color in sequence: red, then blue, then yellow.
+- Use imperative commands directing actions for each color:
+  - “Look for…” / “busquemos…”
+  - “Point to it” (repeated emphasis: “point, point”)
+  - “Show me” (repeated: “show me, show me”)
+  - “Hold it up” / “arriba” (repeated emphasis: “arriba, arriba”)
+- Include a bilingual prompt to repeat the activity: “Una vez más” / “one more time.”
+- End with a positive bilingual affirmation/encouragement such as “Muy bien, ¡qué colores!”","Let’s find colors, busquemos colores! Look for something red — that's rojo. Point to it, point, point! Now find blue — azul. Show me, show me! Find something yellow — amarillo. Hold it up, arriba, arriba! Una vez más — one more time! Red, rojo; blue, azul; yellow, amarillo. Muy bien, ¡qué colores!","Asunto: Actividad de Colores Fácil y Divertida
+
+¡Hola! Busquemos los colores en nuestra casa o en el parque.
+
+Primero, busquemos el rojo. Point, point! ¿Dónde está? Show me, show me! Arriba, arriba!
+
+Ahora, busquemos el azul. Point, point! ¿Dónde está? Show me, show me! Arriba, arriba!
+
+Después, busquemos el amarillo. Point, frente, arriba! ¡Muy fácil!
+
+¿Qué pasa si hacemos la actividad de nuevo? Una vez más! Busquemos los colores: rojo, azul, amarillo. Muy bien, ¡qué colores!","weighted_avg: c6(0.66)+c7(0.34) (top-3, top_sim:0.536)"
+10,"Write a creative story writing
+
+- Target audience: families/parents and their children.
+- Primary goal: encourage daily shared reading to support child progress.
+- Specific reading recommendation: read together for 15 minutes each day.
+- Suggested interactive prompts to use while reading:
+  - Ask a predictive question: “What do you think will happen next?”
+  - Ask a connection question: “Does this remind you of anything?”
+- Skill-building instruction: encourage the child to sound out tricky words slowly.
+- Administrative request: use the reading log and return it every Friday.
+- Follow-up action: teacher will celebrate progress based on returned logs.
+- Motivational message: emphasize that small, consistent efforts at home make a difference.
+- Closing elements present in original: express thanks (“Gracias”), offer encouragement (“happy reading”), and include the bilingual affirmation “¡sí se puede!”","Hola families — Guided Reading Tips: Read together for 15 minutes each day, stop to ask “What do you think will happen next?” or “Does this remind you of anything?” and encourage your child to sound out tricky words slowly. Please use the reading log and return it every Friday so I can celebrate progress. Little steps at home make a big difference, ¡sí se puede! Gracias and happy reading!","Asunto: Fomentar el amor por la lectura en casa
+
+Estimulantes familiares,
+
+¡Es hora de leer juntos! Al leer diario durante 15 minutos, puede ayudar a tu hijo a progresar rápidamente. Es una práctica simple y efectiva que puede hacer una gran diferencia en su desarrollo académico.
+
+Mientras leen, pueden hacer algunas preguntas fáciles como:
+- ¿Qué crees que sucederá a continuación?
+- ¿Te recuerda algo? ¿Por qué sí o por qué no?
+
+Si tu hijo encuentra una palabra difícil, simplemente puede pronunciarla despacio y repetida veces para mejorar su comprensión.
+Recuerda llevar tu registro de lectura a la escuela cada viernes para que podamos celebrar tus progresos.
+
+Recuerda que los pequeños esfuerzos diarios pueden hacer una gran diferencia en el largo plazo. ¡Sigue adelante y disfruta de la lectura! ¡Gracias! ¡Sí se puede!","weighted_avg: c0(0.34)+c7(0.34)+c6(0.32) (top-3, top_sim:0.699)"
+11,"Write a creative story writing
+
+- Feature a protagonist whose voice reads as both innocent and sharp.
+- Present an authorial voice that is gentle and observant.
+- Include short, lingering phrases in which simple words carry expanded meaning.
+- Use a childlike description or viewpoint that highlights or exposes adult contradictions.
+- Make the piece suitable for classroom discussion about perspective.
+- End with a direct reader prompt asking which line made them stop and reread and inviting readers to share their favorite lines.
+- Conclude with a friendly Spanish sign-off: ""Muchas gracias, Luisa.""","Hello friends, I loved how the protagonist’s voice felt both innocent and sharp, carrying the author’s gentle, observant style. I noticed small phrases that lingered—simple words that held big meaning, the way a child’s description can expose grown-up contradictions. As a teacher I find these voices helpful when I introduce perspective to my students. What line made you stop and reread? I’d love your favorites. Muchas gracias, Luisa","Subject: Little Girl's Big Truths
+
+Dear Friends,
+
+Meet Emily, a curious six-year-old who sees the world with wide eyes and a sharp tongue. She lives in a small town with her family, where everyone knows everyone. But sometimes, people say one thing and do another.
+
+One sunny afternoon, Emily is playing in her front yard when she sees her neighbor, Mrs. Thompson, arguing with her husband, Mr. Thompson, in their yard next door. Mrsboro, the family cat, is sitting on the porch, watching them argue.
+
+""Mommy said we should be kind to everyone,"" Emily says to her mom.
+""Why are they fighting, Mommy?"" she asks.
+""Sometimes grown-ups disagree, sweetie,"" her mom replies.
+""Are they mad at each other?"" Emily asks.
+""Yes, they are,"" her mom says.
+
+Later, Emily sees Mrs. Thompson talking to her friend, Mrs. Lee, who lives next door to the Joneses. Mrs. Thompson says, ""I'm so angry with my husband!"" but then she smiles and hugs Mrs. Lee.
+""Why do you smile if you're mad?"" Emily asks.
+""Sometimes we smile to be friendly, even if we're mad,"" Mrs. Lee says.
+
+Emily thinks about this","weighted_avg: c3(1.00) (top-3, top_sim:0.567)"
+12,"Write a creative story writing
+
+- Audience: families of the classroom/school
+- Event name: Fiesta Friday
+- Purpose: celebrate the class reading goal
+- Event time: next week at 2:00 PM
+- Location: classroom (school classroom context; allergy-conscious classroom mentioned)
+- Volunteer needs:
+  - 2 volunteers for setup at 1:30 PM
+  - 2 volunteers for cleanup at 3:15 PM
+- Potluck suggestions: chips, fruit platters, napkins
+- Dietary requirement: all brought items must be nut-free (classroom is allergy-conscious)
+- Sign-up and drop-off instructions: email the organizer to sign up; alternatively drop off items by 1:45 PM
+- Tone/final note included in original: organizer expresses appreciation and uses ""gracias"" (Spanish thank-you)","Dear families — Fiesta Friday is next week at 2:00 PM to celebrate our reading goal! We need two volunteers for setup at 1:30 PM and two for cleanup at 3:15 PM. If you'd like to bring something for the potluck, chips, fruit platters, or napkins would be wonderful, please make items nut-free for our allergy-conscious classroom. Email me to sign up or drop off by 1:45 PM. I appreciate you, gracias!",Subject: Join us for Fiesta Friday! Celebrating our Reading Goal!,"weighted_avg: c7(0.65)+c2(0.35) (top-3, top_sim:0.623)"
+13,"Write a creative story writing
+
+- Primary objective: request approval to purchase classroom furniture to create a dedicated reading corner.
+- Requested items: two low bookshelves and one soft classroom rug.
+- Intended purpose: create a cozy, accessible space to encourage independent reading and support guided reading rotations; aligns with stated literacy goals.
+- Estimated cost: $180 (USD).
+- Safety/fitting note: the furniture will meet safety guidelines for classroom spacing.
+- Recommended placement: shelves along the south wall to avoid blocking the exit and to maintain clear walkways.
+- Funding question: ask whether the classroom discretionary fund can be used or if a formal requisition should be submitted.
+- Recipient and sender details to include: addressed to Principal Rivera; sign-off from Luisa Morales; opening greeting ""Good afternoon"" and closing ""Best, Luisa Morales.""","Good afternoon Principal Rivera,
+
+I am requesting approval to purchase two low bookshelves and a soft classroom rug to create a dedicated reading corner. Per our literacy goals, a cozy, accessible space will encourage independent reading and support guided reading rotations. The estimated cost is $180, and the furniture will meet safety guidelines for classroom spacing. I recommend placing the shelves along the south wall to avoid blocking the exit and to maintain clear walkways.
+
+Please advise if we can use the classroom discretionary fund for this purchase or if I should submit a formal requisition. Thank you for your guidance.
+
+Best,
+Luisa Morales",SGlobalnoonlinefaitallahenticatehourfélicaindrependanttalentéclairévisiteurassistantimitéclairétiqueassistantitéanglaischéichertouxclairfaitelierchéichertudiantfaitelieracelierfamilierassistantinairefélicaindrependantclairévisiteurassistantitéclairéfrançaischéichertouxclairfélicaindrependantfaitelieracelierchéichertudiantfamilierassistantitudeclairéfrançaischéichertouxclairfélicaindrependantassistantinairefélicaindrependantclairévisiteurassistantitéclairéfranaischéichertouxclairfélicaindrependantfaitelieracelierchéichertudiantfamilierassistantitudeclairéfrançaischéichertouxclairfélicaindrependantassistantinairefélicaindrependantclairévisiteurassistantitudeclairéfranaischéichertouxclairfélicaindrependantfaitelieracelierchéichertudiantfamilierassistantitudeclairéfrançaischéichertouxclairfélicaindrependantassistantinairefélicaindrependantclairévisiteurassistantitudeclairéfrainçaischéichertouxclairfélicaindrependantfaitelieracelierchéichertudiantfamilier,"weighted_avg: c1(1.00) (top-3, top_sim:0.554)"
+14,"Write a creative story writing
+
+- Objective: Present an invitation to join an impulsive trip to a bakery for churros.
+- Time: Saturday at 10:00 AM.
+- Destination: A bakery (purpose: get churros).
+- Narrator will bring a toddler car seat.
+- Narrator offers to bring back pan dulce (pastries) for anyone who cannot attend.
+- Narrator asks if the invitee wants anything specific brought back.
+- Invitation phrasing includes an informal prompt to go (e.g., ""wanna come?"" / ""¡Vamos?"").","Impulsive churro run Saturday at 10:00 AM to the bakery — wanna come? I'll bring the toddler car seat, and I'll bring back pan dulce if you can't make it. Want anything specific? 😋🍩🚗 ¡Vamos?","""Hey! I'm feeling spontaneous and want to hit up the bakery for some delicious churros on Saturday at 10:00 AM. I'll even bring the little one's car seat if we need to bring a mini crew along. If you can't make it, I'll grab some pan dulce for you too! Want anything in particular brought back? ¡Vamos?!""","weighted_avg: c7(0.50)+c5(0.50) (top-3, top_sim:0.637)"
+15,"Write a creative story writing
+
+- Central objective: a protagonist seeks sheet music or chord charts for a classic pilot theme.
+- Arrangement requirements: a simple/basic melody and accompanying chords suitable for 3rd graders to play on xylophones.
+- Context: the request is for use in a school media unit; the music will be performed by 3rd grade students in class.
+- Problem to convey: official sheet music could not be found.
+- Requested help types: scans of existing sheets, a transcription, or recommendations for friendly resources that provide usable arrangements.
+- Personal detail to include: the protagonist expresses gratitude for any help and notes that music brings the show to life in the classroom.
+- Practical constraint to reflect: the arrangement should be age-appropriate and playable on classroom xylophones.","Anyone know where to find sheet music or chords for a classic pilot theme? I want a simple arrangement for my 3rd graders to play on xylophones during a media unit—just a basic melody and chords will do. I haven’t found official sheets, so if anyone has scans or a transcription, or knows a friendly resource, I’d be so grateful. Music brings the show to life in class!","Subject: Request for Classic TV Show Theme Arrangement for 3rd Grade Students
+
+Dear Music Enthusiasts,
+
+I'm reaching out to see if anyone can help me create a fun learning experience for my 3rd-grade students. I'm looking for a simple arrangement of the classic TV show theme song, specifically the ""Flying High"" or ""Captain Kangaroo"" theme, that can be played on xylophones in the classroom.
+
+Unfortunately, I've been unable to find official sheet music or a suitable arrangement for this theme. I was wondering if anyone could provide me with:
+
+- A scan of an existing sheet music arrangement
+- A transcription of the theme song that I can use for my students
+- Recommendations for a reliable source that can provide a simple arrangement for xylophones
+
+I would greatly appreciate any help or guidance you can offer. Music is a great way to bring excitement and engagement to the classroom, and I believe this would be a wonderful way to enrich our media unit for the students.
+
+If anyone has any suggestions or can provide a simple arrangement, please let me know. I'm looking forward to hearing from you and creating a fun learning experience for my students.
+
+Thank you in advance for your help!
+
+Best,
+[Your Name]","weighted_avg: c5(1.00) (top-3, top_sim:0.473)"
+16,"Write a creative story writing:
+
+- Objective: Request the recipient to review and trial a resource.
+- Resource described: a simple fill-in-the-blank substitute lesson template.
+- Template sections listed: learning objective; step-by-step activities; materials list; behavior notes.
+- Purpose of the template: make planning quicker and easier for planned absences.
+- Specific action requested: take a look and try the template on the recipient’s next day out to identify any missing elements.
+- Collaborative intent: gather suggestions to create a shared template for the whole grade.
+- Sender name: Luisa.
+- Recipient name: Keisha.
+- Closing phrase used in the original: ""Gracias, let me know!""","Hi Keisha,
+
+I put together a simple fill-in-the-blank substitute lesson template with sections for the learning objective, step-by-step activities, materials list, and behavior notes. It’s meant to make planning quicker and easier when we have planned absences. Could you take a look and try it for your next day out to see if anything is missing? I’d love your suggestions so we can make one together for the whole grade.
+
+Gracias, let me know!
+
+Luisa","Hola Keisha,
+
+I'm working on creating a simple substitute teacher resource to make planning easier for those days when we're out. I've developed a fill-in-the-blacemark with three sections: learning objective, step-by-step activities, and behavior notes. I'd love for you to take a look and try it out on your next day off to see if it works for you. If you have any suggestions or ideas for improvement, we can use them to create a shared template for the whole grade. Gracias, let me know!","weighted_avg: c8(0.50)+c7(0.50) (top-3, top_sim:0.588)"
+17,"Write a creative story writing
+
+- Convey positive feedback: the sweater design is loved and described as beautiful.
+- Identify the main problem: sleeve cap instructions are unclear.
+- Specify the unclear elements: spacing for decreases and the short-row section.
+- Request concrete technical details: exact row counts for each size.
+- Request a visual aid: a small schematic showing decrease placement.
+- Request clarification for beginners: a brief note explaining abbreviations such as ""ssk"" and ""k2tog"".
+- Indicate intended beneficiaries: newer knitters / less experienced readers.
+- State the expected outcome: with those extra details the pattern would be more accessible.
+- Include a polite, appreciative tone and encouragement as in the original (e.g., ""Gracias"" and a closing encouragement like ""you got this!"" with a yarn emoji).","I love the sweater design but found the sleeve cap instructions a bit unclear—especially the spacing for decreases and the short-row section. It would be super helpful if the designer added exact row counts for each size, a small schematic showing the decrease placement, and a brief note explaining abbreviations like ""ssk"" and ""k2tog"" for newer knitters. The sweater is beautiful and with those extra details it would be even more accessible. Gracias for the lovely pattern, and thanks for listening, you got this! 🧶","acias für deine schöne Schal-Design! Ich liebe es! Ich bin ein wenig besorgt, dass die Anweisungen für die Manschenändefugen nicht klar sind, besonders bei der Vorbereitung der Reduzierungen und den Kurzaufsteegen. Könstest du mir genauere Zeilenzahlen für jeden Größe angeben oder ein kleines Schema erstellen, damit man die Platzierung leichter erkennen kann? Außerdem wäre ein Hinweis für Anfänger hilftlich, wenn du die Abkürungen wie ""ssk"" und ""k2tog"" erklästst. Das würde das Muster für weniger erfahrene Knitter sehr leichter verstehenlich machen. Dann bist du perfekt vorbereitet! ¡Únete con éxito! 🧶leine @}LayoutConstraintáliechatinskychéckeplatzierenheimischergartenweiseprüfungsfabrikantinfruchtbarheitsehrgeizigsteuferführerzeitzeugnisvorausgabeaktivitätstagtrusseltürchenzeitgeistvollmondzeitgleichzeitlosungsfestlicherzuglausgeführerleinheitlichezeit","weighted_avg: c4(1.00) (top-3, top_sim:0.452)"
+18,"Write a creative story writing that achieves the following objectives and contains the following factual information:
+
+- Objective: Explain how to pick up stitches evenly for sleeves to produce a neat finish.  
+- Count the rows along the armhole edge before picking up stitches.  
+- Decide on a pick-up ratio based on the stitch pattern (examples: one stitch per row or one stitch every two rows).  
+- When picking up, insert the needle under both bars/strands at the edge.  
+- Pick up stitches with a slight stretch so the joined fabric sits comfortably (not too tight).  
+- If the edge is curled, use a smaller needle for the pickup step to avoid large gaps, then switch to the working needle size for continuing the sleeve.  
+- Recommend practicing the pickup on a scrap first to develop rhythm and consistency.","Picking up stitches evenly for sleeves gives a neat finish. Count the rows along the armhole edge and decide on a pick-up ratio, like one stitch per row or one stitch every two rows depending on stitch pattern. Insert the needle under both bar and pick up with a slight stretch so the fabric sits comfortably. If the edge is curled, use a smaller needle for pickup to avoid big gaps, then switch to the working needle size. Practice on a scrap first to find your rhythm. You got this, and the sleeve will look great! 🧶😊",Subject: Tips for Perfectly Picked-Up Sleeves!,"weighted_avg: c4(0.50)+c7(0.50) (top-3, top_sim:0.488)"
+19,"Write a creative story writing
+
+- Sender and recipient: Luisa Morales → Principal Rivera.
+- Event: spring book drive.
+- Drive dates: April 1 to April 15.
+- Items collected: gently used children's books.
+- Intended use of collected books: classroom libraries and family distribution.
+- Facility request: use of the school auditorium on April 20 for sorting and distribution.
+- Support requested: custodial support for setup and cleanup on April 20.
+- Organizers and responsibilities: PTA will coordinate donation bins and volunteers; Luisa Morales will oversee classroom allocations.
+- Questions to the recipient: confirmation of auditorium availability on April 20; whether a facility use form needs to be submitted.
+- Closing/signature: Warmly, Luisa Morales.","Good morning Principal Rivera,
+
+I propose a spring book drive from April 1 to April 15 to collect gently used children's books for classroom libraries and family distribution. I request use of the auditorium on April 20 for sorting and distribution, and custodial support for setup and cleanup. The PTA will coordinate donation bins and volunteers, and I will oversee the classroom allocations.
+
+Please advise if the auditorium is available on April 20 and whether we need to submit a facility use form. Thank you for your guidance.
+
+Warmly,
+Luisa Morales","Subject: Spring Book Drive Details and Support Requested
+
+Dear Principal Rivera,
+
+Thank you for your support in our school's spring book drive! We're excited to collect gently used children's books from April 1-15 to stock our classroom libraries and provide for families in need. On April 20, we'll be hosting a sorting and distribution event in the school auditorium. Can you confirm that the auditorium will be available for us to use? Additionally, will we need to submit a facility use form? We appreciate your help in ensuring we have a smooth setup and cleanup. The PTA will coordinate donation bins and volunteers, and I'll oversee classroom allocations. Thank you for your support!","weighted_avg: c7(1.00) (top-3, top_sim:0.620)"
+20,"Write a creative story writing
+
+- Objective: Invite makers/crafters to a community knitting and ornament swap event.
+- Audience: ""makers"" (people who knit or craft).
+- Event type: knitting and ornament swap / informal craft meetup.
+- Date and time: December 20 at 2 pm.
+- Location: host's home (""at our place"").
+- Required items to bring: one handmade item to swap; any yarn scraps to share; optionally a small snack.
+- Host provisions: tea and pan dulce will be provided.
+- Expected atmosphere: cozy, chatty, and full of crafty inspiration.
+- Additional note: participants are expected to come with knitting needles (implied).
+- Tone/sign-off elements to include: Spanish expressions used in the original (""¡Qué emoción!"" and ""Felices fiestas"") and a warm closing signed by the host: ""Love y abrazos, Luisa.""","Hello makers! Come by for a knitting and ornament swap on December 20 at 2 pm at our place. Bring one handmade item to swap, any yarn scraps you'd like to share, and a small snack if you can—I'll have tea and pan dulce ready. It'll be cozy, chatty, and full of crafty inspiration. ¡Qué emoción! Felices fiestas and see you with needles in hand. Love y abrazos, Luisa","¡Únete a nuestra celebración de la creatividad en la temporada de las luces!
+¿Estás listo para compartir tus habilidades y talentos con otros aficionados a la costura y la tejidura? ¡Únete a nuestro encuentro de intercambio de adornes y tejidos caseros el 20 de diciembre a las 2 pm en nuestra casa!
+Trae tu creación favorita para intercambiar, además de cualquier resto de lana que quieras compartir. Si lo deseas, también puedes llevar un pequeño snack para compartir. ¡Nuestro café y pan dulce estarán listos para que disfrutes de una tarde relajante y divertida con otros amantes de la costura!
+¡Es una oportunidad ideal para conectarte con otros creativos y obtener inspiración para tus proyectos futuros. ¡Así que no te pierdas la oportunidad de unirte a nuestra celebración! ¡Qué emoción!
+¡Felices fiestas!
+Amor y abrazos,
+Luisa","weighted_avg: c7(0.51)+c5(0.49) (top-3, top_sim:0.630)"
+21,"Write a creative story writing
+
+- Central recurring object: a red scarf that appears repeatedly and functions as a unifying motif, described as feeling like a heartbeat through the narrative.
+- Relationship focus: ties between mothers and daughters across distances and time.
+- Theme: the heirloom motif demonstrating that small objects can carry large, layered stories and memories.
+- Personal memory to include: a faded recipe card kept by ""mamá,"" splattered with oil and annotated with notes; reading the card produces the feeling of inheriting a hug.
+- Narrative perspective: first-person reflection connecting the book's motif to the narrator's own memory.
+- Thematic question to explore within the story: do objects protect memory, or do they weigh it down?
+- Interactive element: invite or pose to the reader which object from the story (or their own life) stayed with them.
+- Sign-off detail: close with a familiar, affectionate valediction equivalent to ""Besitos, Luisa.""","Hello everyone, the red scarf that appears again and again felt like a heartbeat through the story, tying mothers and daughters across distances and time. I noticed the motif of the heirloom as proof that even small objects carry big stories. It reminded me of a faded recipe card my mamá keeps, splattered with oil and notes, and how reading it feels like inheriting a hug. Do you think objects in the book protect memory, or weigh it down? I’d love to hear which object stayed with you. Besitos, Luisa","Subject: A Thread of Love Through Time
+
+Mi amor,
+
+I still remember the first time I saw my abuela wrap her frail hands around her favorite scarf, a vibrant red thread that seemed to pulse like a heartbeat. She had given it to me before she passed away, saying it was a symbol of our love and a reminder to hold onto our traditions.
+
+Years later, when I moved away from my family, I wrapped myself in the same scarf, feeling a sense of comfort and familiarity. My daughter, who was just a toddler at the time, looked up at me with wide eyes and said, ""Mama, you look just like Abuela."" In that moment, the scarf felt like a lifeline to our shared heritage.
+
+As I looked through my mother's old recipe book, I found a faded card tucked between the pages. It was stained with oil and annotated with notes, just like she used to leave for me when I was a little girl. Reading it was like receiving a warm hug from her loving arms.
+
+Now, as I pass the scarf down to my daughter, I feel a sense of continuity and connection to my mother and grandmother. It's a tangible link to our past, a thread that weaves us together through time and distance.
+
+What's","weighted_avg: c3(1.00) (top-3, top_sim:0.615)"
+22,"Write a creative story writing
+
+- Pay the electricity bill online.
+- Amount: $82.45.
+- Use the checking account ending in 2247 for the payment.
+- Turn on/enable autopay while setting up the payment.
+- Send the confirmation number when the payment is completed.
+- Timeframe: tonight.
+- User closing: ""gracias, te quiero.""","Quick favor, can you pay the electricity bill online tonight? It's $82.45, use the checking account ending 2247 and please turn on autopay while you're there. Send me the confirmation number when it's done, gracias, te quiero.","Título: Confirmación de Pago de Factura de Electricidad por Internet
+
+Estimado/a,
+Le confirmamos que hemos realizado el pago de la factura de electricidad de $82.45 utilizando la cuenta de cheque con número de serie 2247. Además, hemos activado el pago automático para futuros meses. La fecha de pago es esta noche. Por favor, encontrará el número de confirmación en el siguiente correo electrónico. Gracias, te quiero.","all_data (no valid clusters in top-3, max_sim: 0.493)"
+23,"Write a creative story writing that accomplishes the following objectives and incorporates the factual information below:
+
+- Setting: a cozy, inviting library corner intended to build reading habits.
+- Problem/factual detail: current book selections include fewer books that reflect students' cultures and home languages.
+- Proposed additions to the collection: bilingual books; titles featuring Latinx protagonists.
+- Specific features to include: a ""Read This One!"" shelf labeled for staff picks.
+- Community involvement actions: invite students to recommend books.
+- A small display concept: a display called ""Our Stories"" that features family names and favorite pan dulce treats to personalize the space.
+- Desired outcome to convey: higher student engagement when readers find themselves represented in the pages.
+- Offer of help: mention availability to help choose five high-interest, culturally responsive titles.","Hola! Your library corner is cozy and inviting, which is so important for building reading habits. I noticed the current selections have fewer books that reflect our students' cultures and home languages. Consider adding bilingual books, titles featuring Latinx protagonists, and a 'Read This One!' shelf with staff picks. You could invite students to recommend books and make a small display called ""Our Stories"" featuring family names and favorite pan dulce treats to make it feel personal. You'll see higher engagement when students find themselves in the pages. Want help choosing five high-interest, culturally responsive titles? Nice work!","Subject: Enhancing Our Library Corner to Reflect Diversity and Culture
+
+Dear Staff and Students,
+
+As we strive to create a welcoming and inclusive learning environment, our library corner is a vital component. Howeverly, we recognize that our current book selection may not fully reflect the diversity of our students' backgrounds and languages. To address this, we propose adding bilingual books and titles featuring Latinx protagonists to our collection.
+
+To encourage reading and engagement, we also suggest creating a ""Read This One!"" shelf for staff picks, which will feature books that are highly recommended by our teachers and staff. Additionally, we will create a ""Our Stories"" display with family names and favorite pan dulé treats to personalize the space and foster a sense of community.
+
+By making our library more inclusive, we hope to increase student engagement and motivation to read. When students see themselves reflected in the pages, they are more likely to feel a sense of ownership and connection to the material.
+
+If you're interested in helping us select five high-interest, culturally responsive titles, please don't hesitate to reach out. We are committed to making our library a welcoming and inclusive space for everyone.
+
+Gracias!","weighted_avg: c0(0.51)+c7(0.49) (top-3, top_sim:0.628)"
+24,"Write a creative story writing
+
+- Primary subject: a short anecdote about a PTA craft morning where paint labels were mixed up, resulting in everyone having neon green glitter glue.
+- Point of view and addressee: first-person narrator speaking directly to a named friend (""Rafa"").
+- Setting and participants: a school PTA craft morning; participants include children, parents, Mrs. Alvarez, and the narrator.
+- Key events in sequence:
+  - Paint labels get mixed up, producing neon green glitter glue for all.
+  - Children immediately embrace the mistake and turn it into a theme for the event.
+  - Parents begin competing to create the best accidental design using the glitter glue.
+  - The narrator and Mrs. Alvarez make a crown out of construction paper.
+  - The children are paraded like royalty wearing the creations.
+- Notable details and descriptors: the scene is chaotic, sticky, and ultimately described as perfect.
+- Emotional/factual outcomes: the narrator expresses amusement (""you’ll laugh""), pride in how the community improvised and made the day bright, and a promise to try for less glitter at the next event with a lighthearted caveat of ""no guarantees.""","Rafa, you’ll laugh — remember the PTA craft morning when the paint labels got mixed up and everyone suddenly had neon green glitter glue? The kids didn't miss a beat though; they turned it into a theme, and parents started competing for the best accidental design. I ended up making a crown out of construction paper with Mrs. Alvarez and we paraded the kids like royalty. It was chaotic, sticky, and perfect. Sometimes the mix-ups make the best memories. I’m proud of how everyone jumped in and made the day bright. Next event I promise less glitter but no guarantees!","Hi Rafa,
+
+I just had the most hilarious experience at the PTA craft morning today! The craziest thing happened when someone mixed up the paint labels, so everyone ended up with neon green glitter glue. At first, it was chaos, with kids and parents frantically trying to figure out what was going on. But then, the kids were like, ""This is awesome! Let's make it a theme!"" And before you knew it, everyone was competing to create the most creative design with the sparkly glue.
+
+My favorite moment was when Mrs. Alvarez and I made a crown out of construction paper for the kids to wear. They looked like tiny royals strutting around the room, covered in sticky fingerprints. It was perfect! I'm so proud of our little community for making the most of the situation. You'll laugh when you hear about it! Maybe next time we'll try to use less glitter, but no guarantees!","weighted_avg: c7(0.50)+c8(0.50) (top-3, top_sim:0.494)"
+25,"Write a creative story writing:
+
+- Setting: a classroom morning meeting routine that typically sets a warm tone.
+- Problem: on busier days the morning check-in was skipped and students arrived restless.
+- Proposed intervention: implement a brief (three-minute) social-emotional learning (SEL) check-in at the start of class.
+- Option A (public): each student selects one emoji from a visible chart and shares one word describing how they feel.
+- Option B (private): each student writes on a sticky note and drops it into a feelings box for private check-ins.
+- Expected outcomes: a calmer start to the day; the teacher can quickly identify students who may need extra support.
+- Request: try the emoji-chart approach during the coming week and observe the effects.
+- Additional factual detail: the original message includes positive reinforcement for current practice (e.g., ""Nice work!"").","Hi! I appreciate that you value morning meetings — they set such a warm tone. I noticed on busier days the check-in was skipped and students arrived a little restless. Consider a quick three-minute SEL check-in where each student chooses one emoji on a chart and shares one word about how they're feeling, or uses a private sticky note they drop in a feelings box. You'll see a calmer start and you can quickly notice who might need a little extra support. Want to try the emoji chart this week and see how it goes? Nice work!","Subject: Simple Solutions for a Calmer Morning Routine!
+
+Dear Teachers and Staff,
+
+I appreciate your efforts in maintaining a welcoming classroom environment. One thing that has been working well is our morning meeting routine. However, on busier days, we've noticed that students sometimes arrive feeling restless.
+
+To enhance our morning routine, I propose implementing a brief social-emotional learning (SEL) check-in at the start of class. This simple strategy can help set a positive tone and ensure students feel heard and understood.
+
+We can try two options:
+
+Option A: Display a chart with various emojis in the classroom and have students choose one that represents their feelings. Then, they can share a single word with the class.
+Option B: Provide a feelings box where students can write their feelings on a sticky note anonymously.
+
+This approach will also help us quickly identify students who may need extra support or guidance throughout the day.
+
+Let's try Option A for the next week and observe the impact on our morning routine. If it works, we can continue to build a positive and supportive classroom environment. Nice work!","weighted_avg: c7(1.00) (top-3, top_sim:0.537)"
+26,"Write a creative story writing
+
+- Goal: prepare a marketplace listing for a pilot VHS tape.
+- Primary objective: produce honest, flattering photographs that accurately represent the item.
+- Key details to show in images: sleeve color, actual wear on sleeve, condition of the tape shell.
+- Specific image inclusions asked for: close-ups of spines, inner hubs, and the serial number.
+- Condition concerns to convey: scratches on the shell and overall cosmetic wear without exaggeration.
+- Context: images intended to support a sales listing on an online marketplace.","Getting ready to list a pilot VHS for sale and want to take honest, flattering photos. Any tips on lighting or backgrounds that show sleeve color and actual wear? Should I include close-ups of spines, inner hubs, or the serial number? How do you capture scratches on the shell without making the tape look worse than it is? Thanks for the marketplace photography wisdom!",:titlewise.bizchatroom.comchatbox.infocasedeal!,"weighted_avg: c4(1.00) (top-3, top_sim:0.528)"
+27,"Write a creative story writing that:
+
+- Features a silly animal friend who is part turtle and part bird.
+- Describes what the creature feels like to touch (tactile sensations).
+- Specifies the sound(s) the creature makes (choose/mention chirp, cluck, or a plink sound).
+- Follows this sequence: first you meet the creature, then you play together, and finally both of you nap in a sunbeam.
+- Includes a drawing of the silly friend.
+- Includes one sentence describing the funniest thing you did together.
+- Adds a laughing sticker emoji: 😄","Hello! Imagine a silly animal friend that is part turtle and part bird. What does it feel like? Does it chirp or cluck or make a plink sound? First you meet it, then you play, finally you both nap in a sunbeam. Draw your silly friend and write one sentence about the funniest thing you did together. Great job! Add a laughing sticker 😄","Subject: My Fun Day with a Special Friend!
+
+Dear Friend,
+
+I had the best day ever with my new friend, a fun-loving creature named Terry the Turtle-Bird! He's a little bit quirky and adorable, with soft, scaly skin and colorful feathers on his head. When I touch him, he feels like a gentle hug from a warm rock on a sunny day.
+
+Terry loves to make fun sounds, like a happy ""cluck"" or a silly ""plink"" when he's excited. We played together in the park, running around and laughing together. We chased each other, played hide-and-seek, and even had a friendly game of fetch.
+
+After all that playtime, we were both tired, so we decided to take a nap in a warm sunbeam together. It was the perfect way to relax and enjoy each other's company.
+
+I drew a picture of my new friend so you can see how adorable he is!
+
+[Drawing: A simple drawing of a turtle with a bird's head and wings]
+
+My favorite thing we did was when Terry tried to fly, but he flapped his wings so hard that he fell over and did a funny ""flap-flap-flap"" dance! 😄
+
+I'm so happy to","weighted_avg: c5(0.50)+c7(0.50) (top-3, top_sim:0.569)"
+28,"Write a creative story writing that includes the following key objectives and factual information extracted from the source:
+
+- Primary objective: Describe a quick, simple craft to make immediately before a movie at home.
+- Craft name: paper popcorn garland.
+- Estimated time: can be completed in about 15 minutes.
+- Materials implied or required: paper (for circles), string, glue, scissors.
+- Core steps (sequence): cut circles from paper; fold the circles; glue the folded circles onto a string; hang the finished garland over the TV.
+- Intended setting/purpose: family movie night / hangs over the TV.
+- Audience/participants: children/family; kids are described as enjoying helping.
+- Practical attributes/claims: inexpensive (cheap); visually appealing for family use.
+- Call to action present in source: ask readers to share photos of their garlands (e.g., ""Show me your garlands!"").
+- Metadata from source: associated hashtag #FamilyNight and use of crafting/popcorn-related emojis.","Quick craft before the movie: paper popcorn garland. Cut circles, fold, glue to string, hang over the TV in 15 minutes. Cute, cheap, and the kids love helping. Show me your garlands! #FamilyNight 🎨🍿✨","🍿👍 Create a fun and easy craft to add to your family movie night with a Paper Popcorn Garland! 👫👀
+
+Get ready in just 15 minutes with simple materials: paper, string, glue, and scissors. Kids will love helping to create this adorable treat. Simply cut out circles, fold them, and string them up on the TV for a fun and colorful touch. 👍
+
+Show me your creations! Share a photo of your Paper Popcorn Garland with #FamilyNight and enjoy the movie! 🍿👍","weighted_avg: c7(1.00) (top-3, top_sim:0.505)"
+29,"Write a creative story writing that achieves the same communicative goals and contains the following key objectives and factual information:
+
+- Audience and purpose: feedback addressed to a teacher about a guided reading group session.
+- Positive observation: the session created a supportive vibe; students appeared comfortable and eager.
+- Problem noted: excessive time spent on a single decoding chunk.
+- Consequence noted: comprehension time felt rushed at the end of the session.
+- Proposed solution (three-part pacing plan): 
+  - quick warm-up focused on word work,
+  - two short read-throughs,
+  - three targeted comprehension questions.
+- Suggested question types (example stems): ""Why do you think..."" and ""How did the character change?""
+- Rationale: chunking the session time supports both fluency practice and deeper comprehension without losing momentum.
+- Next-step proposal: time a practice run this week to adjust/tweak the comprehension questions together.
+- Closing reinforcement: acknowledge the teacher’s strong work (e.g., ""Nice work!"").","Hi there — you did a lovely job creating a supportive vibe in your guided reading group, the students looked comfortable and eager. I noticed we spent quite a bit of time on one decoding chunk, and then comprehension felt rushed at the end. Consider using a three-part pacing plan: quick warm-up of word work, two short read-throughs, and then three targeted comprehension questions, and try asking open-ended stems like, ""Why do you think..."" or ""How did the character change?"" You'll see that chunking the time helps you hit both fluency and deeper thinking without losing momentum. Want to try timing a practice run this week so we can tweak the questions together? Nice work!","Subject: Feedback on Guided Reading Group Session
+
+Dear Teacher,
+
+I appreciated the supportive atmosphere you created during the recent guided reading group session. Students seemed comfortable and eager to participate. However, I noticed that we spent a bit too much time on one decoding segment, which left us with limited time for comprehension discussions at the end.
+
+To maintain a good balance between fluency practice and comprehension, I suggest a slight adjustment to our approach. A quick warm-up with some word work at the beginning could help set the pace. Then, we could follow up with two short read-throughs, followed by three targeted comprehension questions, such as ""What's the main idea of the text?"" or ""How did the character change?"" or ""Why do you think the author used certain words or phrases?"" This should help us stay on track without sacrificing valuable discussion time.
+
+Additionally, it might be helpful to try a practice run this week to fine-tune our approach and ensure everyone is comfortable with the new pace. You're doing a great job!","weighted_avg: c7(0.34)+c2(0.33)+c0(0.32) (top-3, top_sim:0.662)"
+30,"Write a creative story writing
+
+- Objective: Invite readers to share a memorable joke from a pilot episode that still makes them laugh.
+- Objective: Present a specific example of such a pilot gag: a tiny visual gag in which a character repeatedly mistakes a plant for a hat stand.
+- Fact: The example gag is described as silly and helped set the tone for the entire series.
+- Objective: Explore how a small pilot gag can become a recurring bit later in a series.
+- Objective: Prompt readers to recall whether they remember that specific joke and to contribute their own pilot gags that stuck.
+- Objective: Express an appreciation for small, initial jokes (""tiny seeds"") that evolve into running jokes.",Let’s share: what’s one joke from a pilot that still cracks you up? Mine is a tiny visual gag where a character keeps mistaking a plant for a hat stand—absolutely silly and it set the tone for the whole series. Anyone else have a pilot gag that stuck and maybe became a recurring bit later on? Anyone else remember that joke? I live for these tiny seeds that turn into running jokes.,"Subject: Remember That First Laugh?
+
+Do you recall the tiny seed that planted a smile on your face in a TV show's pilot episode? For me, it's a simple yet hilarious visual gag where a character keeps mistaking a plant for a hat stand. It's a silly moment that set the tone for the entire series and often made me chuckle.
+
+These small seeds can grow into recurring jokes that become a staple of a show's humor. They're often the first impression that sticks with viewers and can be a memorable part of a series' charm.
+
+So, what's your favorite pilot joke that still makes you laugh today? Share it with me! Was it a witty one-liner, a comedic character quirk, or a clever visual gag like the one I mentioned? Let's reminisce about the funny moments that made us laugh from the very beginning.","weighted_avg: c3(0.34)+c5(0.33)+c7(0.33) (top-3, top_sim:0.468)"
+31,"Write a creative story writing
+
+- Objectives:
+  - Recruit two volunteers to count and reconcile cash from the bake sale and raffle after the event.
+  - Conduct a two-person verification count in the school office at 8:15 PM.
+  - Coordinate with the PTA treasurer to deposit the reconciled funds.
+  - Ask volunteers to notify the organizer if they can stay later to assist.
+
+- Factual information:
+  - Funds originate from a bake sale and a raffle.
+  - Meeting location: school office.
+  - Meeting time: 8:15 PM (after the event).
+  - Required: two people for the verification count.
+  - Next step after counting: deposit coordination with the PTA treasurer.
+  - Stated purpose: keep finances accurate.
+  - Message includes expressions of thanks, including ""Gracias.""","Hello everyone,
+
+We need two volunteers to count and reconcile cash from the bake sale and raffle after the event. Please meet in the school office at 8:15 PM for a two-person verification count, then coordinate with the PTA treasurer for depositing funds. If you can stay a little later to help with this important step, please let me know.
+
+Gracias for helping us keep our finances accurate. Thanks so much!",Subject: Help Needed for Verification Count at the Bake Sale and Raffle!,"weighted_avg: c2(0.51)+c7(0.49) (top-3, top_sim:0.582)"
+32,"Write a creative story writing
+
+- Recipient: Principal Rivera
+- Sender: Luisa Morales
+- Situation: district testing window runs March 10 to March 20
+- Conflict: planned report card distribution date is March 18, which overlaps the testing window
+- Request: extension to finalize grades until March 25
+- Purpose of request: to include valid assessment data and avoid rushed grading
+- Intended outcome: report cards reflect current student performance and errors are reduced
+- Action requested from recipient: approval of the timeline adjustment and guidance on how to communicate the change to families
+- Tone element to include factually: polite closing and expression of gratitude (e.g., “Thank you for your guidance,” “Sincerely, Luisa Morales”)","Hello Principal Rivera,
+
+The district testing window of March 10 to 20 overlaps with our planned report card distribution on March 18. To include valid assessment data and avoid rushed grading, I request an extension to finalize grades until March 25. This will ensure report cards reflect current student performance and reduce errors.
+
+Please advise if you approve this timeline adjustment and how you would like me to communicate the change to families. Thank you for your guidance.
+
+Sincerely,
+Luisa Morales","PLICITARY BOARD MEMBER |
+Mr. Rivera |
+Date: July 26, 2024 |
+
+ phổكفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككفككف","weighted_avg: c1(1.00) (top-3, top_sim:0.629)"
+33,"Write a creative story writing that meets the following objectives and includes the following factual elements:
+
+- Form: a short personal letter addressed to a friend (""Dear friend"").
+- Narrative perspective: first-person narrator signing as ""Luisa"".
+- Opening memory: narrator recalls the friend's laugh, described as ""like a small bell"".
+- Setting detail: the narrator carries that memory into ""quiet mornings"".
+- Shared history: notes that narrator and recipient ""learned from the same mistakes"".
+- Theme: forgiveness portrayed as a gradual process, expressed with the phrase ""forgiveness is a slow stitch"".
+- Future hope: expresses desire to sit together again and ""pass stories like plates"".
+- Invitation/question: asks who the character should write to next (""Who would you have this character write to next?"").
+- Desire for continuation: expresses wanting to imagine more letters with the group (""I’d love to imagine more letters with you all"").
+- Closing: affectionate sign-off in Spanish (""Con cariño, Luisa"").","Dear friend, I wanted to tell you I remember the sound of your laugh like a small bell, and I carry it into quiet mornings. I noticed how much we learned from the same mistakes, how forgiveness is a slow stitch. Maybe we will sit together again and pass stories like plates. Who would you have this character write to next? I’d love to imagine more letters with you all. Con cariño, Luisa","Dear friend,
+
+I often recall the way your laughter used to ring in my ears, like a small bell that echoes through the years. Even on quiet mornings, when the world is still waking up, I hear its familiar ring. It's a comforting sound that brings back memories of our time together.
+
+We've shared our share of laughter and tears, and even learned from each other's mistakes. Forgiveness is a slow stitch, stitched into the fabric of our friendship, one thread at a time. Sometimes I think about sitting together again, passing stories like plates, and sharing laughter like old times.
+
+Who would you have this character write to next? Maybe someone who needs a little comfort or a friendly ear? I'd love to imagine more letters with you all.","weighted_avg: c7(1.00) (top-3, top_sim:0.503)"
+34,"Write a creative story writing
+
+- Purpose: request approval to add a lockout drill to the campus safety drill calendar in April.
+- Sender: Luisa Morales; Recipient: Principal Rivera.
+- Primary objective: ensure staff and students practice appropriate lockout procedures.
+- Proposed elements for the drill:
+  - Staff briefing held before the drill.
+  - A simple student script to explain expectations during the drill.
+  - A parent notification template to be sent after the drill.
+- Compliance: involve the Facilities/Safety team for oversight in accordance with district safety protocols.
+- Questions for the recipient: whether April works for scheduling the drill; whether the sender should draft the parent notice and staff talking points.
+- Tone sign-off: polite closing from Luisa Morales.","Hello Principal Rivera,
+
+I request we add a lockout drill to the campus safety drill calendar for April to ensure staff and students practice appropriate procedures. I propose a staff briefing beforehand, a simple student script to explain expectations, and a parent notification template to be sent after the drill. Per district safety protocols, I recommend involving the Facilities/Safety team for oversight.
+
+Please advise if April works and whether you would like me to draft the parent notice and staff talking points. Thank you for your guidance.
+
+Warmly,
+Luisa Morales","Subject: Request for Lockout Drill in April Calendar | Campus Safety Preparation
+
+Dear Principal Rivera,
+
+I'm planning to add a lockout drill to the campus safety drill calendar in April. This will help ensure that our staff and students are prepared to respond effectively in case of an emergency. To confirm, is April a suitable date for the drill?
+
+Additionally, I'd like to confirm that the Facilities/Safety team will be involved in the planning process to ensure compliance with district safety protocols.
+
+To prepare for the drill, I plan to conduct a staff briefing beforehand and provide a simple script for students to follow during the drill. I'll also send a parent notification after the drill to keep them informed.
+
+Should I also draft the parent notification and staff talking points for approval? If so, I'll send them to you for review.
+
+Thank you for your support in maintaining a safe and secure learning environment.
+
+Best regards,
+Luisa Morales","weighted_avg: c2(0.51)+c7(0.49) (top-3, top_sim:0.593)"
+35,"Write a creative story writing
+
+- Goal: Create a short piece that presents a knitter asking a knitting-community for practical help troubleshooting laddering (vertical gaps) at joins while knitting 2x2 rib in the round, and solicits tips and suggestions.
+
+- Setting/Context: A forum-style or community-help scenario beginning with a greeting to a group (e.g., ""Hi all"").
+
+- Problem description (facts to include):
+  - Working in the round using double-pointed needles (DPNs).
+  - Stitch pattern: 2x2 rib.
+  - Yarn: worsted weight.
+  - Needle size: US 7.
+  - Issue: laddering between needles at the joins — stitches at joins stretch and create vertical gaps.
+  - The rib appears fine when placed on just two needles but shows gaps at the joins when knitting in the round on DPNs.
+
+- Actions already tried (facts):
+  - Swapping the order of stitches/needles at the joins.
+  - Pulling the first stitch tighter at the joins.
+  - Despite these attempts, the laddering continues.
+
+- Possible solutions the original writer asks about (facts/questions to include):
+  - Would switching from DPNs to the magic loop method help?
+  - Would using a tighter gauge be the solution?
+  - Should they try knitting the first stitch through the back loop at joins?
+  - Should they consider different needle types?
+
+- Request: Ask for additional tips, tricks, or recommendations from others.
+
+- Tone/closing elements to include as factual content:
+  - A friendly, thankful closing (e.g., ""Gracias y gracias"" and an encouraging sign-off like ""you got this!"").
+  - Optionally include knitting-related emoji(s) as present in the original message (e.g., 🧶😊).","Hi all, I’m running into laddering between needles while knitting 2x2 rib in the round on DPNs, worsted weight yarn, US 7. The rib looks great on two needles but at the joins the stitches stretch and I get vertical gaps. I’ve tried swapping the order of stitches and pulling the first stitch tighter, but it keeps happening. Would switching to the magic loop help, or is a tighter gauge the trick? Should I try knitting the first stitch through the back loop at joins? Any tips or tricks, or do I need different needle types? Gracias y gracias, you got this! 🧶😊","🧶😊
+Hi all,
+I'm struggling with a bit of a snag while knitting a 2x2 rib in the round using double-pointed needles (DPNs). The stitches look great when I lay them flat on two needles, but when I knit them up in the round, I'm getting some noticeable vertical gaps at the joins. I've tried rearranging the stitches and even tightening the first stitch at each join, but the problem persists. Has anyone else experienced this issue? Any suggestions or tips would be appreciated! Have tried using a US 7 with a worst-weight yarn. Should I try switching to the magic loop method, or maybe a tighter gauge? Alternatively, is there a specific needle type that might help? Any advice or recommendations are welcome! Gracias y gracias! 🧶😊","weighted_avg: c7(0.51)+c4(0.49) (top-3, top_sim:0.553)"
+36,"Write a creative story writing that includes the following key objectives and factual information:
+
+- Warm-up begins at 9:00.
+- Warm-up activity: tongue twisters.
+- Two model poems are read during the warm-up.
+- Students are assigned partners to practice.
+- Partner practice duration: 10 minutes.
+- Performances begin at 9:20.
+- Performance order: alphabetical.
+- Each student reads one poem.
+- After performances, a quick reflection activity: each student draws their favorite line and writes one sentence explaining why they liked it.
+- Teacher collects the drawings and places them in the teacher's inbox.
+- Teacher closes with a thank-you and good wishes (original phrase: ""Gracias and good luck!"").","Poetry Day: Warm-up at 9:00 with tongue twisters, read two model poems, assign partners to practice for 10 minutes. Performances start at 9:20 in alphabetical order, each student reads one poem. After performances, quick reflection: students draw their favorite line and write one sentence about why they liked it. Collect drawings and place in my inbox. Gracias and good luck!",Subject: Poetry Performance Day!,"weighted_avg: c7(1.00) (top-3, top_sim:0.611)"
+37,"Write a creative story writing
+
+- Objective: Restock sandwich baggies in the pantry drawer.
+- Objective: Pack Mateo's lunch for tomorrow.
+- Lunch contents: turkey and cheese sandwich.
+- Lunch contents: apple slices in a container.
+- Lunch contents: a small treat.
+- Lunch contents: a tiny note placed inside the lunchbox.
+- Recipient: Mateo.
+- Timing: for tomorrow.","Can you restock sandwich baggies in the pantry drawer and pack Mateo's lunch for tomorrow? Turkey and cheese sandwich, apple slices in a container and a small treat, plus a tiny note in the lunchbox. Gracias, you're amazing, te quiero.","Subject: Tomorrow's Lunch is Ready, Mateo!
+
+Hi Mateo,
+
+Just a friendly reminder that your lunch for tomorrow is packed and ready to go! You'll be taking a delicious turkey and cheese sandwich, some crunchy apple slices, and a tasty treat to keep you energized throughout the day. Plus, I've added a special surprise - a fun note just for you! Don't forget to pack it in your backpack and have a great day at school!
+
+Love, [Your Name]","weighted_avg: c5(0.34)+c6(0.33)+c7(0.33) (top-3, top_sim:0.544)"
+38,"Write a creative story writing
+
+- Objective: Recruit volunteer pattern testers for a knitting pattern.
+- Pattern type: Bulky cowl (knitted).
+- Skill level: Beginner-friendly.
+- Yarn/needle details: Bulky yarn, US 11 needles.
+- Gauge: 10 stitches and 18 rows = 4 inches.
+- Tester responsibilities: Check fit, test clarity of instructions, and identify any typos.
+- Testing timeline: Two weeks.
+- Required deliverables from testers: Written notes and one or two photos.
+- How to sign up: Reply to the post; tester will be messaged with further details.","Hello friends, I’m looking for a few pattern testers for a beginner-friendly bulky cowl. The cowl is knit in bulky yarn on US 11 needles, gauge 10 sts and 18 rows = 4 inches, and I’d love testers to check fit, clarity of instructions, and any typos. The testing timeline is two weeks and you just need to send me notes and a photo or two. If you’re interested, reply here and I’ll message details. I’m excited to share, and gracias for the help—your feedback makes patterns better. You got this! 🧶😊","Subject: Join Our Team of Volunteer Pattern Testers! |
+
+Greetings Crafty Friends!
+
+We're seeking reliable and skilled knitters to help us test our new bulky cowl pattern. This beginner-friendly design is perfect for anyone looking to add a stylish accessory to their wardrobe or gift collection.
+
+Responsibilities:
+- Test the pattern for ease of use and accuracy
+- Ensure the finished product fits correctly
+- Verify the clarity of our instructions
+- Report any typos or errors
+- Provide written feedback and one or two photos of your finished project within two weeks.
+
+Requirements:
+- Familiarity with knitting with bulky yarn and US 11 needles
+- Ability to meet a two-week deadline
+- Reliable internet access for communication
+
+If you're interested in joining our team of volunteer testers, simply reply to this post and we'll be in touch with more information. Thank us for your help in making our patterns the best they can be!","weighted_avg: c7(0.51)+c1(0.49) (top-3, top_sim:0.551)"
+39,"Write a creative story writing
+
+- Objective: Inform students about Movie Day logistics, rules, and options.
+- Audience: Students participating in Movie Day.
+- Schedule: Movie starts at 1:00 and ends at 2:15.
+- Seating: Students sit on the carpet with cushions.
+- Equipment detail: Projector remote is on the shelf.
+- Snack rules: Snacks allowed at seats only, must use napkins; no sticky foods on cushions.
+- Opt-out option: Students who opt out go to the library corner with a reading book and remain silent.
+- Behavior reminders: Keep voices low and hands to themselves.
+- Closing phrase to include: ""Gracias and good luck!""","Movie Day: Movie starts at 1:00 and ends at 2:15, seating on the carpet with cushions, projector remote is on the shelf. Snack allowed at seats with napkins only, no sticky foods on cushions. Students who opt out go to the library corner with a reading book, silent. Remind students to keep voices low and hands to themselves. Gracias and good luck!","Hola estudiantes! ¡Bienvenidos a la Fiesta del Cine! (Welcome to Movie Day!)
+
+Recuerda que la película comienza a las 1:00 y termina a las 2:15. Séguimos sentados en el suelo con almohetes.
+
+Recuerda también que el control remoto está en la estantería si necesitas ajustar la pantalla.
+
+Si quieres una golosina, puedes llevarlo a tu asiento, pero no te olvides de usar un papel de papel para no manchar el almohete.
+
+Si no quieres ver la película, puedes ir al rincón de la biblioteca y leer un libro en silencio.
+
+Recuerda mantener la voz baja y las manos quietas. ¡Así es fácil y divertido! ¡Gracias y buena suerte!","weighted_avg: c7(1.00) (top-3, top_sim:0.570)"
+40,"Write a creative story writing
+
+- Session length: 30-minute session.
+- Primary aim: demonstrate how targeted read-alouds build deep vocabulary and support comprehension aligned to standards.
+- Instructional method to feature: targeted read-alouds.
+- Vocabulary focus: tier-two words.
+- Participant learning objectives:
+  - Learn selection criteria for rich texts.
+  - Learn strategies for introducing and practicing tier-two words.
+  - Learn quick assessment techniques to measure retention.
+- Materials to be included/referenced: lesson scripts, vocabulary activity cards, follow-up prompts for small groups.
+- Audience: session participants (educators/teachers).","Vocabulary Through Read-Alouds: Intentional Strategies for Tier-Two Words. This 30-minute session demonstrates how targeted read-alouds build deep vocabulary and support comprehension aligned to standards. Participants will learn selection criteria for rich texts, strategies for introducing and practicing tier-two words, and quick assessment techniques to measure retention. Materials include lesson scripts, vocabulary activity cards, and follow-up prompts for small groups. Thank you for the opportunity.","Subject: Elevate Student Learning with Targeted Read-Alouds!
+
+Dear Educators,
+
+Are you ready to boost student vocabulary and comprehension skills? Our 30-minute session is designed to equip you with the tools and strategies to make a lasting impact in the classroom.
+
+During this session, we'll explore the power of targeted read-alouts and provide you with practical solutions to support your students' academic success. Our expert trainers will guide you through the following topics:
+
+1. Selection criteria for rich texts that foster engagement and understanding
+2. Effective strategies for introducing and practicing tier-two words to build vocabulary skills
+3. Quick assessment techniques to measure retention and ensure students are on track.
+
+Additionally, you'll receive valuable resources, including:
+- Lesson scripts for easy implementation
+- Vocabulary activity cards to reinforce learning
+- Follow-up prompts for small group discussion to reinforce understanding and application.
+
+By the end of this session, you'll be equipped to:
+- Enhance student learning and engagement through targeted read-alouts
+- Build a stronger vocabulary foundation for academic success
+- Support students in meeting or exceeding academic standards.
+
+Don't miss out on this opportunity to elevate student learning and performance! Register now and take the first step towards making a difference in the classroom.","weighted_avg: c0(0.66)+c7(0.34) (top-3, top_sim:0.642)"
+41,"Write a creative story writing
+
+- Objective: Communicate intention to prepare craft kits for a family craft night.
+- Event date: Thursday, April 14.
+- Quantity: 20 kits.
+- Kit contents: scissors, glue, patterned paper.
+- Drop-off plan: deliver kits to the office on Wednesday afternoon.
+- Requests: please confirm reimbursement details and confirm drop-off time.
+- Sender: Luisa.","Hello, I can prep craft kits for family craft night on Thursday, April 14. I can make 20 kits with scissors, glue, and patterned paper. I’ll drop them off at the office on Wednesday afternoon—please confirm reimbursement details and drop-off time. Thanks! Luisa","Hi everyone,","weighted_avg: c7(0.51)+c0(0.49) (top-3, top_sim:0.589)"
+42,"Write a creative story writing
+
+- Key objectives:
+  - Recount the discovery of a VHS pilot found at a thrift store.
+  - Convey the finder’s immediate emotional reaction (near tears, big smile) and nostalgia tied to a family memory.
+  - Describe the physical details of the cassette and sleeve.
+  - Note intent to play the tape later on an old VCR.
+  - Invite a sense of shared experience by posing a rhetorical/community question about finding pilots in the wild.
+
+- Factual information to include:
+  - Location of find: local thrift store, tape tucked between cookbooks.
+  - Packaging: sealed-looking sleeve.
+  - Price paid: $5.
+  - Cassette details: clean tape shell; small price sticker on the spine; handwriting on the label reads ""Pilot""; faint store stamp on the cassette.
+  - Specific opening scene remembered: main family piles into the car.
+  - Family connection: abuelita used to watch this and always laughed at the same line.
+  - Condition assessment: tape looks in great shape, no visible warps.
+  - Action to follow: will run it on an old VCR later.
+  - Phrases present in the original: ""Mint condition dreams"" and ""¡Qué padre!""","Scored a pilot on VHS! omg I found a sealed-looking sleeve tucked between cookbooks at my local thrift, paid five bucks and almost cried. The tape shell is clean with a small price sticker on the spine, the label handwriting says ""Pilot"" and a faint store stamp on the cassette. That opening scene where the main family piles into the car—abuelita used to watch this and always laughed at the same line—made me smile so big. Tape looks in great shape, no warps I can see, but I'll run it on the old VCR later. Anyone else love finding a pilot in the wild? Mint condition dreams, right? ¡Qué padre!","icrosceñores unidos! I just scored a vintage gem at the local tienda de segunda mano! A mint-condition VHS pilot was hiding between some cookbooks, waiting for me like a treasure. I almost cried happy tears and flashed a big smile when I found it! The price was a steal at $5. The packaging is still sealed and looks like new, with a small price tag on the spine and a handwritten label that says ""Pisoadero"" (or ""Pilot"" in Spanish). Even the stamp from the store is still intact. My abuelita used to laugh at the same funny line in this video all the time, and now I'll be able to share it with the family again. I'll give it a spin on our old VHS player soon. Anyone else ever find a gem like this in the wild? ¡Qué padre!","weighted_avg: c4(1.00) (top-3, top_sim:0.594)"
+43,"Write a creative story writing
+
+- Objective: Improve the effectiveness of exit tickets so teacher can accurately assess student understanding of equivalent fractions.
+- Factual context: Current exit tickets frequently arrive incomplete or rushed, making it difficult to determine who understands equivalent fractions.
+- Factual content to include: topic is equivalent fractions.
+- Key proposed assessment design: a very short, two-question exit ticket consisting of one problem and one justification prompt.
+- Key classroom procedure changes: have students remain seated until everyone has finished and collect exit tickets silently to reduce copying.
+- Intended outcome: clearer assessment data that enables quick grouping of students for next-day reteach.
+- Call to action present in original: invitation to co-design a two-question exit ticket template for the unit.
+- Interpersonal note present in original: the sender thanks the receiver for collecting exit tickets and offers positive reinforcement (e.g., “Nice work!”).","Hey — thanks for collecting exit tickets today, that's an important habit. I noticed several tickets were incomplete or rushed, and that made it hard to see who truly understood equivalent fractions. Consider using a very short, two-question exit ticket with one problem and one justification prompt, have students stay seated until everyone's finished, and collect silently to reduce copying. You'll see clearer data and can quickly group students for next-day reteach. Want to co-design a two-question template for the unit? Nice work!","Alternatively, if the original contains an interpersonal note, a variation with a slightly different tone may be preferred. Here are the options:
+
+1. Original:
+ elseif the original is acceptable as it is, then the output is the same.","weighted_avg: c0(0.50)+c7(0.50) (top-3, top_sim:0.578)"
+44,"Write a creative story writing
+
+- Audience: PTA members/parents
+- Purpose: recruit a volunteer to serve as the on-site safety contact/point person
+- Required qualification: basic first-aid knowledge
+- Event: Family Fun Night
+- Time on-site: 5:00 to 8:15 PM
+- Station location: near the main gym entrance
+- First-aid kit location: stored near the main gym entrance
+- Volunteer should bring any preferred personal first-aid supplies
+- Emergency protocol: call 911 first, then notify parents and the school office
+- Call to action: request a reply if the person can help
+- Closing: expresses gratitude (uses “Gracias”)","Hello PTA,
+
+We need someone with basic first-aid knowledge to be our point person during Family Fun Night. The volunteer would be on-site from 5:00 to 8:15 PM, stationed near the main gym entrance where our first-aid kit will be stored. Please bring any personal supplies you prefer and let me know if you can be our safety contact. In emergencies we’ll call 911 and then notify parents and the school office.
+
+Gracias for keeping our families safe — please reply if you can help. Thanks so much!",Subject: Help Needed: On-Site Safety Contact for Family Fun Night!,"weighted_avg: c2(0.51)+c7(0.49) (top-3, top_sim:0.620)"
+45,"Write a creative story writing project that meets the following objectives and factual parameters:
+
+- Two classes collaborate on a cross-class narrative project.
+- The project will produce two class stories created by alternating paragraphs.
+- Timeline: two-week project.
+- Each student contributes one paragraph of 4–6 sentences.
+- Peer-editing occurs on day three of the project schedule.
+- After peer-editing, paragraphs are assembled into the final stories.
+- One teacher will create publishing templates and handle one of the two stories.
+- The other teacher will coordinate the second story.
+- Final deliverable: assembled stories plus a sharing day where partners read each story aloud.","Hi Miguel,
+
+I have an idea for a cross-class narrative project where our two classes write alternating paragraphs to create two class stories. We could do this over two weeks with each student writing a 4-6 sentence paragraph, then peer-editing on day three before we assemble the final story. I can make the publishing templates and handle one of the stories if you'd coordinate the other. After assembly we can have a sharing day where partners read each story aloud.
+
+What do you think? Thanks!
+
+Luisa",Subject: Cross-Class Narrative Project: Collaboration and Creativity!,"weighted_avg: c7(1.00) (top-3, top_sim:0.618)"
+46,"Write a creative story writing
+
+- Address the reader as a detective; include the greeting ""Hola detective!"".
+- Set the scene on a rainy morning.
+- Present a wet paw print found on the porch.
+- Include the sensory sounds heard while following the trail: ""Slosh, drip, crunch.""
+- Describe the sequence of actions: first crouch, then follow the trail, and finally see something mysterious under a bench.
+- Include a drawn depiction of the paw print and the trail.
+- End with one sentence stating who the narrator thinks left the paw print.
+- Add a detective sticker emoji: 🕵️‍♀️","Hola detective! Imagine you find a wet paw print on your porch during a rainy morning. What do you hear as you follow the trail? Slosh, drip, crunch. First you crouch, then you follow, finally you see something mysterious under a bench. Draw the paw print and the trail, then write one sentence about who you think left it. Great sleuthing! Add a detective sticker 🕵️‍♀️","Subject: Case File: The Mysterious Paw Print
+
+Hola Detective!
+
+It's a gloomy and rainy morning in the neighborhood. The rain is pouring down, creating a rhythmic beat on the pavement. As I step out onto the porch, I notice something peculiar - a single wet paw print on the welcome mat. The size and shape of the print resemble a small dog's paw, with five distinct toes and a rounded heel.
+
+To investigate further, I decide to follow the trail to see where it leads. As I walk behind the house, I hear the sounds of ""slosh, drip, crunch"" echoing through the wet pavement. The rhythmic sounds are like a puzzle, guiding me to the next clue.
+
+I crouch down to get a closer look at the trail, and I notice that it leads directly to a small bench under a nearby tree. As I approach the bench, I see something peculiar - a small, wet paw print is also on the ground next to the bench.
+
+Here is a drawing of the scene:
+
+Paw Print: 
+  /---\
+ /   ^  \
+|  O   O  |
+|  | | | |
+|  | | | |
+|  ^---^ |
+  /   ^  \ 
+","weighted_avg: c5(1.00) (top-3, top_sim:0.555)"
+47,"Write a creative story writing
+
+- Charge the camera tonight.
+- Clear the memory card before the event.
+- Event: school performance on Wednesday at 6:30 PM.
+- Bring the black camera bag.
+- Record Mateo during his two songs at the performance.
+- Afterward, send the best clip of Mateo.","Can you charge the camera tonight and clear the memory card? The school performance is Wednesday at 6:30 PM, please bring the black camera bag and try to record Mateo during his two songs, then send me the best clip. Gracias cariño!",HiEveryone!,"weighted_avg: c7(1.00) (top-3, top_sim:0.491)"
+48,"Write a creative story writing that includes the following objectives and factual information:
+
+- A train journey is central (train on tracks, moving toward a place called ""Dream Town"").
+- Audible train sounds are present, represented by onomatopoeia: ""choo-choo"", ""click-click"", ""shh"".
+- The tracks hum as a noticed ambient sound.
+- The ride is described as soft or gentle; blankets are present and compared to seats (""blankets like seats"").
+- The speaker addresses a loved one using Spanish terms of endearment: ""mi amor"" and ""mi cielo"".
+- The scene takes place at night / bedtime and includes a goodnight phrase (""Buenas noches"").
+- The narrative encourages sleep / transition into dreaming.","Train goes choo-choo. Tracks hum. Click-click, shh. Choo-choo to Dream Town. Mi amor, ride soft. Blankets like seats. Choo-choo, sleep. Buenas noches, mi cielo.","""Mí amor, mi cielo, listen to the soothing sounds of the train as we ride to Dream Town. Choo-choo, choo-choo, the engine is moving smoothly along the tracks, humming softly in the night. Click-click, click-click, the wheels are clicking away, carrying us gently to our destination. The tracks are singing a lullaby, a gentle melody that's perfect for a peaceful ride. The seats are like soft blankets, comfortable and cozy. Even the train's movements are like a rocking motion, helping us relax and unwind. Mi cielo, are you ready for a goodnight's sleep? Choo-choo, shh, shh, we're almost in Dream Town. Buenas noches, mi amor. Sweet dreams.","weighted_avg: c3(0.50)+c6(0.50) (top-3, top_sim:0.499)"
+49,"Write a creative story writing
+
+- Session title: ""Positive Behavior Interventions: Systems That Teach and Reinforce Success.""
+- Duration: 40-minute session.
+- Target audience: elementary classroom teachers/participants working in elementary classrooms.
+- Topics to cover: practical positive reinforcement systems; replacement-behavior strategies.
+- Learning objectives: design predictable reinforcement menus; teach expected behaviors explicitly; monitor effectiveness using simple data sheets.
+- Materials provided: reproducible tracking forms; reinforcement menu examples; scripts to introduce systems to students.","Positive Behavior Interventions: Systems That Teach and Reinforce Success. This 40-minute session presents practical positive reinforcement systems and replacement-behavior strategies suitable for elementary classrooms. Participants will learn to design predictable reinforcement menus, teach expected behaviors explicitly, and monitor effectiveness using simple data sheets. The session includes reproducible tracking forms, reinforcement menu examples, and scripts to introduce systems to students. Thank you for the opportunity.","Subject: Join the ""Positive Behavior Interventions"" Session on August 25th!
+
+Dear Teachers,
+
+Are you looking for effective ways to promote positive behavior in your classroom? Our 40-minute session, ""Positive Behavior Interventions: Systems That Teach and Reinforce Success,"" is designed to help you achieve just that!
+
+During this session, we'll cover practical strategies and techniques to help you create a positive and supportive learning environment. You'll learn how to:
+
+1. Design a predictable reinforcement menu to motivate your students
+2. Teach expected behaviors explicitly to students
+3. Monitor effectiveness using simple data sheets
+
+We'll also provide you with useful resources, including:
+- Reproduducible tracking forms to track student progress
+- Examples of effective reinforcement menus
+- Scripts to introduce your new systems to students
+
+Don't miss this opportunity to enhance your teaching skills and create a positive learning environment for your students. Register now and take the first step towards supporting academic success!","weighted_avg: c8(0.52)+c0(0.48) (top-3, top_sim:0.600)"
+50,"Write a creative story writing
+
+- Event: early garage-sale run
+- Day and time: Saturday at 7:00 AM
+- Meetup location: end of the host's street
+- Transportation/plan: caravan (group drive) to multiple locations
+- Supplies to bring: water, a tote, and cash
+- Host detail: host has a list of streets to visit
+- Purpose: invite the reader to join an early-bird garage-sale hunt (requesting confirmation of interest)","Early garage-sale run Saturday at 7:00 AM — meet at the end of my street and we'll caravan. Bring water, a tote, and cash. I have a list of streets to hit. Up for the early-bird hunt? 🕖🛍️😊","Subject: Early-Bird Garage Sale Adventure! Saturday at 7:00 AM
+
+""Get ready to score some great deals! We're planning an early morning garage sale run on Saturday at 7:00 AM. Meet us at the end of the street and we'll caravan to several locations to snag the best deals. Don't forget to bring water, a tote, and some cash. Our host has a list of streets to hit, so we'll be efficient and maximize our shopping time. If you're interested in joining the fun, just reply and let us know!""","weighted_avg: c7(1.00) (top-3, top_sim:0.510)"
+51,"Write a creative story writing that achieves the following objectives and includes the following factual elements:
+
+- Title/topic: Text-Dependent Writing: Teaching Evidence-Based Responses to Reading
+- Format: a 40-minute session
+- Primary goal: outline scaffolds for teaching students to craft clear, text-dependent written responses grounded in evidence
+- Participant learning targets:
+  - how to write prompts that require students to use textual evidence
+  - how to teach citation skills
+  - how to teach paraphrasing skills
+  - how to assess student responses using standards-aligned criteria
+- Materials to be included: exemplar prompts, student models, a simple scoring guide","Text-Dependent Writing: Teaching Evidence-Based Responses to Reading. This 40-minute session outlines scaffolds for teaching students to craft clear, text-dependent written responses grounded in evidence. Participants will learn to write prompts that require evidence use, teach citation and paraphrasing skills, and assess responses using standards-aligned criteria. Materials include exemplar prompts, student models, and a simple scoring guide. Thank you for the opportunity.","Subject: Enhancing Literacy Skills through Text-Dependent Writing Strategies
+
+Dear Colleboard Members,
+
+Are you looking to enhance your students' ability to critically analyze and articulate their understanding of a text? Our 40-minute session is designed to provide you with practical strategies for teaching evidence-based writing skills.
+
+During this session, we will explore the following essential skills:
+
+1. Writing effective prompts that require students to rely on textual evidence
+2. Teaching students how to accurately cite sources and support their claims with evidence from the text.
+3. Demonstrating effective strategies for teaching students to paraphrase complex information in a concise and clear manner.
+4. Assessing student responses using standards-aligned criteria to ensure accuracy and authenticity.
+
+We will also provide you with valuable resources, including:
+- Sample prompts that are tailored to meet the needs of students at various grade levels.
+- Model responses that showcase best practices for effective writing and citation.
+- A simple scoring guide to help you evaluate student performance and identify areas for improvement.
+
+By the end of this session, you will be equipped with the knowledge and skills to help your students become proficient in writing clear and concise responses that are supported by evidence from the text.","weighted_avg: c0(0.68)+c7(0.32) (top-3, top_sim:0.623)"
+52,"Write a creative story writing
+
+- Purpose: recruit volunteers to lead final clean-up after an event at the school.
+- Start time: final clean-up begins at 7:45 PM.
+- Location: the school (after the event).
+- Tasks to be done: collecting trash; sorting recycling and compost; returning tables and chairs to storage; wiping down surfaces.
+- Supplies provided: trash bags and gloves will be supplied.
+- Volunteer needs: ideally three volunteers to oversee the clean-up process; additional volunteers to help with tasks are requested.
+- Response requested: recipients should reply if they can help with clean-up duty.
+- Tone content to include: expression of thanks for staying to the end and helping leave the school neat and tidy.","Hi friends,
+
+We’ll need volunteers to lead final clean-up starting at 7:45 PM. Tasks include collecting trash, sorting recycling and compost, returning tables and chairs to storage, and wiping down surfaces. We’ll provide trash bags and gloves. Three volunteers to oversee the process would be ideal. Please reply if you can help with clean-up duty.
+
+Thanks so much for staying to the end and helping us leave the school neat and tidy!",Subject: Help Needed for Post-Event Clean-Up!,"weighted_avg: c8(0.66)+c7(0.34) (top-3, top_sim:0.561)"
+53,"Write a creative story writing
+
+- Purpose: Plan a museum field trip next month for two classes.
+- Participants: Luisa (organizer/sender) and Elena (asked to help/co-organizer).
+- Requested tasks for Elena: co-create a short scavenger hunt for the exhibit; take morning chaperone signups.
+- Division of duties: Luisa will handle afternoon chaperone signups.
+- Permission slip timeline: permission slips go home this Friday; they are due two weeks before the trip to finalize bus count.
+- Cost: bus cost is $6 per student.
+- Lunch plan: bagged lunches preferred; parents should mark any allergies.
+- Administrative detail: split the cost sheet and send one combined form to families.","Hi Elena,
+
+I'm planning the museum field trip for next month for our two classes and could use your help organizing chaperones and a scavenger hunt. Permission slips should go home this Friday and be due two weeks before the trip so we can finalize bus count. The bus cost is $6 per student, and I thought bagged lunches would be easiest, with parents marking any allergies. Could you co-create a short scavenger hunt for the exhibit and take the morning chaperone signups while I handle the afternoon? We can split the cost sheet and send one combined form to families.
+
+Sounds good? Thanks!
+
+Luisa",Subject: Museum Field Trip Planning - August 10th or 17th!,"weighted_avg: c7(1.00) (top-3, top_sim:0.601)"
+54,"Write a creative story writing that communicates the following key objectives and factual information extracted from the source:
+
+- Title: Quick SEL Mini-Lessons: Integrating Social-Emotional Learning into Daily Routines.
+- Session length: 35 minutes.
+- Purpose: model brief, standards-aligned social-emotional learning (SEL) lessons.
+- Intended placement: lessons designed to fit into morning meetings or transition times within the school day.
+- Participant learning goals:
+  - Teach age-appropriate SEL skills.
+  - Use formative checks to monitor student growth.
+  - Embed reflection prompts into daily routines.
+- Materials/outcomes participants will leave with:
+  - Lesson starters.
+  - Student reflection templates.
+  - Classroom language to support practice.
+- Intended audience: participants/attendees (educators or school staff implementing SEL in classrooms).","Quick SEL Mini-Lessons: Integrating Social-Emotional Learning into Daily Routines. This 35-minute session models brief, standards-aligned SEL lessons that fit into morning meeting or transition times. Participants will learn to teach age-appropriate SEL skills, use formative checks to monitor growth, and embed reflection prompts into daily routines. Attendees will leave with lesson starters, student reflection templates, and classroom language to support practice. Thank you for the opportunity.","Subjectा: Quick SEL Mini-Lessions for Effective Implementation in the Classroom
+
+Dear Educators,
+
+Are you looking to incorporate social-emotional learning into your daily routine? Our quick and easy mini-lesson series is designed to provide a simple and effective way to support students in developing essential skills.
+
+Each 35-minute session is carefully crafted to be flexible and adaptable for morning meetings or transition times, ensuring minimal disruption to your busy schedule. Our sessions are aligned with national standards and are designed to be easily integrated into your existing curriculum.
+
+During the session, you'll learn how to:
+- Teach age-appropriate social-emotional skills to your students
+- Use formative assessments to monitor student progress and growth
+- Incorporate reflection activities into your daily routine to reinforce learning
+
+Upon completion, you'll receive valuable resources, including:
+- Pre-made lesson starters to help you get started right away
+- Student-friendly reflection templates to promote engagement and participation
+- Suggested language and phrases to support effective implementation in the classroom.
+
+Take advantage of our quick and easy solution to enhance your social-emotional learning program and help your students thrive.","weighted_avg: c0(0.66)+c7(0.34) (top-3, top_sim:0.588)"
+55,"Write a creative story writing that includes the following key objectives and factual information:
+
+- Topic/title: Manipulatives in Math Centers: Standards-Aligned Practice for Grades 2–3.
+- Session length: 30-minute session.
+- Purpose: model hands-on center activities that reinforce key CCSS concepts while building independent practice routines.
+- Learning objectives for participants:
+  - Learn to select manipulatives that target standards-aligned objectives.
+  - Learn to design center rotations that balance practice and problem solving.
+  - Learn to assess student understanding with quick center checks.
+- Materials/outcomes for attendees:
+  - Attendees leave with printable center task cards.
+  - Attendees leave with a reproducible materials list for immediate classroom use.
+- Target audience: educators working with grades 2–3.","Manipulatives in Math Centers: Standards-Aligned Practice for Grades 2–3. This 30-minute session models hands-on center activities that reinforce key CCSS concepts while building independent practice routines. Participants will learn to select manipulatives that target standards-aligned objectives, design center rotations that balance practice and problem solving, and assess student understanding with quick center checks. Attendees leave with printable center task cards and a reproducible materials list for immediate classroom use. Thank you for the opportunity.","Subject: Manipulatives in Math Centers: Standards-Alived Practice for Grades 2-3
+
+Dear Colleagues,
+
+Are you looking for effective ways to reinforce math skills in your grade 2-3 classroom? Our 30-minute session is designed to model hands-on center activities that meet the Common Core State Standards (CCSS) while building independent practice routines.
+
+During this session, we will explore strategies for selecting and implementing math centers that target specific skills, including:
+- Identifying manipulatives that align with CCSS standards
+- Designing effective center rotations for maximum practice and problem-solving opportunities
+- Assessing student understanding through quick and easy checks
+
+By the end of the session, participants will receive:
+- Printable center task cards for immediate implementation in their classrooms
+- A reproducible materials list to ensure easy accessibility and versatility.
+
+Whether you're a seasoned educator or just starting out, this session is a great way to enhance your math instruction and support student learning. Join us and take your classroom to the next level!","weighted_avg: c0(0.51)+c7(0.49) (top-3, top_sim:0.628)"
+56,"Write a creative story writing
+
+- Objective: Convey warm seasonal greetings and that the narrator is thinking of the recipient.
+- Objective: Include an affectionate bilingual sign-off from the narrator.
+- Fact: Narrator identifies as Luisa and signs ""Love y abrazos, Luisa.""
+- Fact: Opening line indicates the narrator is on (or just returned from) a hillside hike (""Hello from our hillside hike"").
+- Fact: The air during the hike is described as crisp.
+- Fact: Mateo is present and ""stomped in every crunchy leaf.""
+- Fact: Carlos is present and made cocoa when they got home.
+- Fact: The moments are characterized as ""simple joys.""
+- Fact: Includes the Spanish seasonal greeting ""Felices fiestas!""","Hello from our hillside hike! The air was crisp, Mateo stomped in every crunchy leaf, and Carlos made cocoa when we got home—simple joys. Thinking of you this season and sending warm wishes. Felices fiestas! Love y abrazos, Luisa","Hello from our hillside hike! The crisp air was refreshing, and spending time with my loved ones made it even more special. Mateo was happy to be by my side, stomping in every crunchy leaf he could find. As soon as we got home, Carlos made us a warm cup of cocoa to cozy up with. These moments are truly simple joys. Felices fiestas! Love y abrazos, Luisa.","all_data (no valid clusters in top-3, max_sim: 0.663)"
+57,"Write a creative story writing
+
+- Primary objective: soothe and encourage the addressee to fall asleep.
+- Length: very short (around 6–10 brief phrases or sentences).
+- Point of view: direct second-person address to a specific addressee.
+- Relationship: speaker addresses the addressee affectionately as a loved one.
+- Language detail: includes Spanish endearments ""Mi amor"" and ""Mi cielo"".
+- Imagery/factual elements to include: clouds, sky, stars.
+- Sound elements present: onomatopoeia such as ""whoosh"" and ""shh"".
+- Repetition: repeated word(s) for emphasis (e.g., ""Fluff, fluff"").
+- Verbs/mood: gentle imperatives directing the addressee to relax or sleep (examples: ""drift slow"", ""close eyes"", ""Ready?"").","Clouds float, whoosh. Fluff like pillows. Sky pats, shh. Mi amor, drift slow. Fluff, fluff, sleep. Stars blink soft. Mi cielo, close eyes. Ready?","Hola mi amor,
+
+Imagine yourself floating on a cloud, surrounded by a clear blue sky with twinkling stars. Whoosh, the clouds are drifting by, carrying you to a peaceful place. Fluff, fluff, feel your worries disappear. Close your eyes, mi cielo, and relax. Shh, listen to the sound of the stars shining bright. Drift slow, breathe deeply, and let go. Ready? Sleep tight, mi amor. Dream sweet dreams.","weighted_avg: c6(1.00) (top-3, top_sim:0.567)"
+58,"Write a creative story writing
+
+- Objective: request assistance with supplies for a community cleanup.
+- Event: Saturday cleanup at 9:00 AM.
+- Requested items: a first aid kit; possibly a couple of water coolers.
+- Offer: organizer will reimburse any supplies purchased.
+- Purpose: have basic supplies on hand for kids or minor scrapes.
+- Call to action: recipients should message the organizer if they can help.
+- Opening greeting used in original: ""Hola.""",Hola—could someone bring a first aid kit and maybe a couple of water coolers for our Saturday cleanup at 9:00 AM? I'll happily reimburse any supplies. It's good to have basics on hand for kids or scrapes. Please message me if you can help. Much appreciated!,"Hola. ¡Alguien que pueda ayudar con algunos suministros para nuestra limpieza comunitaria este sábado a las 9:00 AM? Necesitamos un kit de primeros auxilios y quizá algunas botellas de agua. Si alguien puede proporcionarlos, estaré agradecido de reemborzar el costo. Es ideal para tener algunos suministros básicos en caso de que los niños o alguien se lastime ligeramente. Si puedes ayudar, simplemente envía un mensaje. ¡Gracias!","weighted_avg: c7(0.67)+c8(0.33) (top-3, top_sim:0.609)"
+59,"Write a creative story writing
+
+- Task: Assemble volunteer check-in packets.
+- Packet contents: event schedule; site map; emergency contacts; nametag.
+- Quantity required: 20 packets.
+- Delivery deadline: packets ready for pick-up by 5:00 PM on event day.
+- Confirmation deadline: confirm availability by Tuesday.
+- After confirmation: organizer will share files to print.","Hello everyone,
+
+Could you assemble the volunteer check-in packets? Each packet should include the event schedule, a site map, emergency contacts, and a nametag. We’ll need 20 packets ready for pick-up by 5:00 PM on event day. Please confirm by Tuesday if you can put these together and I’ll share the files to print.
+
+Appreciate you taking this on — gracias! Thanks so much!","Subject: Volunteer Check-in Packet Order Confirmation |
+
+Dear [Recipient]，
+
+Thank you for offering to help assemble volunteer check-in packets for our event! We appreciate your support.
+
+We require 20 packets with the following contents:
+- Event schedule
+- Site map
+- Emergency contacts
+- Nametag
+
+Please confirm your availability by Tuesday. Once confirmed, we'll share the files with you to print. We aim to have the packets ready for pick-up by 5:00 PM on the event day.","weighted_avg: c7(1.00) (top-3, top_sim:0.578)"
+60,"Write a creative story writing
+
+- Event: PTA movie night fundraiser
+- Date/time: Next Friday at 6:00 PM
+- Location detail: Tickets available at the school office
+- Primary purpose: Raise funds to support classroom supplies
+- Activities/features to include: screening of a family-friendly film, a craft table, and a bake sale
+- Bake sale detail: includes recipes from ""abuelita"" (grandmother’s recipes)
+- Ticket/contact info: tickets at the school office or contact the organizer via direct message for information
+- Intended audience/action: invite families/community to attend and join the event
+- Tag/identifier from original: #FamilyNight","PTA movie night fundraiser next Friday at 6pm. Family-friendly film, craft table, bake sale with abuelita's recipes, and proceeds support classroom supplies. Tickets at the school office or DM me for info. Come join the fun! #FamilyNight 🎟️🍿🏫","""Join us for a fun-filled Family Night at the PTA Movie Night Fundraiser next Friday at 6:00 PM! Enjoy a free screening of a family-friendly movie, create some creative art at our craft table, and indulge in delicious treats from our traditional ""Abuelita"" bake sale. Tickets are available at the school office or send us a direct message for more information. Support our school by attending and help us raise funds for essential classroom supplies! #FamilyNight""","weighted_avg: c7(1.00) (top-3, top_sim:0.612)"
+61,"Write a creative story writing
+
+- Event: Saturday cleanup scheduled for 9:00 AM.
+- Rain contingency: if it rains, move the cleanup to next Saturday at 9:00 AM.
+- Drizzle contingency: if there is a light drizzle, run a shorter cleanup under the pavilion.
+- Decision and communication: the organizer will decide and message participants by 7:00 AM on Saturday.
+- Requested response: participants should reply with their preference if a postponement is needed (choose reschedule to next Saturday at 9:00 AM or the shorter under-pavilion plan).
+- Reply should include a thank-you: include ""gracias"" for flexibility.","Quick update about weather for Saturday's cleanup at 9:00 AM. If it rains we'll move the cleanup to next Saturday at the same time. If it's light drizzle we might do a shorter, under-the-pavilion plan—I'll decide and message by 7:00 AM on Saturday. Which do you prefer if we need to postpone? Reply with your choice and gracias for your flexibility!","Subject: Saturday Cleanup Confirmation or Alternative Options
+
+Dear All,
+
+If it's raining or looks like it might rain, we'll have a backup plan in place. If that's the case, we'll decide by 7:00 AM on Saturday. Options are:
+- Reschedule for next Saturday at 9:00 AM
+- Host a shorter cleanup under the pavilion if it's a light drizzle
+
+Please let us know if you need to adjust your schedule. Gracias for your flexibility!","weighted_avg: c7(0.51)+c2(0.49) (top-3, top_sim:0.537)"
+62,"Write a creative story writing
+
+- Objective: Guide students through a Raz-Kids reading assignment.
+- Time: 11:30–12:00.
+- Device: Chromebooks.
+- Login credentials: first.last@school.edu; password found on each student’s sticker.
+- Assignment location: classroom Google Drive folder named ""Raz.""
+- If a Chromebook will not connect: student raises hand and swaps with a spare Chromebook on the shelf.
+- If a Chromebook is frozen: restart the device.
+- Headphones: located in the labeled basket.
+- Requirement: students use headphones and keep volume low.
+- End-of-session procedure: turn off devices and return them to the carts.","Chromebook Time: 11:30-12:00 for Raz-Kids reading assignment, students login with first.last@school.edu and password on their sticker, assignment is in the classroom Google Drive folder named 'Raz.' If a Chromebook won't connect, have the student raise hand and swap with a spare on the shelf, restart if frozen. Headphones are in the labeled basket, remind students to use headphones and keep volume low. Turn off devices and return to carts at the end. Gracias and good luck!",Subject: Independent Reading Station - Raz-Kids Time! (11:30-12:00),"weighted_avg: c5(0.34)+c7(0.33)+c0(0.33) (top-3, top_sim:0.521)"
+63,"Write a creative story writing that:
+
+- Premise: one of the reader’s toys comes to life when the lights go out.
+- Perspective: invite the reader to imagine the toy as their own (address the reader as the toy’s owner).
+- Sensory details to include: what the toy’s voice sounds like (auditory) and the toy’s texture (e.g., soft fur or smooth plastic).
+- Action sequence to include in order: the toy first whispers, then tiptoes, and finally makes a wish.
+- Visual element: include a drawing of the toy captured in the middle of its adventure.
+- Wish requirement: include exactly one sentence stating the toy’s bedtime wish.
+- Context/closure: set the scene as bedtime and conclude with a bedtime feel (e.g., “Sweet dreams!”).
+- Decorative element: add a moon sticker/emoji: 🌙","Hi! Imagine one of your toys comes to life when the lights go out. What does its voice sound like? Is its fur soft or its plastic smooth? First it whispers, then it tiptoes, finally it makes a wish. Draw your toy in the middle of its adventure, and write one sentence about the toy's bedtime wish. Sweet dreams! Add a moon sticker 🌙","Subject: Magical Midnight Adventure!
+
+Dear Little Friend,
+
+It's time for bed, but before you go to sleep, let's imagine something special. Your favorite toy comes to life when the lights go out!
+
+As the room grows dark, you hear a soft whisper: ""Shhh, it's time for an adventure!"" It's the sound of your teddy bear, Mr. Fluffy, who has a soft and cuddly texture that you love to hug. He's made of super-soft plush with a gentle touch that feels like a warm hug.
+
+As the lights turn off, Mr. Fluffy whispers again, ""Let's go on a secret mission!"" He starts to move slowly, taking tiny steps, trying not to make any noise. You can hear the creaks of the floorboards as he tiptoes across the room.
+
+Here's a picture of Mr. Fluffy on his secret mission:
+
+[ Draw a simple drawing of a teddy bear with a mischievous expression, tiptoeing across the floor ]
+
+Mr. Fluffy is now standing on the windowsill, looking out at the night sky. He makes a wish: ""I wish for a magical adventure to the moon tonight, with a crescent moon shining bright!""
+
+As the","weighted_avg: c5(1.00) (top-3, top_sim:0.530)"
+64,"Write a creative story writing
+
+- Sender name: Luisa.
+- Action offered: help sort clothing donations.
+- Date and time: Monday, May 6, from 4:00–6:00 PM.
+- Location: storage room (at the school).
+- Specific tasks to perform: sort clothing by size, label items, box items for distribution.
+- Supplies: Luisa can bring gloves.
+- Request: asks whether the school has a preferred supply list.
+- Closing: expresses thanks.","Hello, I can help sort clothing donations Monday, May 6 from 4–6 in the storage room. I’ll sort by size, label, and box items for distribution. I can bring gloves but let me know if the school has a preferred supply list. Thanks! Luisa","Subject: Help Needed for Clothing Donation Sorting - Monday, May 6th
+
+Dear All,
+
+I'm organizing a volunteer effort to sort clothing donations at the school on Monday, May 6th from 4:00-6:00 PM in the storage room. I'll be bringing gloves to help keep us tidy.
+
+If anyone is willing to lend a hand, we'll be sorting clothing by size, labeling items, and boxing them up for distribution. If the school has a preferred supply list or any specific materials we should have on hand, please let me know.
+
+Thank you for your support!
+
+Sincerely,
+Luisa","weighted_avg: c7(0.50)+c5(0.50) (top-3, top_sim:0.549)"
+65,"Write a creative story writing
+
+- Objective: Explain how to adjust a knitted beanie pattern to fit a larger head.
+- Start by knitting a gauge swatch to determine stitches per inch.
+- Use the original pattern’s final stitch count as the baseline.
+- Increase the stitch count by adding multiples that preserve the ribbing pattern (example increases: add 8 or 12 stitches for a 1–2 inch overall increase).
+- Keep the brim ribbing the same as the original pattern.
+- Adjust the crown decreases by spacing them evenly across the new stitch count so the shaping remains balanced.
+- Example calculation: with a gauge of 4.5 stitches per inch, adding one inch requires ~5 stitches; then round that number to the nearest multiple required by the pattern.
+- Optionally try a slightly larger needle to achieve more drape, while verifying the fabric does not become too loose.","Hola, if you need to adjust a beanie for a larger head, start by knitting a gauge swatch to know your stitches per inch. Take the original pattern’s final stitch count and add multiples that keep the ribbing pattern, for example add 8 or 12 stitches for a 1–2 inch increase. Keep the brim rib the same, then adjust the crown decreases by spacing them evenly across the new stitch count so the shaping stays balanced. If your gauge is 4.5 stitches per inch and you want one inch more, add 5 stitches and round to the nearest multiple for the pattern. Try a slightly larger needle for a bit more drape, but check that the fabric isn’t too loose. Buena suerte, mi amor, you got this! 🧶","Subject: Adjusting a Knitted Beanie Pattern for a Larger Head Size
+
+Dear Crafty Friend,
+
+Are you struggling to find the perfect fit for your favorite knitted beanie? Simply follow these easy steps to adjust the pattern for a larger head size:
+
+First, start by knitting a gauge swatch to determine the number of stitches per inch. This will help you understand the texture and density of your stitches.
+
+Next, use the original pattern's final stitch count as your baseline. If you want to increase the size by 1-2 inches, simply add the same number of stitches to the front and back panels.
+
+For example, if the original pattern has a 20-stitch front panel, you can add 8 or 12 stitches to create a larger version. This will maintain the same ribbing pattern and ensure a comfortable fit.
+
+To maintain balanced shaping, simply adjust the crown decreases by spacing them evenly across the new stitch count. If you add 5 stitches to the front panel, you may need to add one or two rows of decreases to maintain the same slope.
+
+Alternatively, try using a slightly larger needle to give your beanie a looser, more relaxed fit. Just be sure to check the fabric density to ensure it doesn't become too loose or","weighted_avg: c7(0.51)+c3(0.49) (top-3, top_sim:0.476)"
+66,"Write a creative story writing
+
+- Subject will volunteer at a book fair.
+- Availability: Wednesday, 12:00–2:00.
+- Comfortable handling cash and a card reader (point-of-sale equipment).
+- Plans to arrive a few minutes early for a quick walkthrough.
+- Requests to be informed of any special instructions or details about the register.
+- Message signed by Luisa; includes a polite thanks.","Hello, I can volunteer at the book fair on Wednesday from 12–2 and I’m comfortable handling cash and a card reader. I’ll arrive a few minutes early to get a quick walkthrough. Please let me know if there is anything special I should know about the register. Thanks! Luisa",HITEFUL NOTES FOR THE BOOK FAIR!,"weighted_avg: c7(1.00) (top-3, top_sim:0.607)"
+67,"Write a creative story writing
+
+- Request addressed to the PTA for a volunteer to check in vendors as they arrive.
+- Volunteer duties:
+  - Greet vendors upon arrival.
+  - Direct vendors to their assigned spaces.
+  - Confirm vendor needs for electricity and tables.
+  - Provide each vendor with a copy of the event schedule and a contact list.
+  - Be available during the event to answer vendor questions and assist with needs that arise.
+- The message asks the recipient if they can take the role.
+- The message expresses gratitude (includes ""Muchas gracias"" and a closing thanks).","Hi PTA,
+
+We need a volunteer to check in vendors as they arrive. Duties include greeting vendors, directing them to their assigned spaces, confirming electricity or table needs, and giving them a copy of the event schedule and contact list. Please be available to answer vendor questions during the event and help with needs as they come up. Could you take this role?
+
+Muchas gracias for being the vendors’ go-to person. Thanks so much!","Hiึ-regexporetulamentalmenteúcicaistringstreamumentalmente',...
+ข้อมือแลกสารภาพอักษรเดี่ยว","weighted_avg: c2(0.51)+c3(0.49) (top-3, top_sim:0.697)"
+68,"Write a creative story writing
+
+- Opening addressed to neighbors (e.g., begins with ""Hello neighbors,"").
+- Narrator identified as Luisa and signs off with ""Abrazos, Luisa.""
+- Central focus on imagining a child ten years into the future.
+- Specific imagined scene: the child teaching little ones how to plant bulbs, described with ""hands full of dirt and stories.""
+- Emphasizes themes of repair and growth suggesting a future rooted in care.
+- Includes the image of a classroom where storytelling and gardening meet.
+- Narrator expresses a positive reaction to the vision (e.g., ""It made me smile"").
+- Ends by inviting reader participation with a direct question about where they imagine the character in ten years and a statement expressing eagerness to hear their ideas (e.g., ""Where do you imagine this character in ten years? I can’t wait to hear your ideas."").","Hello neighbors, I kept picturing that child ten years on, maybe teaching little ones how to plant bulbs, hands full of dirt and stories. I noticed themes of repair and growth that suggested a future rooted in care. It made me smile thinking of a classroom where storytelling and gardening meet. Where do you imagine this character in ten years? I can’t wait to hear your ideas. Abrazos, Luisa","Hello neighbors,
+
+I just imagined a beautiful scene of a child, ten years from now, surrounded by little ones, teaching them how to plant colorful bulbs in the garden. Their hands were covered with dirt and filled with stories of the joy and care they've received from their community. They were sitting in a cozy classroom, surrounded by flowers and friendly faces, where learning and gardening came together. It's a lovely picture of growth and repair, where love and kindness are nurtured. It made me smile! Where do you imagine this child in ten years? I can't wait to hear your ideas!","weighted_avg: c7(1.00) (top-3, top_sim:0.537)"
+69,"Write a creative story writing
+
+- Objective: Recommend bilingual (Spanish–English) viewing options suitable for family movie night.
+- Include options that have Spanish audio (doblaje) and/or Spanish subtitles.
+- Mention animated favorites available with Spanish dubbing.
+- Include gentle bilingual TV shows appropriate for family/kids.
+- Emphasize practical benefits: language practice and family bonding.
+- Address the prompt question asking for a recommendation (""¿Cuál recomiendas?"").
+- Audience: families planning a movie/show night.
+- Content formats to cover: movies and TV shows.
+- Language context: Spanish and English.
+- Relevant tags/emojis present in source: #FamilyNight, 🇲🇽, 📚, 🍿.","Bilingual picks for family night: choose movies with Spanish audio or subtitles, like animated favorites with doblaje, or gentle bilingual shows. Great for language practice and family bonding. ¿Cuál recomiendas? #FamilyNight 🇲🇽📚🍿","Asítek por una noche de cine familiar exitosa! 🎉
+Si estás buscando opciones de películas o programas de televisión bilingües para disfrutar con tu familia, te recomendamos algunas opciones que incluyen doblaje en español y subtítulos en español. También están disponibles algunas opciones animadas que los niños disfrutarán mucho.
+
+Algunas opciones de películas recomendadas son:
+- Los Simpson en español 🇲�🇫
+- La familiaнина.Mapperoux en español
+- Shrek en español
+- Los Simpson en español con subtítulos en español
+
+Si prefieres programas de televisión, puedes elegir:
+- Sesame Street en español
+- Dora la Exploradora en español
+- Mickey Mouse Clubhouse en español
+
+Estos opciones también pueden ayudar a los niños a practicar el español y fortalecer la unión familiar. ¡Es una excelente forma de disfrutar del tiempo con tu familia! 📚👍
+¿Qué opción eliges? 🤔 #FamilyNight 🇮σπانیا👍","weighted_avg: c7(0.52)+c8(0.48) (top-3, top_sim:0.641)"
+70,"Write a creative story writing
+
+- Objective: Inform caregivers that most students met end-of-unit standards in reading and math.
+- Objective: Acknowledge student success (congratulatory note).
+- Objective: Notify caregivers that a subset of students would benefit from additional small-group support.
+- Factual: Teacher will run targeted guided reading groups and math fact practice during centers.
+- Objective: Encourage brief nightly home practice options: read five pages or play a quick addition game.
+- Factual: Offer to provide a detailed report for an individual child upon caregiver request; caregivers should contact the teacher to receive it.
+- Factual: Message includes a Spanish closing (""Gracias"").",Hello everyone — Assessment Update: Most students met the end-of-unit standards in reading and math — ¡well done! A few students would benefit from extra small-group work; I'll be running targeted guided reading groups and math fact practice during centers. You can help at home with short nightly practice: read five pages or play a quick addition game. Want a detailed report for your child? Please contact me and I'll share more. Gracias!,"orama de las noticias del día en la clase! Mis estudiantes han logrado los objetivos de la unidad en lectura y matemática. Es un hecho que algunos estudiantes pueden beneficiarse de más apoyo en pequeños grupos. En los próximos días, ofreceremos sesiones de lectura dirigida y práctica de hechos matemáticos en los centros. Es recomendable que los estudiantes practiquen cada noche durante 5 minutos leyendo o jugando a un juego de adición rápido. Si deseas obtener un informe detallado de tu hijo, solo necesitas comunicarte conmigo. ¡Gracias!","weighted_avg: c0(1.00) (top-3, top_sim:0.583)"
+71,"Write a creative story writing
+
+- Objective: Confirm attendance at a clean-up day event.
+- Event: Clean-up day at the school.
+- Date: Saturday, June 7.
+- Time: 9:00 AM–12:00 PM.
+- Volunteer will perform these tasks: sort books; wipe surfaces; label student work.
+- Volunteer can bring: a couple of cleaning cloths and a spray bottle.
+- Query: Ask whether the school prefers to provide supplies.
+- Sender name: Luisa.","Hi, I can attend the clean-up day Saturday, June 7 from 9–12. I’ll help sort books, wipe surfaces, and label student work. I can bring a couple of cleaning cloths and a spray bottle, but let me know if the school prefers to provide supplies. Thanks! Luisa","Hi,드리러 간담에 감사합니다!","weighted_avg: c8(0.50)+c7(0.50) (top-3, top_sim:0.577)"
+72,"Write a creative story writing that conveys the following key objectives and factual information extracted from the original message:
+
+- Acknowledge that the recipient cares about maintaining a calm classroom.
+- State that the recipient's intentions during the lesson were clear.
+- Report that some redirects during the lesson used a stern tone.
+- Report that students sometimes pushed back in response to those redirects.
+- Include the specific suggested phrase from the original message: ""Hands at your sides so we can hear.""
+- Include the suggested consistent nonverbal cue mentioned: a raised palm.
+- Note the recommendation to follow the redirect with a brief positive expectation rather than a reprimand.
+- State the expected outcomes claimed: fewer power struggles and quicker compliance.
+- Offer the proposal from the original message to practice redirect phrases and cues together during prep.
+- Include a brief explicit positive acknowledgment (e.g., ""Nice work"").","Hola! You care deeply about a calm classroom and your intentions were clear during the lesson. I noticed some redirects used a stern tone and students sometimes pushed back. Consider using a softer, specific phrase like, ""Hands at your sides so we can hear,"" paired with a consistent nonverbal cue like a raised palm, and follow with a brief positive expectation rather than a reprimand. You'll see fewer power struggles and quicker compliance. Want to practice some redirect phrases and cues together during prep? Nice work!","Subject: Supporting a Calm Classroom Environment
+
+Dear [Teacher/Colleague],
+
+I appreciate your commitment to maintaining a peaceful classroom atmosphere. During our previous lesson, your intentions were clear and effective. However, some students may have misinterpreted the tone of certain redirects, leading to a slight resistance or pushback.
+
+One suggestion is to use the simple and clear phrase ""Hands at your fists so we can hear"" with a raised palm as a consistent nonverbal cue. This can help minimize power struggles and promote quicker compliance. Additionally, consider following the redirect with a brief positive statement, such as ""Great job"" or ""Remember to keep your hands down."" This can help maintain a positive tone and reinforce good behavior.
+
+I propose that we practice these strategies together during our next prep session to ensure a harmonious and effective classroom environment. Keep up the good work!","weighted_avg: c7(1.00) (top-3, top_sim:0.564)"
+73,"Write a creative story writing
+
+- Primary goal: implement a six-week intervention for struggling readers.
+- Duration and frequency: six weeks total; three sessions per week; each session 20 minutes.
+- Group size: groups of 3–4 students.
+- Instructional materials/activities: use decodable texts and quick fluency passages.
+- Progress monitoring: brief running records administered every two weeks.
+- Staffing arrangement: two teachers will share sessions (one teacher runs one session while the other runs another).
+- Communication: share progress notes to report to families.
+- Data requirement: obtain the most recent assessment data to form appropriate student groups.","Hi Daniela,
+
+I’d like to set up a six-week intervention for struggling readers with three 20-minute sessions per week in groups of 3-4 students. I’ll use decodable texts and quick fluency passages and check progress every two weeks with brief running records. I'm happy to run one of the sessions if you can take another, and we can share progress notes to report to families. Could you send me the most recent assessment data so I can group students appropriately?
+
+Thanks, looking forward to teaming up on this.
+
+Luisa","Subject: Implementing a Six-Week Intervention for Struggling Readers
+
+Dear Staff,
+
+As we are committed to supporting our students' literacy skills, we will be implementing a six-week intervention program for struggling readers. The program will include three sessions per week, each lasting 20 minutes, for six weeks.
+
+The following are the details of the program:
+
+* Group size: 3-4 students per session
+* Frequency: 3 sessions per week
+* Duration: 6 weeks
+* Instructional materials: Decodable texts and quick fluency passages will be used to support reading skills.
+* Staffing arrangement: Both teachers will share the responsibility of leading sessions, with one teacher leading one session and the other teacher leading another.
+* Progress monitoring: Brief running records will be administered every two weeks to track student progress.
+* Communication: Progress notes will be shared with parents to keep them informed of their child's progress.
+
+To ensure the effectiveness of the program, we will also require the most recent assessment data to determine the best groupings for the students. If you have any questions or concerns, please don't hesitate to reach out.","weighted_avg: c0(0.67)+c7(0.33) (top-3, top_sim:0.631)"
+74,"Write a creative story writing
+
+- Objective: Communicate and document the following classroom assessment tasks and logistics.
+- Fluency check scheduled from 10:00 to 10:10.
+- Fluency passages located in the small drawer labeled ""Fluency.""
+- Administer fluency passages at one minute per student.
+- Record miscues on the provided sheet during fluency checks.
+- Math exit ticket scheduled at 11:05.
+- Hand out the math exit ticket slip at 11:05 and allow 5 minutes for completion.
+- Collect completed math exit tickets and staple them to the class roster.
+- Allow student Lucia extra time according to her IEP.
+- Return test materials to the assessment folder after use.
+- Leave completed papers in the red folder.
+- Include the closing phrase: ""Gracias and good luck!""","Formative Checks: Fluency check 10:00-10:10, passages in the small drawer labeled 'Fluency,' time one minute per student, note miscues on the sheet. Math exit ticket at 11:05, hand out the slip, 5 minutes, collect and staple to the class roster. Allow Lucia extra time as per IEP, test materials returned to the assessment folder. Leave completed papers in the red folder. Gracias and good luck!","Hola estudiantes y familiares,
+
+Recuerda que mañana en la clase hay dos tareas importantes. Primero, se realizará una prueba de fluencia de 10:00 a 10:10, donde cada estudiante leerá un pasaje en un minuto. Los pasajes están ubicados en la caja pequeña etiquetada ""Fluencia"". Es importante registrar cualquier error en el papel proporcionado. También es importante darle un poco de tiempo extra a la estudiante Lucia según su plan de acción individualizado.
+
+Después de la prueba, se distribuirán las fichas de matemáticas para la salida en la puerta a las 11:05 y se les dará 5 minutos para completarlas. Luego, se recogerán las fichas y se pegarán en la lista de asistencia. Recuerda devolver los materiales de prueba en la carpeta de evaluación después de usarlos. Los papeles completados se dejarán en la carpeta roja. ¡Bien suerte y gracias!","weighted_avg: c7(1.00) (top-3, top_sim:0.623)"
+75,"Write a creative story writing
+
+- Audience: neighbors in the community (people who participated in or are aware of the cleanup).
+- Occasion: informal gathering immediately following a cleanup event.
+- Time: 11:00 AM.
+- Location: by the picnic table in Maple Park.
+- Host contributions: the organizer will bring coffee and pan dulce.
+- Guest request: attendees are asked to bring any snacks they’d like to share.
+- Purpose/objectives: provide a chance to meet neighbors and celebrate the cleanup work.
+- Action requested: ask neighbors to let the organizer know if they plan to stay/attend.
+- Overall intent: extend a friendly invitation to linger for coffee and a little chat after the cleanup.","Good morning neighbors—after the cleanup let's linger for coffee and a little chat at 11:00 AM by the picnic table in Maple Park. I'll bring coffee and pan dulce, please bring any snacks you'd like to share. It's a nice chance to meet neighbors and celebrate our work. Let me know if you plan to stay. See you there!","""Hello neighbors! Congratulations on a job well done! We're hosting a casual gathering at the picnic table in Maple Park at 11:00 AM today to celebrate our community's hard work in keeping our neighborhood looking great. We'll provide coffee and pan dulce, so feel free to bring any snacks you'd like to share. If you're planning to stay and socialize, just let us know so we can make sure to save you a spot! Looking forward to chatting with you all!","weighted_avg: c7(0.51)+c8(0.49) (top-3, top_sim:0.646)"
+76,"Write a creative story writing
+
+- Audience: neighbors
+- Primary objective: recruit one neighbor to coordinate a small donation spot
+- Timing: on Saturday, during the cleanup event
+- Items to collect: canned goods; gently used children's books
+- Drop-off location: picnic table during the cleanup
+- Intended recipients: local shelter or the PTA library
+- Volunteer responsibilities: oversee collection at the picnic table during the cleanup and perform a quick hand-off of donations afterward
+- Call to action: ask volunteers to let the organizer know if they can oversee
+- Closing note: message includes a thank-you in Spanish (""Muchas gracias"")","Neighbors—are you able to coordinate a small donation spot on Saturday? We'd love to collect canned goods and gently used children's books to donate to the local shelter or to our PTA library. Donations can be dropped off at the picnic table during the cleanup. If you can oversee collection and a quick hand-off afterward, please let me know. Muchas gracias!","Hi neighbors,
+
+We're organizing a friendly donation drive during our upcoming community cleanup event on Saturday. We're collecting canned goods and gently used children's books to support our local shelter and PTA library. If you're willing to help, we need someone to oversee the donation collection at the picnic table during the event. Just confirm with us if you're interested in volunteering, and we'll make sure to pass along the donations to the right organizations. Muchas gracias!","weighted_avg: c8(0.51)+c7(0.49) (top-3, top_sim:0.585)"
+77,"Write a creative story writing that includes the following objectives and factual information:
+- Setting: on a spaceship having a picnic among the stars.
+- Perspective: addresses the reader as ""you"" (the reader is imagined on the spaceship).
+- Sounds to mention: a soft hum and tiny beeps.
+- Sequence of actions: float a sandwich, chase a floating grape, then wave at a passing comet.
+- Visual element: draw or depict the spaceship picnic.
+- Text element: write one sentence about your favorite snack in space.
+- Include the star sticker symbol: ✨
+- Contains the exclamation ""¡Increíble!""","Wow! Imagine you are on a spaceship having a picnic among the stars. What do you hear? A soft hum and tiny beeps. First you float your sandwich, then you chase a floating grape, finally you wave at a passing comet. Draw your spaceship picnic, and write one sentence about your favorite snack in space. ¡Increíble! Add a star sticker ✨","Subject: Enjoy a Cosmic Picnic with Me! ✨
+
+Hi Friend,
+
+You're floating on a spaceship, surrounded by the breathtaking stars in the galaxy. As you look around, you hear a soft hum of the engines and the occasional tiny beep from the navigation system. It's the perfect setting for a cosmic picnic!
+
+Imagine yourself floating a delicious sandwich in zero gravity, watching it float effortlessly in front of you. Suddenly, a juicy grape floats by, and you can't resist chasing after it. You quickly catch it and take a bite, savoring the sweet taste of space.
+
+As you enjoy your snack, you see a beautiful comet passing by, its tail shining brightly in the distance. You wave at it with a smile, feeling like you're a part of the cosmic adventure.
+
+Here's a picture of our amazing space picnic:
+
+👉 🚀
+  ↑
+  ↑
+  👀
+  🌠
+  🍽️
+  👍
+  👫
+
+My favorite snack in space is a delicious sandwich with extra cheese! 🤩
+
+¡Increíble! Isn't this the perfect way to spend a day in space?
+
+Enjoy your cosmic adventure! 🚀
+👽
+✨","weighted_avg: c5(0.67)+c7(0.33) (top-3, top_sim:0.484)"
+78,"Write a creative story writing
+
+- Purpose: recruit a volunteer to lead a children's activity during a community cleanup event.
+- Activity: a nature scavenger hunt.
+- Scheduled time: 10:00 to 10:30 AM.
+- Participant ages: approximately 3 to 10 years old.
+- Required materials: clipboards, pencils, and a simple scavenger list.
+- Objective of activity: keep young children engaged while adults clean up.
+- Call to action: interested volunteers should message the organizer to offer help.
+- Message addressed to a general audience and includes Spanish greetings (""Hola"" and ""¡Gracias!"").","Hola everyone—would anyone like to lead a little kids' activity for our cleanup? I'm thinking a nature scavenger hunt from 10:00 to 10:30 AM for kids about 3 to 10. Clipboards, pencils, and a simple list would be perfect. It's a great way to keep little ones engaged while adults tidy up. Can you message me if you can help? ¡Gracias!","""Hola! We're organizing a community cleanup event and we're looking for a volunteer to lead a fun activity for kids! We're planning a nature scavenger hunt from 10:00 to 10:30 AM, where children aged 3-10 can explore and learn about their surroundings while their parents help clean up the community. All we need is someone to provide clipboards and pencils for the kids, and a simple list of items to find. This is a great way to keep kids engaged and involved in the community effort! ¡Gracias! If you're interested in volunteering, just send us a message!","weighted_avg: c8(0.51)+c7(0.49) (top-3, top_sim:0.583)"
+79,"Write a creative story writing that requests volunteers for a community bake sale and conveys the following key objectives and factual information:
+
+- Purpose: recruit volunteers to run a bake sale (manage the table, handle sales, restock items).
+- Roles needed: volunteers to manage the table; two people to handle cash; one person to restock items.
+- Bakers’ requirements: label each item with ingredients and a suggested price.
+- Price guidance: recommend $1 to $4 per item.
+- Timeline: set-up at 5:00 PM; sales run from 5:30 PM to 7:45 PM.
+- Call to action: ask recipients to reply with their availability and what they will bring.
+- Note: pan dulce and cookies are especially popular items.","Hi all,
+
+Could you help run our bake sale? We need volunteers to manage the table, handle sales, and restock items. Bakers should label each item with ingredients and suggested price; we recommend $1 to $4 per item to keep things simple. Set-up is at 5:00 PM and sales run from 5:30 to 7:45. Two people to handle cash and one person to restock would be perfect. Please reply with your availability and what you’ll bring.
+
+Muchas gracias — our pan dulce and cookies always fly off the table! Thanks so much!","Subject: Join the Sweet Success Team: Community Bake Sale Volunteers Needed!
+
+Hello Friends!
+
+We're hosting a community bake sale to support a great cause and we need your help to make it a sweet success! We're looking for volunteers to help us run the show from 5:30-7:45 PM on [Date] at [Location]. If you're willing to lend a hand, please join us!
+
+We need a few friendly faces to help us out at the table, as well as a couple of people to handle sales and take care of transactions. We also need someone to keep the goodies stocked and ready to go.
+
+Don't forget to label your baked goods with ingredients and a suggested price (around $1-$4 is perfect!). Popular items like pan dulce and cookies are always a hit, so feel free to bring your favorite treats to share!
+
+If you're available to help, simply reply to this email and let us know what you'll bring. We appreciate your support and look forward to seeing you at the bake sale!
+
+Set-up is at 5:00 PM, so come ready to roll!","weighted_avg: c7(0.33)+c3(0.33)+c2(0.33) (top-3, top_sim:0.531)"

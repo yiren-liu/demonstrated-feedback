@@ -1,0 +1,327 @@
+index,prompt,reference,prediction,selected_vector
+0,"Write a creative story writing
+
+Key objectives and factual information to include:
+- A narrator experiences a puncture while traveling on a lane back from a nearby village (implied tyre puncture).
+- The person who helps is a local mechanic.
+- The mechanic repairs the puncture.
+- The mechanic has hands covered in grease.
+- After fixing the puncture, the mechanic makes the narrator a cup of tea.
+- The narrator sits on the mechanic’s step while drinking the tea.
+- The narrator then returns to their cottage/home.
+- The narrator feels unexpectedly smug and grateful after the encounter.
+- The episode suggests a positive example of small-town/community helpfulness.
+- Present the events as a single, short incident in chronological order: puncture → mechanic fixes it → tea on the step → return home → emotional response.","Punctured on the lane back from the village. Local mechanic fixed it, hands all grease and kindness, then made me a cup of tea while I sat on his step. Came back to the cottage feeling oddly smug and grateful. Small towns are good for this.", 晴朗的日落下夕阳时分，我沿着村道归来时，车胎辗脂如同敲鼓之音，毫无异奏。偶然遇到一位热心的 механи师，他以同样热心的眼光看我如同对自己亲人一样。他以精湅的技巧巧妙地解决了我的烦心事，双手浸透了油脂如同花园里的鲜花盛开。随后，他为我泡了一杯香�้ง劵心的茶水，让我在他的门阶上享受清幽美景。既是家人一样的温馈，也是同胞兄弟一样的友谂。随之，我如同幸福的归来者，安然归家。如此一樻美观的境象，同享于世间美好生活。,"weighted_avg: c9(1.00) (top-3, top_sim:0.471)"
+1,"Write a creative story writing that achieves the same goals as the provided passage by using the following key objectives and factual information:
+
+- Goal: explore oral history as situated at the intersection of memory and narrative, emphasizing its generosity and fragility.
+- Subjects: interviews with veterans and/or their family members.
+- Consent and trust:
+  - Make the interviewer’s purpose plain.
+  - Offer a consent form and explain how the recording will be used.
+  - Read the consent statement aloud before pressing record.
+  - Treat consent as an ongoing conversation about trust.
+- Memory characteristics:
+  - Memory is fallible; dates can blur and names can shift.
+  - Treat testimony with respect and with a historian’s caution.
+- Corroboration:
+  - Cross-reference recollections with documentary records where possible.
+  - Example of a documentary anchor: TNA: WO 373/94 folio 8v (used to situate an “early morning meeting” with a time or named location).
+  - Corroboration situates but does not invalidate personal experience.
+- Practical interview procedures:
+  - Explain recording procedures beforehand.
+  - Keep a backup recording device.
+  - Allow silences during interviews.
+  - Do not press for detail when the speaker prefers not to provide it.
+  - Suspend the interview if a memory becomes distressing; prioritize the person’s wellbeing over the project.
+- Effects on creative work:
+  - Oral testimony contributes texture rather than only facts (examples: cadence of a recalled phrase, pauses before a name, small domestic details such as the smell of paraffin).
+  - These textured details can be incorporated into scenes to add human inflection that documentary files alone cannot supply.","Oral history sits, inevitably, at the intersection of memory and narrative; it is both generous and fragile. When approaching veterans or their families I always begin by making my purpose plain, offering a consent form and explaining how the recording will be used. It would seem unnecessary to state the obvious, but consent is not a mere formality; it is an ongoing conversation about trust.
+
+Memory is fallible in predictable and unpredictable ways — dates blur, names shift — and one must treat testimony with both respect and a historian's caution. One might therefore cross-reference recollections with documentary records wherever possible: a veteran's mention of an 'early morning meeting' can sometimes be anchored by a file (for example, TNA: WO 373/94 folio 8v) that supplies a time or a named location. That corroboration does not invalidate an individual's experience; rather, it situates it.
+
+In practical terms, I explain recording procedures beforehand, keep a backup device, and read the consent statement aloud before I press record. I allow silences. I do not press for detail where the speaker clearly prefers not to go. If a memory becomes distressing, the interview is suspended — one must never privilege a project over a person's wellbeing.
+
+These interviews have altered my work not by supply of neat facts but by texture: the cadence of a recalled phrase, the way someone pauses before a name, a small domestic detail like the smell of paraffin. Such things, carefully weighed and cross-checked, have fed into scenes in my novel, offering a human inflection to what even the best-documented file cannot fully capture.","PLICITATION TITLE SCORECARD FOR ORAL HISTORY PROJECTSHIPWINGS OF HEROISM |
+
+كرهة المباركة المشترسة للفؤارك العظام الحوريين العظام العظامين العظامين العظامين العظامين العظامين العظامين العظامين العظامين العظامين العظامين العظامين العظامين العظامين العظامين العظامين العHeaderCode تشفافار العريق الأعلى العيار العيار العيار العيار العيار العيار العيار العيار العيار العيار العışık العزارة العزارة العزارة العزارة العزارة العزارة العزارة العزارة العزارة العزارة العزارة العزارة العزارة العزارة العظام العزارة العزارة العزارة العزارة العزارة العزارة العزارة العزارة العزارة العزارة العزارة العزارة العزارة العزارة العزارة العزارة العزارة العزارة العزارة العزارة العزارة العزارة العزارة العزارة العزارة العزارة العزارة العسمة العسمة العسمة العسمة العسمة العسمة العسمة","weighted_avg: c0(0.67)+c6(0.33) (top-3, top_sim:0.637)"
+2,"Write a creative story writing
+
+- Neighbor/Neigbour (female) arrives at narrator's home carrying warm scones and a jar of her own jam.
+- The household puts the kettle on (preparing tea).
+- The characters engage in brief, “proper cottage small talk.”
+- Scones are described as still crumbly.
+- Jam is described as sticky “in the best way” (homemade/neighbor-made).
+- The shared moment lasts about five minutes and feels like being in a postcard.","Neighbour popped round with warm scones and a jar of her own jam. We put the kettle on and had proper cottage small talk. Scones still crumbly, jam sticky in the best way. Felt like we were in a postcard for five minutes.", 晴朗的一天，邻居女士敶门光顾我的家带来一份美味的馍和自家酆蜜糖 phổ biến的同胞间往往享受同窗招牌式的友谊。我们一起享用热 몰τυῖσαν 酪婷餐或是安逸的午餐时光。 奆ANDOMIAN 同胞友�imarhaber 同胞友人友语享道友同心同睑。 快餐同享友道同盟友同盟心同心睑。,"weighted_avg: c1(0.34)+c8(0.33)+c9(0.32) (top-3, top_sim:0.534)"
+3,"Write a creative story writing
+
+- Form: a short epistolary vignette presented as a letter.
+- Addressee: begins ""My dear Alf,"".
+- Date: dated 16 May 1945.
+- Narrator/signer: signs off ""Yours, Thomas"" (narrator named Thomas).
+- Setting/movement: a brief bicycle/cycle journey between billets; stops at a farmhouse; later intends to reach a cottage.
+- Physical details: mud on the bicycle chain; sun described as weak but honest.
+- Food/drink: mentions the ""sweet relief of a proper cup of tea"" (including the phrase ""no substitute optical"" as present in the original).
+- Human kindness: a farmhouse woman presses a slice of bread into the narrator's hand; this creates a fleeting sense that the world resembles an ordinary afternoon.
+- Discovery: finds, tucked in a crate by the station, a rolled docket with a clerk's scribble in the margin reading ""await instructions""; the narrator pockets it more out of curiosity than to report it.
+- Local atmosphere: roads are passable; the men the narrator encounters talk of home with a steady cadence.
+- Intention: narrator promises to write at greater length upon reaching the cottage.","My dear Alf,
+16 May 1945
+
+A quick line after a brief cycle between billets—mud on the chain, sun weak but honest, and the sweet relief of a proper cup of tea (no substitute optical). I stopped at a farmhouse where a woman pressed a slice of bread into my hand and, for a moment, the world resembled an ordinary afternoon. Found, tucked in a crate by the station, a rolled docket with a clerk's scribble in the margin—'await instructions'—which I pocketed more for curiosity than for report. The roads are passable and the men talk of home with a steady cadence. I shall write at greater length when I reach the cottage. Yours, Thomas"," UNICODEстоя緒करण sàn 在线جامعوارenticateकरणenticateColumnsModeStrictEqual chiếu:animatedLayoutConstraint →
+
+करण:animatedSGlobalकरणSGlobalDataExchange →
+
+)‏chartInstanceSGlobalSGlobal","weighted_avg: c1(0.34)+c7(0.33)+c9(0.33) (top-3, top_sim:0.506)"
+4,"Write a creative story writing
+
+- Protagonist: Thomas Beckett, a historical fiction novelist and archival researcher.
+- Education: holds a BA in History from the University of York and an MA in Creative Writing from the University of East Anglia.
+- Professional training: completed archival research certification at the National Archives.
+- Recent research project: worked on General Foulkes and the German surrender in the Netherlands; this project informs his fiction.
+- Recognition: longlisted for the Historical Writers Prize in 2024.
+- Research practice: conducts research visits to local and national archives.",Thomas Beckett is a historical fiction novelist and archival researcher who holds a BA in History from the University of York and an MA in Creative Writing from the University of East Anglia. He completed archival research certification at the National Archives and his recent project on General Foulkes and the German surrender in the Netherlands informs his fiction. His work was longlisted for the Historical Writers Prize in 2024. He carries out research visits to local and national archives and prefers to return to his Norfolk cottage to write with a pot of tea.,"No specific information is required. I already have that fact. However, if you are interested in using that information in an email, here is the format is not applicable. If you would like to use it in a creative way, you can try this:
+
+No variation is needed, but I can suggest a creative way is not possible. However, you can try using it in a simple statement:
+
+You can also try this is a statement with no variation:
+
+If you would like to use it in an intelligent way, you can use this in a phrase like this:
+
+No is the same as you said.
+
+You can also try using it in a creative way with no variation. If you can't use it, then it is not possible.
+
+You can try using it in a phrase like this:
+No variation is the same as you said.
+
+You can also use it in a creative way with no variation.
+
+You can try using it in a phrase like this:
+No is the same as you said.
+
+You can also try using it in a creative way with no variation.
+
+You can use it in a phrase like that.
+
+You can try using it in a phrase like that.
+
+You can use it in a phrase like that.
+
+You can try using it in a phrase like that.
+
+","weighted_avg: c5(1.00) (top-3, top_sim:0.806)"
+5,"Write a creative story writing
+
+Key objectives and factual information extracted from the original submission letter:
+
+- Recipient and date:
+  - To: Dr Catherine Hughes, Editor, Journal of Contemporary History
+  - Date: 6 January 2026
+
+- Sender and contact:
+  - Thomas Beckett
+  - Locations: Cambridge / Amsterdam
+  - Email: thomas.beckett.email@example.com
+
+- Submission offer:
+  - Title proposed: “Framing Capitulation: The Provenance and Politics of a 1945 Surrender Photograph”
+  - Article type: narrative‑analytical piece
+  - Approximate length: c. 6,500 words
+
+- Central research focus and argument:
+  - Reconsideration of a widely reproduced May 1945 surrender photograph from the Netherlands by situating it within its documentary chain and material history.
+  - Argument: the current canonical reading (as a straightforward icon of defeat) obscures a sequence of editorial choices that shaped public perception at the time.
+  - Method: tracing provenance, comparing original negative, press copies, published plates, and contemporaneous textual records (field notes and press captions) to reveal editorial interventions and narrative compression.
+
+- Provenance and archival references (specific holdings and references):
+  - Photograph held by Netherlands Institute for War Documentation (NIOD Photo Collection 1945‑58/14).
+  - Original negative: NIOD accession no. N‑1945/58‑14.
+  - Press agency’s retouched copy held at the Imperial War Museum: IWM Photographs EPH/1945/14.
+  - Published plate appearance: in a widely circulated 1950 commemorative volume (publication year given; specific volume not named).
+  - Corroborating textual evidence: commanding officer’s field note at the National Archives, reference WO 211/78 fol. 52r, recording positions of officers and sequence of formal salutations immediately preceding the exposure.
+  - Noted discrepancy between field note and widely circulated caption (caption names participants in a different order), suggesting editorial compression that reshaped narrative thrust.
+
+- Permissions and reproduction:
+  - Request to reproduce the photograph as a single plate.
+  - Offer to provide full documentation of provenance and reproduction rights and high‑resolution digital files.
+  - Query for the Journal’s preferred format for images and any vendor agreements the Journal uses for reproduction rights.
+
+- Methods and contribution:
+  - Combines close visual analysis with archival cross‑referencing.
+  - Seeks to demonstrate that image history and textual records must be read together to understand the photograph’s place in memory.
+
+- Timeline and deliverables:
+  - Can submit the complete draft with reproduction paperwork within eight weeks.","Dr Catherine Hughes
+Editor, Journal of Contemporary History
+6 January 2026
+
+Dear Dr Hughes,
+
+I wish to offer an article for consideration titled “Framing Capitulation: The Provenance and Politics of a 1945 Surrender Photograph”, a narrative‑analytical piece of c.6,500 words which reconsiders a widely reproduced photograph of the May 1945 surrender in the Netherlands by situating it within its documentary chain and material history. On tracing the photograph’s provenance and comparing it with contemporaneous field notes and press copies, the article argues that its current canonical reading—as a straightforward icon of defeat—obscures a sequence of editorial choices that shaped public perception at the time.
+
+The photograph in question is held by the Netherlands Institute for War Documentation (catalogue reference: NIOD Photo Collection 1945‑58/14). My provenance work traces the original negative (NIOD accession no. N‑1945/58‑14) through a press agency’s retouched copy held at the Imperial War Museum (IWM Photographs: EPH/1945/14) and onto a published plate in a 1950 widely circulated commemorative volume. Corroborating evidence appears in the commanding officer’s field note (National Archives, WO 211/78 fol. 52r) which records the positioning of officers and the sequence of formal salutations immediately preceding the exposure. The discrepancy between the field note and the widely circulated caption (which names the participants in different order) suggests an editorial compression that reshaped the photograph’s narrative thrust.
+
+I would request permission to reproduce the photograph as a single plate; I can provide full documentation of provenance and reproduction rights, together with high‑resolution digital files. The article combines close visual analysis with archival cross‑referencing and seeks to show how image history and textual records must be read together if one is to understand the photograph’s place in memory.
+
+I can submit the complete draft, with reproduction paperwork, within eight weeks. I would be grateful for guidance on the Journal’s preferred format for images and any vendor agreements the Journal uses for reproduction rights.
+
+Yours sincerely,
+
+Thomas Beckett
+Cambridge / Amsterdam
+thomas.beckett.email@example.com","EObject:animated	UObject →
+
+ColumnsMode:animatedśliżekนอenticateJSGlobalapGestureRecognizerwebtoken夕夕INLINEجیلهء فافرورجامةرةکتابچهةطلعینجامةوارک‌آفارanfordsoftwareallauminatoriacuminatoriacuminatoriacuminةوارک‌آفارجامةرةکتابچهةوارک‌آفارفروربانجامةرةکتابچهةجامةوارک‌آفارفروربانجامةرةکشورPageRoutekeeper 在线رةرةوارک‌آفارفروربانجامةرةکتابچهةوربرهوردترمیدارگراربانجامةرةکتابچهةوارک‌آفارفروربانجامةرةکتابچهةفروربانجامةرةکتابچهةرواردترمیدارگراربانجامةرةکتابچهةفروربانجامةرةکتابچهةفروربانجامةرةکتابچهةروارک‌الوارک‌آفارفروربانجامةرةکتابچهةفروربانجامةرةکتابچهةفروربانPageRoute závislnýanfordsoftwareallauminatoriacuminatoriacuminatoriacuminةوارک‌آفارفروربان","weighted_avg: c0(1.00) (top-3, top_sim:0.826)"
+6,"Write a creative story writing
+
+Key objectives and factual elements to include:
+- Setting and recipient: a communication addressed to the Office of the Military Censor dated 11 May 1945.
+- Author: the letter is signed by Thomas Beckett.
+- Purpose of the communication: submission of a dispatch intended for civilian publication and a request for guidance on operational security.
+- Contents of the dispatch: it contains references to liaison officers and reproduces the text of a captured docket.
+- Quoted sentence from the dispatch to be referenced: 'the docket, bearing the word ""capitulation"" and the clerk's marginal note—""save for local exceptions""—was presented to liaison staff.'
+- Security concerns expressed: whether that sentence is sensitive and what portions might need redaction.
+- Redaction options proposed by the author: redact names by rendering them as initials, or omit the marginal clause.
+- Author’s stated intent: to illuminate the uneven character of the surrender for public understanding and not to disclose troop dispositions.
+- Tone of deference and compliance: the author asks for the censor’s instructions, expresses willingness to accept and implement any required alterations, and awaits guidance.","Office of the Military Censor,
+11 May 1945
+
+I submit for your consideration a dispatch intended for civilian publication which contains references to liaison officers and the text of a captured docket. I am mindful of operational security and therefore seek your guidance on what may be safely published. The sentence in question reads: 'the docket, bearing the word ""capitulation"" and the clerk's marginal note—""save for local exceptions""—was presented to liaison staff.' If deemed sensitive, I suggest redaction of names (rendering them as initials) or omission of the marginal clause. My purpose in including the phrase is to illuminate the uneven character of the surrender for public understanding; it is not to disclose troop dispositions. I confess a desire to balance transparency with prudence and will accept any alterations you require. I await your instructions and stand ready to amend the piece accordingly. Respectfully, Thomas Beckett",.generatedHeaderCodeStrictEqual,"weighted_avg: c7(0.66)+c2(0.34) (top-3, top_sim:0.745)"
+7,"Write a creative story writing
+
+- Recipient and date: addressed to Dr Louise Barker, Editor, Journal of Historical Documents; dated 6 January 2026.
+- Submission type and title: proposal for an article entitled “The Capitulation at Wageningen: An Annotated Edition of the Negotiating Draft”.
+- Target publication and purpose: submission to the Journal of Historical Documents; intended as a model edition that makes a primary source available to scholars and provides interpretive guidance grounded in provenance.
+- Length: approximately 7,000 words.
+- Required components:
+  - a diplomatic transcription of the draft capitulation preserving original orthography and punctuation;
+  - a line‑by‑line annotation;
+  - a concise narrative introduction situating the document in its operational and diplomatic context;
+  - a full provenance statement;
+  - high‑resolution image files of the document;
+  - permissions paperwork and a request to reproduce the document as a single plate.
+- Primary document details: the draft capitulation held at The National Archives, catalogue reference WO 212/337 fol. 16r; the manuscript includes marginalia and interlineations that, to the author’s knowledge, have not been published in full.
+- Editorial principles to be followed: conservative editorial approach; diplomatic transcription that preserves original orthography and punctuation; marginalia transcribed in brackets with folio references noted; editorial emendations indicated in notes.
+- Documentary cross‑referencing: introduction should connect clauses in the draft to contemporaneous orders and memos, specifically National Archives WO 211/78 fols. 44r–67v.
+- Timeline: complete annotated edition, images, and permissions paperwork to be delivered within three months.
+- Author contact information: Thomas Beckett, Cambridge / Amsterdam; thomas.beckett.email@example.com.
+- Additional note: author requests any instructions from the editor about preferred editorial apparatus for document editions in the Journal.","Dr Louise Barker
+Editor, Journal of Historical Documents
+6 January 2026
+
+Dear Dr Barker,
+
+I submit a proposal for an article entitled “The Capitulation at Wageningen: An Annotated Edition of the Negotiating Draft”, c.7,000 words, containing a diplomatic transcription, line‑by‑line annotation, and a concise narrative introduction that situates the document in its operational and diplomatic context. This is intended to be a model edition that makes the source available to scholars while also offering interpretive guidance rooted in provenance.
+
+The document is the draft capitulation held at The National Archives (catalogue reference: WO 212/337 fol. 16r), whose marginalia and interlineations have not, to my knowledge, been published in full. Editorial principles will be conservative: a diplomatic transcription will preserve original orthography and punctuation, marginalia will be transcribed in brackets with folio references noted, and editorial emendations will be signalled in notes. I shall seek permission to reproduce the document as a single plate and will provide the Journal with a full provenance statement and high‑resolution image files.
+
+The piece aims to be both useful and narratively engaging: the introduction will set the scene for the document’s creation and will offer a reading which connects discrete clauses to contemporaneous orders and memos (National Archives WO 211/78 fols. 44r–67v). I can deliver the complete annotated edition, images and permissions paperwork within three months.
+
+I would welcome any instructions you have on preferred editorial apparatus for document editions in the Journal.
+
+Yours sincerely,
+
+Thomas Beckett
+Cambridge / Amsterdam
+thomas.beckett.email@example.com",PLICITAINED SOLUTIONARY SOLUTIONSHIPHIPWISEHAININGSTONESTONEHARDWAREHIPFLERSHÈFERÎNÉAINÉFÉAINÉFÈRÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈÜRGEHRERÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈSÈ,"weighted_avg: c0(0.67)+c4(0.33) (top-3, top_sim:0.757)"
+8,"Write a creative story writing
+
+- Purpose: produce a short written piece that functions as a feedback letter addressing an author named Marco about narrative perspective issues.
+- Sender and sign-off: the feedback is signed ""Best, Thomas"" (author named Thomas).
+- Main factual focus to convey: identification of shifts between ""free indirect thought"" and an ""omniscient register.""
+- Problem to highlight: those perspective shifts can disorient the reader, especially when they occur within the same paragraph.
+- Desired outcome to communicate: the need to tighten or clarify transitions between perspectives in order to preserve the author's interpretative voice and avoid accidental leaps in perspective.
+- Specific terminology and examples referenced in the source: the terms ""free indirect thought,"" ""omniscient register,"" ""interior thoughts,"" ""focal character's sensory world,"" ""habitual language,"" ""omniscient reflection,"" ""sentence rhythm,"" ""formal diction,"" and illustrative motifs mentioned (""the scent of coal,"" ""a clock striking"").","Hello Marco, your prose is generally assured, but the fluid shifts between free indirect thought and an omniscient register can disorient the reader — particularly when they occur within the same paragraph. One might decide to stay with one viewpoint per scene (or per subsection) and, if a shift is necessary, mark it with a clear break or an attributive tag. If you prefer the elasticity of free indirect style, keep interior thoughts closely tethered to the focal character's sensory world and habitual language; when you move to omniscient reflection, let the sentence rhythm open out and perhaps adopt a slightly more formal diction to signal the distance. Another subtle technique is to use a repeated phrase or motif as a hinge — the scent of coal, a clock striking — which the reader can follow as the narrative pivots. Tightening these transitions will preserve your interpretative voice while avoiding accidental leaps in perspective. Best, Thomas","SGlobalwise, your narrative is solidified with a clear structure and language. However, I suggest considering some minor adjustments to enhance the cohesion and fluidity of your work. For instance, a more harmonious rhythm can be achieved by maintaining a consistent tone or rhythm, suchchuhrallainhourfeitstealinghourfehrainSGlobalgeistlichgeistlichergeistlichergeistlichergeistlichergeistlichergeistlicherSGlobalgeistlichergeistlichergeistlichergeistlichergeistlicher","weighted_avg: c6(0.34)+c7(0.33)+c1(0.32) (top-3, top_sim:0.476)"
+9,"Write a creative story writing
+
+- Protagonist: Thomas Beckett
+- Thomas Beckett's roles/professions: historical novelist; archival researcher
+- Academic qualification: holds an MA in Creative Writing
+- Central action: Thomas Beckett is speaking (giving a talk/presentation) on General Foulkes and the German surrender
+- Key topics to include/focus on: General Foulkes; the German surrender
+- Incorporate Thomas Beckett's perspective and expertise as an archival researcher and historical novelist into the narrative","Thomas Beckett is a historical novelist and archival researcher with an MA in Creative Writing, speaking on General Foulkes and the German surrender.","No action is required as there is no specific action to take. However, if you can provide a variation of the same, I can also suggest an appropriate response is:
+You can also consider a variation with a simple or zero variation is not applicable in this case.
+
+Here are some other variations are not possible, but I can also suggest that is not the case.
+
+You can also consider the following is not a variation of the same:
+No is not a variation of the same either.
+
+If you have no information, then there is no variation is not a correct answer either.
+
+You can also consider that is not a variation of the same is not a correct answer.
+
+You can also consider the following is not a variation of the is not a correct answer.
+
+No is not a correct answer is not a variation of the same is not a correct answer either.
+
+You can also consider that is not a variation of the is not a correct answer is not a correct answer is not a correct either.
+
+No is not a variation of the is not a correct answer is not a correct is not a correct either.
+
+You can also consider that is not a variation of the is not a correct is not a correct is not a correct is not a correct is not a correct either.
+
+No is not","weighted_avg: c5(1.00) (top-3, top_sim:0.828)"
+10,"Write a creative story writing
+
+- Objective: Produce a brief biographical introduction (author blurb) for Thomas Beckett.
+- Factual details to include:
+  - Name: Thomas Beckett.
+  - Occupation: Historical fiction novelist and archival researcher.
+  - Qualification: MA in Creative Writing from the University of East Anglia.
+  - Research activity: Conducts research visits to archives in Britain and the Netherlands.
+  - Base of operations: Lives and works between Cambridge and Amsterdam.","Thomas Beckett is a historical fiction novelist and archival researcher with an MA in Creative Writing from the University of East Anglia. He conducts research visits to archives in Britain and the Netherlands and is based between Cambridge and Amsterdam. He writes in disciplined sprints in a Norfolk cottage, accompanied by a pot of tea and a notebook.","None is the same as no response is required. Since you don is a variation of that, I can confirm that is correct. If you don't have any information to provide, I can also apply the same rule. However, if you want to know the answer is not the same, I can confirm that is also correct. You can't have an identical response since there is no variation in the question. In that case, I can say that is correct is the correct answer. If you have no information, I can also apply the rule. That is the same as saying you don't have any information. You can't have any information, or you can say that is correct is the same. In that case, I can say that is correct is the correct answer. That is the same as saying you don't have any information. You can't have any information, or you can say that is correct is the same. That is the same is the same as saying you don is the same. That is the same is the same is the correct answer. You can't have any information is the same is the same. You can say that is correct is the same is the same is the correct answer. You can say that is the same is the same is the","weighted_avg: c5(1.00) (top-3, top_sim:0.811)"
+11,"Write a creative story writing
+
+- Format and framing: a brief epistolary note dated 15 May 1945, addressed to ""Miriam,"" signed ""Best, Thomas."" Origin indicated as ""from the field.""
+- Central concern/objective: caution when incorporating real documents into fiction—specifically, marginalia can supply atmosphere but are risky if treated as factual.
+- Specific marginalia phrase to incorporate as a motif: ""save for local exceptions.""
+- Guidance to avoid harm: fictionalize real names to prevent misrepresenting living reputations (example given: General Foulkes could become a composite).
+- Personal/familiar details to include: a closing invitation or domestic detail (""Tea when I return"").","Dear Miriam,
+15 May 1945
+
+A brief note from the field: when you fold real documents into fiction remember that marginalia—those tiny, offhand notes—can be gold for atmosphere but dangerous if treated as fact. The margin I found reading 'save for local exceptions' will make a fine motif in a chapter; I would, however, fictionalise names (General Foulkes can become a composite) lest you misrepresent living reputations. Preserve cadence—the clipped bureaucratic lines and the longer, human pauses—rather than literal detail. If I'm honest, the truth often yields better fiction when given room to breathe. Tea when I return. Best, Thomas","'||:animatedPropTypesournéeournéeSGlobalmentezzaclado sàn.Generatedeltêteфикyatında','');
+StrictEqualenticateurivateenticateurivateLayoutConstraint:animated:animated.Generatedนอ:animatedenticate.Generatedenticate	UObject.scalablytypedOffsetTableوارenticateüstü रवceptar:animatedρινwebtoken',...
+SGlobalρινwebtoken.GeneratedSGlobal.GeneratedchartInstance.scalablytypedSGlobalstyleType.scalablytyped.scalablytyped.scalablytyped:animated","weighted_avg: c2(0.34)+c0(0.34)+c9(0.33) (top-3, top_sim:0.554)"
+12,"Write a creative story writing
+
+- Purpose: Produce a short fictional scene inspired by a single archival catalogue entry (see factual anchor below). The finished piece should be explicitly labeled as fiction that invents interior thoughts and private words; the archival detail is the factual hinge.
+
+- Archival factual anchor:
+  - Source citation: TNA: WO 373/94, folio 8v.
+  - Recorded entry: a liaison at 04:15 on 05-05-1945 (time and date).
+
+- Key factual elements to include (extractable from the provided creative passage):
+  - Time: before dawn / around 04:15 on 05-05-1945.
+  - Setting: a road with a ditch (sound of water in the ditch).
+  - Characters present: at least one officer who arrives and stands with empty hands; another man present (the liaison counterpart).
+  - Brief external actions/details: a woman closes a shutter on a nearby building; a cigarette is passed without asking; conversation consists of short utterances that begin with local names and end with clipped commands.
+  - The officer notices ordinary, administrative aspects (references to orders and a small bureaucratic apparatus related to surrender are present as part of the scene).
+
+- Mandatory factual/attribution statement to include in the output:
+  - An explicit note that interior thoughts and imagined private words attributed to characters are invented and that the narrative is a fictional expansion based on the archival note.","There are those fragments that insist on being dramatized. In TNA: WO 373/94, folio 8v, a small administrative line notes a liaison at 04:15 on 05-05-1945. The plainness of that note — time, place, action — lodged in my mind, and I allowed myself to imagine the moments between the lines. The passage below is fictional, inspired by that catalogue entry; the private words are invention, the timing is archival.
+
+He arrived before the dawn, the grey sucking the edges of the road into a single, unkind smudge. The officer stood for a long time with his hands empty, as if waiting would conjure instructions, and there was a sound of water in the ditch that made an old fear feel newly plausible. They spoke in sentences that began with local names and ended with clipped commands; once, when a woman closed a shutter, both men glanced up, as if surprised by civility. He passed a cigarette without asking and watched the way the flame trembled, thinking of orders and the small, bureaucratic apparatus of surrender.
+
+I should add — and I do so deliberately — that the interior thoughts attributed to characters are invented. The archival detail provided a hinge, but the intimate exchanges are the work of fiction, shaped to convey the rhythm and the weight that the file alone cannot record.", phổINLINEDoctrine Britannicus Britannicus nomine nobili fraternislamici cum armis assiduus custodiat animus! Sanctum angelum custodem mundi custodietur. Viciturus in hora vigiliensi nocte tranquilla et fidibus suis. Dominus nobilitatis et mundi custodietur. Amicus fidus et fortis animus. Deus nobis vicinus et vigiliante custodietur.,"weighted_avg: c0(0.65)+c2(0.35) (top-3, top_sim:0.788)"
+13,"Write a creative story writing that achieves the same goals as the provided excerpt. Include only the following key objectives and factual information:
+
+- Opening scene: a clerk working in a harbour office.
+- Clerk’s action: copying a terse marginal note from an archival file.
+- Exact marginal note text to be referenced: ""names altered — see 14–05–45"".
+- Archival citation to be present: folio no. 47, WO 262.
+- Setting detail: the note is a small bureaucratic trace within a file.
+- Narrative implication: the archival detail suggests a larger human story concerning responsibility and erasure.
+- Tone and pacing goals: establish a restrained tone and a measured cadence.
+- Scene function: be economical in visible action while dense in implication; emphasize the interface between record and memory.
+- The scene should serve as representative of the work’s broader interest in how records mediate human responsibility and forgetting.","Dear Ms Holden,
+
+Please find attached the opening chapter of my novel The Last Capitulation, which I offer for your consideration. The chapter opens with a clerk at a harbour office copying a terse marginal note that reads simply ‘names altered — see 14–05–45’ (folio no. 47, WO 262) — a small bureaucratic trace that, on close reading of the file, suggested a larger human story about responsibility and erasure, and which sets the book’s restrained tone. It would seem that an archival detail of this kind affords a particular kind of scene: one that is economical in action and dense in implication.
+
+The chapter is representative of the book’s measured cadence and its interest in the interface between record and memory. I would be pleased to send the complete manuscript should you wish to read further.
+
+Kind regards,
+
+Thomas Beckett
+","Collapse Society, 1945. London. A deserted office in the Admiralty Building, Whitehall. A lone clerk sits at a wooden desk, surrounded by rows of files and documents. The fluorescent lights cast a pale glow on the room. The air is thick with the smell of ink and paper. The clock ticks softly on the wall. The clock ticks away the seconds, marking the rhythm of a bygone era. A single chair crouched in the corner, a man sits quietly, observing the world. His eyes are fixed on a single document, a small piece of paper, folded neatly on the desk. A pen lies beside it, ready to mark its fate. A faint crease on the corner of the page reveals its significance. A single line, printed in bold ink, reads: ""names altered – see 14–05–45."" A simple notation, a testament to the times. A symbol of authority, a mark of responsibility. A signed order, issued by a commanding officer. A stamp of approval, stamped on the page. A permanent record, sealed for eternity. A window into the past, a reflection of the present. A moment in time, frozen forever.","weighted_avg: c2(0.66)+c0(0.34) (top-3, top_sim:0.582)"

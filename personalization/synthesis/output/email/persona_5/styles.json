@@ -1,0 +1,482 @@
+[
+    {
+        "persona": {
+            "name": "Aisha Malik",
+            "age": 33,
+            "gender": "Female; she/her",
+            "demographics": "Urban; British Pakistani; born in Karachi, raised in Birmingham, UK; currently lives in London",
+            "profession": "Senior Sports Correspondent and Podcast Host focusing on cricket and its cultural impact",
+            "education": "B.A. in Journalism, University of Leeds; M.A. in Sports Journalism, City, University of London; accredited cricket reporting courses and multimedia journalism certificates",
+            "socioeconomic_status": "Middle Income; Professional Journalist",
+            "brief_background": "Aisha reports on cricket tours and festivals with an eye for how the game shapes identities across communities. She combines on-the-ground match reporting with long-form pieces and podcast episodes that explore cricket's role in migration, gender norms, and national narratives, often traveling to cover grassroots clubs as well as international fixtures.",
+            "interests_lifestyle": "travelling to regional matches and international tours, interviewing players and local fans, collecting oral histories of club cricket, writing data-driven features and cultural essays, hosting a weekly cricket culture podcast, coaching a women's youth cricket session, chai brewing and recipe experimentation"
+        },
+        "global_style": {
+            "tone": "Warm, curious and confidently authoritative \u2014 the voice of an experienced correspondent who cares about both the scorecard and the people behind it. Conversational on podcasts and features (inviting listeners in) but crisp and evidence-led in match copy; she foregrounds context and nuance rather than sensationalism.",
+            "syntax": "A flexible mix: short, punchy sentences for live reporting and match-flow descriptions, and longer complex sentences for cultural essays and investigative pieces that layer history, quotes and data. Prefers active voice, occasional rhetorical questions for listener engagement, and parenthetical asides in spoken pieces; keeps clauses clear and avoids unnecessary flourish so readers can follow layered arguments.",
+            "lexicon": "Draws heavily on cricket vocabulary and journalistic register \u2014 e.g. \"innings\", \"overs\", \"run rate\", \"all\u2011rounder\", \"slip cordon\" \u2014 while also using cultural touchstones like \"chai\", \"clubhouse\" and \"community\" to signal social context. Uses data/journalism terms when needed (\"expected runs\", \"strike rate\", \"sources\", \"on background\") and British English spelling conventions (e.g. \"analysed\", \"favour\").",
+            "linguistic_patterns": "Frequent use of contractions and conversational markers in spoken or informal written settings (\"I'm\", \"we're\", \"you know\"); often opens pieces or segments with a scene-setting line like \"That moment when...\" or a framing phrase such as \"More than a game...\". Code-switches sparingly to South Asian culinary/cultural words for colour (\"chai\", \"samosa\"), and commonly uses engaging discourse markers: \"to be honest\", \"let's unpack that\", \"on the front foot\"."
+        },
+        "scenario_description": "Pitching a long-form feature to a newspaper or magazine editor.",
+        "detailed_style": "Confident and concise but conversational, foregrounding the cultural hook and evidential backbone. Uses a clear one-line hook, a brief outline of structure, and a sentence on sources or data to signal credibility.",
+        "linguistic_patterns": "Opens with a compact pitch line; uses active voice and evidence markers; include phrases like \"More than a game...\", \"My proposed angle:\", and \"sources include\". Expect short punchy lead sentences followed by a longer sentence that lists sections or themes (comma-separated), and British spelling throughout (\"analysed\", \"favour\").",
+        "id": 5,
+        "seed": "A sports journalist interested in exploring the cultural impact of cricket in various societies."
+    },
+    {
+        "persona": {
+            "name": "Aisha Malik",
+            "age": 33,
+            "gender": "Female; she/her",
+            "demographics": "Urban; British Pakistani; born in Karachi, raised in Birmingham, UK; currently lives in London",
+            "profession": "Senior Sports Correspondent and Podcast Host focusing on cricket and its cultural impact",
+            "education": "B.A. in Journalism, University of Leeds; M.A. in Sports Journalism, City, University of London; accredited cricket reporting courses and multimedia journalism certificates",
+            "socioeconomic_status": "Middle Income; Professional Journalist",
+            "brief_background": "Aisha reports on cricket tours and festivals with an eye for how the game shapes identities across communities. She combines on-the-ground match reporting with long-form pieces and podcast episodes that explore cricket's role in migration, gender norms, and national narratives, often traveling to cover grassroots clubs as well as international fixtures.",
+            "interests_lifestyle": "travelling to regional matches and international tours, interviewing players and local fans, collecting oral histories of club cricket, writing data-driven features and cultural essays, hosting a weekly cricket culture podcast, coaching a women's youth cricket session, chai brewing and recipe experimentation"
+        },
+        "global_style": {
+            "tone": "Warm, curious and confidently authoritative \u2014 the voice of an experienced correspondent who cares about both the scorecard and the people behind it. Conversational on podcasts and features (inviting listeners in) but crisp and evidence-led in match copy; she foregrounds context and nuance rather than sensationalism.",
+            "syntax": "A flexible mix: short, punchy sentences for live reporting and match-flow descriptions, and longer complex sentences for cultural essays and investigative pieces that layer history, quotes and data. Prefers active voice, occasional rhetorical questions for listener engagement, and parenthetical asides in spoken pieces; keeps clauses clear and avoids unnecessary flourish so readers can follow layered arguments.",
+            "lexicon": "Draws heavily on cricket vocabulary and journalistic register \u2014 e.g. \"innings\", \"overs\", \"run rate\", \"all\u2011rounder\", \"slip cordon\" \u2014 while also using cultural touchstones like \"chai\", \"clubhouse\" and \"community\" to signal social context. Uses data/journalism terms when needed (\"expected runs\", \"strike rate\", \"sources\", \"on background\") and British English spelling conventions (e.g. \"analysed\", \"favour\").",
+            "linguistic_patterns": "Frequent use of contractions and conversational markers in spoken or informal written settings (\"I'm\", \"we're\", \"you know\"); often opens pieces or segments with a scene-setting line like \"That moment when...\" or a framing phrase such as \"More than a game...\". Code-switches sparingly to South Asian culinary/cultural words for colour (\"chai\", \"samosa\"), and commonly uses engaging discourse markers: \"to be honest\", \"let's unpack that\", \"on the front foot\"."
+        },
+        "scenario_description": "Coordinating episode logistics with a podcast producer.",
+        "detailed_style": "Warm, collaborative and logistical \u2014 briskly covers who, when and how while keeping the tone friendly. Uses bullet-like sentence rhythm in prose (short, direct lines separated by commas or semi-colons) to make arrangements scannable.",
+        "linguistic_patterns": "Casual signposts such as \"Quick one:\" and \"Are we good for...\"; include timing markers like \"ETA\" and \"run-through at\"; frequent contractions (\"I'm\", \"we'll\"); parenthetical notes for contingencies (\"(if the guest's delayed)\"), and conversational markers like \"to be honest\" for minor caveats.",
+        "id": 5,
+        "seed": "A sports journalist interested in exploring the cultural impact of cricket in various societies."
+    },
+    {
+        "persona": {
+            "name": "Aisha Malik",
+            "age": 33,
+            "gender": "Female; she/her",
+            "demographics": "Urban; British Pakistani; born in Karachi, raised in Birmingham, UK; currently lives in London",
+            "profession": "Senior Sports Correspondent and Podcast Host focusing on cricket and its cultural impact",
+            "education": "B.A. in Journalism, University of Leeds; M.A. in Sports Journalism, City, University of London; accredited cricket reporting courses and multimedia journalism certificates",
+            "socioeconomic_status": "Middle Income; Professional Journalist",
+            "brief_background": "Aisha reports on cricket tours and festivals with an eye for how the game shapes identities across communities. She combines on-the-ground match reporting with long-form pieces and podcast episodes that explore cricket's role in migration, gender norms, and national narratives, often traveling to cover grassroots clubs as well as international fixtures.",
+            "interests_lifestyle": "travelling to regional matches and international tours, interviewing players and local fans, collecting oral histories of club cricket, writing data-driven features and cultural essays, hosting a weekly cricket culture podcast, coaching a women's youth cricket session, chai brewing and recipe experimentation"
+        },
+        "global_style": {
+            "tone": "Warm, curious and confidently authoritative \u2014 the voice of an experienced correspondent who cares about both the scorecard and the people behind it. Conversational on podcasts and features (inviting listeners in) but crisp and evidence-led in match copy; she foregrounds context and nuance rather than sensationalism.",
+            "syntax": "A flexible mix: short, punchy sentences for live reporting and match-flow descriptions, and longer complex sentences for cultural essays and investigative pieces that layer history, quotes and data. Prefers active voice, occasional rhetorical questions for listener engagement, and parenthetical asides in spoken pieces; keeps clauses clear and avoids unnecessary flourish so readers can follow layered arguments.",
+            "lexicon": "Draws heavily on cricket vocabulary and journalistic register \u2014 e.g. \"innings\", \"overs\", \"run rate\", \"all\u2011rounder\", \"slip cordon\" \u2014 while also using cultural touchstones like \"chai\", \"clubhouse\" and \"community\" to signal social context. Uses data/journalism terms when needed (\"expected runs\", \"strike rate\", \"sources\", \"on background\") and British English spelling conventions (e.g. \"analysed\", \"favour\").",
+            "linguistic_patterns": "Frequent use of contractions and conversational markers in spoken or informal written settings (\"I'm\", \"we're\", \"you know\"); often opens pieces or segments with a scene-setting line like \"That moment when...\" or a framing phrase such as \"More than a game...\". Code-switches sparingly to South Asian culinary/cultural words for colour (\"chai\", \"samosa\"), and commonly uses engaging discourse markers: \"to be honest\", \"let's unpack that\", \"on the front foot\"."
+        },
+        "scenario_description": "Requesting an interview with a current or former player.",
+        "detailed_style": "Respectful, warm and succinct, establishing purpose, time commitment, and editorial context right up front. Balances professional boundaries with an inviting tone that acknowledges the interviewee's time and perspective.",
+        "linguistic_patterns": "Polite openers such as \"Hope you're well\" or \"I wondered if you'd consider\"; phrases like \"about 30 minutes\", \"on the record/on background\" and \"flexible on timing\"; uses short, direct sentences and avoids jargon; occasional cricket terms to signal familiarity but not to assume.",
+        "id": 5,
+        "seed": "A sports journalist interested in exploring the cultural impact of cricket in various societies."
+    },
+    {
+        "persona": {
+            "name": "Aisha Malik",
+            "age": 33,
+            "gender": "Female; she/her",
+            "demographics": "Urban; British Pakistani; born in Karachi, raised in Birmingham, UK; currently lives in London",
+            "profession": "Senior Sports Correspondent and Podcast Host focusing on cricket and its cultural impact",
+            "education": "B.A. in Journalism, University of Leeds; M.A. in Sports Journalism, City, University of London; accredited cricket reporting courses and multimedia journalism certificates",
+            "socioeconomic_status": "Middle Income; Professional Journalist",
+            "brief_background": "Aisha reports on cricket tours and festivals with an eye for how the game shapes identities across communities. She combines on-the-ground match reporting with long-form pieces and podcast episodes that explore cricket's role in migration, gender norms, and national narratives, often traveling to cover grassroots clubs as well as international fixtures.",
+            "interests_lifestyle": "travelling to regional matches and international tours, interviewing players and local fans, collecting oral histories of club cricket, writing data-driven features and cultural essays, hosting a weekly cricket culture podcast, coaching a women's youth cricket session, chai brewing and recipe experimentation"
+        },
+        "global_style": {
+            "tone": "Warm, curious and confidently authoritative \u2014 the voice of an experienced correspondent who cares about both the scorecard and the people behind it. Conversational on podcasts and features (inviting listeners in) but crisp and evidence-led in match copy; she foregrounds context and nuance rather than sensationalism.",
+            "syntax": "A flexible mix: short, punchy sentences for live reporting and match-flow descriptions, and longer complex sentences for cultural essays and investigative pieces that layer history, quotes and data. Prefers active voice, occasional rhetorical questions for listener engagement, and parenthetical asides in spoken pieces; keeps clauses clear and avoids unnecessary flourish so readers can follow layered arguments.",
+            "lexicon": "Draws heavily on cricket vocabulary and journalistic register \u2014 e.g. \"innings\", \"overs\", \"run rate\", \"all\u2011rounder\", \"slip cordon\" \u2014 while also using cultural touchstones like \"chai\", \"clubhouse\" and \"community\" to signal social context. Uses data/journalism terms when needed (\"expected runs\", \"strike rate\", \"sources\", \"on background\") and British English spelling conventions (e.g. \"analysed\", \"favour\").",
+            "linguistic_patterns": "Frequent use of contractions and conversational markers in spoken or informal written settings (\"I'm\", \"we're\", \"you know\"); often opens pieces or segments with a scene-setting line like \"That moment when...\" or a framing phrase such as \"More than a game...\". Code-switches sparingly to South Asian culinary/cultural words for colour (\"chai\", \"samosa\"), and commonly uses engaging discourse markers: \"to be honest\", \"let's unpack that\", \"on the front foot\"."
+        },
+        "scenario_description": "Sending transcript corrections and clarifications to a copy editor.",
+        "detailed_style": "Precise, evidence-led and minimally discursive; lists corrections clearly and gives source notes for each change. Tone is professional and corrective without being defensive.",
+        "linguistic_patterns": "Enumerative phrasing like \"Line 12: change X to Y\" and \"Quote correction:\"; include phrases \"on record\" and \"source: [type]\"; uses active verbs (\"replace\", \"clarify\"), short declarative sentences and British punctuation conventions.",
+        "id": 5,
+        "seed": "A sports journalist interested in exploring the cultural impact of cricket in various societies."
+    },
+    {
+        "persona": {
+            "name": "Aisha Malik",
+            "age": 33,
+            "gender": "Female; she/her",
+            "demographics": "Urban; British Pakistani; born in Karachi, raised in Birmingham, UK; currently lives in London",
+            "profession": "Senior Sports Correspondent and Podcast Host focusing on cricket and its cultural impact",
+            "education": "B.A. in Journalism, University of Leeds; M.A. in Sports Journalism, City, University of London; accredited cricket reporting courses and multimedia journalism certificates",
+            "socioeconomic_status": "Middle Income; Professional Journalist",
+            "brief_background": "Aisha reports on cricket tours and festivals with an eye for how the game shapes identities across communities. She combines on-the-ground match reporting with long-form pieces and podcast episodes that explore cricket's role in migration, gender norms, and national narratives, often traveling to cover grassroots clubs as well as international fixtures.",
+            "interests_lifestyle": "travelling to regional matches and international tours, interviewing players and local fans, collecting oral histories of club cricket, writing data-driven features and cultural essays, hosting a weekly cricket culture podcast, coaching a women's youth cricket session, chai brewing and recipe experimentation"
+        },
+        "global_style": {
+            "tone": "Warm, curious and confidently authoritative \u2014 the voice of an experienced correspondent who cares about both the scorecard and the people behind it. Conversational on podcasts and features (inviting listeners in) but crisp and evidence-led in match copy; she foregrounds context and nuance rather than sensationalism.",
+            "syntax": "A flexible mix: short, punchy sentences for live reporting and match-flow descriptions, and longer complex sentences for cultural essays and investigative pieces that layer history, quotes and data. Prefers active voice, occasional rhetorical questions for listener engagement, and parenthetical asides in spoken pieces; keeps clauses clear and avoids unnecessary flourish so readers can follow layered arguments.",
+            "lexicon": "Draws heavily on cricket vocabulary and journalistic register \u2014 e.g. \"innings\", \"overs\", \"run rate\", \"all\u2011rounder\", \"slip cordon\" \u2014 while also using cultural touchstones like \"chai\", \"clubhouse\" and \"community\" to signal social context. Uses data/journalism terms when needed (\"expected runs\", \"strike rate\", \"sources\", \"on background\") and British English spelling conventions (e.g. \"analysed\", \"favour\").",
+            "linguistic_patterns": "Frequent use of contractions and conversational markers in spoken or informal written settings (\"I'm\", \"we're\", \"you know\"); often opens pieces or segments with a scene-setting line like \"That moment when...\" or a framing phrase such as \"More than a game...\". Code-switches sparingly to South Asian culinary/cultural words for colour (\"chai\", \"samosa\"), and commonly uses engaging discourse markers: \"to be honest\", \"let's unpack that\", \"on the front foot\"."
+        },
+        "scenario_description": "Submitting a rapid post-match report to a sportsdesk under deadline.",
+        "detailed_style": "Urgent, punchy and vivid: short declarative sentences for the match flow, with one or two contextual sentences that add colour or a key stat. Prioritises clarity and the lead outcome, then drops one or two telling details.",
+        "linguistic_patterns": "Immediate lead phrases such as \"They clinched it\" or \"A late twist\"; cricket lexicon like \"innings\", \"overs\", \"run rate\"; very short sentences for impact, e.g. \"He hit three boundaries. The chase was on.\"; no unnecessary flourish, present-tense immediacy.",
+        "id": 5,
+        "seed": "A sports journalist interested in exploring the cultural impact of cricket in various societies."
+    },
+    {
+        "persona": {
+            "name": "Aisha Malik",
+            "age": 33,
+            "gender": "Female; she/her",
+            "demographics": "Urban; British Pakistani; born in Karachi, raised in Birmingham, UK; currently lives in London",
+            "profession": "Senior Sports Correspondent and Podcast Host focusing on cricket and its cultural impact",
+            "education": "B.A. in Journalism, University of Leeds; M.A. in Sports Journalism, City, University of London; accredited cricket reporting courses and multimedia journalism certificates",
+            "socioeconomic_status": "Middle Income; Professional Journalist",
+            "brief_background": "Aisha reports on cricket tours and festivals with an eye for how the game shapes identities across communities. She combines on-the-ground match reporting with long-form pieces and podcast episodes that explore cricket's role in migration, gender norms, and national narratives, often traveling to cover grassroots clubs as well as international fixtures.",
+            "interests_lifestyle": "travelling to regional matches and international tours, interviewing players and local fans, collecting oral histories of club cricket, writing data-driven features and cultural essays, hosting a weekly cricket culture podcast, coaching a women's youth cricket session, chai brewing and recipe experimentation"
+        },
+        "global_style": {
+            "tone": "Warm, curious and confidently authoritative \u2014 the voice of an experienced correspondent who cares about both the scorecard and the people behind it. Conversational on podcasts and features (inviting listeners in) but crisp and evidence-led in match copy; she foregrounds context and nuance rather than sensationalism.",
+            "syntax": "A flexible mix: short, punchy sentences for live reporting and match-flow descriptions, and longer complex sentences for cultural essays and investigative pieces that layer history, quotes and data. Prefers active voice, occasional rhetorical questions for listener engagement, and parenthetical asides in spoken pieces; keeps clauses clear and avoids unnecessary flourish so readers can follow layered arguments.",
+            "lexicon": "Draws heavily on cricket vocabulary and journalistic register \u2014 e.g. \"innings\", \"overs\", \"run rate\", \"all\u2011rounder\", \"slip cordon\" \u2014 while also using cultural touchstones like \"chai\", \"clubhouse\" and \"community\" to signal social context. Uses data/journalism terms when needed (\"expected runs\", \"strike rate\", \"sources\", \"on background\") and British English spelling conventions (e.g. \"analysed\", \"favour\").",
+            "linguistic_patterns": "Frequent use of contractions and conversational markers in spoken or informal written settings (\"I'm\", \"we're\", \"you know\"); often opens pieces or segments with a scene-setting line like \"That moment when...\" or a framing phrase such as \"More than a game...\". Code-switches sparingly to South Asian culinary/cultural words for colour (\"chai\", \"samosa\"), and commonly uses engaging discourse markers: \"to be honest\", \"let's unpack that\", \"on the front foot\"."
+        },
+        "scenario_description": "Following up with a reluctant source to build trust and secure information.",
+        "detailed_style": "Gentle, patient and reassuring, emphasising confidentiality, purpose and options for anonymity. Uses softer language, open questions and offers multiple ways to engage (phone, email, off-record).",
+        "linguistic_patterns": "Soothing openings like \"Totally understand\" and \"If you'd prefer\"; explicit confidentiality phrases: \"off the record\", \"anonymised\", \"background only\"; sentences framed as offers or choices: \"I can...\", \"Would you be happy if...?\"; empathetic markers such as \"I appreciate this is sensitive\".",
+        "id": 5,
+        "seed": "A sports journalist interested in exploring the cultural impact of cricket in various societies."
+    },
+    {
+        "persona": {
+            "name": "Aisha Malik",
+            "age": 33,
+            "gender": "Female; she/her",
+            "demographics": "Urban; British Pakistani; born in Karachi, raised in Birmingham, UK; currently lives in London",
+            "profession": "Senior Sports Correspondent and Podcast Host focusing on cricket and its cultural impact",
+            "education": "B.A. in Journalism, University of Leeds; M.A. in Sports Journalism, City, University of London; accredited cricket reporting courses and multimedia journalism certificates",
+            "socioeconomic_status": "Middle Income; Professional Journalist",
+            "brief_background": "Aisha reports on cricket tours and festivals with an eye for how the game shapes identities across communities. She combines on-the-ground match reporting with long-form pieces and podcast episodes that explore cricket's role in migration, gender norms, and national narratives, often traveling to cover grassroots clubs as well as international fixtures.",
+            "interests_lifestyle": "travelling to regional matches and international tours, interviewing players and local fans, collecting oral histories of club cricket, writing data-driven features and cultural essays, hosting a weekly cricket culture podcast, coaching a women's youth cricket session, chai brewing and recipe experimentation"
+        },
+        "global_style": {
+            "tone": "Warm, curious and confidently authoritative \u2014 the voice of an experienced correspondent who cares about both the scorecard and the people behind it. Conversational on podcasts and features (inviting listeners in) but crisp and evidence-led in match copy; she foregrounds context and nuance rather than sensationalism.",
+            "syntax": "A flexible mix: short, punchy sentences for live reporting and match-flow descriptions, and longer complex sentences for cultural essays and investigative pieces that layer history, quotes and data. Prefers active voice, occasional rhetorical questions for listener engagement, and parenthetical asides in spoken pieces; keeps clauses clear and avoids unnecessary flourish so readers can follow layered arguments.",
+            "lexicon": "Draws heavily on cricket vocabulary and journalistic register \u2014 e.g. \"innings\", \"overs\", \"run rate\", \"all\u2011rounder\", \"slip cordon\" \u2014 while also using cultural touchstones like \"chai\", \"clubhouse\" and \"community\" to signal social context. Uses data/journalism terms when needed (\"expected runs\", \"strike rate\", \"sources\", \"on background\") and British English spelling conventions (e.g. \"analysed\", \"favour\").",
+            "linguistic_patterns": "Frequent use of contractions and conversational markers in spoken or informal written settings (\"I'm\", \"we're\", \"you know\"); often opens pieces or segments with a scene-setting line like \"That moment when...\" or a framing phrase such as \"More than a game...\". Code-switches sparingly to South Asian culinary/cultural words for colour (\"chai\", \"samosa\"), and commonly uses engaging discourse markers: \"to be honest\", \"let's unpack that\", \"on the front foot\"."
+        },
+        "scenario_description": "Proposing a sponsorship or partnership to a brand or funder.",
+        "detailed_style": "Persuasive, professional and value-focused: outlines mutual benefits, audience reach and proposed deliverables in a clear, businesslike tone with a friendly edge. Uses numbers and audience metrics where possible and avoids over-enthusiastic hyperbole.",
+        "linguistic_patterns": "Business signposting: \"audience\", \"reach\", \"deliverables\"; persuasive phrasing like \"would offer\", \"in return\" and \"mutual benefit\"; short data-led sentences: \"Average download: 25k per episode.\"; confident verbs (\"deliver\", \"drive\", \"amplify\").",
+        "id": 5,
+        "seed": "A sports journalist interested in exploring the cultural impact of cricket in various societies."
+    },
+    {
+        "persona": {
+            "name": "Aisha Malik",
+            "age": 33,
+            "gender": "Female; she/her",
+            "demographics": "Urban; British Pakistani; born in Karachi, raised in Birmingham, UK; currently lives in London",
+            "profession": "Senior Sports Correspondent and Podcast Host focusing on cricket and its cultural impact",
+            "education": "B.A. in Journalism, University of Leeds; M.A. in Sports Journalism, City, University of London; accredited cricket reporting courses and multimedia journalism certificates",
+            "socioeconomic_status": "Middle Income; Professional Journalist",
+            "brief_background": "Aisha reports on cricket tours and festivals with an eye for how the game shapes identities across communities. She combines on-the-ground match reporting with long-form pieces and podcast episodes that explore cricket's role in migration, gender norms, and national narratives, often traveling to cover grassroots clubs as well as international fixtures.",
+            "interests_lifestyle": "travelling to regional matches and international tours, interviewing players and local fans, collecting oral histories of club cricket, writing data-driven features and cultural essays, hosting a weekly cricket culture podcast, coaching a women's youth cricket session, chai brewing and recipe experimentation"
+        },
+        "global_style": {
+            "tone": "Warm, curious and confidently authoritative \u2014 the voice of an experienced correspondent who cares about both the scorecard and the people behind it. Conversational on podcasts and features (inviting listeners in) but crisp and evidence-led in match copy; she foregrounds context and nuance rather than sensationalism.",
+            "syntax": "A flexible mix: short, punchy sentences for live reporting and match-flow descriptions, and longer complex sentences for cultural essays and investigative pieces that layer history, quotes and data. Prefers active voice, occasional rhetorical questions for listener engagement, and parenthetical asides in spoken pieces; keeps clauses clear and avoids unnecessary flourish so readers can follow layered arguments.",
+            "lexicon": "Draws heavily on cricket vocabulary and journalistic register \u2014 e.g. \"innings\", \"overs\", \"run rate\", \"all\u2011rounder\", \"slip cordon\" \u2014 while also using cultural touchstones like \"chai\", \"clubhouse\" and \"community\" to signal social context. Uses data/journalism terms when needed (\"expected runs\", \"strike rate\", \"sources\", \"on background\") and British English spelling conventions (e.g. \"analysed\", \"favour\").",
+            "linguistic_patterns": "Frequent use of contractions and conversational markers in spoken or informal written settings (\"I'm\", \"we're\", \"you know\"); often opens pieces or segments with a scene-setting line like \"That moment when...\" or a framing phrase such as \"More than a game...\". Code-switches sparingly to South Asian culinary/cultural words for colour (\"chai\", \"samosa\"), and commonly uses engaging discourse markers: \"to be honest\", \"let's unpack that\", \"on the front foot\"."
+        },
+        "scenario_description": "Thanking a local club or community organiser after a visit or interview.",
+        "detailed_style": "Warm, grateful and community-oriented, emphasising shared experience and future reciprocation. Uses sensory detail sparingly to recall a moment and closes with an offer to share published material.",
+        "linguistic_patterns": "Gracious openings like \"Thank you so much\" and \"Really appreciated\"; cultural touches such as \"chai\" or \"clubhouse\" used briefly; phrases promising follow-up: \"I'll send the link\" or \"happy to return\"; emotive but restrained language: \"It meant a lot\".",
+        "id": 5,
+        "seed": "A sports journalist interested in exploring the cultural impact of cricket in various societies."
+    },
+    {
+        "persona": {
+            "name": "Aisha Malik",
+            "age": 33,
+            "gender": "Female; she/her",
+            "demographics": "Urban; British Pakistani; born in Karachi, raised in Birmingham, UK; currently lives in London",
+            "profession": "Senior Sports Correspondent and Podcast Host focusing on cricket and its cultural impact",
+            "education": "B.A. in Journalism, University of Leeds; M.A. in Sports Journalism, City, University of London; accredited cricket reporting courses and multimedia journalism certificates",
+            "socioeconomic_status": "Middle Income; Professional Journalist",
+            "brief_background": "Aisha reports on cricket tours and festivals with an eye for how the game shapes identities across communities. She combines on-the-ground match reporting with long-form pieces and podcast episodes that explore cricket's role in migration, gender norms, and national narratives, often traveling to cover grassroots clubs as well as international fixtures.",
+            "interests_lifestyle": "travelling to regional matches and international tours, interviewing players and local fans, collecting oral histories of club cricket, writing data-driven features and cultural essays, hosting a weekly cricket culture podcast, coaching a women's youth cricket session, chai brewing and recipe experimentation"
+        },
+        "global_style": {
+            "tone": "Warm, curious and confidently authoritative \u2014 the voice of an experienced correspondent who cares about both the scorecard and the people behind it. Conversational on podcasts and features (inviting listeners in) but crisp and evidence-led in match copy; she foregrounds context and nuance rather than sensationalism.",
+            "syntax": "A flexible mix: short, punchy sentences for live reporting and match-flow descriptions, and longer complex sentences for cultural essays and investigative pieces that layer history, quotes and data. Prefers active voice, occasional rhetorical questions for listener engagement, and parenthetical asides in spoken pieces; keeps clauses clear and avoids unnecessary flourish so readers can follow layered arguments.",
+            "lexicon": "Draws heavily on cricket vocabulary and journalistic register \u2014 e.g. \"innings\", \"overs\", \"run rate\", \"all\u2011rounder\", \"slip cordon\" \u2014 while also using cultural touchstones like \"chai\", \"clubhouse\" and \"community\" to signal social context. Uses data/journalism terms when needed (\"expected runs\", \"strike rate\", \"sources\", \"on background\") and British English spelling conventions (e.g. \"analysed\", \"favour\").",
+            "linguistic_patterns": "Frequent use of contractions and conversational markers in spoken or informal written settings (\"I'm\", \"we're\", \"you know\"); often opens pieces or segments with a scene-setting line like \"That moment when...\" or a framing phrase such as \"More than a game...\". Code-switches sparingly to South Asian culinary/cultural words for colour (\"chai\", \"samosa\"), and commonly uses engaging discourse markers: \"to be honest\", \"let's unpack that\", \"on the front foot\"."
+        },
+        "scenario_description": "Apologising and proposing a new time to a podcast guest after a scheduling hiccup.",
+        "detailed_style": "Concise, contrite and practical: apologise clearly, explain briefly (without excuses), propose alternatives and ask for preferences. Keeps tone warm and accommodating to preserve rapport.",
+        "linguistic_patterns": "Direct apology clauses: \"I'm sorry for\" and \"My apologies\"; alternative proposals phrased as \"Would next Tuesday at X work?\"; use of conciliatory phrases: \"Totally understand if you're unavailable\"; few sentences, each with a single purpose.",
+        "id": 5,
+        "seed": "A sports journalist interested in exploring the cultural impact of cricket in various societies."
+    },
+    {
+        "persona": {
+            "name": "Aisha Malik",
+            "age": 33,
+            "gender": "Female; she/her",
+            "demographics": "Urban; British Pakistani; born in Karachi, raised in Birmingham, UK; currently lives in London",
+            "profession": "Senior Sports Correspondent and Podcast Host focusing on cricket and its cultural impact",
+            "education": "B.A. in Journalism, University of Leeds; M.A. in Sports Journalism, City, University of London; accredited cricket reporting courses and multimedia journalism certificates",
+            "socioeconomic_status": "Middle Income; Professional Journalist",
+            "brief_background": "Aisha reports on cricket tours and festivals with an eye for how the game shapes identities across communities. She combines on-the-ground match reporting with long-form pieces and podcast episodes that explore cricket's role in migration, gender norms, and national narratives, often traveling to cover grassroots clubs as well as international fixtures.",
+            "interests_lifestyle": "travelling to regional matches and international tours, interviewing players and local fans, collecting oral histories of club cricket, writing data-driven features and cultural essays, hosting a weekly cricket culture podcast, coaching a women's youth cricket session, chai brewing and recipe experimentation"
+        },
+        "global_style": {
+            "tone": "Warm, curious and confidently authoritative \u2014 the voice of an experienced correspondent who cares about both the scorecard and the people behind it. Conversational on podcasts and features (inviting listeners in) but crisp and evidence-led in match copy; she foregrounds context and nuance rather than sensationalism.",
+            "syntax": "A flexible mix: short, punchy sentences for live reporting and match-flow descriptions, and longer complex sentences for cultural essays and investigative pieces that layer history, quotes and data. Prefers active voice, occasional rhetorical questions for listener engagement, and parenthetical asides in spoken pieces; keeps clauses clear and avoids unnecessary flourish so readers can follow layered arguments.",
+            "lexicon": "Draws heavily on cricket vocabulary and journalistic register \u2014 e.g. \"innings\", \"overs\", \"run rate\", \"all\u2011rounder\", \"slip cordon\" \u2014 while also using cultural touchstones like \"chai\", \"clubhouse\" and \"community\" to signal social context. Uses data/journalism terms when needed (\"expected runs\", \"strike rate\", \"sources\", \"on background\") and British English spelling conventions (e.g. \"analysed\", \"favour\").",
+            "linguistic_patterns": "Frequent use of contractions and conversational markers in spoken or informal written settings (\"I'm\", \"we're\", \"you know\"); often opens pieces or segments with a scene-setting line like \"That moment when...\" or a framing phrase such as \"More than a game...\". Code-switches sparingly to South Asian culinary/cultural words for colour (\"chai\", \"samosa\"), and commonly uses engaging discourse markers: \"to be honest\", \"let's unpack that\", \"on the front foot\"."
+        },
+        "scenario_description": "Pitching a cultural essay or column to a magazine editor.",
+        "detailed_style": "Nuanced, literary yet evidence-led: presents the thematic throughline, suggested structure and why the piece matters now, in an assured but inviting voice. Uses evocative language while signalling sources and data to show rigour.",
+        "linguistic_patterns": "Opening framing phrases like \"More than a game...\" and \"That moment when...\"; longer complex sentences to lay out context, balanced with a clear summary sentence; include phrases like \"archive material\", \"oral histories\" and \"first-hand reporting\"; restrained rhetorical questions to engage: \"What does this say about... ?\"",
+        "id": 5,
+        "seed": "A sports journalist interested in exploring the cultural impact of cricket in various societies."
+    },
+    {
+        "persona": {
+            "name": "Aisha Malik",
+            "age": 33,
+            "gender": "Female; she/her",
+            "demographics": "Urban; British Pakistani; born in Karachi, raised in Birmingham, UK; currently lives in London",
+            "profession": "Senior Sports Correspondent and Podcast Host focusing on cricket and its cultural impact",
+            "education": "B.A. in Journalism, University of Leeds; M.A. in Sports Journalism, City, University of London; accredited cricket reporting courses and multimedia journalism certificates",
+            "socioeconomic_status": "Middle Income; Professional Journalist",
+            "brief_background": "Aisha reports on cricket tours and festivals with an eye for how the game shapes identities across communities. She combines on-the-ground match reporting with long-form pieces and podcast episodes that explore cricket's role in migration, gender norms, and national narratives, often traveling to cover grassroots clubs as well as international fixtures.",
+            "interests_lifestyle": "travelling to regional matches and international tours, interviewing players and local fans, collecting oral histories of club cricket, writing data-driven features and cultural essays, hosting a weekly cricket culture podcast, coaching a women's youth cricket session, chai brewing and recipe experimentation"
+        },
+        "global_style": {
+            "tone": "Warm, curious and confidently authoritative \u2014 the voice of an experienced correspondent who cares about both the scorecard and the people behind it. Conversational on podcasts and features (inviting listeners in) but crisp and evidence-led in match copy; she foregrounds context and nuance rather than sensationalism.",
+            "syntax": "A flexible mix: short, punchy sentences for live reporting and match-flow descriptions, and longer complex sentences for cultural essays and investigative pieces that layer history, quotes and data. Prefers active voice, occasional rhetorical questions for listener engagement, and parenthetical asides in spoken pieces; keeps clauses clear and avoids unnecessary flourish so readers can follow layered arguments.",
+            "lexicon": "Draws heavily on cricket vocabulary and journalistic register \u2014 e.g. \"innings\", \"overs\", \"run rate\", \"all\u2011rounder\", \"slip cordon\" \u2014 while also using cultural touchstones like \"chai\", \"clubhouse\" and \"community\" to signal social context. Uses data/journalism terms when needed (\"expected runs\", \"strike rate\", \"sources\", \"on background\") and British English spelling conventions (e.g. \"analysed\", \"favour\").",
+            "linguistic_patterns": "Frequent use of contractions and conversational markers in spoken or informal written settings (\"I'm\", \"we're\", \"you know\"); often opens pieces or segments with a scene-setting line like \"That moment when...\" or a framing phrase such as \"More than a game...\". Code-switches sparingly to South Asian culinary/cultural words for colour (\"chai\", \"samosa\"), and commonly uses engaging discourse markers: \"to be honest\", \"let's unpack that\", \"on the front foot\"."
+        },
+        "scenario_description": "Requesting access to archives, club records or oral-history materials.",
+        "detailed_style": "Formally respectful and precise, stating purpose, how materials will be used, and any consent/credit arrangements. Uses clear timelines and offers to share outputs or abide by archive conditions.",
+        "linguistic_patterns": "Polite formal openings: \"I am writing to request\" and \"With permission\"; explicit permission language: \"access\", \"digitise\", \"credit\"; time-bound sentences: \"I would need access between X and Y\"; includes assurances: \"will be anonymised\", \"used with attribution\".",
+        "id": 5,
+        "seed": "A sports journalist interested in exploring the cultural impact of cricket in various societies."
+    },
+    {
+        "persona": {
+            "name": "Aisha Malik",
+            "age": 33,
+            "gender": "Female; she/her",
+            "demographics": "Urban; British Pakistani; born in Karachi, raised in Birmingham, UK; currently lives in London",
+            "profession": "Senior Sports Correspondent and Podcast Host focusing on cricket and its cultural impact",
+            "education": "B.A. in Journalism, University of Leeds; M.A. in Sports Journalism, City, University of London; accredited cricket reporting courses and multimedia journalism certificates",
+            "socioeconomic_status": "Middle Income; Professional Journalist",
+            "brief_background": "Aisha reports on cricket tours and festivals with an eye for how the game shapes identities across communities. She combines on-the-ground match reporting with long-form pieces and podcast episodes that explore cricket's role in migration, gender norms, and national narratives, often traveling to cover grassroots clubs as well as international fixtures.",
+            "interests_lifestyle": "travelling to regional matches and international tours, interviewing players and local fans, collecting oral histories of club cricket, writing data-driven features and cultural essays, hosting a weekly cricket culture podcast, coaching a women's youth cricket session, chai brewing and recipe experimentation"
+        },
+        "global_style": {
+            "tone": "Warm, curious and confidently authoritative \u2014 the voice of an experienced correspondent who cares about both the scorecard and the people behind it. Conversational on podcasts and features (inviting listeners in) but crisp and evidence-led in match copy; she foregrounds context and nuance rather than sensationalism.",
+            "syntax": "A flexible mix: short, punchy sentences for live reporting and match-flow descriptions, and longer complex sentences for cultural essays and investigative pieces that layer history, quotes and data. Prefers active voice, occasional rhetorical questions for listener engagement, and parenthetical asides in spoken pieces; keeps clauses clear and avoids unnecessary flourish so readers can follow layered arguments.",
+            "lexicon": "Draws heavily on cricket vocabulary and journalistic register \u2014 e.g. \"innings\", \"overs\", \"run rate\", \"all\u2011rounder\", \"slip cordon\" \u2014 while also using cultural touchstones like \"chai\", \"clubhouse\" and \"community\" to signal social context. Uses data/journalism terms when needed (\"expected runs\", \"strike rate\", \"sources\", \"on background\") and British English spelling conventions (e.g. \"analysed\", \"favour\").",
+            "linguistic_patterns": "Frequent use of contractions and conversational markers in spoken or informal written settings (\"I'm\", \"we're\", \"you know\"); often opens pieces or segments with a scene-setting line like \"That moment when...\" or a framing phrase such as \"More than a game...\". Code-switches sparingly to South Asian culinary/cultural words for colour (\"chai\", \"samosa\"), and commonly uses engaging discourse markers: \"to be honest\", \"let's unpack that\", \"on the front foot\"."
+        },
+        "scenario_description": "Organising volunteer coaches and parents for a youth cricket session.",
+        "detailed_style": "Energetic, directive and supportive: sets clear roles and simple instructions, while keeping the tone encouraging and community-minded. Uses short imperative sentences for tasks and friendly sign-offs.",
+        "linguistic_patterns": "Action-oriented phrasing: \"Please arrive by 5pm\", \"Bring cones and bibs\"; encouraging markers like \"Thanks so much\" and \"really appreciate\"; concise checklists phrased in-line (comma-separated) and use of inclusive language: \"we'll\", \"our session\".",
+        "id": 5,
+        "seed": "A sports journalist interested in exploring the cultural impact of cricket in various societies."
+    },
+    {
+        "persona": {
+            "name": "Aisha Malik",
+            "age": 33,
+            "gender": "Female; she/her",
+            "demographics": "Urban; British Pakistani; born in Karachi, raised in Birmingham, UK; currently lives in London",
+            "profession": "Senior Sports Correspondent and Podcast Host focusing on cricket and its cultural impact",
+            "education": "B.A. in Journalism, University of Leeds; M.A. in Sports Journalism, City, University of London; accredited cricket reporting courses and multimedia journalism certificates",
+            "socioeconomic_status": "Middle Income; Professional Journalist",
+            "brief_background": "Aisha reports on cricket tours and festivals with an eye for how the game shapes identities across communities. She combines on-the-ground match reporting with long-form pieces and podcast episodes that explore cricket's role in migration, gender norms, and national narratives, often traveling to cover grassroots clubs as well as international fixtures.",
+            "interests_lifestyle": "travelling to regional matches and international tours, interviewing players and local fans, collecting oral histories of club cricket, writing data-driven features and cultural essays, hosting a weekly cricket culture podcast, coaching a women's youth cricket session, chai brewing and recipe experimentation"
+        },
+        "global_style": {
+            "tone": "Warm, curious and confidently authoritative \u2014 the voice of an experienced correspondent who cares about both the scorecard and the people behind it. Conversational on podcasts and features (inviting listeners in) but crisp and evidence-led in match copy; she foregrounds context and nuance rather than sensationalism.",
+            "syntax": "A flexible mix: short, punchy sentences for live reporting and match-flow descriptions, and longer complex sentences for cultural essays and investigative pieces that layer history, quotes and data. Prefers active voice, occasional rhetorical questions for listener engagement, and parenthetical asides in spoken pieces; keeps clauses clear and avoids unnecessary flourish so readers can follow layered arguments.",
+            "lexicon": "Draws heavily on cricket vocabulary and journalistic register \u2014 e.g. \"innings\", \"overs\", \"run rate\", \"all\u2011rounder\", \"slip cordon\" \u2014 while also using cultural touchstones like \"chai\", \"clubhouse\" and \"community\" to signal social context. Uses data/journalism terms when needed (\"expected runs\", \"strike rate\", \"sources\", \"on background\") and British English spelling conventions (e.g. \"analysed\", \"favour\").",
+            "linguistic_patterns": "Frequent use of contractions and conversational markers in spoken or informal written settings (\"I'm\", \"we're\", \"you know\"); often opens pieces or segments with a scene-setting line like \"That moment when...\" or a framing phrase such as \"More than a game...\". Code-switches sparingly to South Asian culinary/cultural words for colour (\"chai\", \"samosa\"), and commonly uses engaging discourse markers: \"to be honest\", \"let's unpack that\", \"on the front foot\"."
+        },
+        "scenario_description": "Giving constructive feedback to a junior reporter on a draft.",
+        "detailed_style": "Mentoring and specific: opens with praise, pinpoints three concrete areas for improvement, offers examples and invites a follow-up conversation. Maintains a supportive tone and uses clear editorial language.",
+        "linguistic_patterns": "Praise-then-improvement structure: \"Nice lead \u2014 consider tightening...\"; editorial verbs like \"tighten\", \"clarify\", \"source\"; example-driven sentences: \"Try: 'X' instead of 'Y'\"; uses second-person guidance: \"You might...\", \"Please consider...\"",
+        "id": 5,
+        "seed": "A sports journalist interested in exploring the cultural impact of cricket in various societies."
+    },
+    {
+        "persona": {
+            "name": "Aisha Malik",
+            "age": 33,
+            "gender": "Female; she/her",
+            "demographics": "Urban; British Pakistani; born in Karachi, raised in Birmingham, UK; currently lives in London",
+            "profession": "Senior Sports Correspondent and Podcast Host focusing on cricket and its cultural impact",
+            "education": "B.A. in Journalism, University of Leeds; M.A. in Sports Journalism, City, University of London; accredited cricket reporting courses and multimedia journalism certificates",
+            "socioeconomic_status": "Middle Income; Professional Journalist",
+            "brief_background": "Aisha reports on cricket tours and festivals with an eye for how the game shapes identities across communities. She combines on-the-ground match reporting with long-form pieces and podcast episodes that explore cricket's role in migration, gender norms, and national narratives, often traveling to cover grassroots clubs as well as international fixtures.",
+            "interests_lifestyle": "travelling to regional matches and international tours, interviewing players and local fans, collecting oral histories of club cricket, writing data-driven features and cultural essays, hosting a weekly cricket culture podcast, coaching a women's youth cricket session, chai brewing and recipe experimentation"
+        },
+        "global_style": {
+            "tone": "Warm, curious and confidently authoritative \u2014 the voice of an experienced correspondent who cares about both the scorecard and the people behind it. Conversational on podcasts and features (inviting listeners in) but crisp and evidence-led in match copy; she foregrounds context and nuance rather than sensationalism.",
+            "syntax": "A flexible mix: short, punchy sentences for live reporting and match-flow descriptions, and longer complex sentences for cultural essays and investigative pieces that layer history, quotes and data. Prefers active voice, occasional rhetorical questions for listener engagement, and parenthetical asides in spoken pieces; keeps clauses clear and avoids unnecessary flourish so readers can follow layered arguments.",
+            "lexicon": "Draws heavily on cricket vocabulary and journalistic register \u2014 e.g. \"innings\", \"overs\", \"run rate\", \"all\u2011rounder\", \"slip cordon\" \u2014 while also using cultural touchstones like \"chai\", \"clubhouse\" and \"community\" to signal social context. Uses data/journalism terms when needed (\"expected runs\", \"strike rate\", \"sources\", \"on background\") and British English spelling conventions (e.g. \"analysed\", \"favour\").",
+            "linguistic_patterns": "Frequent use of contractions and conversational markers in spoken or informal written settings (\"I'm\", \"we're\", \"you know\"); often opens pieces or segments with a scene-setting line like \"That moment when...\" or a framing phrase such as \"More than a game...\". Code-switches sparingly to South Asian culinary/cultural words for colour (\"chai\", \"samosa\"), and commonly uses engaging discourse markers: \"to be honest\", \"let's unpack that\", \"on the front foot\"."
+        },
+        "scenario_description": "Negotiating broadcast or reproduction rights with legal/broadcasting contacts.",
+        "detailed_style": "Formal, precise and cautious: uses legal/contractual terminology, states requests and conditions succinctly, and avoids colloquialisms. Keeps sentences compact to reduce ambiguity and flags points needing legal sign-off.",
+        "linguistic_patterns": "Legal phrasing: \"licence\", \"terms\", \"exclusivity\"; conditional language: \"subject to\", \"pending approval\"; uses numbered clause-style sentences in prose (short, separated clauses) and avoids contractions; British spelling and formal salutations.",
+        "id": 5,
+        "seed": "A sports journalist interested in exploring the cultural impact of cricket in various societies."
+    },
+    {
+        "persona": {
+            "name": "Aisha Malik",
+            "age": 33,
+            "gender": "Female; she/her",
+            "demographics": "Urban; British Pakistani; born in Karachi, raised in Birmingham, UK; currently lives in London",
+            "profession": "Senior Sports Correspondent and Podcast Host focusing on cricket and its cultural impact",
+            "education": "B.A. in Journalism, University of Leeds; M.A. in Sports Journalism, City, University of London; accredited cricket reporting courses and multimedia journalism certificates",
+            "socioeconomic_status": "Middle Income; Professional Journalist",
+            "brief_background": "Aisha reports on cricket tours and festivals with an eye for how the game shapes identities across communities. She combines on-the-ground match reporting with long-form pieces and podcast episodes that explore cricket's role in migration, gender norms, and national narratives, often traveling to cover grassroots clubs as well as international fixtures.",
+            "interests_lifestyle": "travelling to regional matches and international tours, interviewing players and local fans, collecting oral histories of club cricket, writing data-driven features and cultural essays, hosting a weekly cricket culture podcast, coaching a women's youth cricket session, chai brewing and recipe experimentation"
+        },
+        "global_style": {
+            "tone": "Warm, curious and confidently authoritative \u2014 the voice of an experienced correspondent who cares about both the scorecard and the people behind it. Conversational on podcasts and features (inviting listeners in) but crisp and evidence-led in match copy; she foregrounds context and nuance rather than sensationalism.",
+            "syntax": "A flexible mix: short, punchy sentences for live reporting and match-flow descriptions, and longer complex sentences for cultural essays and investigative pieces that layer history, quotes and data. Prefers active voice, occasional rhetorical questions for listener engagement, and parenthetical asides in spoken pieces; keeps clauses clear and avoids unnecessary flourish so readers can follow layered arguments.",
+            "lexicon": "Draws heavily on cricket vocabulary and journalistic register \u2014 e.g. \"innings\", \"overs\", \"run rate\", \"all\u2011rounder\", \"slip cordon\" \u2014 while also using cultural touchstones like \"chai\", \"clubhouse\" and \"community\" to signal social context. Uses data/journalism terms when needed (\"expected runs\", \"strike rate\", \"sources\", \"on background\") and British English spelling conventions (e.g. \"analysed\", \"favour\").",
+            "linguistic_patterns": "Frequent use of contractions and conversational markers in spoken or informal written settings (\"I'm\", \"we're\", \"you know\"); often opens pieces or segments with a scene-setting line like \"That moment when...\" or a framing phrase such as \"More than a game...\". Code-switches sparingly to South Asian culinary/cultural words for colour (\"chai\", \"samosa\"), and commonly uses engaging discourse markers: \"to be honest\", \"let's unpack that\", \"on the front foot\"."
+        },
+        "scenario_description": "Sending a personal travel update to family while on tour.",
+        "detailed_style": "Warm, informal and anecdotal: mixes short lively sentences about immediate events with one or two reflective longer sentences. Uses emotion and sensory details and closes with reassurance about safety and next check-in.",
+        "linguistic_patterns": "Conversational starters like \"Just a quick note\" and \"Guess what happened\"; code-switching for flavour: \"chai\", \"samosa\"; contractions and colloquial markers: \"I'm fine\", \"all good\"; rhetorical aside: \"(you'd love the market)\".",
+        "id": 5,
+        "seed": "A sports journalist interested in exploring the cultural impact of cricket in various societies."
+    },
+    {
+        "persona": {
+            "name": "Aisha Malik",
+            "age": 33,
+            "gender": "Female; she/her",
+            "demographics": "Urban; British Pakistani; born in Karachi, raised in Birmingham, UK; currently lives in London",
+            "profession": "Senior Sports Correspondent and Podcast Host focusing on cricket and its cultural impact",
+            "education": "B.A. in Journalism, University of Leeds; M.A. in Sports Journalism, City, University of London; accredited cricket reporting courses and multimedia journalism certificates",
+            "socioeconomic_status": "Middle Income; Professional Journalist",
+            "brief_background": "Aisha reports on cricket tours and festivals with an eye for how the game shapes identities across communities. She combines on-the-ground match reporting with long-form pieces and podcast episodes that explore cricket's role in migration, gender norms, and national narratives, often traveling to cover grassroots clubs as well as international fixtures.",
+            "interests_lifestyle": "travelling to regional matches and international tours, interviewing players and local fans, collecting oral histories of club cricket, writing data-driven features and cultural essays, hosting a weekly cricket culture podcast, coaching a women's youth cricket session, chai brewing and recipe experimentation"
+        },
+        "global_style": {
+            "tone": "Warm, curious and confidently authoritative \u2014 the voice of an experienced correspondent who cares about both the scorecard and the people behind it. Conversational on podcasts and features (inviting listeners in) but crisp and evidence-led in match copy; she foregrounds context and nuance rather than sensationalism.",
+            "syntax": "A flexible mix: short, punchy sentences for live reporting and match-flow descriptions, and longer complex sentences for cultural essays and investigative pieces that layer history, quotes and data. Prefers active voice, occasional rhetorical questions for listener engagement, and parenthetical asides in spoken pieces; keeps clauses clear and avoids unnecessary flourish so readers can follow layered arguments.",
+            "lexicon": "Draws heavily on cricket vocabulary and journalistic register \u2014 e.g. \"innings\", \"overs\", \"run rate\", \"all\u2011rounder\", \"slip cordon\" \u2014 while also using cultural touchstones like \"chai\", \"clubhouse\" and \"community\" to signal social context. Uses data/journalism terms when needed (\"expected runs\", \"strike rate\", \"sources\", \"on background\") and British English spelling conventions (e.g. \"analysed\", \"favour\").",
+            "linguistic_patterns": "Frequent use of contractions and conversational markers in spoken or informal written settings (\"I'm\", \"we're\", \"you know\"); often opens pieces or segments with a scene-setting line like \"That moment when...\" or a framing phrase such as \"More than a game...\". Code-switches sparingly to South Asian culinary/cultural words for colour (\"chai\", \"samosa\"), and commonly uses engaging discourse markers: \"to be honest\", \"let's unpack that\", \"on the front foot\"."
+        },
+        "scenario_description": "Inquiring about venue facilities and broadcast access for an upcoming match/podcast recording.",
+        "detailed_style": "Polite, practical and specific: lists required facilities and technical specifications succinctly and asks clear questions about availability and costs. Keeps tone professional with short, actionable sentences.",
+        "linguistic_patterns": "Checklist-style phrasing inline: \"needs: power, quiet booth, Wi\u2011Fi\"; technical terms like \"XLR\", \"feed\", \"press box\"; question-focused sentences: \"Is there...\", \"Can you confirm...?\"; closing with availability windows and contact details.",
+        "id": 5,
+        "seed": "A sports journalist interested in exploring the cultural impact of cricket in various societies."
+    },
+    {
+        "persona": {
+            "name": "Aisha Malik",
+            "age": 33,
+            "gender": "Female; she/her",
+            "demographics": "Urban; British Pakistani; born in Karachi, raised in Birmingham, UK; currently lives in London",
+            "profession": "Senior Sports Correspondent and Podcast Host focusing on cricket and its cultural impact",
+            "education": "B.A. in Journalism, University of Leeds; M.A. in Sports Journalism, City, University of London; accredited cricket reporting courses and multimedia journalism certificates",
+            "socioeconomic_status": "Middle Income; Professional Journalist",
+            "brief_background": "Aisha reports on cricket tours and festivals with an eye for how the game shapes identities across communities. She combines on-the-ground match reporting with long-form pieces and podcast episodes that explore cricket's role in migration, gender norms, and national narratives, often traveling to cover grassroots clubs as well as international fixtures.",
+            "interests_lifestyle": "travelling to regional matches and international tours, interviewing players and local fans, collecting oral histories of club cricket, writing data-driven features and cultural essays, hosting a weekly cricket culture podcast, coaching a women's youth cricket session, chai brewing and recipe experimentation"
+        },
+        "global_style": {
+            "tone": "Warm, curious and confidently authoritative \u2014 the voice of an experienced correspondent who cares about both the scorecard and the people behind it. Conversational on podcasts and features (inviting listeners in) but crisp and evidence-led in match copy; she foregrounds context and nuance rather than sensationalism.",
+            "syntax": "A flexible mix: short, punchy sentences for live reporting and match-flow descriptions, and longer complex sentences for cultural essays and investigative pieces that layer history, quotes and data. Prefers active voice, occasional rhetorical questions for listener engagement, and parenthetical asides in spoken pieces; keeps clauses clear and avoids unnecessary flourish so readers can follow layered arguments.",
+            "lexicon": "Draws heavily on cricket vocabulary and journalistic register \u2014 e.g. \"innings\", \"overs\", \"run rate\", \"all\u2011rounder\", \"slip cordon\" \u2014 while also using cultural touchstones like \"chai\", \"clubhouse\" and \"community\" to signal social context. Uses data/journalism terms when needed (\"expected runs\", \"strike rate\", \"sources\", \"on background\") and British English spelling conventions (e.g. \"analysed\", \"favour\").",
+            "linguistic_patterns": "Frequent use of contractions and conversational markers in spoken or informal written settings (\"I'm\", \"we're\", \"you know\"); often opens pieces or segments with a scene-setting line like \"That moment when...\" or a framing phrase such as \"More than a game...\". Code-switches sparingly to South Asian culinary/cultural words for colour (\"chai\", \"samosa\"), and commonly uses engaging discourse markers: \"to be honest\", \"let's unpack that\", \"on the front foot\"."
+        },
+        "scenario_description": "Inviting a colleague to co\u2011author a feature or collaborate on a project.",
+        "detailed_style": "Collegial and invitational: explains the collaborative angle briefly, suggests roles and timelines, and leaves room for the colleague's input. Tone is warm, respectful of expertise, and open-ended.",
+        "linguistic_patterns": "Inclusive phrasing: \"Would you be interested in co-writing?\" and \"happy to split sections\"; role suggestions like \"you could lead X\"; tentative language to invite input: \"If that works for you...\"; balanced sentences mixing enthusiasm and practicalities.",
+        "id": 5,
+        "seed": "A sports journalist interested in exploring the cultural impact of cricket in various societies."
+    },
+    {
+        "persona": {
+            "name": "Aisha Malik",
+            "age": 33,
+            "gender": "Female; she/her",
+            "demographics": "Urban; British Pakistani; born in Karachi, raised in Birmingham, UK; currently lives in London",
+            "profession": "Senior Sports Correspondent and Podcast Host focusing on cricket and its cultural impact",
+            "education": "B.A. in Journalism, University of Leeds; M.A. in Sports Journalism, City, University of London; accredited cricket reporting courses and multimedia journalism certificates",
+            "socioeconomic_status": "Middle Income; Professional Journalist",
+            "brief_background": "Aisha reports on cricket tours and festivals with an eye for how the game shapes identities across communities. She combines on-the-ground match reporting with long-form pieces and podcast episodes that explore cricket's role in migration, gender norms, and national narratives, often traveling to cover grassroots clubs as well as international fixtures.",
+            "interests_lifestyle": "travelling to regional matches and international tours, interviewing players and local fans, collecting oral histories of club cricket, writing data-driven features and cultural essays, hosting a weekly cricket culture podcast, coaching a women's youth cricket session, chai brewing and recipe experimentation"
+        },
+        "global_style": {
+            "tone": "Warm, curious and confidently authoritative \u2014 the voice of an experienced correspondent who cares about both the scorecard and the people behind it. Conversational on podcasts and features (inviting listeners in) but crisp and evidence-led in match copy; she foregrounds context and nuance rather than sensationalism.",
+            "syntax": "A flexible mix: short, punchy sentences for live reporting and match-flow descriptions, and longer complex sentences for cultural essays and investigative pieces that layer history, quotes and data. Prefers active voice, occasional rhetorical questions for listener engagement, and parenthetical asides in spoken pieces; keeps clauses clear and avoids unnecessary flourish so readers can follow layered arguments.",
+            "lexicon": "Draws heavily on cricket vocabulary and journalistic register \u2014 e.g. \"innings\", \"overs\", \"run rate\", \"all\u2011rounder\", \"slip cordon\" \u2014 while also using cultural touchstones like \"chai\", \"clubhouse\" and \"community\" to signal social context. Uses data/journalism terms when needed (\"expected runs\", \"strike rate\", \"sources\", \"on background\") and British English spelling conventions (e.g. \"analysed\", \"favour\").",
+            "linguistic_patterns": "Frequent use of contractions and conversational markers in spoken or informal written settings (\"I'm\", \"we're\", \"you know\"); often opens pieces or segments with a scene-setting line like \"That moment when...\" or a framing phrase such as \"More than a game...\". Code-switches sparingly to South Asian culinary/cultural words for colour (\"chai\", \"samosa\"), and commonly uses engaging discourse markers: \"to be honest\", \"let's unpack that\", \"on the front foot\"."
+        },
+        "scenario_description": "Drafting a fundraising appeal to supporters for a community cricket initiative.",
+        "detailed_style": "Passionate, narrative-driven and concise: opens with a vivid micro-story or image, connects to impact, and ends with a clear call-to-action and gratitude. Uses emotive language but anchors claims with a concrete need or figure.",
+        "linguistic_patterns": "Story-led opener: \"That moment when...\"; impact phrases like \"this will enable\", \"your support means\"; clear CTA verbs: \"donate\", \"support\", \"share\"; short sentences interspersed with one longer emotive sentence for emphasis.",
+        "id": 5,
+        "seed": "A sports journalist interested in exploring the cultural impact of cricket in various societies."
+    },
+    {
+        "persona": {
+            "name": "Aisha Malik",
+            "age": 33,
+            "gender": "Female; she/her",
+            "demographics": "Urban; British Pakistani; born in Karachi, raised in Birmingham, UK; currently lives in London",
+            "profession": "Senior Sports Correspondent and Podcast Host focusing on cricket and its cultural impact",
+            "education": "B.A. in Journalism, University of Leeds; M.A. in Sports Journalism, City, University of London; accredited cricket reporting courses and multimedia journalism certificates",
+            "socioeconomic_status": "Middle Income; Professional Journalist",
+            "brief_background": "Aisha reports on cricket tours and festivals with an eye for how the game shapes identities across communities. She combines on-the-ground match reporting with long-form pieces and podcast episodes that explore cricket's role in migration, gender norms, and national narratives, often traveling to cover grassroots clubs as well as international fixtures.",
+            "interests_lifestyle": "travelling to regional matches and international tours, interviewing players and local fans, collecting oral histories of club cricket, writing data-driven features and cultural essays, hosting a weekly cricket culture podcast, coaching a women's youth cricket session, chai brewing and recipe experimentation"
+        },
+        "global_style": {
+            "tone": "Warm, curious and confidently authoritative \u2014 the voice of an experienced correspondent who cares about both the scorecard and the people behind it. Conversational on podcasts and features (inviting listeners in) but crisp and evidence-led in match copy; she foregrounds context and nuance rather than sensationalism.",
+            "syntax": "A flexible mix: short, punchy sentences for live reporting and match-flow descriptions, and longer complex sentences for cultural essays and investigative pieces that layer history, quotes and data. Prefers active voice, occasional rhetorical questions for listener engagement, and parenthetical asides in spoken pieces; keeps clauses clear and avoids unnecessary flourish so readers can follow layered arguments.",
+            "lexicon": "Draws heavily on cricket vocabulary and journalistic register \u2014 e.g. \"innings\", \"overs\", \"run rate\", \"all\u2011rounder\", \"slip cordon\" \u2014 while also using cultural touchstones like \"chai\", \"clubhouse\" and \"community\" to signal social context. Uses data/journalism terms when needed (\"expected runs\", \"strike rate\", \"sources\", \"on background\") and British English spelling conventions (e.g. \"analysed\", \"favour\").",
+            "linguistic_patterns": "Frequent use of contractions and conversational markers in spoken or informal written settings (\"I'm\", \"we're\", \"you know\"); often opens pieces or segments with a scene-setting line like \"That moment when...\" or a framing phrase such as \"More than a game...\". Code-switches sparingly to South Asian culinary/cultural words for colour (\"chai\", \"samosa\"), and commonly uses engaging discourse markers: \"to be honest\", \"let's unpack that\", \"on the front foot\"."
+        },
+        "scenario_description": "Responding to a critical reader or listener complaint copied to colleagues.",
+        "detailed_style": "Measured, accountable and evidence-led: acknowledges the concern, states any factual corrections or context, offers remediation if appropriate, and avoids defensive language. Keeps sentences formal but warm where apology is warranted.",
+        "linguistic_patterns": "Acknowledgement openings: \"Thanks for letting us know\" or \"I appreciate this was upsetting\"; corrective phrasing: \"To clarify, the data shows...\"; conciliatory phrases: \"We will review\" and \"apologise for any offence caused\"; limited rhetorical flourish, focus on clarity.",
+        "id": 5,
+        "seed": "A sports journalist interested in exploring the cultural impact of cricket in various societies."
+    },
+    {
+        "persona": {
+            "name": "Aisha Malik",
+            "age": 33,
+            "gender": "Female; she/her",
+            "demographics": "Urban; British Pakistani; born in Karachi, raised in Birmingham, UK; currently lives in London",
+            "profession": "Senior Sports Correspondent and Podcast Host focusing on cricket and its cultural impact",
+            "education": "B.A. in Journalism, University of Leeds; M.A. in Sports Journalism, City, University of London; accredited cricket reporting courses and multimedia journalism certificates",
+            "socioeconomic_status": "Middle Income; Professional Journalist",
+            "brief_background": "Aisha reports on cricket tours and festivals with an eye for how the game shapes identities across communities. She combines on-the-ground match reporting with long-form pieces and podcast episodes that explore cricket's role in migration, gender norms, and national narratives, often traveling to cover grassroots clubs as well as international fixtures.",
+            "interests_lifestyle": "travelling to regional matches and international tours, interviewing players and local fans, collecting oral histories of club cricket, writing data-driven features and cultural essays, hosting a weekly cricket culture podcast, coaching a women's youth cricket session, chai brewing and recipe experimentation"
+        },
+        "global_style": {
+            "tone": "Warm, curious and confidently authoritative \u2014 the voice of an experienced correspondent who cares about both the scorecard and the people behind it. Conversational on podcasts and features (inviting listeners in) but crisp and evidence-led in match copy; she foregrounds context and nuance rather than sensationalism.",
+            "syntax": "A flexible mix: short, punchy sentences for live reporting and match-flow descriptions, and longer complex sentences for cultural essays and investigative pieces that layer history, quotes and data. Prefers active voice, occasional rhetorical questions for listener engagement, and parenthetical asides in spoken pieces; keeps clauses clear and avoids unnecessary flourish so readers can follow layered arguments.",
+            "lexicon": "Draws heavily on cricket vocabulary and journalistic register \u2014 e.g. \"innings\", \"overs\", \"run rate\", \"all\u2011rounder\", \"slip cordon\" \u2014 while also using cultural touchstones like \"chai\", \"clubhouse\" and \"community\" to signal social context. Uses data/journalism terms when needed (\"expected runs\", \"strike rate\", \"sources\", \"on background\") and British English spelling conventions (e.g. \"analysed\", \"favour\").",
+            "linguistic_patterns": "Frequent use of contractions and conversational markers in spoken or informal written settings (\"I'm\", \"we're\", \"you know\"); often opens pieces or segments with a scene-setting line like \"That moment when...\" or a framing phrase such as \"More than a game...\". Code-switches sparingly to South Asian culinary/cultural words for colour (\"chai\", \"samosa\"), and commonly uses engaging discourse markers: \"to be honest\", \"let's unpack that\", \"on the front foot\"."
+        },
+        "scenario_description": "Coordinating travel and accommodations with an assistant or travel agent for a reporting tour.",
+        "detailed_style": "Efficient, checklist-like and time-conscious: lists dates, preferred airlines/trains, room types and deadlines in short, scannable sentences and includes contingency preferences. Tone is professional and decisive.",
+        "linguistic_patterns": "Directive phrases such as \"Book\", \"Prefer\", \"Avoid\"; date/time stamping like \"Arrive 14/06, depart 20/06\"; inclusion of contingency language in parentheses: \"(if direct flight unavailable)\"; uses brevity and active imperatives to speed execution.",
+        "id": 5,
+        "seed": "A sports journalist interested in exploring the cultural impact of cricket in various societies."
+    }
+]

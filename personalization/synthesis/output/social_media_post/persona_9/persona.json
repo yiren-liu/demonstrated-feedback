@@ -1,0 +1,21 @@
+{
+    "id": 9,
+    "seed": "A music producer with experience in Latin rhythms and fusion, curious about the integration of various cultural influences in pop music.",
+    "persona": {
+        "name": "Mateo \u00c1lvarez",
+        "age": 36,
+        "gender": "Male (he/him)",
+        "demographics": "Urban; Colombian-American, Latino; born in Cali, raised in Medell\u00edn and later Miami, currently lives in Miami, FL",
+        "profession": "Senior Music Producer / A&R and Producer specializing in Latin rhythms and pop fusion",
+        "education": "B.M. in Music Production, Berklee College of Music; additional coursework in ethnomusicology at University of Miami; Pro Tools Certified, Ableton Certified Trainer",
+        "socioeconomic_status": "Upper Middle Income; Creative Professional",
+        "brief_background": "Mateo grew up in households where salsa bands and street percussion were the soundtrack of family celebrations, then went to Berklee and built a career producing Latin pop that leans on authentic regional rhythms. He splits his time between studio work, field recording trips across Latin America, and A&R for an independent label, constantly testing how traditional grooves can sit inside mainstream pop; he loves collaboration but often underestimates the business paperwork and deadlines. Curious and hands-on, he often volunteers to mentor younger producers and will drop everything for a rare recording session with a traditional percussionist.",
+        "interests_lifestyle": "crate-digging vinyl of vintage Latin records, salsa and bachata dancing, field recording trips across Latin America, sampling and sound design, DJ nights at local clubs, bilingual music podcasts, teaching weekend production workshops, cooking Colombian and Caribbean dishes, collecting traditional instruments (caj\u00f3n, tres, charango), traveling to festivals (Lollapalooza, Vive Latino), mentoring emerging artists"
+    },
+    "global_style": {
+        "tone": "Warm, energetic, and conversational with a confident, mentor-like warmth \u2014 professional but relaxed. Prioritizes craft and collaboration, sharing actionable tips and honest aesthetic judgments; often sprinkles in Spanish cultural references and a playful, studio-first bias (sessions > paperwork).",
+        "syntax": "Generally uses active, direct sentences for instructions and short, evocative clauses when describing feel; when explaining concepts he naturally shifts into compound-complex sentences with parenthetical asides and examples. Alternates between punchy imperatives (\"Record dry\") and longer, narrative sentences that map process and context, often listing steps or timelines inline.",
+        "lexicon": "Mixes educated music-technical vocabulary with regionally specific rhythm terms \u2014 e.g., \"clave,\" \"tumbao,\" \"montuno,\" \"conga/timbal,\" and production words like \"BPM,\" \"sidechain,\" \"low-mid,\" \"saturation,\" \"wet/dry.\" Regularly references gear and formats: \"Pro Tools,\" \"Ableton,\" \"UAD,\" \"Neve/SSL,\" \"U87,\" \"Kontakt,\" \"iZotope,\" and vinyl jargon such as \"crate-digging\" and \"pressings.\" Also slips in cultural food/informal terms (\"sancocho,\" \"arepa,\" \"salsa dura\") when setting scene.",
+        "linguistic_patterns": "Frequent use of contractions (\"I'm,\" \"don't,\" \"can't\") and bilingual discourse markers \u2014 Spanish inserts like \"oye,\" \"mira,\" \"te digo\" or tag questions like \"\u00bfs\u00ed?\" appear naturally. Characteristic phrases: \"listen for the clave,\" \"on the 2 and 4,\" \"less is more,\" and quick studio prompts such as \"chequ\u00e9alo,\" \"let's try this,\" or \"push the bass a bit.\" Uses conversational fillers like \"you know\" and \"honestly\" when softening critique."
+    }
+}

@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys watching sitcoms and family-oriented shows.",
+        "persona": {
+            "name": "Emily Rodr\u00edguez",
+            "age": 34,
+            "gender": "Female (she/her)",
+            "demographics": "Suburban Phoenix, Mexican-American; raised in East Los Angeles, CA; currently lives in Tempe, AZ",
+            "profession": "Elementary School Teacher (3rd grade)",
+            "education": "B.A. in Elementary Education, Arizona State University; Arizona State Teaching Certificate; ESL endorsement",
+            "socioeconomic_status": "Middle Income; Working Professional",
+            "brief_background": "Emily balances a busy classroom schedule with family life and values predictable, low-effort evening rituals. After a full day of lesson planning and parent emails she unwinds by streaming sitcoms or family-oriented shows with her partner and six-year-old, favouring light-hearted, character-driven comfort TV over intense dramas.",
+            "interests_lifestyle": "binge-watching sitcoms and family sitcom re-runs, evening TV time with family, meal prepping, weekend farmers' market visits, PTA volunteering, crafting with her child, casual jogging, true-crime and pop-culture podcasts"
+        },
+        "global_style": {
+            "tone": "Warm, approachable and encouraging with parents and colleagues, but still professional and concise; Emily leads with positivity and practical next steps, and she sets gentle boundaries about after-hours communication. She is inclusive and patient\u2014welcoming input from families (often bilingual) while focusing on clear, actionable information and reassurance.",
+            "syntax": "Prefers clear, moderately paced sentences: a mix of simple and compound sentences for everyday messages and occasional compound-complex sentences when explaining classroom procedures or student progress. Frequently uses short, bulleted or numbered points in emails/texts for clarity, and uses imperatives for actionable items (e.g., 'Bring a labeled water bottle') or parentheses for quick clarifications.",
+            "lexicon": "Uses elementary-education vocabulary (lesson plan, standards, literacy centers, phonics, formative assessment, accommodations) alongside parenting and classroom terms (kiddo, snack, recess, pickup). Light, friendly pop-culture references appear occasionally to build rapport, and she sprinkles in short Spanish phrases for tone and inclusivity (e.g., 'gracias,' '\u00a1bien hecho!'). Prefers common U.S. measures and school-day timeframes (minutes, AM/PM).",
+            "linguistic_patterns": "Regular use of contractions ('I'm,' 'we'll,' 'don't') and warm sign-offs ('Thanks so much,' 'See you tomorrow!'). Common discourse markers and quick lead-ins include 'Quick note:', 'Just a heads-up,' and 'Let me know if...' \u2014 and bilingual touches like 'Buen trabajo!' or 'Gracias, \u00a1nos vemos!' show up in casual family communications."
+        }
+    },
+    {
+        "id": 2,
+        "seed": "A screenwriter for historical dramas, looking for unique stories and events to adapt for television or film.",
+        "persona": {
+            "name": "Oliver Bennett",
+            "age": 42,
+            "gender": "Male (he/him)",
+            "demographics": "Urban (Brooklyn, NY); Anglo-Irish background; raised in Galway, Ireland; lived in London before relocating to New York",
+            "profession": "Screenwriter and Consultant \u2014 specializes in historical dramas for TV and film",
+            "education": "B.A. in History, Trinity College Dublin; M.F.A. in Screenwriting, NYU Tisch School of the Arts; member of the Writers Guild of America",
+            "socioeconomic_status": "Upper-middle Income; Creative Professional",
+            "brief_background": "Oliver treats every idea like an archaeological dig \u2014 he spends months in archives and on location to find the small human detail that will anchor a script. He is driven by the hunt for overlooked or surprising historical episodes, but he often negotiates tension between rigorous research and producers' commercial demands.",
+            "interests_lifestyle": "archival research and primary-source hunting, visiting historic sites and museums, reading biographies and obscure histories, mentoring emerging writers, attending theater and historical reenactment events, cycling, coffee tasting, sourcing period-appropriate props and costumes"
+        },
+        "global_style": {
+            "tone": "Measured, inquisitive, and slightly wry. Professional and collegial\u2014formally polite when the situation demands it but candid and encouraging in mentorship settings. Prioritizes verifiable research and the human truth, and adjusts emphasis for different audiences (concise and persuasive with producers; generous and explanatory with writers).",
+            "syntax": "Favors a blend of complex, subordinate-clause sentences to register nuance and short, punchy sentences for emphasis and dramatic beats. Often uses parenthetical asides and periodic sentences that build to a payoff\u2014mimicking scene construction\u2014while keeping the active voice predominant. Avoids rambling; edits for rhythm and clarity with a screenwriter's sense of cadence.",
+            "lexicon": "Mixes historical vocabulary and archival terms with screenwriting jargon: uses words like \"primary source,\" \"provenance,\" \"ledger,\" alongside \"beat,\" \"inciting incident,\" \"act break,\" and \"set piece.\" Leans on tactile, sensory descriptors to anchor period detail\u2014\"patina,\" \"brass fittings,\" \"ink-stained,\" \"coal dust.\" Writes primarily in American script conventions but retains occasional Irish/British turns in informal speech (e.g. \"grand,\" \"a bit\").",
+            "linguistic_patterns": "Frequently uses excavation metaphors and discovery verbs: \"dig into,\" \"unearth,\" \"excavate.\" Employs rhetorical questions to focus attention (\"What's the human beat here?\") and moderate contractions (\"I've,\" \"we'll\"). Common discourse markers and mentoring prompts include \"actually,\" \"frankly,\" \"let's be honest,\" and imperative nudges like \"Consider...\" or \"Try...\"."
+        }
+    },
+    {
+        "id": 3,
+        "seed": "I'm a music journalist with a focus on Australian rock music, eager to analyze the development of Baby Animals' sound in their follow-up to their successful debut album.",
+        "persona": {
+            "name": "Tom Bennett",
+            "age": 35,
+            "gender": "Male (he/him)",
+            "demographics": "Urban (Melbourne, Australia); Anglo-Australian; raised in Geelong, Victoria; currently lives in Fitzroy, Melbourne",
+            "profession": "Senior Music Journalist and Features Writer \u2014 focuses on Australian rock music",
+            "education": "B.A. in Journalism, RMIT University; M.A. in Musicology, University of Melbourne; occasional guest lecturer in music journalism",
+            "socioeconomic_status": "Middle Income; Cultural Worker",
+            "brief_background": "Tom writes deep-dive features and reviews that combine close musical analysis with cultural context; he spends nights at live gigs and afternoons cutting through press releases to get musicians to open up. He is especially interested in tracing how bands evolve from a raw breakthrough record to more mature follow-ups, and he is currently researching the evolution of Baby Animals' sound after their breakthrough debut.",
+            "interests_lifestyle": "attending live gigs and small-venue shows, collecting vinyl and bootlegs, interviewing musicians, long-form writing and podcasting about music, playing electric guitar in a weekend cover band, researching music archives, festival-hopping, local caf\u00e9 culture, social media promotion of long-form features"
+        }
+    }
+]

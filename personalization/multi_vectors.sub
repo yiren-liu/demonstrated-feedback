@@ -1,0 +1,44 @@
+#!/bin/bash
+#SBATCH -J multi_vectors
+#SBATCH -o /home/cz468/personalization/logs/multi_vectors_%j.out  # output file (%j expands to jobID)
+#SBATCH -e /home/cz468/personalization/logs/multi_vectors_%j.err  # error log file (%j expands to jobID)
+#SBATCH --mail-type=ALL                      # Request status by basics
+#SBATCH --mail-user=cz468@cornell.edu        # basics address to send results to.
+#SBATCH -N 1                                 # Total number of nodes requested
+#SBATCH -n 4                                 # Total number of cores requested
+#SBATCH --mem=80000                          # server memory requested (per node)
+#SBATCH -t 160:00:00                         # Time limit (hh:mm:ss)
+#SBATCH --partition=default_partition        # Request partition
+#SBATCH --gres=gpu:nvidia_rtx_6000_ada_generation:1        # Type:number of GPUs needed
+
+# Set project paths
+PROJECT_PATH=/home/cz468/personalization
+
+# Activate conda environment
+eval "$(conda shell.bash hook)"
+conda activate llm
+
+# Add project path to PYTHONPATH so multi_vectors module can be found
+export PYTHONPATH=$PROJECT_PATH:$PYTHONPATH
+
+# Run the multi_vectors pipeline
+python -m multi_vectors.run --dataset basics --skip-infer-test
+
+# Merge results for validation set
+python -m merge multi_vectors/outputs/results/val/basics -o evaluation/dataset/val/basics/multi_vectors_basics_val.csv
+
+# # Merge results for test set
+# python -m merge multi_vectors/outputs/results/test/basics -o evaluation/dataset/test/basics/multi_vectors_basics_test.csv
+
+# Run evaluation on validation set
+python -m evaluation.run --csv_path evaluation/dataset/val/basics/multi_vectors_basics_val.csv
+
+# # Run evaluation on test set
+# python -m evaluation.run --csv_path evaluation/dataset/test/basics/multi_vectors_basics_test.csv
+
+# Deactivate conda environment
+conda deactivate
+
+# Unset variables
+unset PROJECT_PATH
+unset OUTPUT_DIR

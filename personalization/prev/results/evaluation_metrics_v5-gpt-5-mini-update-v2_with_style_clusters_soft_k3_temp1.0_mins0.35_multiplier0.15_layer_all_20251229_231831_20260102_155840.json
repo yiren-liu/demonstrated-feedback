@@ -1,0 +1,33 @@
+{
+  "rouge_stdout": "  Scoring outputs \u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501 107/107 0:00:00\nSaving ROUGE-L metrics to multi_vectors/outputs/v5-gpt-5-mini-update-v2_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_layer_all_20251229_231831.csv...\n\nOverall ROUGE-L\nPrecision: 0.3643, Recall: 0.5246, F1: 0.4208\n\nSaved detailed results to multi_vectors/outputs/v5-gpt-5-mini-update-v2_with_style_clusters_soft_k3_temp1.0_mins0.35_multiplier0.15_layer_all_20251229_231831.csv\n",
+  "style_similarity": {
+    "mean": 0.40817311501389403,
+    "std": 0.34347439767547405,
+    "median": 0.4496728479862213,
+    "min": -0.23160763084888458,
+    "max": 0.9708290100097656,
+    "q25": 0.12364605069160461,
+    "q75": 0.7174197733402252,
+    "count": 107
+  },
+  "style_distance": {
+    "mean": 0.7641370758832058,
+    "std": 0.12122824618024064,
+    "median": 0.7300504446029663,
+    "min": 0.5328935384750366,
+    "max": 0.9709168672561646,
+    "q25": 0.6622844338417053,
+    "q75": 0.8704400062561035,
+    "count": 107
+  },
+  "ai_detection": {
+    "mean_ai_score": 0.9518170180669594,
+    "std_ai_score": 0.16130097973227106,
+    "median_ai_score": 0.9994205236434937,
+    "min_ai_score": 0.009860237129032612,
+    "max_ai_score": 0.9998384714126587,
+    "q25_ai_score": 0.9879603981971741,
+    "q75_ai_score": 0.9997411370277405,
+    "total_samples": 107
+  }
+}

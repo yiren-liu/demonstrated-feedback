@@ -1,0 +1,1359 @@
+file,date,from,to,subject,email
+keiser-k/sent_items/1.,"Wed, 06 Feb 2002 14:26:53 -0800",kam.keiser@enron.com,s..shively@enron.com,Gas deal entry procedures,"The following will be the deal entry procedures for UBSWEnergy:
+
+Financial
+1.  All non-electronic financial deals to be entered directly by Risk Management from a written and signed deal ticket (required) from front office 
+
+Physical
+1.  All current month physical deals to be booked directly into Sitara by front office (logistics/trading)
+2.  All non-electronic prompt month forward deals to be booked directly into TDS by Risk Management from a written and signed deal ticket (required) from front office 
+	 - physical meters to be added by logistics/trading"
+keiser-k/sent_items/10.,"Wed, 06 Feb 2002 07:09:25 -0800",kam.keiser@enron.com,"m..love@enron.com, scott.palmer@enron.com, d..winfree@enron.com, c..giron@enron.com, errol.mclaughlin@enron.com",Netco,"We would like to change the Netco directory name to UBS.
+
+We will have to change the links to the NGP&L and anything else that links to files in Netco.  Let me know this morning if that will be a major problem for anyone.
+
+Thanks"
+keiser-k/sent_items/102.,"Mon, 28 Jan 2002 06:42:30 -0800",kam.keiser@enron.com,ashley.fay@enron.com,WACOG,"Ashely,
+
+I noticed that there isn't a wacog being used in your P&L.  Currently it is taking the UA4 volume and multiplying it by $0, it needs to have a dollar value in cell M83 on the physical tab.
+
+Thanks"
+keiser-k/sent_items/104.,"Mon, 28 Jan 2002 06:06:35 -0800",kam.keiser@enron.com,john.valdes@enron.com,risktrac,"Do you know if all of our books are set up and ready to go in risktrac, ready to report VaR?  
+
+KK"
+keiser-k/sent_items/106.,"Fri, 25 Jan 2002 12:46:52 -0800",kam.keiser@enron.com,scott.palmer@enron.com,,"Scott,  
+
+I really think that Melissa would be able to handle Storey better than Kristen.  I think we should keep her on Central and let you take Kristen on the East.
+
+Are you ok with that?
+
+KK"
+keiser-k/sent_items/107.,"Fri, 25 Jan 2002 12:45:47 -0800",kam.keiser@enron.com,brian.gillis@enron.com,new rolls,"Brian,
+
+In an effort to keep things consistent at UBS we have tried to perfect a roll spreadsheet that all regions should use.  We added extra rolls so we should never have to add rolls.  We have saved copies for our new P&L's in O:erms\erms_adm\netco\2002\0102\Regions0102 (this will be out new regions file until further notice.  
+
+Can you copy one of those files and use that as your new P&L's?  Let me know if you see a problem in doing that.  We are trying to start linking up all new P&L's to the DPR, can you save yours out to that file when you are ready.  
+
+
+Thanks
+
+Kam"
+keiser-k/sent_items/12.,"Wed, 06 Feb 2002 06:52:51 -0800",kam.keiser@enron.com,"m..love@enron.com, d..winfree@enron.com, scott.palmer@enron.com, c..giron@enron.com",curve files,"There is a new directory for the curve files.  I am trying to request access to this for the traders so they can't see the rest of our files.
+
+This should be done soon.
+
+Can you move your files to this drive today?"
+keiser-k/sent_items/120.,"Thu, 24 Jan 2002 14:54:14 -0800",kam.keiser@enron.com,sanjeev.gupta@enron.com,,"Sanjeev,
+
+Could you run the detail for these post-id's in grey.  These are the physical post-id's that were excluded from the original request.  You don't need to run the other post-id's, just the new column I.
+
+Thanks again,
+
+Kam"
+keiser-k/sent_items/121.,"Thu, 24 Jan 2002 14:42:55 -0800",kam.keiser@enron.com,john.valdes@enron.com,new report,"John,
+
+There is another report that needs to be added to our daily duties, it is currently only being done once a month by accounting.
+
+I'll show it to you in the morning.
+
+
+KK"
+keiser-k/sent_items/122.,"Thu, 24 Jan 2002 11:59:42 -0800",kam.keiser@enron.com,carl.tricoli@enron.com,TXY,"Carl,
+
+Here are the values you requested.  I have the detail if you need it.
+
+Jan-03	
+
+Physical		         $71,893
+Financial	$123,077,652
+Total		$123,149,545
+
+
+
+Jan-23
+
+Physical	 	         $71,945
+Financial	$121,796,554
+Total		$121,868,499
+
+
+Thanks
+
+Kam
+x3-5781"
+keiser-k/sent_items/125.,"Wed, 23 Jan 2002 15:05:47 -0800",kam.keiser@enron.com,"zhiyong.wei@enron.com, sanjeev.gupta@enron.com",new post-id's,"Could you please re-run the data dump you did for me last week with the attached post-id's?
+
+If you could let me know how long it takes I would appreciate it.  If possible, could it be ready after lunch tomorrow?
+
+Thanks
+
+Kam
+x3-5781"
+keiser-k/sent_items/128.,"Wed, 23 Jan 2002 05:44:03 -0800",kam.keiser@enron.com,kathy.reeves@enron.com,Form A,"Kathy,
+
+Vladi asked me to give you a call.  I will be out of the office until about 2:00 today so I wanted to let you know what we did to populate Form A.
+We gave all post-id's that were calculated on Nov-30th to Zhiyong Wei.  From there, he dumped all of that information into excel and we formatted it from there into the required buckets.  It will take a few hours for IT to get the file ready to use so I recommend getting that together ASAP.
+
+Let me know what I can do to help.
+
+Thanks
+
+Kam
+x3-5781"
+keiser-k/sent_items/129.,"Tue, 22 Jan 2002 15:20:42 -0800",kam.keiser@enron.com,c..gossett@enron.com,Orientation meeting,"Jeff, 
+
+There is a meeting at the Houstonian tomorrow morning.  Is this one for us or did they split the group into seperate meetings?
+
+KK"
+keiser-k/sent_items/13.,"Wed, 06 Feb 2002 05:45:45 -0800",kam.keiser@enron.com,john.keiser@enron.com,new email,My e-mail will change on Friday to kam.keiser@UBSWEnergy.com
+keiser-k/sent_items/131.,"Tue, 22 Jan 2002 14:12:06 -0800",kam.keiser@enron.com,"stephanie.sever@enron.com, c..kenne@enron.com",traders,"FYI........
+
+We will probably have some changes to the trader matrix, we have had some traders quit or decide to stay with the estate.  Once we know for sure, we will send you the new breakout.
+
+Thanks,
+
+Kam"
+keiser-k/sent_items/132.,"Tue, 22 Jan 2002 14:02:04 -0800",kam.keiser@enron.com,"holly.keiser@enron.com, john.keiser@enron.com",,"http://cagle.slate.msn.com/news/enronextravaganza/main.asp
+
+check these out"
+keiser-k/sent_items/133.,"Tue, 22 Jan 2002 13:57:14 -0800",kam.keiser@enron.com,carl.tricoli@enron.com,TXU,"Carl,
+
+Please see attached spreadsheet for the TXU MTM value detail.
+
+the forward value as of Nov-30-2001 is $121,915,684
+
+ 
+Kam
+x3-5781"
+keiser-k/sent_items/137.,"Tue, 22 Jan 2002 09:16:49 -0800",kam.keiser@enron.com,kristin.albrecht@enron.com,gas information,"Kristin,
+
+Here is some information requested from E&Y for gas.
+
+Number of books				182
+Number of people				55
+Average number of transactions per day	1,674
+Number of active transactions		126,878
+
+
+Other than the rolls supporting the DPR which Scott Palmer is working on, this should be it for us.
+
+Please let me know otherwise.
+
+Thanks
+
+Kam
+x3-5781"
+keiser-k/sent_items/144.,"Tue, 22 Jan 2002 05:38:23 -0800",kam.keiser@enron.com,"d..powell@enron.com, stephanie.mcginnis@enron.com, r..brackett@enron.com",bankruptcy post-id's,"Jan 18th
+
+1467398
+1467399
+1467400
+1467401
+1467402
+1467403
+1467404"
+keiser-k/sent_items/147.,"Fri, 18 Jan 2002 13:16:33 -0800",kam.keiser@enron.com,john.keiser@enron.com,recruiters,"Karen Brown - The Kainan Group (not sure of spelling)
+281-374-6700
+
+Denham Turner - dturner@accountpros.com
+
+Army Gere  (not sure of last name)
+713-817-4180"
+keiser-k/sent_items/149.,"Fri, 18 Jan 2002 09:10:37 -0800",kam.keiser@enron.com,dturner@accountpros.com,,"Denham,
+
+I have attached my resume.  I look forward to hearing from you.
+
+Thanks
+
+Kam Keiser	
+713-853-5781"
+keiser-k/sent_items/150.,"Fri, 18 Jan 2002 09:08:31 -0800",kam.keiser@enron.com,shona.wilson@enron.com,Form A,"Shona,
+
+I forwarded Form A to Raj, here is the back-up/reconciliation if you need it."
+keiser-k/sent_items/151.,"Fri, 18 Jan 2002 08:53:07 -0800",kam.keiser@enron.com,"vladimir.gorny@enron.com, raj.thapar@enron.com",US gas Form A,"Please call if you have questions.
+
+Kam
+x3-5781"
+keiser-k/sent_items/152.,"Thu, 17 Jan 2002 19:09:10 -0800",kam.keiser@enron.com,"zhiyong.wei@enron.com, sanjeev.gupta@enron.com",post-id's,"We were able to get close to the DPR values reported with the info you previously sent me.  I won't need anything from you tonight but thanks a lot for being available.
+
+I may need to get with you in the morning to get something else together.
+
+Thanks
+
+Kam"
+keiser-k/sent_items/153.,"Thu, 17 Jan 2002 11:47:16 -0800",kam.keiser@enron.com,john.keiser@enron.com,ebay,Yu could make some money selling your Enron stuff on Ebay.  The keychain I bought for $15 is now selling for over $200.  It's crazy.
+keiser-k/sent_items/16.,"Tue, 05 Feb 2002 13:50:53 -0800",kam.keiser@enron.com,"john.valdes@enron.com, andrew.champion@enron.com, stephanie.mcginnis@enron.com",RE: Gas Books,"Here is the risktrac book entry template for these books. 
+
+ 
+This is the same info John Valdes sent you, with a few extra details added.
+
+
+ -----Origin [Keiser, Kam]   al Message-----
+From: 	Valdes, John  
+Sent:	Tuesday, February 05, 2002 3:09 PM
+To:	Champion, Andrew; Mcginnis, Stephanie
+Cc:	Keiser, Kam; Irvin, Tracey; Gossett, Jeffrey C.
+Subject:	Gas Books
+
+ << File: Summary of Book Requests Update.xls >> 
+
+These are the books we have set up for Natural Gas that need to be uploaded into Risktrac.  Let me know if you need anything else from me.  Thanks.
+
+John"
+keiser-k/sent_items/161.,"Wed, 16 Jan 2002 17:00:30 -0800",kam.keiser@enron.com,"m.hall@enron.com, kristin.albrecht@enron.com",MTM by counterparty,"The attached file summarizes all MTM value by counterparty, in and out-of-the-money trades, physical and financial.  You can filter column A for P or F and or column IV for positive or negative values.
+
+Please call me if you have any questions.
+
+Thanks
+
+Kam
+x3-5781"
+keiser-k/sent_items/162.,"Wed, 16 Jan 2002 16:20:23 -0800",kam.keiser@enron.com,ashley.fay@enron.com,,"FYI....
+
+I changed the west and performance books to your name on the rac website."
+keiser-k/sent_items/164.,"Wed, 16 Jan 2002 13:29:18 -0800",kam.keiser@enron.com,kristin.albrecht@enron.com,Schedule A,"Kristen,
+
+Once Zhiyong gets me the information, how would you like this handled?  Do you want me to fill out the Schedule A, or would you rather have pivot tables similar to Todd Hall's for each scenario?  
+
+Kam
+x3-5781"
+keiser-k/sent_items/165.,"Wed, 16 Jan 2002 13:25:30 -0800",kam.keiser@enron.com,m.hall@enron.com,in-the-money-trades,"Bob,
+
+Here are all active in-the-money trades in our books as of last night.
+The summary tab gives you the deal count and MTM value by month, the next tab breaks the value down by counterparty if needed.
+I already sent this to Kristen. 
+
+
+ 
+Here are the performance deals as well, James may have already sent this to you...
+
+ 
+Let me know if there is anything I left out.
+
+Thanks
+
+KK"
+keiser-k/sent_items/167.,"Wed, 16 Jan 2002 13:16:54 -0800",kam.keiser@enron.com,"l..hall@enron.com, kristin.albrecht@enron.com",In-the-money trades,"This request is saved in O:\_dropbox\Kam\In-the-money trades\Summary.xls.  The file is too large to attach. 
+It reflects all active in-the-money trades in our books as of last night. 
+
+The summary tab gives you the total deal count and MTM value by month.  The next tab will break out the value by counterparty by month.
+
+Please let me know if this is everything you need.
+
+
+Thanks
+KK"
+keiser-k/sent_items/169.,"Wed, 16 Jan 2002 11:35:22 -0800",kam.keiser@enron.com,c..kenne@enron.com,index name changes,"Please see attached.  There is a before and after column for those products that will have index name changes.
+
+Thanks
+
+KK"
+keiser-k/sent_items/17.,"Tue, 05 Feb 2002 08:53:45 -0800",kam.keiser@enron.com,stephen.perich@enron.com,Bench by Trader,"Stephen,
+
+I made a copy of your BenchbyTrader and cleaned it up a little by taking out all the hidden rows and old traders.  It is saved to the same directory as UBS BenchByTrader.xls
+
+
+Can you look at this and check the macros to make sure it all still works?  Can you use that going forward?
+
+Thanks
+
+KK"
+keiser-k/sent_items/174.,"Wed, 16 Jan 2002 09:28:23 -0800",kam.keiser@enron.com,zhiyong.wei@enron.com,official post-id's,"Zhiyong
+
+This is an updated sheet of post-id's.  We added many and deleted some also.
+
+Hope this works.
+
+KK"
+keiser-k/sent_items/175.,"Wed, 16 Jan 2002 06:16:34 -0800",kam.keiser@enron.com,r..brackett@enron.com,Nov 30th post-id's,"Debbie,
+
+Have you had any luck getting the Nov. 30th post id's? I did my best job trying to get them for Houston, Chicago and Calgary but with over 400 post-id's I guarantee that we missed some.
+
+Let me know if you still think it's possible, I would like to get back to Zhiyong today.
+
+Thanks again for your help,
+
+Kam
+x3-5781"
+keiser-k/sent_items/179.,"Wed, 16 Jan 2002 05:52:20 -0800",kam.keiser@enron.com,mark.allan.smith@us.pwcglobal.com,broker quotes,"Mark,
+
+Attached are a few examples of the broker quotes we get daily for each region.  I believe you had requested some curves so I also have the curves that were published for November 30th ready for you.  The files may be too large to send so please let me know if this is something you did request and I will get it to you.  
+
+Thanks
+
+Kam
+x3-5781"
+keiser-k/sent_items/181.,"Tue, 15 Jan 2002 13:17:14 -0800",kam.keiser@enron.com,zhiyong.wei@enron.com,Nov 30th post-id's,"Zhiyong,
+
+These are the post-id's that we have pulled.  Showna and Debbie Brackett are trying to get the official post-id's from the system.  Once they get that, I will check them against these.  It is very possible that these won't be all of the correct id's but I wanted to get you something to start on.
+
+Thanks
+
+KK"
+keiser-k/sent_items/185.,"Tue, 15 Jan 2002 10:48:02 -0800",kam.keiser@enron.com,john.valdes@enron.com,new books,"John,
+
+There is a new book request in Controls\Book Request Form Central Canadian final.xls
+
+Can you attach a code to these and send it off to global and Cecilia?
+
+Thanks
+
+Kam"
+keiser-k/sent_items/188.,"Tue, 15 Jan 2002 08:42:16 -0800",kam.keiser@enron.com,zhiyong.wei@enron.com,Netco gas curves,"Z,
+
+These are the us gas Netco curves we would like to move over.  In columns G&H we have also provided you with the gas daily curve mappings for the new database. 
+
+Thanks
+
+KK"
+keiser-k/sent_items/189.,"Tue, 15 Jan 2002 08:26:13 -0800",kam.keiser@enron.com,"tara.sweitzer@enron.com, c..kenne@enron.com",EOL products,"Attached is the updated version of the new product/book assignments that I sent Torrey yesterday.
+
+We are still unsure which books to attach the physical products to.  Let me know if you see any problems.
+
+Thanks
+Kam"
+keiser-k/sent_items/190.,"Tue, 15 Jan 2002 07:24:55 -0800",kam.keiser@enron.com,susan.trevino@enron.com,performance,"Susan,  
+
+The performance book has been corrected by global counterparties. 
+
+Sorry to bother you.
+
+KK"
+keiser-k/sent_items/191.,"Tue, 15 Jan 2002 07:23:52 -0800",kam.keiser@enron.com,"cecilia.cheung@enron.com, jeremy.wong@enron.com",new org regions,"Can you please change the org regions for the attached books.  
+
+Thanks
+
+Kam"
+keiser-k/sent_items/195.,"Mon, 14 Jan 2002 15:40:15 -0800",kam.keiser@enron.com,"d..powell@enron.com, stephanie.mcginnis@enron.com, r..brackett@enron.com",bankruptcy post-id's,"Jan 14th
+
+1462986
+1462987
+1462988
+1462989
+1462990
+1462991
+1462992"
+keiser-k/sent_items/196.,"Mon, 14 Jan 2002 15:14:21 -0800",kam.keiser@enron.com,brian.gillis@enron.com,netco curves,"I beleive this is what Zhiyong is looking for.
+
+Let him know if you won't be ready by Friday.
+
+Kam"
+keiser-k/sent_items/198.,"Mon, 14 Jan 2002 14:49:21 -0800",kam.keiser@enron.com,torrey.moorer@enron.com,index,"Torrey,
+
+I added two columns to the right showing what the curve is now and what it should be.  We made some changes to the curve names to make them consistent.
+
+Let me know if you need anything from me to make these changes.
+
+Thanks
+
+KK"
+keiser-k/sent_items/2.,"Wed, 06 Feb 2002 14:25:48 -0800",kam.keiser@enron.com,s..shively@enron.com,,"The following will be the deal entry procedures for UBSWEnergy:
+
+Financial
+1.  All non-electronic financial deals to be entered directly by Risk Management from a written and signed deal ticket (required) from front office 
+
+Physical
+1.  All current month physical deals to be booked directly into Sitara by front office (logistics/trading)
+2.  All non-electronic prompt month forward deals to be booked directly into TDS by Risk Management from a written and signed deal ticket (required) from front office 
+	 - physical meters to be added by logistics/trading"
+keiser-k/sent_items/200.,"Mon, 14 Jan 2002 11:42:45 -0800",kam.keiser@enron.com,torrey.moorer@enron.com,EOL id's,"Torrey,
+
+Here are the new mappings for the EOL products, except for the central desk.  Hunter is still working on his but I wanted to get you something.
+
+for physical rest of month deals we attached the physical book id
+for prompt month physical deals we attached the TAGG book id
+
+is that correct?
+
+
+I will send the finished product when Hunter is done.  Keep in mind it will probably change again.
+Kam"
+keiser-k/sent_items/203.,"Mon, 14 Jan 2002 09:09:46 -0800",kam.keiser@enron.com,scott.palmer@enron.com,EOL products,"Scott,
+
+I put some question marks next to Brad, John, Pete and Sandra's products.  You have them down as managing some physical products.  Will they be managing those physical books?
+If not, they should go to the physical trader managing that location as before. 
+
+Can you take a look at those? 
+
+KK"
+keiser-k/sent_items/204.,"Mon, 14 Jan 2002 08:59:38 -0800",kam.keiser@enron.com,torrey.moorer@enron.com,cad books,"Torrey,
+
+For those traders that also do deals in canadian dollars, we had to create additional books for those deals.  These will not have any EOL products associated with them, they will be phone trades.
+
+Thanks
+
+KK"
+keiser-k/sent_items/207.,"Mon, 14 Jan 2002 07:40:22 -0800",kam.keiser@enron.com,"m..love@enron.com, d..winfree@enron.com, scott.palmer@enron.com, sladana-anna.kulic@enron.com, randy.bhatia@enron.com",broker quotes,"The files for the broker quotes have been moved from the Netco file to O:\erms\1intra\broker quotes.  Those will be used for the estate.
+
+Please let anyone else who used those files know to start saving them to the new files starting today.
+
+Thanks
+
+Kam"
+keiser-k/sent_items/21.,"Mon, 04 Feb 2002 14:24:44 -0800",kam.keiser@enron.com,hilburn.henry@enron.com,estate access,"Jane,
+
+The following people will need dual access to the estate and UBS files.
+
+Kam Keiser
+Scott Palmer
+Phillip Love
+Darron Giron
+Errol McLaughlin
+Jeff Gossett
+John Valdes
+
+Please let me know if you have any questions.
+
+Thanks
+
+Kam
+x3-5781"
+keiser-k/sent_items/212.,"Mon, 14 Jan 2002 05:56:43 -0800",kam.keiser@enron.com,susan.trevino@enron.com,Performance,"Susan,
+
+I am still unable to book sitara deals to the Performance book.
+
+What needs to be done to fix this?
+
+Kam"
+keiser-k/sent_items/218.,"Fri, 11 Jan 2002 06:11:18 -0800",kam.keiser@enron.com,errol.mclaughlin@enron.com,EOL products,"Errol,
+
+Torrey sent us a file with all of the EOL products and the old book assignments.  He need us to tell him the new trader name, book name and global ID today. 
+
+The file is saved in Netco\controls\Trader-Book template (US gas)_EOL new books.xls
+
+the global ID's are saved in your book request also in the controls file"
+keiser-k/sent_items/219.,"Fri, 11 Jan 2002 06:08:59 -0800",kam.keiser@enron.com,"m..love@enron.com, scott.palmer@enron.com, c..giron@enron.com, d..winfree@enron.com",EOL products,"OK, the fun continues.
+
+We need to assign EOL products to traders.  Torrey sent a file (Netco\controls\Trader-Book template (US Gas)_EOL new books) with all products and the old book assignments.  We need to get with the traders today and get these split out.....many will stay the same as before.  
+
+Also, when physical deals are done, will all risk types go to the same desk or will one person be managing the index separately.  ex. the west desk used to book all index to Grigsby's book.  I have told Dawn that all risk types will go to that trader's book but if index needs to be changed let me know.
+
+
+Thanks
+
+KK"
+keiser-k/sent_items/22.,"Mon, 04 Feb 2002 13:18:00 -0800",kam.keiser@enron.com,tom.engel@enron.com,EOL access,"Tom,
+
+Everyone in risk management needs to get access to EOL bridge monitor and reports.  What do we need to do to get this and how soon can it be granted?  We need this by Thursday to be prepared for testing.
+
+Thanks
+
+Kam"
+keiser-k/sent_items/220.,"Fri, 11 Jan 2002 05:57:06 -0800",kam.keiser@enron.com,luchas.johnson@enron.com,transport model,"I think I fixed the trailblazer path....the curve description on the curves tab didn't match the contract CB tab.  The ref# should go away once you roll it for today.  Try that this morning and let me know if it works.
+
+Thanks
+
+KK"
+keiser-k/sent_items/222.,"Thu, 10 Jan 2002 15:10:43 -0800",kam.keiser@enron.com,casey.evans@enron.com,,forward that file to John Valdes and Ramesh once you are ready
+keiser-k/sent_items/224.,"Thu, 10 Jan 2002 14:36:13 -0800",kam.keiser@enron.com,casey.evans@enron.com,risktrac download,"Casey,
+
+Here is the file we need to fill out for Ramesh to download into RisktRAC."
+keiser-k/sent_items/225.,"Thu, 10 Jan 2002 13:42:48 -0800",kam.keiser@enron.com,"d..powell@enron.com, stephanie.mcginnis@enron.com, r..brackett@enron.com",bankruptcy post-id's,"Jan 10th
+
+1461090
+1461091
+1461092
+1460765
+1460766
+1461093
+1460768"
+keiser-k/sent_items/226.,"Thu, 10 Jan 2002 13:40:50 -0800",kam.keiser@enron.com,hal.mckinney@enron.com,,"Hal,
+
+I have highlighted the files and names that should move over.  I had to add some names to the bottom of the ERV files.
+
+Thanks
+
+Kam"
+keiser-k/sent_items/227.,"Thu, 10 Jan 2002 13:29:43 -0800",kam.keiser@enron.com,casey.evans@enron.com,ERV,"The file is saved in my dropbox called ERV_Stats.
+
+See if you can open that.
+
+
+Thanks
+KK"
+keiser-k/sent_items/23.,"Mon, 04 Feb 2002 13:01:03 -0800",kam.keiser@enron.com,"m..love@enron.com, d..winfree@enron.com, scott.palmer@enron.com, c..giron@enron.com",updates,"Dawn has given us until noon Wednesday to get them the final list of EOL products and book mappings.  I know with the trader changes last Friday these will change again.  
+The traders had a meeting this morning going over their curves, and it sounds like they are moving some curves between regions and might possibly be losing some locations.  Since we will be testing everything on Thursday, we need to have our curve files ready to load on Wednesday to give a prior day curve for portcalc.  
+The west traders are looking at theirs now, can you guys check with your traders and see if they need any changes made to the files, and let them change any links?
+
+We also need to create a curve file that the traders can get to, but doesn't give them access to any of our other files, so the current location will not be the final.  We can create this tomorrow once we have converted over to UBS.
+
+Thanks
+
+KK"
+keiser-k/sent_items/230.,"Thu, 10 Jan 2002 12:33:16 -0800",kam.keiser@enron.com,"d..winfree@enron.com, c..giron@enron.com, m..love@enron.com, scott.palmer@enron.com, errol.mclaughlin@enron.com",TRV,"Do you want to keep any of the old TRV files for Netco for any reason.  We can create new ones once it is set up.  
+
+KK"
+keiser-k/sent_items/231.,"Thu, 10 Jan 2002 12:30:12 -0800",kam.keiser@enron.com,casey.evans@enron.com,website,"Casey,
+
+Could you get me a list of names for those people in Netco that should have access to ERV and TRV?
+
+Hal McKinney is trying to clean up this file this week.
+
+Thanks
+Kam"
+keiser-k/sent_items/233.,"Thu, 10 Jan 2002 08:21:34 -0800",kam.keiser@enron.com,zhiyong.wei@enron.com,Netco curves,"Z,
+
+This is a list of the curves we will be using in Netco.  We may have some additional curves to add to this list but I wanted to get you something to start with.
+
+Thanks
+
+KK"
+keiser-k/sent_items/236.,"Thu, 10 Jan 2002 07:41:26 -0800",kam.keiser@enron.com,r..brackett@enron.com,,"This is what Jeff gave them for the terminated deals.  I need the values by month for gas only.  They asked for positions but that will be much harder, if you can get anything like that I can use it.
+
+Thanks
+
+KK
+
+ see MTM by Month"
+keiser-k/sent_items/24.,"Mon, 04 Feb 2002 12:59:47 -0800",kam.keiser@enron.com,"mike.grigsby@enron.com, k..allen@enron.com, frank.ermis@enron.com, keith.holst@enron.com",curve files,"We have created six new curve files for UBS.  Could you please look at them and let me know if there is something in your files that you are not responsible for and we will move them.  Also, you can use these files to change or update your links.    O:\_dropbox\West Curves
+
+We will probably be loading these on Wednesday for the first time to do our final testing so let me know if you have any questions or need our help with this. 
+
+Can you let me know when you have finished with yours so we can convert them to the new database?
+
+Thanks
+
+Kam
+
+
+If you have already done this let me know, Phillip is out all week and I don't know where he left off."
+keiser-k/sent_items/240.,"Thu, 10 Jan 2002 05:56:42 -0800",kam.keiser@enron.com,"m..love@enron.com, d..winfree@enron.com, scott.palmer@enron.com, c..giron@enron.com",regions file,"Thomas is setting up a new NGP&L file and would like us to save a copy of each P&L to Netco\2002\0102\region#0102.  Once you decide how you are going to break them up, one file for each book or combine them together, can you save them out there so he can start linking them.
+
+I think that for the physical regions it may be easier to keep each book separate because people could be moving around a lot. 
+
+KK"
+keiser-k/sent_items/241.,"Thu, 10 Jan 2002 05:50:09 -0800",kam.keiser@enron.com,r..brackett@enron.com,Non-terminated deals,"Debbie,
+
+The credit committee needs to get some information from us that I could use your help with.  Can I get a dump of the non-terminated deals into excel and I will format it from there.  The information they need to see are the counterparty name, cash flows (MTM value) and positions.
+As always, they need it by 11:00 this morning so if you could let me know if this is something your group could provide me with I would appreciate it. 
+
+Thanks
+
+Kam
+
+x3-5781"
+keiser-k/sent_items/242.,"Thu, 10 Jan 2002 05:34:00 -0800",kam.keiser@enron.com,feedback@clearstation.com,,please take me off your mailing list.
+keiser-k/sent_items/243.,"Thu, 10 Jan 2002 05:31:55 -0800",kam.keiser@enron.com,ed.mcmichael@enron.com,Performance book,"Ed,
+
+This book has been set up and should be ready to go.  Can you let me know what deals you would like moved into that book and we will take care of it.
+
+Thanks
+
+Kam
+x3-5781"
+keiser-k/sent_items/245.,"Wed, 09 Jan 2002 15:03:53 -0800",kam.keiser@enron.com,"d..powell@enron.com, stephanie.mcginnis@enron.com, r..brackett@enron.com",bankruptcy post-id's,"Jan 9th
+
+1460650
+1460651
+1460652
+1460653
+1460654
+1460655
+1460656"
+keiser-k/sent_items/248.,"Wed, 09 Jan 2002 12:27:08 -0800",kam.keiser@enron.com,susan.trevino@enron.com,physical books,"Susan,
+
+Can I please get a copy of the physical  Portfolio Request form from you so in the future we get these physical books set up correctly.
+Could you also tell me what needs to be done differently from all other books.  
+
+We created our own Data Codes and sent them to global counterparties, is there anything else different?
+
+KK
+
+also, can you tell me when the PERFORMANCE book will be ready.  Ed McMicheal needs to value those deals today.
+
+
+Thanks"
+keiser-k/sent_items/249.,"Wed, 09 Jan 2002 12:23:58 -0800",kam.keiser@enron.com,bernice.rodriguez@enron.com,data codes,"Bernice,
+
+I added the unique 4 digit Data codes to column T of the attached spreadsheets.
+
+Let me know if there is anything else you need from me.
+
+Kam"
+keiser-k/sent_items/252.,"Wed, 09 Jan 2002 09:59:39 -0800",kam.keiser@enron.com,mike.grigsby@enron.com,broker quotes,"Mike,
+
+Do you or anyone else in your group get broker quotes on a daily basis to help set the curves?  If so, is there a spreadsheet kept with them that I can get?
+
+Thanks
+
+Kam"
+keiser-k/sent_items/253.,"Wed, 09 Jan 2002 09:57:30 -0800",kam.keiser@enron.com,"d..winfree@enron.com, c..giron@enron.com, john.valdes@enron.com, scott.palmer@enron.com, m..love@enron.com",estate files,"Here are the files that use ERMS that the estate will be using.  Some of these directories will have files that are saved with a new name daily, you can pick the latest date to change.
+
+
+O:\erms\erms_adm\firmtrad\Benchmark\2002\Jan-02
+O:\erms\erms_adm\firmtrad\2002\0102\regions
+O:\erms\Excel Queries\ (Netco will need a copy of these files moved with them)
+O:\Transport\Central Transport\2002\Jan02
+O:\TDS\TDS Curve\Central
+O:\TDS\TDS Curve\East
+O:\TDS\TDS Curve\GD-Central
+O:\TDS\TDS Curve\NY
+O:\TDS\TDS Curve\NYMarket
+O:\TDS\TDS Curve\Southeast
+O:\TDS\TDS Curve\Central\Texas
+O:\TDS\TDS Curve\Central\West
+O:\TDS\TDS Curve\East\Intramonth & Gas Daily files\eastprodnew style & eastmktnewstyle.xls
+O:\TDS\TDS Curve\East\GDI - East.xls
+O:\TDS\TDS Curve\EAST\FTEAST.xls
+O:\erms\1intra\1report\2002\0102phy\regions\EATP0102.xls
+O:\erms\erms_adm\firmtrad\2002\0102\regions\intra-east transport 0102.xls
+O:\Global_trading\Financial|trading\Texas Trading\Curves Bass.....
+		ft_tx0326
+		waha_perm_0326
+		indexCurves
+		texasnewstyle
+		texas gas daily index curves
+O:\Bridgeline\BRMS\Risk\Benchmark
+O:\Bridgeline\BRMS\Risk\P&L
+O:\ECT_trading\Pos_curves\BasisCurves\2002Curves\Jan2002
+O:\ECT_trading\Pos_curves\IntMonCurves\2002Curves\Jan2002
+
+
+I will send more if I find them.
+
+Thanks
+
+KK"
+keiser-k/sent_items/255.,"Wed, 09 Jan 2002 09:34:59 -0800",kam.keiser@enron.com,"scott.palmer@enron.com, errol.mclaughlin@enron.com, c..giron@enron.com",trader matrix,"Do you guys know which books each of your people will be doing?  There is a column for that in the trader matrix under the controls folder.  Ramesh will be loading our information into risktrac for us once we have all of the information, book admin id is one of the fields he needs. 
+
+When you have decided can you please input that into the trader matrix and I'll then forward everything to Ramesh.
+
+Thanks
+
+Kam"
+keiser-k/sent_items/256.,"Wed, 09 Jan 2002 09:22:10 -0800",kam.keiser@enron.com,susan.trevino@enron.com,estate book,"Susan,
+
+What time can that estate book be ready to go?
+
+KK"
+keiser-k/sent_items/257.,"Wed, 09 Jan 2002 09:10:56 -0800",kam.keiser@enron.com,russell.diamond@enron.com,MTM value,"Russell,
+I believe that Francis Lim has been trying to help you with the project we have been talking about.  The information below should be able to replace what he may have given you.  You can copy these post-id's and change the dates to whatever you like. 
+
+Here are all of the post-id's for the PG, G1 and W9 which are the remaining live books.
+
+price			1458677
+basis 			1458682
+index 			1458681
+gas daily		1458683	
+gas daily index		1458681
+canadian price		1458639
+canadian GD		1458283
+
+
+These are the bankruptcy post-id's (HH and HE)
+
+price			1459387
+basis 			1459389			
+index 			1459391	
+gas daily		1459392	
+gas daily index		1459393
+canadian price		1459395
+canadian GD		1459396
+
+
+Attached are the forwards and options details that you can run to give you all of the values you may need.
+
+   
+
+Let me know if you have any questions."
+keiser-k/sent_items/258.,"Wed, 09 Jan 2002 07:20:20 -0800",kam.keiser@enron.com,"d..powell@enron.com, stephanie.mcginnis@enron.com, r..brackett@enron.com",bankruptcy post-id's,"Jan 8th
+
+1459387
+1459389
+1459391
+1459392
+1459393
+1459395
+1459396"
+keiser-k/sent_items/259.,"Wed, 09 Jan 2002 06:37:28 -0800",kam.keiser@enron.com,john.keiser@enron.com,,Do you remember at what price do we own Microsoft?
+keiser-k/sent_items/26.,"Mon, 04 Feb 2002 07:33:15 -0800",kam.keiser@enron.com,greg.couch@enron.com,ECC deals,"Greg,
+
+There are still about 2,000 deals between ECC and Riskmantra that need to be moved to the Bankruptcy books.  IT did all ECC to ENA deals, they need to change the script to ECC and Riskmantra.  We started to move some of the deals manually but there are too many to do.  Sanjeev Gupta has been doing this for us in the past.   I left a message with him but you might want someone to follow up with him to make sure it happens before calcing time today.
+
+
+Here is a list of the deals if you guys are looking for work to do.
+
+ 
+Thanks
+
+KK"
+keiser-k/sent_items/260.,"Wed, 09 Jan 2002 06:10:52 -0800",kam.keiser@enron.com,"stephen.perich@enron.com, thomas.underwood@enron.com",new P&L,"We have a copy of the p&l format we will all be using saved in O:\erms\erms_adm\Netco\blank P&L.xls.  If you are setting up your formulas you can use this format to create all your links for the new NGP&L and then change them to the individual p&l's later, we will be deciding how to break out the traders sometime this week.   
+
+Attached is a list of the book names and the traders associated with each book.
+
+ 
+Let me know what you guys need to get all of this set up this week.
+
+Thanks
+
+Kam"
+keiser-k/sent_items/262.,"Wed, 09 Jan 2002 05:41:25 -0800",kam.keiser@enron.com,c..gossett@enron.com,promotions,"O'neal Winfree currently manages the Texas risk management group for natural gas and is also responsible for the benchmark reporting group.  He works closely with the Desk director and other traders to ensure accurate reporting of the positions and P&L's.  He has eliminated most OA variances on his desk and has helped the other regions as well.  O'neal and his group recently created a new physical P&L reporting tool to assist the risk and trading groups.
+  
+Scott Palmer is currently the East desk lead and was the central desk lead prior to that.  He set up and managed the Wellhead region and created new reporting tools for the traders to manage their supply.  He was also responsible for calculating and reporting the Virginia Natural Gas asset management book and worked closely with the structuring group and others at VNG and Sequent to resolve any issues or questions.  
+ 
+James Hungerford has been a book administrator on the East region for the past six months.  He quickly became an important part of the team by managing up to three traders' P&L's and making numerous improvements to our daily routines such as streamlining the Weapon-X database, automating the new deal checkout and implementing a daily VaR estimate process.  Prior to risk management, James was the Operational Analysis coordinator for the east region and worked with risk management and other downstream groups to clean-up all past variances and helped eliminate future problems."
+keiser-k/sent_items/266.,"Tue, 08 Jan 2002 13:26:11 -0800",kam.keiser@enron.com,susan.trevino@enron.com,estate book,"Susan,
+
+Can you please set up the attached book for the estate.  
+
+Thanks
+
+KK"
+keiser-k/sent_items/267.,"Tue, 08 Jan 2002 13:22:46 -0800",kam.keiser@enron.com,"zhiyong.wei@enron.com, jeremy.wong@enron.com",gas daily curve mappings,"Question:
+
+Once the new database for ERMS is split for Netco. we will have to make some changes to the gas daily curve mapping tables.  Is there another way to create these mappings other than adding them one at a time.  We are getting rid of a large percentage of curves and will be making many changes to the current mappings.  Doing it one by one will be very time consuming and I want to see if you are able to load them another way.
+
+Kam"
+keiser-k/sent_items/268.,"Tue, 08 Jan 2002 12:11:40 -0800",kam.keiser@enron.com,d..winfree@enron.com,GD curves,"Will you still need the GD curves, GD-HPL/SHPCH and GD-WAHA, or can the GDP be used instead?
+
+KK"
+keiser-k/sent_items/269.,"Tue, 08 Jan 2002 09:13:53 -0800",kam.keiser@enron.com,"russ.severson@enron.com, zhiyong.wei@enron.com, cecilia.cheung@enron.com",book requests,"Attached are the book requests for the NetCo. books.  They have already been set-up in Global Counterparties.
+
+Thanks,
+
+Kam"
+keiser-k/sent_items/270.,"Tue, 08 Jan 2002 08:06:32 -0800",kam.keiser@enron.com,"scott.palmer@enron.com, d..winfree@enron.com, errol.mclaughlin@enron.com, c..giron@enron.com, m..love@enron.com",Netco Curves,"Zhiyong needs to get a list of all curves we will be loading for Netco. by tomorrow.   
+
+When you all are done identifying those curves could you please get me a list of the curves by risk type?
+
+Thanks
+
+Kam"
+keiser-k/sent_items/271.,"Tue, 08 Jan 2002 07:24:52 -0800",kam.keiser@enron.com,"d..hare@enron.com, cheryl.johnson@enron.com, remi.otegbola@enron.com, bernice.rodriguez@enron.com",additional books,"Attached are the original spreadsheets with additional book requests in yellow.  This should be the end, or close to it, for the Netco gas book requests.  As before, could I get the global id's once you are finished? 
+
+
+Thanks, 
+
+Kam"
+keiser-k/sent_items/274.,"Tue, 08 Jan 2002 06:20:35 -0800",kam.keiser@enron.com,john.valdes@enron.com,controls,"John,
+
+At some point I would recommend setting up a mailbox for your new controls group.  That way we won't have to worry about who is doing what, everyone in the group will get it.  The current controls group did that and it was much easier.
+
+KK"
+keiser-k/sent_items/278.,"Mon, 07 Jan 2002 14:34:53 -0800",kam.keiser@enron.com,"d..powell@enron.com, stephanie.mcginnis@enron.com, r..brackett@enron.com",bankruptcy post-id's,"Post id's for today
+
+1457408
+1457409
+1457410
+1457411
+1457412
+1457413
+1457414
+
+Kam
+x3-5781"
+keiser-k/sent_items/280.,"Mon, 07 Jan 2002 14:24:54 -0800",kam.keiser@enron.com,"d..hare@enron.com, cheryl.johnson@enron.com, remi.otegbola@enron.com, bernice.rodriguez@enron.com",new books,"Cheryl,
+
+The risk management group will be taking over the duties from the controls group as far as setting up new books.  I have attached five book requests that need to be set up for Netco.  Once these are set up can you please call me so I can tell Cecilia.  I will also need the Global ID # to give to EOL for their needs.
+
+
+Thanks,
+
+Kam
+x3-5781"
+keiser-k/sent_items/282.,"Mon, 07 Jan 2002 14:00:07 -0800",kam.keiser@enron.com,cecilia.cheung@enron.com,new books,"Cecilia,
+
+We need to get some new books set up in ERMS this week for Netco.  We will be taking over this responsibility from the controls group but they are reluctant to grant us access to RisktRAC now due to security reasons.  These books are needed for many downstream groups and therefore must be set up soon.  Can you set these up before they are in risktrac this time due to these limitations?  I can give you the book and portfolio codes and the TAGG short names.
+
+Please let me know today so we can start ASAP.
+
+Thanks
+
+Kam
+
+x3-5781"
+keiser-k/sent_items/283.,"Mon, 07 Jan 2002 13:43:36 -0800",kam.keiser@enron.com,zhiyong.wei@enron.com,,"Z,
+
+Attached are the files that need to be copied for the Netco files.
+
+ 
+I will get you the list of curves tomorrow and you should talk to Louise for a list of the Netco traders.
+
+
+Thanks
+
+Kam"
+keiser-k/sent_items/284.,"Mon, 07 Jan 2002 13:42:10 -0800",kam.keiser@enron.com,"andrew.champion@enron.com, susan.trevino@enron.com, shona.wilson@enron.com",risktrac access,"Andrew,
+
+The following are the people that will be setting up new books for Netco.  The e-requests have been submitted.
+
+Kam Keiser
+O'neal Winfree
+Phillip Love
+Scott B. Palmer
+John Valdes
+Errol McLaughlin
+
+
+
+Thanks
+
+Kam"
+keiser-k/sent_items/289.,"Mon, 07 Jan 2002 11:27:37 -0800",kam.keiser@enron.com,bodyshop@enron.com,cancellation,"Please cancel my membership.
+
+Thanks
+
+Kam Keiser
+3-5781"
+keiser-k/sent_items/290.,"Mon, 07 Jan 2002 11:06:07 -0800",kam.keiser@enron.com,mike.grigsby@enron.com,Phillip,"Mike,
+
+Let me know when you are free, I would like to bring Phillip Love up to meet you.
+
+
+KK"
+keiser-k/sent_items/293.,"Mon, 07 Jan 2002 09:00:09 -0800",kam.keiser@enron.com,"m..love@enron.com, d..winfree@enron.com, scott.palmer@enron.com, c..giron@enron.com",sitara mappings,"The sitara mapping table is saved in the Netco file named CurveMappings.xls
+
+Check your regions and if you see any locations mapped to curves we won't be setting anymore, make a list of those and what the new mappings should be.  Once the new database is set up we will get with Russ to have those changed over.
+
+
+Thanks
+
+KK"
+keiser-k/sent_items/294.,"Mon, 07 Jan 2002 08:56:57 -0800",kam.keiser@enron.com,c..giron@enron.com,Central & Ontario curves,"Darron,
+
+The curve lists are saved in O:\erms\erms_adm\netco\central\current central/ontario curves.xls
+
+
+I can help you sort through those if you want help.
+
+
+KK"
+keiser-k/sent_items/296.,"Mon, 07 Jan 2002 07:52:17 -0800",kam.keiser@enron.com,mike.grigsby@enron.com,Denver,"Mike,
+
+Will there be a Denver region for Netco?  I have assumed that everything will be considered West but want to make sure before we set up the books.
+
+Thanks
+Kam"
+keiser-k/sent_items/298.,"Mon, 07 Jan 2002 05:48:08 -0800",kam.keiser@enron.com,john.valdes@enron.com,book set-up,"John,
+
+Are you ready to learn your first control function.  The controls group is going to let us set up the new books we need for Netco today.  When you are ready let me know and we'll go down there, or they will come up here or whatever.
+
+Kam"
+keiser-k/sent_items/3.,"Wed, 06 Feb 2002 14:22:37 -0800",kam.keiser@enron.com,s..shively@enron.com,Gas deal entry procedures,"The following will be the deal entry procedures for UBSWEnergy:
+
+Financial
+1.  All non-electronic financial deals to be entered directly by Risk Management from a written and signed deal ticket (required) from front office 
+
+Physical
+1.  All current month physical deals to be booked directly into Sitara by front office (logistics/trading)
+2.  All prompt month forward deals to be booked directly into TDS by Risk Management from a written and signed deal ticket (required) from front office 
+	 - physical meters to be added by logistics/trading"
+keiser-k/sent_items/30.,"Fri, 01 Feb 2002 13:01:43 -0800",kam.keiser@enron.com,shona.wilson@enron.com,new form A,"Shona,
+
+Here is our updated form A without intercompany deals.  Included on the last two tabs are the details they asked for from gas.
+
+We are still working on the contracts and confirms.
+
+
+Thanks
+
+KK"
+keiser-k/sent_items/300.,"Fri, 04 Jan 2002 12:41:20 -0800",kam.keiser@enron.com,russ.severson@enron.com,sitara mappings,"Russ,
+
+Can we get a list of the mappings for all sitara locations.  We are modifying our curve files by getting rid of all ""internal"" curves.  We need to make sure that we don't have anything mapped to those curves and if so make some changes.
+
+We also need to think about how this change will work with the estate as well.  Will sitara have a separate database for Netco and estate like TAGG will?
+
+Kam"
+keiser-k/sent_items/302.,"Fri, 04 Jan 2002 11:54:33 -0800",kam.keiser@enron.com,"russell.diamond@enron.com, darren.vanek@enron.com",Keyspan,"The Keyspan deals have been corrected.
+
+
+Kam"
+keiser-k/sent_items/303.,"Fri, 04 Jan 2002 11:02:51 -0800",kam.keiser@enron.com,susan.trevino@enron.com,,"Please use this form instead of the previous west file
+
+Thanks"
+keiser-k/sent_items/304.,"Fri, 04 Jan 2002 11:00:43 -0800",kam.keiser@enron.com,susan.trevino@enron.com,new book req,"Susan,
+
+These are book requests for the Netco books for all regions.
+
+Please let me know if you have any questions.  We put in some book and portfolio codes we would like if they are available.  If not, please call me.  We need all price, basis, index, and gas daily US books to be the same, all Canadian books to be the same and all physical books to have the same codes please.
+
+Thanks
+
+Kam"
+keiser-k/sent_items/307.,"Thu, 03 Jan 2002 14:20:46 -0800",kam.keiser@enron.com,m..love@enron.com,west curve files,"Phillip,
+
+Do you want me to do anything for the new west curve files or are you taking care of it?
+
+KK"
+keiser-k/sent_items/308.,"Thu, 03 Jan 2002 12:14:43 -0800",kam.keiser@enron.com,c..gossett@enron.com,Netco files,"Here is the list you requested.  
+
+KK"
+keiser-k/sent_items/309.,"Thu, 03 Jan 2002 12:05:22 -0800",kam.keiser@enron.com,chuck.ames@enron.com,morning reports,"Chuck,
+
+I know you made some extremely detailed notes for the morning reports but I can't seem to find anyone down here that has them.  Do you still have a copy saved you could send me?
+
+
+KK"
+keiser-k/sent_items/310.,"Thu, 03 Jan 2002 11:58:19 -0800",kam.keiser@enron.com,biliana.pehlivanova@enron.com,morning procedures,"Biliana,
+
+Do you have a copy of the detailed procedures that Chuck prepared for the morning reports?  I am looking for a copy in excel if you have them.
+
+KK"
+keiser-k/sent_items/311.,"Thu, 03 Jan 2002 09:32:43 -0800",kam.keiser@enron.com,"john.valdes@enron.com, greg.couch@enron.com",controls,"Let me know if there is anything I help you guys with for the controls reports.  I would like to be involved in this process to understand it better.
+
+Kam"
+keiser-k/sent_items/313.,"Thu, 03 Jan 2002 08:10:23 -0800",kam.keiser@enron.com,"m..love@enron.com, d..winfree@enron.com, scott.palmer@enron.com, errol.mclaughlin@enron.com",book request,"there is a book request form in Netco\controls\Book request form.xls.  I put in the west desk books already.  Susan is checking to see if we can use those portfolio and book codes, if not we'll change them.
+
+
+KK"
+keiser-k/sent_items/315.,"Thu, 03 Jan 2002 07:27:55 -0800",kam.keiser@enron.com,darren.vanek@enron.com,keyspan,"Darren
+
+The counterparty short name you gave me doesn't exist in TAGG.  Is this a new name?
+
+Kam
+x3-5781"
+keiser-k/sent_items/316.,"Thu, 03 Jan 2002 07:22:04 -0800",kam.keiser@enron.com,mike.grigsby@enron.com,Tori,"Will anyone be taking Tori's place or are we down to 9 books?
+
+KK"
+keiser-k/sent_items/319.,"Thu, 03 Jan 2002 06:46:06 -0800",kam.keiser@enron.com,"ashley.worthing@enron.com, biliana.pehlivanova@enron.com, monte.jones@enron.com, randy.bhatia@enron.com, ryan.o'rourke@enron.com",netco files,"We are finalizing the list of files to be moved over to Netco today.  Please look in O:\erms\erms_adm\Netco\West and if there is a file you used to run, (price reports, the wood report, broker, desk to desk, consolidated P&L for the website, etc.) that you don't see out there now, please save a copy to this directory this morning.
+
+Thanks
+
+KK"
+keiser-k/sent_items/320.,"Thu, 03 Jan 2002 06:42:36 -0800",kam.keiser@enron.com,ryan.o'rourke@enron.com,price reports,"Ryan,
+
+Can you save a copy of all of the files you did for Grigsby, price and position reports, to O:\erms\erms_adm\Netco\West.
+
+We are taking copies of everything we use now, this is the file that will be moved with us.
+
+
+Thanks
+Kam"
+keiser-k/sent_items/322.,"Thu, 03 Jan 2002 06:32:43 -0800",kam.keiser@enron.com,"m..love@enron.com, scott.palmer@enron.com, d..winfree@enron.com, errol.mclaughlin@enron.com",trader matrix,"I started a spreadsheet for us to keep track of our books, traders, file names, etc.
+
+It is saved in O:\erms\erms_adm\Netco\Controls\Trader Matrix.xls
+
+Please add any other fields you think we should have.  Jeff mentioned he wants to be able to quickly tell what books belong to what traders, O'neil had this idea.
+Is everyone ready to start setting up their books today?  Has Scott Neal gotten back to you yet Phillip?
+
+KK"
+keiser-k/sent_items/323.,"Thu, 03 Jan 2002 06:25:04 -0800",kam.keiser@enron.com,c..gossett@enron.com,new book names,"We have decided to name our books FB-West1 thru 10......for each region
+
+We will have a matrix saved for everyone to be able to look at with the book names, trader names, sitara books, P&L file name, global id, and everything else that anyone might want to see.  I think this will make things more consistent than coming up with new stupid names like before.  All books, including the financial books, will have the same portfolio and book codes.  Physical books will be seperate but will all be the same.
+
+
+KK"
+keiser-k/sent_items/324.,"Thu, 03 Jan 2002 06:18:39 -0800",kam.keiser@enron.com,biliana.pehlivanova@enron.com,morning reports,"Biliana,
+
+We are making sure this week that we have all the files we use listed to be moved to Netco.  Can you please make a list of all the paths and files used to prepare the morning reports, including the VaR access database?  I will need this before lunch. 
+
+
+Thanks
+
+Kam"
+keiser-k/sent_items/325.,"Thu, 03 Jan 2002 06:05:01 -0800",kam.keiser@enron.com,zhiyong.wei@enron.com,netco directories,"Z,
+
+We have been making lists of the directories that need to be moved over with Netco.  Will these directories be moved so that the estate can't use them, or will copies be made so both groups could use the files?  If not, we will have to make copies and change the list we have put together already.
+
+
+Thanks
+
+Kam"
+keiser-k/sent_items/326.,"Thu, 03 Jan 2002 06:02:45 -0800",kam.keiser@enron.com,"randy.bhatia@enron.com, ashley.fay@enron.com, monte.jones@enron.com, ryan.o'rourke@enron.com, biliana.pehlivanova@enron.com, ashley.worthing@enron.com",options,"I brought some of my natural gas and options books from home.  Please come by my desk if you want to read one during the day or make copies of some chapters to take home with you.
+
+
+KK"
+keiser-k/sent_items/328.,"Wed, 02 Jan 2002 14:45:01 -0800",kam.keiser@enron.com,"d..powell@enron.com, stephanie.mcginnis@enron.com",Bankruptcy Post-id's,"Here are the post-id's for today
+
+
+1453808
+1453809
+1453810
+1453811
+1453812
+1454128
+1453814"
+keiser-k/sent_items/329.,"Wed, 02 Jan 2002 12:45:37 -0800",kam.keiser@enron.com,zachary.mccarroll@enron.com,risk overview,"Zach,
+
+Can you get together Friday morning to go over the basics of what we do?  I will try to find some old class materials for you to review as well.
+I will let you know when and where tomorrow.
+
+Thanks,
+Kam"
+keiser-k/sent_items/33.,"Fri, 01 Feb 2002 12:32:58 -0800",kam.keiser@enron.com,sanjeev.gupta@enron.com,redo,"Sorry,
+
+Chicago gave us the wrong post-id's.
+
+
+1477539
+1477540
+1477541
+1477548
+1477549
+1477550
+1477551
+1477560
+1477563
+1477564
+1477568
+1477571
+1477572
+
+Thanks again.
+
+KK"
+keiser-k/sent_items/331.,"Wed, 02 Jan 2002 08:39:11 -0800",kam.keiser@enron.com,"m..love@enron.com, scott.palmer@enron.com, d..winfree@enron.com, errol.mclaughlin@enron.com",new books,"Have you started to set up any new books for NetCo. yet?
+
+Do you guys think we should all use the same book and portfolio codes this time to make mini-books easier?
+Also, I think we should have some consistency in book names (make them more descriptive).  any other suggestions?
+
+KK"
+keiser-k/sent_items/332.,"Wed, 02 Jan 2002 08:17:47 -0800",kam.keiser@enron.com,"scott.palmer@enron.com, monte.jones@enron.com, d..winfree@enron.com",year end procedures,"If you don't have these already.
+
+
+Monte,  I will help you with these.
+
+KK"
+keiser-k/sent_items/333.,"Wed, 02 Jan 2002 07:40:13 -0800",kam.keiser@enron.com,susan.trevino@enron.com,book request,"Susan,
+
+Could I please get a copy of a blank book request from you.
+
+
+Thanks
+
+Kam"
+keiser-k/sent_items/335.,"Wed, 02 Jan 2002 07:31:24 -0800",kam.keiser@enron.com,chance.rabon@enron.com,morning reports,"Chance,
+
+We need to prepare the morning reports for the last day of the year.  Biliana isn't here today, could you please take care of that today for her?
+
+Thanks
+
+Kam"
+keiser-k/sent_items/336.,"Wed, 02 Jan 2002 07:27:51 -0800",kam.keiser@enron.com,"randy.bhatia@enron.com, ashley.fay@enron.com, monte.jones@enron.com, ryan.o'rourke@enron.com, biliana.pehlivanova@enron.com, ashley.worthing@enron.com",new year,"Now that the auction is underway and the possibility of being purchased in very high, we need to get back in gear, TODAY.
+
+1.	Everyone needs to be here no later than 8:00am, 7:30 once we start trading again
+2.	No playing on the internet or other games (ex. cards) - this will no longer be tolerated
+3.	I have said this many times before but this is the ideal time to LEARN.
+		bring in your options books or anything else that you can read to learn more about the energy industry
+		start studying the firms rolls, learn what the macros do, develop new checks and balances
+		become more familiar with forwards and options details and other excel queries and where the curves come from
+		understand the curve files (these will change but the general format will be similar)
+		
+Just to be clear, this is coming down from Jeff Gossett.  
+The list for NetCo. is not set in stone and can be changed if someone steps up, or if someone doesn't.
+
+We are still getting paid everyday and should be putting our time into the company.
+I know it has been boring but things need to change starting today, things will start to pick up in the next few days.
+
+The current restart date is January 21, 2001 but may be pushed forward to January 14th.
+
+I would like to get your ideas for changes/improvements to our current processes/systems.  We have a slightly improved firm roll to use but nothing else has changed.
+This is our chance to change the things we couldn't before.  There is no reason why we have to continue doing things the same as before.
+
+Please seriously think about this over the next few days and get back to me with any ideas you have, no matter how small, every little bit helps.
+
+Come talk to me if you have any questions or concerns,
+
+Thanks,
+Kam"
+keiser-k/sent_items/339.,"Mon, 31 Dec 2001 12:54:52 -0800",kam.keiser@enron.com,suzanne.christiansen@enron.com,#1192135,"FYI...
+
+I changed a deal you booked on Friday from IM WC CAL to IM WEST.  That book no longer exists. 
+
+
+Thanks
+
+KK"
+keiser-k/sent_items/340.,"Mon, 31 Dec 2001 12:39:43 -0800",kam.keiser@enron.com,"d..powell@enron.com, stephanie.mcginnis@enron.com",Bankruptcy post-id's,"Here are the post-id's for today
+
+
+Price		1452831
+Basis		1452832
+Index		1452833
+GDM		1452834
+GDI		1452835
+GDM-Canadian	1452839
+GDY-Canadian	1452843"
+keiser-k/sent_items/341.,"Mon, 31 Dec 2001 11:45:58 -0800",kam.keiser@enron.com,ruth.concannon@enron.com,net back deals,"Ruth,
+
+I don't know if you still need this but here are the deal #'s for the canadian netback deals.
+
+586218
+310631
+654729
+667404
+667429
+689830
+936397
+1012077
+583625
+
+
+That is all I have found so far.
+
+
+Kam
+x3-5781"
+keiser-k/sent_items/344.,"Mon, 31 Dec 2001 05:47:06 -0800",kam.keiser@enron.com,"jeremy.wong@enron.com, zhiyong.wei@enron.com",RAC website,"We need to add the RAC website to our list of programs to be moved over with Netco.
+
+the website is rac.enron.com
+Let me know when you get this if there is anything we need to do to make sure this happens.
+
+Thanks
+
+Kam
+x3-5781"
+keiser-k/sent_items/345.,"Mon, 31 Dec 2001 05:31:06 -0800",kam.keiser@enron.com,greg.couch@enron.com,forwards details,"Greg,
+
+Have you had a chance to look at the new forwards details we talked about?
+
+Kam"
+keiser-k/sent_items/346.,"Sun, 30 Dec 2001 15:57:25 -0800",kam.keiser@enron.com,john.valdes@enron.com,Dec liquidations,"John,
+ 
+I was just thinking about the December liquidations.  We moved many deals over to a book called Bankruptcy for december forward production months.  We won't be calculating this book but I'm wondering if the deals will still liquidate for Jim's (or whoever) schedule.  If they do, we will have huge OA because we killed the swaps on those physical deals, meaning the desk and customer prices will be the same.  We'll see those variances, and at the same time Financial acct. should see a variance because the deals liquidated but were not ""flashed"" in our P&L's.
+ 
+How can we tell if that book will liquidate this month or not?
+ 
+KK"
+keiser-k/sent_items/347.,"Fri, 28 Dec 2001 10:31:49 -0800",kam.keiser@enron.com,errol.mclaughlin@enron.com,BANKRUPTCY POST-ID'S,"Errol,
+
+Here are the bankruptcy post-id's that need to be calculated tonight.  You probably don't have access to the Canadian book so you can get it from Jeremy or use my computer.  The right one has portcalc up, kkeiser & tamu96ddd.
+
+They might need to be on inexact for basis and index.
+Once those are done, can you email the id #'s to John Powell, Debbie Brackett and Stephanie McGinnis?
+
+Thanks
+
+Kam
+call me if you have any problems
+713-398-4735"
+keiser-k/sent_items/348.,"Fri, 28 Dec 2001 09:37:18 -0800",kam.keiser@enron.com,"m..love@enron.com, scott.palmer@enron.com, d..winfree@enron.com",physical bankruptcy deals,"I started looking at the prompt month positions yesterday and noticed that many of the deals moved to the bankruptcy book have not been deleted in sitara.  I don't think that most people checked the bottom of the sitara deal to see that the volumes were zero for future months.  I started comparing the Bankruptcy index book to a prompt month calc. and fixed as much as I could for the East and West, I just started on Central but we should check this all again on Monday.  Because of this, we have not reported any prompt month physical value.  The rates group hasn't been around to get the demand charges either.  We should have everything clean to report it on Monday.
+
+Going forward I guess we need to show people how to check it correctly.
+
+See you on Monday.
+
+Kam"
+keiser-k/sent_items/35.,"Fri, 01 Feb 2002 11:24:32 -0800",kam.keiser@enron.com,sanjeev.gupta@enron.com,,"1476355	1476356	1476357	1476379	1476364	1476365	1476382	1476366	1476367	1476383	1476386	1476389	1476390	
+
+
+Sanjeev,
+
+all the other books tied out.  Thanks
+Could you run these post-id's also.  This is the last book I will need.
+
+
+Thanks
+
+KK"
+keiser-k/sent_items/351.,"Thu, 27 Dec 2001 14:38:54 -0800",kam.keiser@enron.com,c..gossett@enron.com,wake up!!!!!!,"FYI......
+
+We are not bringing in prompt month value tonight.  Texas did, about $25,000.  The other regions don't have what we need for demand charges, etc. and no one has taken any time to research the values yet.  The other groups we need have been gone for hours.  We have some large positions which I don't really think are right.  I'll look closer in the morning.  
+
+Hope you feel better soon, at least you have all weekend to recover.
+
+See you Monday,
+
+Kam
+: )"
+keiser-k/sent_items/352.,"Thu, 27 Dec 2001 14:04:04 -0800",kam.keiser@enron.com,"d..powell@enron.com, stephanie.mcginnis@enron.com",Bankruptcy post-id's,"These are the post-id's for today
+
+Price			1450823
+Basis			1450824	
+Index			1450825
+GDM			1450826
+GDY			1450827
+GDM-Canadian		1451412		these two books were added to capture the canadian priced deals
+GDY-Canadian		1451413
+
+
+Thanks
+
+Kam"
+keiser-k/sent_items/354.,"Thu, 27 Dec 2001 09:15:00 -0800",kam.keiser@enron.com,c..gossett@enron.com,Bankruptcy post-id's,"Jeff,
+
+Here are the post-id's for you (or whoever) for Friday.  Ignore the CAN tab.  You should have access to these books, if not you can use my computer.  kkeiser & tamu96ddd on the right computer.
+
+I may come in for the afternoon.  Let me know if you will need help for anything else, I'll come in.  There hasn't been anything going on except running mini-books for Russell Diamond.
+
+
+See you later,
+
+Kam"
+keiser-k/sent_items/355.,"Thu, 27 Dec 2001 08:00:44 -0800",kam.keiser@enron.com,scott.tackett@enron.com,#500282,"Scott,
+
+Can you check the contract on #500282.  The chicago office needed to add a month to this deal and it wouldn't let it due to the contract #.  I changed it but probably shouldn't have.  It probably needs a new ticket.  Let me know.
+
+
+Kay in Chicago needed this at 312-541-1235
+
+Thanks
+
+Kam"
+keiser-k/sent_items/360.,"Wed, 19 Dec 2001 09:27:02 -0800",kam.keiser@enron.com,"scott.palmer@enron.com, m..love@enron.com",bankruptcy post-id's,"please add Stephanie McGinnis to the email.
+
+it should be 
+
+John Powell
+Debbie Brackett
+Stephanie McGinnis"
+keiser-k/sent_items/361.,"Wed, 19 Dec 2001 09:25:00 -0800",kam.keiser@enron.com,hector.mcloughlin@enron.com,Carole Frank,"Hector,
+
+Carole Frank has resigned effective today.  I will collect her badge and any other equipment.  Please let me know if there is anything else that we need to do.
+
+Thanks
+
+Kam"
+keiser-k/sent_items/362.,"Wed, 19 Dec 2001 09:01:14 -0800",kam.keiser@enron.com,s..lim@enron.com,New Bankruptcy deals,"Francis,
+
+Can you call Errol McLaughlin or Jeff Gossett when you are done?
+
+Thanks
+
+Kam"
+keiser-k/sent_items/364.,"Tue, 18 Dec 2001 13:38:34 -0800",kam.keiser@enron.com,"r..brackett@enron.com, d..powell@enron.com",Banktuptcy Post-id's,"Here are today's post-ids.
+ 
+Price - 1445523
+Basis - 1445524 
+Index - 1445525 
+Gas Daily M - 1445526
+Gas Daily Y - 1445527
+ 
+Kam"
+keiser-k/sent_items/366.,"Tue, 18 Dec 2001 07:13:22 -0800",kam.keiser@enron.com,"m..love@enron.com, d..winfree@enron.com, scott.palmer@enron.com, errol.mclaughlin@enron.com",Bankruptcy post-id's,"I started calculating the bankruptcy book last night for the credit group.  This needs to be done nightly.  I may be out a few days so if I am can someone else take this over from me please?  We can also use these to check daily for counterparties that have been moved incorrectly.
+
+The file is in O:\erms\1intra\west\Bankruptcy post-ids.xls
+
+Thanks
+
+KK"
+keiser-k/sent_items/367.,"Tue, 18 Dec 2001 07:02:27 -0800",kam.keiser@enron.com,"randy.bhatia@enron.com, ashley.fay@enron.com, carole.frank@enron.com, monte.jones@enron.com, ryan.o'rourke@enron.com, biliana.pehlivanova@enron.com, ashley.worthing@enron.com",physical books,"All deals have been moved to ENA-IM WEST last night.  Set up your physical post-id's for today and calculate the weapon-X, make sure there are no deals in your books using a forwards detail.  If it is blank, you can run your weapon-X and input into your P&L this morning, you will also need to officialize your physical book one last time.  
+
+Financial - you don't need to roll your p&l anymore, (except for Monte, you will have to due to the transport model).
+Go into the RAC website and inactivate all of your books other than the physical, you will do that tomorrow.
+
+Now that all tagg deals are in one book, we will be splitting up the alphabet among all groups to help monitor that the correct counterparties are being moved to the Bankuptcy book.  We will get with you all later regarding that.
+
+
+Let me know if you have any questions.
+
+Thanks
+
+KK"
+keiser-k/sent_items/40.,"Fri, 01 Feb 2002 06:01:56 -0800",kam.keiser@enron.com,sanjeev.gupta@enron.com,,"WT Cal has been added. Could you run those additional post-id's?  There are deals in the Aruba book so I'm not sure why you aren't picking those up.  The deals are listed below.
+Thanks
+
+EY4096.1	PERFORMANCE	01-Feb-02	P	6,363,217	-$ 250,393	
+EY4096.3	PERFORMANCE	01-Feb-02	P	202,989	$ 195,610	
+EY4096.4	PERFORMANCE	01-Feb-02	F	0	$ 31,180	
+EY4096.7	PERFORMANCE	01-Feb-02	P	-6,363,217	-$ 55,678	
+EY4106.6	PERFORMANCE	01-Feb-02	P	-1,993,045	-$ 32,387	
+EY4106.7	PERFORMANCE	01-Feb-02	P	1,993,045	-$ 43,548	
+EY4106.9	PERFORMANCE	01-Feb-02	P	27,886	$ 27,361	
+EY4108.E	PERFORMANCE	01-Feb-02	P	12,514,373	-$ 265,932	
+EY4108.F	PERFORMANCE	01-Feb-02	P	112,610	$ 110,555	
+EY4108.H	PERFORMANCE	01-Feb-02	P	-2,239,879	-$ 36,398	
+EY4108.I	PERFORMANCE	01-Feb-02	P	-10,274,494	-$ 166,960"
+keiser-k/sent_items/43.,"Thu, 31 Jan 2002 12:33:08 -0800",kam.keiser@enron.com,kristin.albrecht@enron.com,Live financial deals,"Kristen,
+
+Attached are all live financial deals by risk type.  As you can see, the price data is too large to fit into one tab.  
+
+After tomorrow, I will no longer have access to the estate files.  Greg Couch will be taking over the responsibility for the estate risk group and will be able to assist you with your requests going forward.  
+
+
+Thanks
+
+Kam"
+keiser-k/sent_items/45.,"Thu, 31 Jan 2002 10:39:28 -0800",kam.keiser@enron.com,sanjeev.gupta@enron.com,post-id's,"Sanjeev,
+
+I should have a list of post-id's for you by 4:30 today.  After friday, I will no longer have access to the estate, so if you could shoot this off over night so I could have something in the morning to work with I would appreciate it.
+
+Let me know if that doesn't seem possible. 
+Thanks
+
+Kam"
+keiser-k/sent_items/50.,"Wed, 30 Jan 2002 12:34:42 -0800",kam.keiser@enron.com,kristin.albrecht@enron.com,,"I got the Goldman counterparty names from Bill Hare and I have found 0 deals with them.
+
+Let me know if there is anything else I can do.
+
+
+Kam"
+keiser-k/sent_items/54.,"Wed, 30 Jan 2002 06:59:19 -0800",kam.keiser@enron.com,hal.mckinney@enron.com,ERV update,"Here are the updated ERV names.  
+
+users highlighted in grey.
+
+Thanks
+
+KK"
+keiser-k/sent_items/6.,"Wed, 06 Feb 2002 09:45:37 -0800",kam.keiser@enron.com,s..shively@enron.com,deal tickets,"I will have the procedures for deal entry to you tomorrow.  Keith Holst is also taking a look at the current deal ticket and might be making some changes.  I'll run it by you before we finalize it.
+
+
+Thanks
+Kam"
+keiser-k/sent_items/70.,"Tue, 29 Jan 2002 13:16:17 -0800",kam.keiser@enron.com,m.hall@enron.com,Estate DPR,"Bob,
+
+The estate DPR is ready and will be run on Wednesday and Monday mornings.  Thomas Underwood will be taking over that task from me.
+
+Kam"
+keiser-k/sent_items/76.,"Tue, 29 Jan 2002 11:40:28 -0800",kam.keiser@enron.com,zhiyong.wei@enron.com,UBS curves,"Zhiyong,
+
+We have decided to take the curve history with us to UBS for the attached curves.  We have changed the names for some of the curves so column J has additional curves that we would like to bring history.  We will not continue publishing those in the future however.
+
+
+Thanks
+
+Kam"
+keiser-k/sent_items/77.,"Tue, 29 Jan 2002 11:09:33 -0800",kam.keiser@enron.com,john.valdes@enron.com,updated TRV access,"Sheet 3 has been updated (highlighted) for all TRV users.  I added the admin names in column H.
+
+Thanks
+
+KK"
+keiser-k/sent_items/79.,"Tue, 29 Jan 2002 09:06:21 -0800",kam.keiser@enron.com,"shona.wilson@enron.com, chris.abel@enron.com",ENA DPR,"Here is the gas DPR for last night.  You will start getting this on Wednesdays and Mondays.  Please tell me if this is what you need. 
+
+Thanks
+
+Kam"
+keiser-k/sent_items/8.,"Wed, 06 Feb 2002 09:38:12 -0800",kam.keiser@enron.com,keith.holst@enron.com,deal tickets,"Keith,
+
+We are in the process of making new deal tickets for UBS and I would like to get your input.  Could you look at the attached ticket and delete, add or change anything you want to.  Everyone will be using this format for all non-EOL deals, one ticket per trade.
+
+Thanks
+
+Kam"
+keiser-k/sent_items/80.,"Tue, 29 Jan 2002 07:56:38 -0800",kam.keiser@enron.com,"c..kenne@enron.com, kevin.meredith@enron.com, chris.walker@enron.com",EOL products,"Here is our final list of EOL products.
+
+
+Thanks
+
+Kam"
+keiser-k/sent_items/81.,"Tue, 29 Jan 2002 07:25:14 -0800",kam.keiser@enron.com,russ.severson@enron.com,new name,"Could you please add Derek Baily (dbailey) to the TDS and sitara access list?
+
+Thanks
+KK"
+keiser-k/sent_items/85.,"Mon, 28 Jan 2002 15:31:50 -0800",kam.keiser@enron.com,c..kenne@enron.com,trader-matrix template,"Dawn,
+
+Please see the attached trader matrix template.  There were some changes made on the physical global id's.  Steve South was also added on the west desk.
+
+Thanks
+
+KK"
+keiser-k/sent_items/86.,"Mon, 28 Jan 2002 15:26:58 -0800",kam.keiser@enron.com,scott.palmer@enron.com,deal tickets,"Good question,
+
+I think we should have an excel template set up with all imaginable necessary info that all traders should use, one line per trade rather than one sheet per trade.  What do you think?  
+  
+KK"
+keiser-k/sent_items/92.,"Mon, 28 Jan 2002 13:36:22 -0800",kam.keiser@enron.com,"m..love@enron.com, scott.palmer@enron.com, d..winfree@enron.com, c..giron@enron.com",unused books,"There is a file under Netco for all currently unused books, rolls and hedge strips.  O:\erms\erms_adm\netco\unused books.  Rather than deleting these, they will remain here until they are needed.  The NGP&L will link to these, once they are needed we will start saving it to the regions file and the links will be updated.  
+
+There is also a hedgestrip saved for each book to the live and unused books files. 
+
+We should also start creating a common file for each region to post the P&L to the website.  Let's try to keep these the same format.  East has a good file that shows new deals and     curveshift.  West used a macro to pull in finished P&L's instead of updating links which eliminated some problems, Randy could help with this.  Figure out what format you want and use that for all regions.   I think everyone agrees that we don't want to give them a positions file like in the past, they should use TDS for that. 
+
+I believe the TRV website should be ready to go tomorrow so we can set up the users and report #'s then.
+
+
+KK"
+keiser-k/sent_items/93.,"Mon, 28 Jan 2002 13:07:03 -0800",kam.keiser@enron.com,thomas.underwood@enron.com,inactive books,"I created an Inactive Books folder in the Netco file for all currently unused books.   O:\erms\erms_adm\Netco\Inactive books
+
+They are Texas2, Texas6, East4, East5, Cent4 and Cent5.
+
+Thanks"
+keiser-k/sent_items/97.,"Mon, 28 Jan 2002 11:31:29 -0800",kam.keiser@enron.com,"m..love@enron.com, d..winfree@enron.com, scott.palmer@enron.com, c..giron@enron.com",EOL products,"Now that we know which traders will be moving over, or we should, we need to make a second pass at the EOL product list.  Can you confirm with your desk heads that the list of names we have is correct, and then update the product mappings by tomorrow afternoon?
+
+
+O:\erms\erms_adm\netco\controls\Trader-Book template (US Gas)_EOL new books.xls
+
+
+Thanks
+
+KK"

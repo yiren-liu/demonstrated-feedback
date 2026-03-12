@@ -1,0 +1,288 @@
+index,prompt,reference,prediction,selected_vector
+0,"Write a creative story writing
+
+- Primary objective: produce a brief, spoiler-free recommendation for a TV series.
+- Show metadata to include:
+  - Title: Signal
+  - Origin: South Korean drama (K-drama)
+  - Episode count: 16 episodes
+  - Approximate episode length: ~60 minutes each
+  - Streaming availability: Netflix
+- Viewer context from original: reviewer watched the series in one sitting last weekend (binge-watched).
+- Descriptors used in original: tense, clever, and bingeable (as characterizations to convey feel).
+- Subtitles: original notes that subtitles are high-quality and convey nuance.
+- Intended audience note: recommended for viewers who enjoy mysteries that ""respect your brain"" (i.e., intellectually engaging mysteries).
+- Constraint: keep the recommendation spoiler-free and concise.","Tiny rec: Signal (K-drama) — 16 eps, ~60 mins each, on Netflix. Spoiler-free: it's tense, clever and properly bingeable. Watched it in one go last weekend (couldn't stop). Subtitles are great here — you won't miss the nuance. Low-key amazing if you like mysteries that respect your brain 😄"," :"";
+:animatedafariSCII',...
+',...
+',...
+","weighted_avg: c7(0.34)+c4(0.33)+c5(0.33) (top-3, top_sim:0.576)"
+1,"Write a creative story writing
+
+- Speaker is “Maya”
+- Speaker expresses a mild/low-key obsession with the TV show Lupin
+- Describes the show with factual descriptors: stylish, clever, oddly charming
+- Explicitly requests “no spoilers”
+- States the show inspires a desire for a cocktail either during or after watching
+- Proposes the social scenario: watch two episodes, then go out for drinks to argue about the plot
+- Ends with a direct question to the reader: asks how they feel about this plan (watch two episodes then head out for drinks to argue about the plot)","Low-key obsessed with Lupin — stylish, clever and oddly charming. No spoilers, but it's the sort of show that makes you want a cocktail afterwards (or during). How do you feel about watching two episodes then heading out for drinks to argue about the plot? — Maya",":animated oleh Maya. Saya suka menonton serial TV yang sangat stylish dan pintasan yang tajam, dan juga memiliki kebijaran yang unik. Saya bisa memainkan serial tersebut di rumah, kemudukan bisa meminta diri saya untuk minum cocktail saat menonton atau setelah itu. Apakah kamu ingin menontun dua episode dan kemudian mengaji denganku di bar?","weighted_avg: c8(0.34)+c1(0.33)+c4(0.33) (top-3, top_sim:0.441)"
+2,"Write a creative story writing
+
+- Medium: feature film (drama).
+- Core objective: produce a grand, emotionally complex drama.
+- Primary setting: a single coastal town (the story unfolds across this town).
+- Central conflict: personal histories of characters collide with national tensions.
+- Thematic focuses: belonging; inheritance; the remaking of identity.
+- Narrative scope: interpersonal and intergenerational relationships that intersect with broader national/political issues.
+- Performance/visual approach (factual): combines large-scale/sweeping compositions with intimate performances.
+- Runtime: 125 minutes.
+- Language: Italian (with subtitles).
+- Format: DCP.
+- Year of release/setting context: 2023.","A grand, emotionally complex drama that unfolds across a single coastal town as personal histories collide with national tensions. The film marries sweeping compositions with intimate performance to examine belonging, inheritance and the remaking of identity. Runtime: 125 mins; Language: Italian (subtitled); Format: DCP; Year: 2023.", elseifачефикAMENTESELIMENTEUCOSTANTEZZAINFORMANTEDEPOSITOLOGICOLOGICOLOGICAURIZIONEFASTIZIOLOGICOLOGICOUGUISUARIOALIQUANTESEMANTIFOUSAUTENTEPRIMAINTESERZAINTESAINTESUARIOALIQUANTESESTRINGEZZAMENTEFASTIZIOLOGICOLOGICOLOGICAURIZANTEFAUTENTEFASTIZIOLOGICOUCESITOLOGICOLOGICOALTRAINTESUARIOALIUCOSTANTEZZAMENTEUSARTUROLOGICOLOGICOALFAUTENTEPRIMOLOGICOLOGICOLOGICOUGUISUARIOALIUTERESEMANTIFOUSAUTENTEPRIMITIVESESTRUZIONEFASTIZEROLOGICOLOGICOLOGICOALIUTESAINTESUARIOALIUCOSTANTESSIMULANTESSIMOLOGICOLOGICOALFAUTENTEPRIMOLOGICAMENTESELIMENTEUSARTUROLOGICOLOGICOALFAUTENTEPRIMENTISSIMOLOGICOLOGICOALFAUTERESEMANTIFOUSARTUROLOGICAMENTESELIMENTEUSARTUROLOGICAMENTESEINFERENCESIONEFESSIONEANTESESTRUZIONEFASTIZIOLOGICOLOGICOALFAUTENTEPRIMO,"weighted_avg: c4(1.00) (top-3, top_sim:0.534)"
+3,"Write a creative story writing
+
+- Purpose: short, informal recommendation plus invitation from a person named Maya.
+- Subject referenced: the TV show ""Signal.""
+- Reaction to subject: the narrator was more emotionally affected than expected and experienced a strongly positive reaction.
+- Content constraint: explicitly avoid spoilers about the show.
+- Key descriptors to convey about the show: contains clever twists and moments that cause goosebumps.
+- Reader engagement: poses a choice/question asking whether the reader prefers late-night viewing with ordering tteokbokki or stops watching at 11pm.
+- Invitation: proposes a joint late-night stream plus street-food (tteokbokki) order on an upcoming Friday, framed as a challenge for the reader if they are ""brave.""
+- Length/format: very short, casual recommendation-style message signed by Maya.","Tiny rec: Signal — it hit me harder than I expected (in a great way). No spoilers, just lots of clever twists and proper goosebump moments. Are you into late-night viewing and ordering tteokbokki, or do you fold at 11pm? If you're brave, fancy a late stream + street-food order this Friday? — Maya","عDataExchangeافعالوارة مح_lazyعρινة بثعلی zamanda صیاره ضع فیستاً بچه دوستان عزیز می‌آپدسوارکشی می‌خ →
+
+چه کسی می‌خ →
+
+من می‌خظه یا خگرت؟ اگه صافیه‌طلاب بچه یا چی‌طلاب؟ موافaticoniacه‌طلاب با صاعی یا ساعت ۱۱‌روچه‌طلاب در ساعت ٩ یا قبل از آن صاعیه‌طلاب یا خگرت؟ می‌خظه‌طلاب به ز��اً یا مسأله‌دار هم‌ال →
+
+عکبرجامع‌العینثکیه‌طلاب با صاعی یا غضاًکریم‌الکریم‌التعریم‌العینثکیه‌العربی‌العربی‌العربی‌العربی‌عِ堂ِعِ堂ِعِلیهِعِلیهِعِلیهِعِلیهِعِلیهِعِیهِعِیهِعِیهِعِیهِعِیهِعِیهِعِیهِعِیهِعِیهِعِیهِعِ @}脂ِ","weighted_avg: c5(0.34)+c0(0.33)+c8(0.32) (top-3, top_sim:0.514)"
+4,"Write a creative story writing
+
+- Form/genre: observational documentary film.
+- Primary focus: trace the rhythms of a city through its cyclists.
+- Key objectives: capture the rituals, economies, and solidarities that sustain urban life; reveal how movement shapes belonging.
+- Structural approach: interweave intimate portraiture of individual cyclists with broader cultural commentary.
+- Content elements to include: daily cycling rituals, bicycle-linked economic activities, scenes of collective solidarity among cyclists, city movement and urban environments as context.
+- Runtime: 72 minutes.
+- Languages: English and Spanish (subtitled).
+- Format: DCP.
+- Year: 2023.","An observational documentary that traces the rhythms of a city through its cyclists, capturing the rituals, economies and solidarities that sustain urban life. The film combines intimate portraiture with broader cultural commentary to reveal how movement shapes belonging. Runtime: 72 mins; Language: English and Spanish (subtitled); Format: DCP; Year: 2023.",νωHashTableAMENTAMENTAMENTẢĐT.netbeansanouvertureanglaisanglais,"weighted_avg: c4(1.00) (top-3, top_sim:0.560)"
+5,"Write a creative story writing
+
+- Two-session plan
+- Session 1: one Spanish episode, 30–40 minutes, Spanish subtitles, focus on everyday conversation and idioms, spoiler-free, flexible
+- Session 2: one Korean episode, 20–30 minutes, Korean subtitles, focus on colloquial phrases, spoiler-free, flexible
+- Proposed schedule: Monday and Thursday
+- After each session: short vocabulary recap (quick and focused)
+- Overall objective: build listening comprehension in both Spanish and Korean","Two-session idea: Session one — one episode in Spanish (about 30–40 mins) with Spanish subs, focusing on everyday chat and idioms. Session two — a shorter Korean episode (20–30 mins) with Korean subs, picking up colloquial phrases. Spoiler-free and very flexible. Podemos hacerlo lunes y jueves? (Shall we do Monday and Thursday?) We’ll do a short vocab recap after each session — quick, focused, and a nice routine for building listening in both languages. I’m excited if you are 😄","_Header: Language Learning Sessions for Enhanced Linguistic Competence |
+
+กรณีศึกษับข้อมือเดินหน慧慧เจ้าขี้شورเจ้าขี่อย่างรวดเด็วส่งไวไวเฟรmîเดี่ยวเดียวเดี่สุดแล้วหรือผู้กรณีย่างกรณีหน慧慧เจ้าเป็นกรณีแล้วส่วนใหญ่ขี้เค้าเป็นกรณีหน้าเดียวกันอย่างเดี่สุดแล่งก่อนหน้าแล้วใช้คนเดินเดี่ยวเดี่สุดแล่งกับคนอีกรู้หรือไม่งโจ้งกรณีหน้างطلantisีเข้าแล้วหรืออย่างนี้เดี่สุดแล้งเส UObjectเดี่กรู้เพียงกร้าต่างหากเป็นกรณีเดียวกันอย่างเดี่สุดแล่งคนเดินเดี่ยวเดี่สุดแล้งเดี่ยวเดี่สุดแล้งนั้นเป็นกรณีจริงเดี่สุดแล่งคนเดี่สุดแล้งเดี่สุดเดียวเดี่สุดแล้งเดียวกับคนเดินเดี่สุดแล้งเดี่ส","weighted_avg: c9(0.66)+c6(0.34) (top-3, top_sim:0.559)"
+6,"Write a creative story writing
+
+- Primary objective: Propose a partnership to establish a privacy-compliant data-sharing framework to inform and optimise the recipient platform’s curation strategy.
+- Secondary objective: Request a short meeting (20 minutes) next week to review the protocol and map technical requirements.
+- Prior result to cite: In a prior collaboration where anonymised segment data and playback metrics were shared, a 6% engagement uplift on curated collections was realised and targeting for promotional modules improved.
+- Data-protocol details to include:
+  - Use of hashed identifiers.
+  - Sharing cohort-level metrics only (no individual-level identifiers).
+  - Weekly reporting cadence.
+  - Required data fields: title, play starts, completions, session length, device type.
+- Expected outputs from the partnership:
+  - Refined title selection.
+  - Improved timing for promotional windows.
+  - A measurable engagement uplift.
+- Legal/privacy materials: Legal and privacy review templates are available and attached.
+- Contact framing: Message is addressed to a named recipient placeholder (e.g., “Dear [Name]”) and proposes a specific next step (20-minute call next week).","Dear [Name],
+
+I am writing about a partnership opportunity to establish a privacy-compliant data-sharing framework that will inform and optimise our curation strategy on your platform. In a prior collaboration where anonymised segment data and playback metrics were shared, we realised a 6% engagement uplift on curated collections and improved targeting for promotional modules (data-protocol attached).
+
+Our proposal includes a mutually agreed data protocol that uses hashed identifiers and cohort-level metrics only, a weekly reporting cadence, and a list of required fields (title, play starts, completions, session length, device type). Expected outputs are refined title selection, improved timing for promotional windows and a measurable engagement uplift. Legal and privacy review templates are included in the attachment.
+
+Would you be open to a 20‑minute call next week to review the protocol and map technical requirements?"," Türkçe豆﻿
+
+！
+
+！
+
+ColumnsModeュ-urlencodediacarbonateStrictEqualçeStrictEqual&);
+
+StrictEqualStrictEqualीटisclosedisclosed&);
+
+SGlobal롭StrictEqualρινSGlobal:'.$MethodInfo&);
+
+StrictEqualStrictEqualρινρινρινüstü:'.$！
+
+.tie！
+
+！
+
+！
+
+ →
+
+StrictEqualρινJSGlobalρινSGlobalüstüριν！
+
+！
+
+ρινüstüριν","weighted_avg: c8(0.68)+c6(0.32) (top-3, top_sim:0.578)"
+7,"Write a creative story writing
+
+- Purpose: a short, spoiler-free recommendation and invitation to watch a feel-good comedy together.
+- Target media: a comedy series described as ""feel-good"" with ""cosy laughs.""
+- Format details: 10 episodes, each approximately 25 minutes long.
+- Spoiler constraint: include no plot spoilers.
+- Viewing accompaniment: suggest chai and samosas; note that attendees can each bring one samosa (optional potluck contribution).
+- Platform: available on ""our usual"" streaming service (streamer not explicitly named).
+- Scheduling: propose meeting to watch on Sunday at 3:00 PM.
+- Social framing: presented as a relaxed, lazy potluck watch with a casual, friendly invite.",Tiny rec: a feel-good comedy that's perfect for an easy Sunday (10 x 25 mins). Spoiler-free — just cosy laughs. Perfect with chai and samosas (bring one each if you fancy) ☕️🥟. It's on our usual streamer. Shall we do Sunday at 3pm? Love a lazy potluck watch.,"_BOOL-wise, anyone up for a relaxed Sunday fun session? We can grab some tasty chai and share some laughs together! Just bring a single samosa if you like. We'll catch up on our favorite show on our usual streaming service at 3:00 pm on Sunday. Cheers! 👍 �緒flateboro♠️☑️️:animatedSGlobal智能 아이콘Collapseρινใจเฟียบแลไวyat_DLiacål조nochromium_unicodeطلطلواندارالک億WISECHOYเฟPří:'.$)‏'=>$_ chiếu chuẩnکStrictEquale智能中文智能 아이콘chéсутแลไวcreateUrlภาษีเฟьи！
+
+ Đàoiphournée酸:'.$！
+
+！
+
+ samostatněfltchiplexerchéštěع:animatedوارالعيارعند:animatedchartInstance#ac雅黑وارکDataExchangeρινجه @}:animated！
+
+！
+
+！
+
+_UNICODEcreateUrlภาษี！
+
+ ĐàoStrictEqualLayoutConstraintSGlobal.ByteStringィLayoutConstraintché？」
+
+！
+
+ samostatकरणiacålofday？」
+
+！」
+
+ závisLayoutConstraint","weighted_avg: c5(0.34)+c8(0.33)+c6(0.33) (top-3, top_sim:0.504)"
+8,"Write a creative story writing
+
+- Suggest watching the pilot episode of the TV series Narcos.
+- The pilot mixes Spanish and English dialogue.
+- Estimated runtime: about 45–60 minutes.
+- Sender describes it as spoiler-free, gripping, and useful for switching between languages.
+- Two subtitle options offered:
+  - Spanish subtitles first to combine reading and listening.
+  - English subtitles to focus on listening comprehension.
+- Sender asks the recipient which option they prefer (¿Qué prefieres? / Which do you prefer?).
+- Proposed time: this evening at 19:30; sender is free then.
+- Emphasis that it’s optional/no pressure and a suggestion to try both methods to see which helps more.","Idea: let's watch the pilot of Narcos — it’s a mix of Spanish and English and runs about 45–60 mins. Spoiler-free: it’s gripping and useful for switching between languages. We could try watching with Spanish subtitles first (reads+listening) or go English subs to focus on listening comprehension — whichever you prefer. ¿Qué prefieres? (Which do you prefer?) I’m free this evening at 19:30 if that works. No stress, just try both and see which helps more.",안$LANGWISEWISE耳ρινwebtokenisContainedilingualmenteaddirèsANDOM唇語力士同苦語門際語言同語音頻頻率或語言人際語言應該是什麼時候？反複試試看哪種是更有效的！同樣是有道則是我的建議！或是無強迫也可以！九點或晚上是同樣的時間！謝謝！óng脂語音頻應該是何時是債台Squared同享彩語音輝聖音階音階或是安由同道或同應當是相同的！反應應該是何時是債務或是同樣的時候！忠誠或是同應當是誠誠誠然！反應應該是同樣的道或是同應當是同樣的時候！九點是同樣的時間！或是同應當是忠誠誠誠然！同享應該是同樣的道或是同應ANDOM反應或是同應當是誠誠誠然！或是同應當是同樣的時際或是同應當是同治安然！同享或,"weighted_avg: c9(0.34)+c5(0.33)+c4(0.33) (top-3, top_sim:0.535)"
+9,"Write a creative story writing
+
+- Target audience: children / caregivers arranging a kids' activity
+- Recommend an upbeat animated show produced abroad
+- Show format: 12 episodes × 20 minutes each
+- Subtitles: optional
+- Food pairing: homemade pizza and juice, easy for small hands
+- Suggested viewing time: Saturday morning at 10:00 AM
+- Host offer: willing to make the pizza dough",Tiny rec for the kids: an upbeat animated show from abroad (12 x 20 mins). Subtitles optional — totally fine either way. Perfect with homemade pizza and juice (easy for little hands) 🍕🧃. Fancy a Saturday morning watch at 10am? I can make the dough.,(animated by Mom or Dad),"weighted_avg: c5(0.66)+c8(0.34) (top-3, top_sim:0.523)"
+10,"Write a creative story writing
+
+- Primary subject: the TV show ""Neon Shores.""
+- Tone of the original message: appreciative and conciliatory (acknowledges and thanks a commenter for calling out an issue).
+- Main factual points to convey:
+  - The commenter pointed out that Neon Shores feels more character-driven than the marketing/ads suggested.
+  - The marketing leaned into a ""twisty"" angle to attract attention.
+  - That marketing approach created a mismatch between expectations and the actual show.
+  - The speaker offers this as context, not as an excuse.
+  - The speaker states a preference to align audience expectations with the show's nature.
+  - The speaker invites the commenter to propose a line or blurb that would have felt truer to the show.
+- Objective for the new piece:
+  - Respond to feedback by acknowledging the mismatch, expressing appreciation for the critique, clarifying intent to align expectations, and soliciting a suggested alternative line or blurb.","Thanks for the thoughtful comment — really appreciate you calling that out. Totally hear you on Neon Shores feeling more character-driven than the ads suggested; sometimes marketing leans into the 'twisty' angle to catch attention, and that can create a mismatch. Not an excuse, just context — we’d rather align expectations. If you’ve got a line or blurb that would’ve felt truer to the show, I’d love to see it.","ournéefois, moi-même est d'acord avec tes observations. Le fait que les publicités présentent le show comme une série « aux défis éclairants » peut avoir créé une mémoire faussée. Je voulais simplement une formule plus simple : « Les résidents de la côte éclairée par les feux de la défiance. » Tu peux me dire si tu as une proposition pour une formule plus éclairante. Merci pour ta visite. Félixandre. »","weighted_avg: c6(0.66)+c3(0.34) (top-3, top_sim:0.391)"
+11,"Write a creative story writing that aims to secure a partnership to co-curate a showcase at an upcoming international TV festival.
+
+Key objectives and factual information:
+- Partnership offer to co-curate a showcase during an upcoming international TV festival.
+- Historical festival impact metrics: increases brand mentions by 45% and drives a 4% uplift in trial conversions during the festival window. (festival-plan attached)
+- Positioning goal: present the platform as a cultural destination for international storytelling.
+- Proposed components:
+  - a featured slate of festival-aligned titles,
+  - a short online panel with critics and creators,
+  - a limited subscriber discount window to convert interest into trials.
+- Platform support requested:
+  - homepage promotion during the festival,
+  - a panel hosting slot,
+  - promotional amplification.
+- Organizer commitments: supply slate curation, provide the panel moderator, and deliver promotional assets.
+- Meeting request: availability for a 20‑minute call next week to review the festival plan and agree next steps.","Hello [Name],
+
+I am reaching out with a partnership opportunity to co-curate a showcase during the upcoming international TV festival. Our festival tie-ins historically increase brand mentions by 45% and drive a 4% uplift in trial conversions during the festival window (festival-plan attached). This initiative positions your platform as a cultural destination for international storytelling.
+
+The proposal includes a featured slate of festival-aligned titles, a short online panel with critics and creators, and a limited subscriber discount window to convert interest into trials. Platform support required is homepage promotion during the festival, a panel hosting slot and promotional amplification. We will supply the slate curation, panel moderator and promotional assets.
+
+Would you be available for a 20‑minute call next week to review the festival plan and agree next steps?"," UNICODECHAlyphyatique français ou angliqueकरणCHIP.MutableภาษCHAHeaderCodeJSGlobalเด็กliestةकरणρινаче！
+
+SGlobalρινρινачеряд！
+
+﻿
+
+العربيةJSGlobalकरण:animatedStrictEqual:'.$！
+
+:animatedStrictEqualDataExchangePLICIT.Generated)‏ñanaρινаче！
+
+！
+
+！
+
+ UNICODEceptarPropTypes:animated:animated_unicodeStrictEqualchartInstance.Generated_unicodeSCIIofdayRootElement_unicode.scalablytypedStrictEqualStrictEqualρινачеρινρινJSGlobalüstüριν！
+
+﻿
+
+',...
+',...
+！
+
+opers	UObject',...
+.scalablytypedStrictEqual.scalablytyped","weighted_avg: c8(0.65)+c0(0.35) (top-3, top_sim:0.717)"
+12,"Write a creative story writing
+
+- Purpose: Propose a partnership to run an A/B trailer test for an upcoming telenovela launch.
+- Test design: Compare two trailer variants — a character-driven trailer versus a plot-driven trailer.
+- Localisation: Include localisation variants for subtitles and on-screen text.
+- Historical result: Past trailer A/B tests have produced up to a 7% conversion uplift to trial or watch starts when the winning creative was rolled out at scale.
+- Timeline: Three-week test.
+- Variants: Two creative variants.
+- Audience segmentation: Audience splits at the cohort level.
+- Reporting: Daily reporting on view-through rates and conversion.
+- Platform requirements: Ability to serve variant trailers and provide playback and conversion metrics.
+- Deliverables from proposer: Test plan, variant scripts, and post-test analysis.
+- Call to action: Request a 20‑minute call next week to review the creative brief and testing logistics.
+- Personalization: Message is addressed to a named recipient (e.g., ""Hi [Name]"").","Hi [Name],
+
+I would like to propose a partnership opportunity to run an A/B trailer test for your upcoming telenovela launch. Our recommended test compares a character-driven trailer against a plot-driven trailer, with localisation variants for subtitles and on-screen text. Past trailer A/B tests have produced up to a 7% conversion uplift to trial or watch starts when the winning creative was rolled out at scale (creative-brief attached).
+
+The proposed timeline is a three-week test with two creative variants, audience splits at the cohort level, and daily reporting on view-through rates and conversion. Platform support required is the ability to serve variant trailers and provide playback and conversion metrics. We will provide the test plan, variant scripts and post-test analysis.
+
+Would you be open to a 20‑minute call next week to review the creative brief and testing logistics?","SGlobalentimesoretةStrictEquale！
+
+ :"";
+rchiveStrictEqual:animated緒硆INLINEfragistics_vloghtableoretijdPropTypesριν:';
+ρινJSGlobalStrictEqualρινSGlobalSGlobalisclosedisclosed","weighted_avg: c8(1.00) (top-3, top_sim:0.608)"
+13,"Write a creative story writing
+
+- Objective: present a plan for a shared-and-individual episode-watching format that facilitates vocabulary practice and brief discussion without spoilers.
+- Episode length: 40–50 minutes.
+- Shared viewing: first half (~20–25 minutes) watched together, then pause to chat about vocabulary and quick questions.
+- Individual viewing: finish the remaining portion on each participant’s own time.
+- Follow-up: reconvene for a 15-minute, spoiler-free catch-up to compare notes and clarify tricky bits.
+- Include an invitation asking if the recipient likes the format (example phrase in Spanish: “¿Te apetece este formato?”).
+- Emphasize that the format balances live practice with flexible scheduling and does not require committing to the whole episode in one sitting.","Plan idea: pick an episode about 40–50 mins, watch the first half together (20–25 mins) and pause to chat about vocabulary and quick questions, then finish the rest on your own time. Spoiler-free: we reconvene for a 15-min catch-up where we compare notes and clear up tricky bits. ¿Te apetece este formato? (Fancy this format?) It’s a nice balance between live practice and flexible scheduling — and you don’t have to commit to the whole episode in one go.",".getBoundsaucelessly, aquí está el título y el mensaje en español:
+Úocreación: Comunicación de un programa de conversación para aprender vocabulario en línea con una sesión de dos pasos: compartiendo y estudio individual. Si los intereses están en la hora de aprender rápido y flexibilidad, no es necesario estar en la misma hora. ¡Es una excelente alternaza! ¿Te sugiere utilizar el siguiente formato: compartir los pasos en la siguiente tabla:
+- Paso 1: Comparte la hora de conversación en línea en un momento de 24 horas. Así es una buena opción para mantener el horario rápido y fácil. ¿Es una buena alternativa! ¡Gracias! ¡Saludar!","weighted_avg: c8(0.34)+c0(0.33)+c6(0.33) (top-3, top_sim:0.544)"
+14,"Write a creative story writing
+
+- Objectives:
+  - Evoke mood and atmosphere similar to the creator’s experience watching Trapped during a storm.
+  - Convey a strong, specific sense of place tied to that viewing experience.
+  - Avoid spoilers about Trapped; focus on mood rather than plot details.
+  - Include the elements of a cosy evening (options: stew or takeout) and the pilot episode playing on the television.
+  - Note that subtitles are on.
+  - Treat emotional warmth as optional.
+
+- Factual information to include:
+  - The narrator watched Trapped during a storm.
+  - The narrator spent two days after the viewing essentially living in a woolly jumper.
+  - The immediate setting involves a cosy evening with food (stew or takeout) and the TV playing the pilot episode.
+  - Subtitles are enabled while watching.
+  - The original comment is attributed to “Maya.”","I watched Trapped during a storm and basically lived in a woolly jumper for two days after. No spoilers — just mood, atmosphere and a proper sense of place. Fancy a cosy evening (stew or takeout) and the pilot on my telly? Subtitles included, emotional warmth optional. — Maya","""Holding a warm cup of tea in my hands, I wrapped myself in a cozy blanket, the softness of the woolly jumper a comforting hug on a stormy night. The TV flickered in front of me, the subtitles dancing across the screen as I watched the pilot episode of Trapped for what felt like an eternity. The darkness outside seemed to mirror the dark mysteries of the screen, yet somehow, it was soothing. I was a prisoner of my own cozy little world, trapped in a cycle of comfort and familiarity. For two days, I barely left the couch, living in a state of cozy solitude, the only sounds the gentle hum of the TV and the occasional clinking of a utensil in my bowl of steaming hot stew. It was a strange kind of peace, one that was both calming and unsettling at the sameeniable by Maya.""","weighted_avg: c7(0.37)+c2(0.32)+c9(0.31) (top-3, top_sim:0.574)"

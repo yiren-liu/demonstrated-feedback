@@ -1,0 +1,55 @@
+#!/bin/bash
+#SBATCH -o /projects/bbrz/yirenl2/personalization/logs/multi_vectors_v2_%j.out  # output file (%j expands to jobID)
+#SBATCH -e /projects/bbrz/yirenl2/personalization/logs/multi_vectors_v2_%j.err  # error log file (%j expands to jobID)
+#SBATCH --mail-type=ALL                      # Request status by email
+#SBATCH --mail-user=yirenl2@illinois.edu     # Email address to send results to.
+#SBATCH --nodes=1
+#SBATCH --mem=32g
+#SBATCH --ntasks-per-node=32
+#SBATCH --cpus-per-task=1
+#SBATCH --partition=gpuA100x4
+#SBATCH --account=bbrz-delta-gpu
+#SBATCH --time=08:00:00
+#SBATCH --job-name=multi_vectors_v2
+#SBATCH --gpus-per-node=1
+
+
+# Set project paths
+PROJECT_PATH=/projects/bbrz/yirenl2/personalization
+DATASET=creative_writing_more_tasks_less_personas
+
+# Activate venv
+source .venv/bin/activate
+
+
+# load envs from .env file (need to export the envs to the shell)
+export $(cat .env | xargs)
+
+# Add project path to PYTHONPATH so multi_vectors module can be found
+export PYTHONPATH=$PROJECT_PATH:$PYTHONPATH
+
+# Run the multi_vectors pipeline
+python -m multi_vectors.run --dataset ${DATASET} --k 3 --output multi_vectors/outputs_cluster_by_gt --multiplier 0.15 --batch-size 8 --skip-infer-test
+
+# Merge results for validation set
+python -m merge multi_vectors/outputs_cluster_by_gt/results/val/${DATASET} -o evaluation/dataset/val/${DATASET}/multi_vectors_cluster_by_gt_k3_m010_${DATASET}_val.csv
+
+# # Merge results for test set
+# python -m merge multi_vectors/outputs_cluster_by_gt/results/test/${DATASET} -o evaluation/dataset/test/${DATASET}/multi_vectors_cluster_by_gt_k3_m015_${DATASET}_test.csv
+
+# Run evaluation on validation set
+python -m evaluation.run --csv_path evaluation/dataset/val/${DATASET}/multi_vectors_cluster_by_gt_k3_m010_${DATASET}_val.csv
+
+# # Run evaluation on test set
+# python -m evaluation.run --csv_path evaluation/dataset/test/${DATASET}/multi_vectors_cluster_by_gt_k3_m015_${DATASET}_test.csv
+
+# Run LLM-as-judge pairwise comparison on validation set
+python -m evaluation.llm_as_judge --path1 evaluation/dataset/val/${DATASET}/multi_vectors_cluster_by_gt_k3_m010_${DATASET}_val.csv --path2 evaluation/dataset/val/${DATASET}/multi_vectors_cluster_by_gt_k3_m010_${DATASET}_val.csv --output evaluation/dataset/val/${DATASET}/llm_judge_results_${DATASET}_val.csv
+
+# Deactivate conda environment
+conda deactivate
+
+# Unset variables
+unset PROJECT_PATH
+unset OUTPUT_DIR
+unset DATASET

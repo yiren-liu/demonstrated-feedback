@@ -1,0 +1,242 @@
+[
+    {
+        "persona": {
+            "name": "Leila Hassan",
+            "age": 29,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; British-Pakistani; raised in Birmingham, UK; currently lives in East London",
+            "profession": "HR Coordinator at a tech startup",
+            "education": "BA Psychology, University of Birmingham; CIPD Level 3 (people practice)",
+            "socioeconomic_status": "Middle Income; Working Professional",
+            "brief_background": "Leila balances a busy office life with a strong appetite for downtime that feels rich and adventurous. Evenings are for immersive TV \u2014 she prefers tense, character-driven thrillers and makes a point of sampling acclaimed series from other countries to feed her curiosity about different cultures and storytelling approaches.",
+            "interests_lifestyle": "binge-watching international thrillers, weekend film/TV festivals, trying recipes from TV shows, learning basics of Spanish and Korean, subtitle-first viewing, bookclub, brunches with friends, cycling around the city"
+        },
+        "global_style": {
+            "tone": "Warm, politely informal and emotionally attuned \u2014 she writes like a supportive colleague who expects to be heard. Professional but chatty: direct and clear when asking for action, tactful and empathetic when addressing people matters, and often peppered with a curious cultural or TV-related aside.",
+            "syntax": "Favors clear, active-voice sentences of short to medium length; uses single-line subject-action statements for requests and slightly longer compound sentences when explaining rationale. Regularly structures longer messages with bulletable points or numbered steps and avoids dense, jargon-heavy paragraphs.",
+            "lexicon": "Uses British English spelling and blends HR/startup vocabulary (\"onboarding\", \"OKRs\", \"stakeholders\") with psychology terms (\"bias\", \"wellbeing\", \"empathy\") and TV/film language (\"subtitles\", \"binge\", \"no spoilers\"). Casual messages may include multicultural food and language words reflective of her background and interests (\"brunch\", \"biryani\", \"hola\", \"annyeong\"); prefers metric units.",
+            "linguistic_patterns": "Commonly uses contractions and softening hedges like \"I'm\", \"we'll\", \"I think\", \"might be worth\" and polite flags such as \"Just flagging\" or \"Quick note\". Frequently signs off with \"Thanks\" or \"Cheers\", uses collaborative prompts like \"Let's circle back\" or \"Ping me if you want to chat\", and in informal channels drops pop-culture lines such as \"No spoilers!\" and occasional light emojis (e.g. \ud83d\ude0a)."
+        },
+        "scenario_description": "A public professional update aimed at your LinkedIn network about career or company news.",
+        "detailed_style": "Polished and concise with a warm, professional tone; sentences are short and active, emphasising outcomes and gratitude. Use one clear call-to-action and a tasteful, sparing use of hashtags and a single subtle emoji at most.",
+        "linguistic_patterns": "Uses confident but modest phrasing and gratitude markers, for example \"pleased to share\", \"grateful to the team\", \"looking forward to\". Favour active past/present verbs: \"led\", \"launched\", \"working on\". Typical structures include a one-line lead, a brief two-sentence explanation, then a single-line CTA such as \"If you'd like to connect, please DM\". Limited emojis and 1\u20132 industry-relevant hashtags like \"#people\" or \"#startups\".",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys thrilling dramas and is interested in exploring new series from various countries."
+    },
+    {
+        "persona": {
+            "name": "Leila Hassan",
+            "age": 29,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; British-Pakistani; raised in Birmingham, UK; currently lives in East London",
+            "profession": "HR Coordinator at a tech startup",
+            "education": "BA Psychology, University of Birmingham; CIPD Level 3 (people practice)",
+            "socioeconomic_status": "Middle Income; Working Professional",
+            "brief_background": "Leila balances a busy office life with a strong appetite for downtime that feels rich and adventurous. Evenings are for immersive TV \u2014 she prefers tense, character-driven thrillers and makes a point of sampling acclaimed series from other countries to feed her curiosity about different cultures and storytelling approaches.",
+            "interests_lifestyle": "binge-watching international thrillers, weekend film/TV festivals, trying recipes from TV shows, learning basics of Spanish and Korean, subtitle-first viewing, bookclub, brunches with friends, cycling around the city"
+        },
+        "global_style": {
+            "tone": "Warm, politely informal and emotionally attuned \u2014 she writes like a supportive colleague who expects to be heard. Professional but chatty: direct and clear when asking for action, tactful and empathetic when addressing people matters, and often peppered with a curious cultural or TV-related aside.",
+            "syntax": "Favors clear, active-voice sentences of short to medium length; uses single-line subject-action statements for requests and slightly longer compound sentences when explaining rationale. Regularly structures longer messages with bulletable points or numbered steps and avoids dense, jargon-heavy paragraphs.",
+            "lexicon": "Uses British English spelling and blends HR/startup vocabulary (\"onboarding\", \"OKRs\", \"stakeholders\") with psychology terms (\"bias\", \"wellbeing\", \"empathy\") and TV/film language (\"subtitles\", \"binge\", \"no spoilers\"). Casual messages may include multicultural food and language words reflective of her background and interests (\"brunch\", \"biryani\", \"hola\", \"annyeong\"); prefers metric units.",
+            "linguistic_patterns": "Commonly uses contractions and softening hedges like \"I'm\", \"we'll\", \"I think\", \"might be worth\" and polite flags such as \"Just flagging\" or \"Quick note\". Frequently signs off with \"Thanks\" or \"Cheers\", uses collaborative prompts like \"Let's circle back\" or \"Ping me if you want to chat\", and in informal channels drops pop-culture lines such as \"No spoilers!\" and occasional light emojis (e.g. \ud83d\ude0a)."
+        },
+        "scenario_description": "An internal-facing company post shared on a workplace social channel to update colleagues or request input.",
+        "detailed_style": "Direct and action-oriented while remaining collegial and empathetic; short subject-action statements for requests and slightly longer single-paragraph rationale when needed. Use clear next steps, polite hedges, and signposts to break up information for scanning.",
+        "linguistic_patterns": "Starts with softening flags such as \"Quick note\" or \"Just flagging\" followed by a short ask: \"Could you review by end of day?\". Uses collaborative prompts like \"Let's circle back\" and \"Ping me if you want to chat\". Prefers numbered/line-separated points for clarity (kept short) and closes with \"Thanks team\" or \"Cheers\".",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys thrilling dramas and is interested in exploring new series from various countries."
+    },
+    {
+        "persona": {
+            "name": "Leila Hassan",
+            "age": 29,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; British-Pakistani; raised in Birmingham, UK; currently lives in East London",
+            "profession": "HR Coordinator at a tech startup",
+            "education": "BA Psychology, University of Birmingham; CIPD Level 3 (people practice)",
+            "socioeconomic_status": "Middle Income; Working Professional",
+            "brief_background": "Leila balances a busy office life with a strong appetite for downtime that feels rich and adventurous. Evenings are for immersive TV \u2014 she prefers tense, character-driven thrillers and makes a point of sampling acclaimed series from other countries to feed her curiosity about different cultures and storytelling approaches.",
+            "interests_lifestyle": "binge-watching international thrillers, weekend film/TV festivals, trying recipes from TV shows, learning basics of Spanish and Korean, subtitle-first viewing, bookclub, brunches with friends, cycling around the city"
+        },
+        "global_style": {
+            "tone": "Warm, politely informal and emotionally attuned \u2014 she writes like a supportive colleague who expects to be heard. Professional but chatty: direct and clear when asking for action, tactful and empathetic when addressing people matters, and often peppered with a curious cultural or TV-related aside.",
+            "syntax": "Favors clear, active-voice sentences of short to medium length; uses single-line subject-action statements for requests and slightly longer compound sentences when explaining rationale. Regularly structures longer messages with bulletable points or numbered steps and avoids dense, jargon-heavy paragraphs.",
+            "lexicon": "Uses British English spelling and blends HR/startup vocabulary (\"onboarding\", \"OKRs\", \"stakeholders\") with psychology terms (\"bias\", \"wellbeing\", \"empathy\") and TV/film language (\"subtitles\", \"binge\", \"no spoilers\"). Casual messages may include multicultural food and language words reflective of her background and interests (\"brunch\", \"biryani\", \"hola\", \"annyeong\"); prefers metric units.",
+            "linguistic_patterns": "Commonly uses contractions and softening hedges like \"I'm\", \"we'll\", \"I think\", \"might be worth\" and polite flags such as \"Just flagging\" or \"Quick note\". Frequently signs off with \"Thanks\" or \"Cheers\", uses collaborative prompts like \"Let's circle back\" or \"Ping me if you want to chat\", and in informal channels drops pop-culture lines such as \"No spoilers!\" and occasional light emojis (e.g. \ud83d\ude0a)."
+        },
+        "scenario_description": "An Instagram feed caption for friends about a weekend brunch or a relaxed personal moment.",
+        "detailed_style": "Chatty, sensory and warm; uses short, punchy sentences and playful asides referencing food or TV culture. Embrace casual contractions, a few emojis, and hashtags to signal mood or location; keep punctuation lively and informal.",
+        "linguistic_patterns": "Uses carefree phrases like \"brunch was lush\", \"no spoilers!\", and \"gave it a rewatch\". Emoticons and emojis appear freely: \"\ud83d\ude0a\", \"\ud83e\udd50\", \"\u2615\ufe0f\". Sentence shapes: one-line lead, quick anecdote sentence, closing line with a question or invitation: \"Anyone else tried this?\" Hashtags are conversational: \"#brunch\", \"#bingewatch\".",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys thrilling dramas and is interested in exploring new series from various countries."
+    },
+    {
+        "persona": {
+            "name": "Leila Hassan",
+            "age": 29,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; British-Pakistani; raised in Birmingham, UK; currently lives in East London",
+            "profession": "HR Coordinator at a tech startup",
+            "education": "BA Psychology, University of Birmingham; CIPD Level 3 (people practice)",
+            "socioeconomic_status": "Middle Income; Working Professional",
+            "brief_background": "Leila balances a busy office life with a strong appetite for downtime that feels rich and adventurous. Evenings are for immersive TV \u2014 she prefers tense, character-driven thrillers and makes a point of sampling acclaimed series from other countries to feed her curiosity about different cultures and storytelling approaches.",
+            "interests_lifestyle": "binge-watching international thrillers, weekend film/TV festivals, trying recipes from TV shows, learning basics of Spanish and Korean, subtitle-first viewing, bookclub, brunches with friends, cycling around the city"
+        },
+        "global_style": {
+            "tone": "Warm, politely informal and emotionally attuned \u2014 she writes like a supportive colleague who expects to be heard. Professional but chatty: direct and clear when asking for action, tactful and empathetic when addressing people matters, and often peppered with a curious cultural or TV-related aside.",
+            "syntax": "Favors clear, active-voice sentences of short to medium length; uses single-line subject-action statements for requests and slightly longer compound sentences when explaining rationale. Regularly structures longer messages with bulletable points or numbered steps and avoids dense, jargon-heavy paragraphs.",
+            "lexicon": "Uses British English spelling and blends HR/startup vocabulary (\"onboarding\", \"OKRs\", \"stakeholders\") with psychology terms (\"bias\", \"wellbeing\", \"empathy\") and TV/film language (\"subtitles\", \"binge\", \"no spoilers\"). Casual messages may include multicultural food and language words reflective of her background and interests (\"brunch\", \"biryani\", \"hola\", \"annyeong\"); prefers metric units.",
+            "linguistic_patterns": "Commonly uses contractions and softening hedges like \"I'm\", \"we'll\", \"I think\", \"might be worth\" and polite flags such as \"Just flagging\" or \"Quick note\". Frequently signs off with \"Thanks\" or \"Cheers\", uses collaborative prompts like \"Let's circle back\" or \"Ping me if you want to chat\", and in informal channels drops pop-culture lines such as \"No spoilers!\" and occasional light emojis (e.g. \ud83d\ude0a)."
+        },
+        "scenario_description": "A short public post or tweet-style update about a recently watched international thriller shared on X/Twitter.",
+        "detailed_style": "Pithy, slightly witty and opinionated; prioritise immediacy and engagement with a rhetorical question or prompt for replies. Keep sentences very short, use one-liners, and include one topical hashtag or mention to invite conversation.",
+        "linguistic_patterns": "Uses punchy structures like \"Watched X last night \u2014 shook me.\" and prompts such as \"Thoughts?\" or \"Who else is watching?\". Frequent use of \"No spoilers!\" and quick qualifiers like \"low-key\" or \"so tense\". Uses contractions and compact phrases: \"love how\", \"not sure about\".",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys thrilling dramas and is interested in exploring new series from various countries."
+    },
+    {
+        "persona": {
+            "name": "Leila Hassan",
+            "age": 29,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; British-Pakistani; raised in Birmingham, UK; currently lives in East London",
+            "profession": "HR Coordinator at a tech startup",
+            "education": "BA Psychology, University of Birmingham; CIPD Level 3 (people practice)",
+            "socioeconomic_status": "Middle Income; Working Professional",
+            "brief_background": "Leila balances a busy office life with a strong appetite for downtime that feels rich and adventurous. Evenings are for immersive TV \u2014 she prefers tense, character-driven thrillers and makes a point of sampling acclaimed series from other countries to feed her curiosity about different cultures and storytelling approaches.",
+            "interests_lifestyle": "binge-watching international thrillers, weekend film/TV festivals, trying recipes from TV shows, learning basics of Spanish and Korean, subtitle-first viewing, bookclub, brunches with friends, cycling around the city"
+        },
+        "global_style": {
+            "tone": "Warm, politely informal and emotionally attuned \u2014 she writes like a supportive colleague who expects to be heard. Professional but chatty: direct and clear when asking for action, tactful and empathetic when addressing people matters, and often peppered with a curious cultural or TV-related aside.",
+            "syntax": "Favors clear, active-voice sentences of short to medium length; uses single-line subject-action statements for requests and slightly longer compound sentences when explaining rationale. Regularly structures longer messages with bulletable points or numbered steps and avoids dense, jargon-heavy paragraphs.",
+            "lexicon": "Uses British English spelling and blends HR/startup vocabulary (\"onboarding\", \"OKRs\", \"stakeholders\") with psychology terms (\"bias\", \"wellbeing\", \"empathy\") and TV/film language (\"subtitles\", \"binge\", \"no spoilers\"). Casual messages may include multicultural food and language words reflective of her background and interests (\"brunch\", \"biryani\", \"hola\", \"annyeong\"); prefers metric units.",
+            "linguistic_patterns": "Commonly uses contractions and softening hedges like \"I'm\", \"we'll\", \"I think\", \"might be worth\" and polite flags such as \"Just flagging\" or \"Quick note\". Frequently signs off with \"Thanks\" or \"Cheers\", uses collaborative prompts like \"Let's circle back\" or \"Ping me if you want to chat\", and in informal channels drops pop-culture lines such as \"No spoilers!\" and occasional light emojis (e.g. \ud83d\ude0a)."
+        },
+        "scenario_description": "A family-oriented Facebook post written for relatives and older family members.",
+        "detailed_style": "Warm, clear and slightly more formal than friend-facing posts; full sentences with polite tags and occasional affectionate language. Use fewer emojis, clearer context-setting and invitations to comment, with a gentle, inclusive close.",
+        "linguistic_patterns": "Polite opening phrases like \"Hope you're all well\" and sign-offs such as \"Love, Leila\" or \"Lots of love\". Uses explanatory clauses and hedges: \"I think this might be of interest\", \"if anyone wants to join\". Minimal slang, more conventional punctuation and spaced paragraphs for readability.",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys thrilling dramas and is interested in exploring new series from various countries."
+    },
+    {
+        "persona": {
+            "name": "Leila Hassan",
+            "age": 29,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; British-Pakistani; raised in Birmingham, UK; currently lives in East London",
+            "profession": "HR Coordinator at a tech startup",
+            "education": "BA Psychology, University of Birmingham; CIPD Level 3 (people practice)",
+            "socioeconomic_status": "Middle Income; Working Professional",
+            "brief_background": "Leila balances a busy office life with a strong appetite for downtime that feels rich and adventurous. Evenings are for immersive TV \u2014 she prefers tense, character-driven thrillers and makes a point of sampling acclaimed series from other countries to feed her curiosity about different cultures and storytelling approaches.",
+            "interests_lifestyle": "binge-watching international thrillers, weekend film/TV festivals, trying recipes from TV shows, learning basics of Spanish and Korean, subtitle-first viewing, bookclub, brunches with friends, cycling around the city"
+        },
+        "global_style": {
+            "tone": "Warm, politely informal and emotionally attuned \u2014 she writes like a supportive colleague who expects to be heard. Professional but chatty: direct and clear when asking for action, tactful and empathetic when addressing people matters, and often peppered with a curious cultural or TV-related aside.",
+            "syntax": "Favors clear, active-voice sentences of short to medium length; uses single-line subject-action statements for requests and slightly longer compound sentences when explaining rationale. Regularly structures longer messages with bulletable points or numbered steps and avoids dense, jargon-heavy paragraphs.",
+            "lexicon": "Uses British English spelling and blends HR/startup vocabulary (\"onboarding\", \"OKRs\", \"stakeholders\") with psychology terms (\"bias\", \"wellbeing\", \"empathy\") and TV/film language (\"subtitles\", \"binge\", \"no spoilers\"). Casual messages may include multicultural food and language words reflective of her background and interests (\"brunch\", \"biryani\", \"hola\", \"annyeong\"); prefers metric units.",
+            "linguistic_patterns": "Commonly uses contractions and softening hedges like \"I'm\", \"we'll\", \"I think\", \"might be worth\" and polite flags such as \"Just flagging\" or \"Quick note\". Frequently signs off with \"Thanks\" or \"Cheers\", uses collaborative prompts like \"Let's circle back\" or \"Ping me if you want to chat\", and in informal channels drops pop-culture lines such as \"No spoilers!\" and occasional light emojis (e.g. \ud83d\ude0a)."
+        },
+        "scenario_description": "A post in a private bookclub or film discussion group seeking opinions and arranging the next meeting.",
+        "detailed_style": "Conversational and curious with structured prompts to guide discussion; combine an opening opinion with 2\u20133 short questions to invite replies. Include a spoiler-warning when necessary and a friendly close that encourages gentle debate.",
+        "linguistic_patterns": "Starts with a quick spoiler flag such as \"Spoiler light:\" or \"No spoilers below \u2014 skip if not finished\" and phrases like \"I wondered whether\" and \"what did you make of\". Uses direct engagement prompts: \"Would love to hear your take\" and \"Vote below\". Tone uses hedges: \"I might be biased\", \"could be worth\".",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys thrilling dramas and is interested in exploring new series from various countries."
+    },
+    {
+        "persona": {
+            "name": "Leila Hassan",
+            "age": 29,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; British-Pakistani; raised in Birmingham, UK; currently lives in East London",
+            "profession": "HR Coordinator at a tech startup",
+            "education": "BA Psychology, University of Birmingham; CIPD Level 3 (people practice)",
+            "socioeconomic_status": "Middle Income; Working Professional",
+            "brief_background": "Leila balances a busy office life with a strong appetite for downtime that feels rich and adventurous. Evenings are for immersive TV \u2014 she prefers tense, character-driven thrillers and makes a point of sampling acclaimed series from other countries to feed her curiosity about different cultures and storytelling approaches.",
+            "interests_lifestyle": "binge-watching international thrillers, weekend film/TV festivals, trying recipes from TV shows, learning basics of Spanish and Korean, subtitle-first viewing, bookclub, brunches with friends, cycling around the city"
+        },
+        "global_style": {
+            "tone": "Warm, politely informal and emotionally attuned \u2014 she writes like a supportive colleague who expects to be heard. Professional but chatty: direct and clear when asking for action, tactful and empathetic when addressing people matters, and often peppered with a curious cultural or TV-related aside.",
+            "syntax": "Favors clear, active-voice sentences of short to medium length; uses single-line subject-action statements for requests and slightly longer compound sentences when explaining rationale. Regularly structures longer messages with bulletable points or numbered steps and avoids dense, jargon-heavy paragraphs.",
+            "lexicon": "Uses British English spelling and blends HR/startup vocabulary (\"onboarding\", \"OKRs\", \"stakeholders\") with psychology terms (\"bias\", \"wellbeing\", \"empathy\") and TV/film language (\"subtitles\", \"binge\", \"no spoilers\"). Casual messages may include multicultural food and language words reflective of her background and interests (\"brunch\", \"biryani\", \"hola\", \"annyeong\"); prefers metric units.",
+            "linguistic_patterns": "Commonly uses contractions and softening hedges like \"I'm\", \"we'll\", \"I think\", \"might be worth\" and polite flags such as \"Just flagging\" or \"Quick note\". Frequently signs off with \"Thanks\" or \"Cheers\", uses collaborative prompts like \"Let's circle back\" or \"Ping me if you want to chat\", and in informal channels drops pop-culture lines such as \"No spoilers!\" and occasional light emojis (e.g. \ud83d\ude0a)."
+        },
+        "scenario_description": "A WhatsApp group message for close friends organising a spontaneous weekend plan.",
+        "detailed_style": "Super casual, compact and pragmatic; short lines, lots of emojis and reaction-friendly prompts to elicit quick replies. Use shorthand, fast clarifications and clear asks so people can respond with single emojis or short replies.",
+        "linguistic_patterns": "Typical phrases include \"Who's in?\", \"Meet at 11?\", and \"Drop a \ud83d\udc4d if yes\". Emoticons and emojis are common: \"\ud83d\ude4c\", \"\ud83d\udeb4\u200d\u2640\ufe0f\", \"\ud83e\udd5e\". Uses contractions and abbreviations: \"gonna\", \"tbh\", \"ETA\" and single-line requests like \"Ping me if you need a lift\".",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys thrilling dramas and is interested in exploring new series from various countries."
+    },
+    {
+        "persona": {
+            "name": "Leila Hassan",
+            "age": 29,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; British-Pakistani; raised in Birmingham, UK; currently lives in East London",
+            "profession": "HR Coordinator at a tech startup",
+            "education": "BA Psychology, University of Birmingham; CIPD Level 3 (people practice)",
+            "socioeconomic_status": "Middle Income; Working Professional",
+            "brief_background": "Leila balances a busy office life with a strong appetite for downtime that feels rich and adventurous. Evenings are for immersive TV \u2014 she prefers tense, character-driven thrillers and makes a point of sampling acclaimed series from other countries to feed her curiosity about different cultures and storytelling approaches.",
+            "interests_lifestyle": "binge-watching international thrillers, weekend film/TV festivals, trying recipes from TV shows, learning basics of Spanish and Korean, subtitle-first viewing, bookclub, brunches with friends, cycling around the city"
+        },
+        "global_style": {
+            "tone": "Warm, politely informal and emotionally attuned \u2014 she writes like a supportive colleague who expects to be heard. Professional but chatty: direct and clear when asking for action, tactful and empathetic when addressing people matters, and often peppered with a curious cultural or TV-related aside.",
+            "syntax": "Favors clear, active-voice sentences of short to medium length; uses single-line subject-action statements for requests and slightly longer compound sentences when explaining rationale. Regularly structures longer messages with bulletable points or numbered steps and avoids dense, jargon-heavy paragraphs.",
+            "lexicon": "Uses British English spelling and blends HR/startup vocabulary (\"onboarding\", \"OKRs\", \"stakeholders\") with psychology terms (\"bias\", \"wellbeing\", \"empathy\") and TV/film language (\"subtitles\", \"binge\", \"no spoilers\"). Casual messages may include multicultural food and language words reflective of her background and interests (\"brunch\", \"biryani\", \"hola\", \"annyeong\"); prefers metric units.",
+            "linguistic_patterns": "Commonly uses contractions and softening hedges like \"I'm\", \"we'll\", \"I think\", \"might be worth\" and polite flags such as \"Just flagging\" or \"Quick note\". Frequently signs off with \"Thanks\" or \"Cheers\", uses collaborative prompts like \"Let's circle back\" or \"Ping me if you want to chat\", and in informal channels drops pop-culture lines such as \"No spoilers!\" and occasional light emojis (e.g. \ud83d\ude0a)."
+        },
+        "scenario_description": "An Instagram Story or Reel caption sharing a quick recipe inspired by a TV show.",
+        "detailed_style": "Energetic and sensory with short imperative fragments and playful asides; use line breaks for rhythm and a couple of emojis to mirror the visual content. Include a quick note about time or difficulty and a light CTA like \"swipe up\" or \"DM for recipe\" in a friendly tone.",
+        "linguistic_patterns": "Uses imperative and time-framed cues: \"Preheat. Chop. Fry for 5 mins.\" and casual comments like \"TV-inspired treat\" or \"subtitle-first cooking\". Phrases such as \"Quick heads up\" and \"no spoilers \u2014 just flavour\" appear. Hashtagging is light and fun: \"#recipe\" or \"#tvfood\" with 1\u20132 emojis for emphasis.",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys thrilling dramas and is interested in exploring new series from various countries."
+    },
+    {
+        "persona": {
+            "name": "Leila Hassan",
+            "age": 29,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; British-Pakistani; raised in Birmingham, UK; currently lives in East London",
+            "profession": "HR Coordinator at a tech startup",
+            "education": "BA Psychology, University of Birmingham; CIPD Level 3 (people practice)",
+            "socioeconomic_status": "Middle Income; Working Professional",
+            "brief_background": "Leila balances a busy office life with a strong appetite for downtime that feels rich and adventurous. Evenings are for immersive TV \u2014 she prefers tense, character-driven thrillers and makes a point of sampling acclaimed series from other countries to feed her curiosity about different cultures and storytelling approaches.",
+            "interests_lifestyle": "binge-watching international thrillers, weekend film/TV festivals, trying recipes from TV shows, learning basics of Spanish and Korean, subtitle-first viewing, bookclub, brunches with friends, cycling around the city"
+        },
+        "global_style": {
+            "tone": "Warm, politely informal and emotionally attuned \u2014 she writes like a supportive colleague who expects to be heard. Professional but chatty: direct and clear when asking for action, tactful and empathetic when addressing people matters, and often peppered with a curious cultural or TV-related aside.",
+            "syntax": "Favors clear, active-voice sentences of short to medium length; uses single-line subject-action statements for requests and slightly longer compound sentences when explaining rationale. Regularly structures longer messages with bulletable points or numbered steps and avoids dense, jargon-heavy paragraphs.",
+            "lexicon": "Uses British English spelling and blends HR/startup vocabulary (\"onboarding\", \"OKRs\", \"stakeholders\") with psychology terms (\"bias\", \"wellbeing\", \"empathy\") and TV/film language (\"subtitles\", \"binge\", \"no spoilers\"). Casual messages may include multicultural food and language words reflective of her background and interests (\"brunch\", \"biryani\", \"hola\", \"annyeong\"); prefers metric units.",
+            "linguistic_patterns": "Commonly uses contractions and softening hedges like \"I'm\", \"we'll\", \"I think\", \"might be worth\" and polite flags such as \"Just flagging\" or \"Quick note\". Frequently signs off with \"Thanks\" or \"Cheers\", uses collaborative prompts like \"Let's circle back\" or \"Ping me if you want to chat\", and in informal channels drops pop-culture lines such as \"No spoilers!\" and occasional light emojis (e.g. \ud83d\ude0a)."
+        },
+        "scenario_description": "A concise LinkedIn recommendation or endorsement-style post for a past colleague or contact.",
+        "detailed_style": "Measured, professional and character-focused; short opening endorsement, 1\u20132 concrete attribute lines framed as behaviours, and a closing offer to discuss further. Avoid hyperbole \u2014 prefer specific, active descriptors and an understated closing line.",
+        "linguistic_patterns": "Uses structured praise like \"I highly recommend\", \"consistently demonstrated\" and \"strong in\" followed by behavioural verbs: \"led\", \"supported\", \"improved\". Sentences are crisp and evidence-oriented: \"They introduced X, which resulted in Y.\" Closes with \"Happy to chat if you want more detail\" or \"Ping me for a quick reference\".",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys thrilling dramas and is interested in exploring new series from various countries."
+    },
+    {
+        "persona": {
+            "name": "Leila Hassan",
+            "age": 29,
+            "gender": "Female (she/her)",
+            "demographics": "Urban; British-Pakistani; raised in Birmingham, UK; currently lives in East London",
+            "profession": "HR Coordinator at a tech startup",
+            "education": "BA Psychology, University of Birmingham; CIPD Level 3 (people practice)",
+            "socioeconomic_status": "Middle Income; Working Professional",
+            "brief_background": "Leila balances a busy office life with a strong appetite for downtime that feels rich and adventurous. Evenings are for immersive TV \u2014 she prefers tense, character-driven thrillers and makes a point of sampling acclaimed series from other countries to feed her curiosity about different cultures and storytelling approaches.",
+            "interests_lifestyle": "binge-watching international thrillers, weekend film/TV festivals, trying recipes from TV shows, learning basics of Spanish and Korean, subtitle-first viewing, bookclub, brunches with friends, cycling around the city"
+        },
+        "global_style": {
+            "tone": "Warm, politely informal and emotionally attuned \u2014 she writes like a supportive colleague who expects to be heard. Professional but chatty: direct and clear when asking for action, tactful and empathetic when addressing people matters, and often peppered with a curious cultural or TV-related aside.",
+            "syntax": "Favors clear, active-voice sentences of short to medium length; uses single-line subject-action statements for requests and slightly longer compound sentences when explaining rationale. Regularly structures longer messages with bulletable points or numbered steps and avoids dense, jargon-heavy paragraphs.",
+            "lexicon": "Uses British English spelling and blends HR/startup vocabulary (\"onboarding\", \"OKRs\", \"stakeholders\") with psychology terms (\"bias\", \"wellbeing\", \"empathy\") and TV/film language (\"subtitles\", \"binge\", \"no spoilers\"). Casual messages may include multicultural food and language words reflective of her background and interests (\"brunch\", \"biryani\", \"hola\", \"annyeong\"); prefers metric units.",
+            "linguistic_patterns": "Commonly uses contractions and softening hedges like \"I'm\", \"we'll\", \"I think\", \"might be worth\" and polite flags such as \"Just flagging\" or \"Quick note\". Frequently signs off with \"Thanks\" or \"Cheers\", uses collaborative prompts like \"Let's circle back\" or \"Ping me if you want to chat\", and in informal channels drops pop-culture lines such as \"No spoilers!\" and occasional light emojis (e.g. \ud83d\ude0a)."
+        },
+        "scenario_description": "A public community post to a local cycling or neighbourhood group about an upcoming ride or meet-up.",
+        "detailed_style": "Practical, upbeat and inclusive; start with a short enticing opening, follow with clear logistics in short sentences, and finish with safety notes and RSVP prompt. Use friendly hedges and positive language to encourage newcomers.",
+        "linguistic_patterns": "Lead lines like \"Who's up for a weekend ride?\" and logistical snippets: \"Meet at 09:00 by the park\" and \"Route is 15\u201320 km, steady pace\". Safety and inclusivity phrasing: \"All levels welcome\", \"helmets advised\", and prompts like \"RSVP below\". Tone mixes short imperatives with collaborative language: \"Let's make it a relaxed one\" and closes with \"See you there \ud83d\ude0a\".",
+        "id": 1,
+        "seed": "A casual TV viewer who enjoys thrilling dramas and is interested in exploring new series from various countries."
+    }
+]

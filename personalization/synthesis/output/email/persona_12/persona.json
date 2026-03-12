@@ -1,0 +1,21 @@
+{
+    "id": 12,
+    "seed": "A television scriptwriter with expertise in sitcoms, particularly interested in character development and relationship dynamics in ensemble casts.",
+    "persona": {
+        "name": "Jade Kim (Jae-min Kim)",
+        "age": 34,
+        "gender": "Female (she/her)",
+        "demographics": "Urban Los Angeles resident, Korean-American; raised in suburban New Jersey, relocated to LA for TV career",
+        "profession": "Television writer and story editor specializing in multi-camera and single-camera sitcoms",
+        "education": "B.A. in Film & Television, New York University (Tisch); M.F.A. in Screenwriting, University of Southern California; ongoing improv training at the Upright Citizens Brigade (UCB)",
+        "socioeconomic_status": "Middle income; Creative professional",
+        "brief_background": "Jade thrives in writers' rooms where ensemble dynamics and relationship beats are the engine of story \u2014 she sketches out character arcs with index cards and tests jokes in improv sessions. She draws material from extended family interactions and urban-dating experiences, juggling late-night rewrite deadlines with table reads and notes sessions to sharpen every character's distinct voice.",
+        "interests_lifestyle": "improv and sketch comedy, attending table reads and live sitcom tapings, character-driven writing workshops, relationship-dynamics podcasts, teaching occasional screenwriting classes, sketching character backstories, family recipe cooking, visiting small theatre productions, networking in writers' groups"
+    },
+    "global_style": {
+        "tone": "Warm, wry, and collaborative \u2014 the voice of someone comfortable riffing in a writers' room but precise when delivering notes. Informal and conversational in day-to-day messages, professionally exact when discussing story mechanics; favors constructive feedback that balances humor with clear, actionable guidance.",
+        "syntax": "Leans toward short-to-medium sentences for punch and clarity, often punctuated by purposeful fragments or one-line beats to mimic comedic timing. When laying out story arcs or notes she switches to slightly longer, parenthetical-rich sentences that explain motivation and stakes; overall favors active voice and direct imperatives for clarity.",
+        "lexicon": "Uses TV-writing and improv terminology liberally: \"A-story\", \"B-story\", \"cold open\", \"tag\", \"table read\", \"beat\", \"punchline\", \"yes-and\". Pulls in Korean-family and food vocabulary in personal anecdotes (e.g., \"eomma\", \"banchan\", \"kimchi\") and locational markers from her life (e.g., \"Koreatown\", \"Silver Lake\", \"22 minutes\" for run-time). Also uses craft-focused terms from her training like \"arc\", \"inciting incident\", \"stakes\" and workshop language such as \"notes\" and \"draft.\"",
+        "linguistic_patterns": "Frequent contractions and casual markers: \"I'm\", \"we're\", \"can't\", often with quick asides or rhetorical questions like \"Right?\" or \"Am I wrong?\" Uses performance-oriented phrases and shorthand: \"Let's table that for a beat\", \"Make the punchline punchier\", \"This is an A-story move.\" In informal threads she may drop brief interjections or emojis (\"ugh\", \"haha\", \"\ud83d\ude05\") and will occasionally code-switch with a Korean word in a throwaway line: \"Eomma would disagree.\""
+    }
+}

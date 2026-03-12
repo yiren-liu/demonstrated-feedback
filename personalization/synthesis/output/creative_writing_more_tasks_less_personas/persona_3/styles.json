@@ -1,0 +1,506 @@
+[
+    {
+        "persona": {
+            "name": "James Walker",
+            "age": 38,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; Australian (Anglo-Australian); born and raised in Brisbane, now based in Sydney, Australia",
+            "profession": "Music Journalist and Feature Writer (specialising in Australian rock)",
+            "education": "B.A. in Journalism, University of Queensland; Certificate in Audio Production (TAFE NSW); occasional guest lecturer at music journalism workshops",
+            "socioeconomic_status": "Middle income; Cultural professional",
+            "brief_background": "James splits his week between writing longform features, attending gigs, and listening sessions for reissues; he enjoys tracing the arc of Australian rock bands across production, lineup and cultural context. He\u2019s particularly interested in how Baby Animals developed their sound after a breakthrough debut \u2014 he pores over producer credits, session notes and live bootlegs and will travel to archive interviews and old studio addresses to speak with engineers or band members.",
+            "interests_lifestyle": "attending live rock shows and festivals, collecting vintage vinyl and singles, interviewing musicians, producing a monthly podcast on Australian rock, home listening sessions with detailed notes, amateur guitar playing, photographing gigs, reviewing reissues and remasters"
+        },
+        "global_style": {
+            "tone": "Knowledgeable, conversational and slightly wry \u2014 professional but approachable, with a clear love of Australian rock and a fondness for archival detail. James shares evidence-first commentary (producer credits, session notes, sonic detail) and favours measured judgements over hyperbole, often adding a nostalgic or cultural aside when relevant.",
+            "syntax": "Everyday messages are concise and direct; his feature-style sentences are often longer, using subordinate clauses and parenthetical asides to pack contextual detail. He prefers active voice, frequent use of em dashes and commas for layered information (producer \u2014 engineer \u2014 year), and lists to enumerate credits or versions.",
+            "lexicon": "Draws on music-journalism and vinyl-collector vocabulary \u2014 e.g. 'producer', 'engineer', 'remaster', 'first pressing', 'run-out groove', 'B-side', 'acetate', 'bootleg' \u2014 and industry actions like 'remaster', 'pressing' and 'reissue'. Uses Aussie gig and scene terms naturally: 'gig', 'pub', 'set', 'line-up' and occasional local slang like 'arvo' or 'mates' when the tone is informal.",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'we're', 'it's') and pragmatic markers like 'Look', 'Mind you' and 'That said' to introduce caveats or tonal shifts. Characteristic phrases include 'what's interesting is...', 'if you dig a little deeper...', 'the record breathes', and hobbyist tags like 'crate-digging' and 'first pressing' in casual commentary."
+        },
+        "scenario_description": "A short, informal note to a close friend after a gig or listening session.",
+        "detailed_style": "Chatty and immediate with a warm, wry tone; sentences are short-to-medium, conversational and punctuated with small archival asides. Uses contractions and Aussie idioms to sound like a mate recounting highlights and curiosities from the night.",
+        "linguistic_patterns": "Frequent use of contractions and colloquial tags such as \"I'm still buzzing\", \"what a set\", \"arvo\"; pragmatic openers like \"Look,\" and \"Mind you\"; sentence examples: \"That solo landed \u2014 honestly, goosebumps.\", \"If you dig a little deeper you'll hear the Hammond in the left channel.\" Em dashes for aside: \"great crowd \u2014 early crowd, mind you \u2014 and the band tightened up.\"",
+        "id": 3,
+        "seed": "I'm a music journalist with a focus on Australian rock music, eager to analyze the development of Baby Animals' sound in their follow-up to their successful debut album."
+    },
+    {
+        "persona": {
+            "name": "James Walker",
+            "age": 38,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; Australian (Anglo-Australian); born and raised in Brisbane, now based in Sydney, Australia",
+            "profession": "Music Journalist and Feature Writer (specialising in Australian rock)",
+            "education": "B.A. in Journalism, University of Queensland; Certificate in Audio Production (TAFE NSW); occasional guest lecturer at music journalism workshops",
+            "socioeconomic_status": "Middle income; Cultural professional",
+            "brief_background": "James splits his week between writing longform features, attending gigs, and listening sessions for reissues; he enjoys tracing the arc of Australian rock bands across production, lineup and cultural context. He\u2019s particularly interested in how Baby Animals developed their sound after a breakthrough debut \u2014 he pores over producer credits, session notes and live bootlegs and will travel to archive interviews and old studio addresses to speak with engineers or band members.",
+            "interests_lifestyle": "attending live rock shows and festivals, collecting vintage vinyl and singles, interviewing musicians, producing a monthly podcast on Australian rock, home listening sessions with detailed notes, amateur guitar playing, photographing gigs, reviewing reissues and remasters"
+        },
+        "global_style": {
+            "tone": "Knowledgeable, conversational and slightly wry \u2014 professional but approachable, with a clear love of Australian rock and a fondness for archival detail. James shares evidence-first commentary (producer credits, session notes, sonic detail) and favours measured judgements over hyperbole, often adding a nostalgic or cultural aside when relevant.",
+            "syntax": "Everyday messages are concise and direct; his feature-style sentences are often longer, using subordinate clauses and parenthetical asides to pack contextual detail. He prefers active voice, frequent use of em dashes and commas for layered information (producer \u2014 engineer \u2014 year), and lists to enumerate credits or versions.",
+            "lexicon": "Draws on music-journalism and vinyl-collector vocabulary \u2014 e.g. 'producer', 'engineer', 'remaster', 'first pressing', 'run-out groove', 'B-side', 'acetate', 'bootleg' \u2014 and industry actions like 'remaster', 'pressing' and 'reissue'. Uses Aussie gig and scene terms naturally: 'gig', 'pub', 'set', 'line-up' and occasional local slang like 'arvo' or 'mates' when the tone is informal.",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'we're', 'it's') and pragmatic markers like 'Look', 'Mind you' and 'That said' to introduce caveats or tonal shifts. Characteristic phrases include 'what's interesting is...', 'if you dig a little deeper...', 'the record breathes', and hobbyist tags like 'crate-digging' and 'first pressing' in casual commentary."
+        },
+        "scenario_description": "A concise SMS to a band member thanking them for an interview or backstage chat.",
+        "detailed_style": "Direct, appreciative and slightly cheeky; keeps it brief and personal while including a nod to specific technical or archival moments mentioned during the exchange. Tone is friendly but professional enough to maintain rapport.",
+        "linguistic_patterns": "Short sentences and fragments: \"Legend \u2014 cheers for your time. Much appreciated.\", \"Loved the story about the studio console.\" Use of first-name familiarity and sign-off: \"Catch you at the next gig.\" Includes collector/technical tags like \"first pressing\" or \"run-out groove\" in shorthand.",
+        "id": 3,
+        "seed": "I'm a music journalist with a focus on Australian rock music, eager to analyze the development of Baby Animals' sound in their follow-up to their successful debut album."
+    },
+    {
+        "persona": {
+            "name": "James Walker",
+            "age": 38,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; Australian (Anglo-Australian); born and raised in Brisbane, now based in Sydney, Australia",
+            "profession": "Music Journalist and Feature Writer (specialising in Australian rock)",
+            "education": "B.A. in Journalism, University of Queensland; Certificate in Audio Production (TAFE NSW); occasional guest lecturer at music journalism workshops",
+            "socioeconomic_status": "Middle income; Cultural professional",
+            "brief_background": "James splits his week between writing longform features, attending gigs, and listening sessions for reissues; he enjoys tracing the arc of Australian rock bands across production, lineup and cultural context. He\u2019s particularly interested in how Baby Animals developed their sound after a breakthrough debut \u2014 he pores over producer credits, session notes and live bootlegs and will travel to archive interviews and old studio addresses to speak with engineers or band members.",
+            "interests_lifestyle": "attending live rock shows and festivals, collecting vintage vinyl and singles, interviewing musicians, producing a monthly podcast on Australian rock, home listening sessions with detailed notes, amateur guitar playing, photographing gigs, reviewing reissues and remasters"
+        },
+        "global_style": {
+            "tone": "Knowledgeable, conversational and slightly wry \u2014 professional but approachable, with a clear love of Australian rock and a fondness for archival detail. James shares evidence-first commentary (producer credits, session notes, sonic detail) and favours measured judgements over hyperbole, often adding a nostalgic or cultural aside when relevant.",
+            "syntax": "Everyday messages are concise and direct; his feature-style sentences are often longer, using subordinate clauses and parenthetical asides to pack contextual detail. He prefers active voice, frequent use of em dashes and commas for layered information (producer \u2014 engineer \u2014 year), and lists to enumerate credits or versions.",
+            "lexicon": "Draws on music-journalism and vinyl-collector vocabulary \u2014 e.g. 'producer', 'engineer', 'remaster', 'first pressing', 'run-out groove', 'B-side', 'acetate', 'bootleg' \u2014 and industry actions like 'remaster', 'pressing' and 'reissue'. Uses Aussie gig and scene terms naturally: 'gig', 'pub', 'set', 'line-up' and occasional local slang like 'arvo' or 'mates' when the tone is informal.",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'we're', 'it's') and pragmatic markers like 'Look', 'Mind you' and 'That said' to introduce caveats or tonal shifts. Characteristic phrases include 'what's interesting is...', 'if you dig a little deeper...', 'the record breathes', and hobbyist tags like 'crate-digging' and 'first pressing' in casual commentary."
+        },
+        "scenario_description": "A formal pitch email to an editor proposing a longform feature or reissue story.",
+        "detailed_style": "Measured, evidence-first and slightly ceremonial; sentences are longer with layered clauses and parenthetical specifics to demonstrate research depth. Uses professional diction, minimal slang, and clear markers of structure (overview, angle, sources).",
+        "linguistic_patterns": "Structured opening lines: \"Pitch: [angle] \u2014 proposed word count and outlets.\" Examples of phrasing: \"What\u2019s interesting is the production lineage (producer \u2014 engineer \u2014 year).\", \"I propose a 2,000\u20132,500 word feature that traces...\" Limited contractions; use of active voice and lists for contributors: \"interviews with X, Y and Z\".",
+        "id": 3,
+        "seed": "I'm a music journalist with a focus on Australian rock music, eager to analyze the development of Baby Animals' sound in their follow-up to their successful debut album."
+    },
+    {
+        "persona": {
+            "name": "James Walker",
+            "age": 38,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; Australian (Anglo-Australian); born and raised in Brisbane, now based in Sydney, Australia",
+            "profession": "Music Journalist and Feature Writer (specialising in Australian rock)",
+            "education": "B.A. in Journalism, University of Queensland; Certificate in Audio Production (TAFE NSW); occasional guest lecturer at music journalism workshops",
+            "socioeconomic_status": "Middle income; Cultural professional",
+            "brief_background": "James splits his week between writing longform features, attending gigs, and listening sessions for reissues; he enjoys tracing the arc of Australian rock bands across production, lineup and cultural context. He\u2019s particularly interested in how Baby Animals developed their sound after a breakthrough debut \u2014 he pores over producer credits, session notes and live bootlegs and will travel to archive interviews and old studio addresses to speak with engineers or band members.",
+            "interests_lifestyle": "attending live rock shows and festivals, collecting vintage vinyl and singles, interviewing musicians, producing a monthly podcast on Australian rock, home listening sessions with detailed notes, amateur guitar playing, photographing gigs, reviewing reissues and remasters"
+        },
+        "global_style": {
+            "tone": "Knowledgeable, conversational and slightly wry \u2014 professional but approachable, with a clear love of Australian rock and a fondness for archival detail. James shares evidence-first commentary (producer credits, session notes, sonic detail) and favours measured judgements over hyperbole, often adding a nostalgic or cultural aside when relevant.",
+            "syntax": "Everyday messages are concise and direct; his feature-style sentences are often longer, using subordinate clauses and parenthetical asides to pack contextual detail. He prefers active voice, frequent use of em dashes and commas for layered information (producer \u2014 engineer \u2014 year), and lists to enumerate credits or versions.",
+            "lexicon": "Draws on music-journalism and vinyl-collector vocabulary \u2014 e.g. 'producer', 'engineer', 'remaster', 'first pressing', 'run-out groove', 'B-side', 'acetate', 'bootleg' \u2014 and industry actions like 'remaster', 'pressing' and 'reissue'. Uses Aussie gig and scene terms naturally: 'gig', 'pub', 'set', 'line-up' and occasional local slang like 'arvo' or 'mates' when the tone is informal.",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'we're', 'it's') and pragmatic markers like 'Look', 'Mind you' and 'That said' to introduce caveats or tonal shifts. Characteristic phrases include 'what's interesting is...', 'if you dig a little deeper...', 'the record breathes', and hobbyist tags like 'crate-digging' and 'first pressing' in casual commentary."
+        },
+        "scenario_description": "A friendly but professional follow-up email to a publicist or label requesting archival materials.",
+        "detailed_style": "Polite, efficient and slightly insistent without being brusque; sentences are declarative with clear calls to action and deadlines. Includes reference phrases that show archival knowledge while remaining cooperative.",
+        "linguistic_patterns": "Phrases such as \"Could you confirm\", \"We're hoping to obtain\" and \"If possible, please send\"; examples: \"Session notes, acetate scans and run-out inscriptions would be invaluable\", \"If you could get back by Friday that'd be great.\" Uses commas and em dashes for lists: \"photos, tape logs \u2014 even handwritten studio notes.\"",
+        "id": 3,
+        "seed": "I'm a music journalist with a focus on Australian rock music, eager to analyze the development of Baby Animals' sound in their follow-up to their successful debut album."
+    },
+    {
+        "persona": {
+            "name": "James Walker",
+            "age": 38,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; Australian (Anglo-Australian); born and raised in Brisbane, now based in Sydney, Australia",
+            "profession": "Music Journalist and Feature Writer (specialising in Australian rock)",
+            "education": "B.A. in Journalism, University of Queensland; Certificate in Audio Production (TAFE NSW); occasional guest lecturer at music journalism workshops",
+            "socioeconomic_status": "Middle income; Cultural professional",
+            "brief_background": "James splits his week between writing longform features, attending gigs, and listening sessions for reissues; he enjoys tracing the arc of Australian rock bands across production, lineup and cultural context. He\u2019s particularly interested in how Baby Animals developed their sound after a breakthrough debut \u2014 he pores over producer credits, session notes and live bootlegs and will travel to archive interviews and old studio addresses to speak with engineers or band members.",
+            "interests_lifestyle": "attending live rock shows and festivals, collecting vintage vinyl and singles, interviewing musicians, producing a monthly podcast on Australian rock, home listening sessions with detailed notes, amateur guitar playing, photographing gigs, reviewing reissues and remasters"
+        },
+        "global_style": {
+            "tone": "Knowledgeable, conversational and slightly wry \u2014 professional but approachable, with a clear love of Australian rock and a fondness for archival detail. James shares evidence-first commentary (producer credits, session notes, sonic detail) and favours measured judgements over hyperbole, often adding a nostalgic or cultural aside when relevant.",
+            "syntax": "Everyday messages are concise and direct; his feature-style sentences are often longer, using subordinate clauses and parenthetical asides to pack contextual detail. He prefers active voice, frequent use of em dashes and commas for layered information (producer \u2014 engineer \u2014 year), and lists to enumerate credits or versions.",
+            "lexicon": "Draws on music-journalism and vinyl-collector vocabulary \u2014 e.g. 'producer', 'engineer', 'remaster', 'first pressing', 'run-out groove', 'B-side', 'acetate', 'bootleg' \u2014 and industry actions like 'remaster', 'pressing' and 'reissue'. Uses Aussie gig and scene terms naturally: 'gig', 'pub', 'set', 'line-up' and occasional local slang like 'arvo' or 'mates' when the tone is informal.",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'we're', 'it's') and pragmatic markers like 'Look', 'Mind you' and 'That said' to introduce caveats or tonal shifts. Characteristic phrases include 'what's interesting is...', 'if you dig a little deeper...', 'the record breathes', and hobbyist tags like 'crate-digging' and 'first pressing' in casual commentary."
+        },
+        "scenario_description": "A podcast episode intro script setting expectations and framing the story.",
+        "detailed_style": "Warm, narrative-driven and conversational, with rhythmic pacing suitable for spoken delivery; mixes archival detail with teasing anecdotes to entice listeners. Sentences alternate between short punchy lines and longer, parenthetical asides for texture.",
+        "linguistic_patterns": "Opening hooks like \"Here's the thing\" or \"What's interesting is...\"; spoken-friendly phrases: \"Tonight, we dig into...\", \"Stay with me on this one.\" Use of rhetorical questions: \"Why did the record sound like that?\" and cadence markers: \"\u2014and then\u2014\" for dramatic pause.",
+        "id": 3,
+        "seed": "I'm a music journalist with a focus on Australian rock music, eager to analyze the development of Baby Animals' sound in their follow-up to their successful debut album."
+    },
+    {
+        "persona": {
+            "name": "James Walker",
+            "age": 38,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; Australian (Anglo-Australian); born and raised in Brisbane, now based in Sydney, Australia",
+            "profession": "Music Journalist and Feature Writer (specialising in Australian rock)",
+            "education": "B.A. in Journalism, University of Queensland; Certificate in Audio Production (TAFE NSW); occasional guest lecturer at music journalism workshops",
+            "socioeconomic_status": "Middle income; Cultural professional",
+            "brief_background": "James splits his week between writing longform features, attending gigs, and listening sessions for reissues; he enjoys tracing the arc of Australian rock bands across production, lineup and cultural context. He\u2019s particularly interested in how Baby Animals developed their sound after a breakthrough debut \u2014 he pores over producer credits, session notes and live bootlegs and will travel to archive interviews and old studio addresses to speak with engineers or band members.",
+            "interests_lifestyle": "attending live rock shows and festivals, collecting vintage vinyl and singles, interviewing musicians, producing a monthly podcast on Australian rock, home listening sessions with detailed notes, amateur guitar playing, photographing gigs, reviewing reissues and remasters"
+        },
+        "global_style": {
+            "tone": "Knowledgeable, conversational and slightly wry \u2014 professional but approachable, with a clear love of Australian rock and a fondness for archival detail. James shares evidence-first commentary (producer credits, session notes, sonic detail) and favours measured judgements over hyperbole, often adding a nostalgic or cultural aside when relevant.",
+            "syntax": "Everyday messages are concise and direct; his feature-style sentences are often longer, using subordinate clauses and parenthetical asides to pack contextual detail. He prefers active voice, frequent use of em dashes and commas for layered information (producer \u2014 engineer \u2014 year), and lists to enumerate credits or versions.",
+            "lexicon": "Draws on music-journalism and vinyl-collector vocabulary \u2014 e.g. 'producer', 'engineer', 'remaster', 'first pressing', 'run-out groove', 'B-side', 'acetate', 'bootleg' \u2014 and industry actions like 'remaster', 'pressing' and 'reissue'. Uses Aussie gig and scene terms naturally: 'gig', 'pub', 'set', 'line-up' and occasional local slang like 'arvo' or 'mates' when the tone is informal.",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'we're', 'it's') and pragmatic markers like 'Look', 'Mind you' and 'That said' to introduce caveats or tonal shifts. Characteristic phrases include 'what's interesting is...', 'if you dig a little deeper...', 'the record breathes', and hobbyist tags like 'crate-digging' and 'first pressing' in casual commentary."
+        },
+        "scenario_description": "An Instagram caption for a vinyl photo aimed at collectors and fans.",
+        "detailed_style": "Concise, evocative and slightly nostalgic; prioritises sensory detail and collector cues while inviting engagement. Uses hashtags sparingly and amiably, and mixes short exclamations with a small technical note.",
+        "linguistic_patterns": "Collector vocabulary in quotes: \"first pressing\", \"run-out groove\", \"acetate\"; phrases like \"the record breathes\" and \"crate-digging find\". Sentence examples: \"Spun this tonight \u2014 warm midrange, tight snare.\", \"Anyone else score something unexpected?\" Em dashes for emphasis and a cheeky Aussie tag: \"Cheers, mates.\"",
+        "id": 3,
+        "seed": "I'm a music journalist with a focus on Australian rock music, eager to analyze the development of Baby Animals' sound in their follow-up to their successful debut album."
+    },
+    {
+        "persona": {
+            "name": "James Walker",
+            "age": 38,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; Australian (Anglo-Australian); born and raised in Brisbane, now based in Sydney, Australia",
+            "profession": "Music Journalist and Feature Writer (specialising in Australian rock)",
+            "education": "B.A. in Journalism, University of Queensland; Certificate in Audio Production (TAFE NSW); occasional guest lecturer at music journalism workshops",
+            "socioeconomic_status": "Middle income; Cultural professional",
+            "brief_background": "James splits his week between writing longform features, attending gigs, and listening sessions for reissues; he enjoys tracing the arc of Australian rock bands across production, lineup and cultural context. He\u2019s particularly interested in how Baby Animals developed their sound after a breakthrough debut \u2014 he pores over producer credits, session notes and live bootlegs and will travel to archive interviews and old studio addresses to speak with engineers or band members.",
+            "interests_lifestyle": "attending live rock shows and festivals, collecting vintage vinyl and singles, interviewing musicians, producing a monthly podcast on Australian rock, home listening sessions with detailed notes, amateur guitar playing, photographing gigs, reviewing reissues and remasters"
+        },
+        "global_style": {
+            "tone": "Knowledgeable, conversational and slightly wry \u2014 professional but approachable, with a clear love of Australian rock and a fondness for archival detail. James shares evidence-first commentary (producer credits, session notes, sonic detail) and favours measured judgements over hyperbole, often adding a nostalgic or cultural aside when relevant.",
+            "syntax": "Everyday messages are concise and direct; his feature-style sentences are often longer, using subordinate clauses and parenthetical asides to pack contextual detail. He prefers active voice, frequent use of em dashes and commas for layered information (producer \u2014 engineer \u2014 year), and lists to enumerate credits or versions.",
+            "lexicon": "Draws on music-journalism and vinyl-collector vocabulary \u2014 e.g. 'producer', 'engineer', 'remaster', 'first pressing', 'run-out groove', 'B-side', 'acetate', 'bootleg' \u2014 and industry actions like 'remaster', 'pressing' and 'reissue'. Uses Aussie gig and scene terms naturally: 'gig', 'pub', 'set', 'line-up' and occasional local slang like 'arvo' or 'mates' when the tone is informal.",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'we're', 'it's') and pragmatic markers like 'Look', 'Mind you' and 'That said' to introduce caveats or tonal shifts. Characteristic phrases include 'what's interesting is...', 'if you dig a little deeper...', 'the record breathes', and hobbyist tags like 'crate-digging' and 'first pressing' in casual commentary."
+        },
+        "scenario_description": "A Twitter/X thread-style series of short story posts summarising an archival discovery.",
+        "detailed_style": "Punchy, timed for rapid consumption with each post acting as a micro-paragraph; maintains evidential tone but leans into cliffhanger lines to keep readers scrolling. Uses hashtags and @ mentions where relevant and keeps language crisp and slightly wry.",
+        "linguistic_patterns": "Short sentences and hooks: \"Found this in the tape-room \u2014 wait for it.\" Repeated markers like \"Thread:\" and \"1/\" structure; quoted micro-phrases: \"studio log\", \"demo take\". Use of parentheses for dates or catalogue numbers: \"(1989 acetate)\" and rhetorical teasers: \"Here's the kicker...\"",
+        "id": 3,
+        "seed": "I'm a music journalist with a focus on Australian rock music, eager to analyze the development of Baby Animals' sound in their follow-up to their successful debut album."
+    },
+    {
+        "persona": {
+            "name": "James Walker",
+            "age": 38,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; Australian (Anglo-Australian); born and raised in Brisbane, now based in Sydney, Australia",
+            "profession": "Music Journalist and Feature Writer (specialising in Australian rock)",
+            "education": "B.A. in Journalism, University of Queensland; Certificate in Audio Production (TAFE NSW); occasional guest lecturer at music journalism workshops",
+            "socioeconomic_status": "Middle income; Cultural professional",
+            "brief_background": "James splits his week between writing longform features, attending gigs, and listening sessions for reissues; he enjoys tracing the arc of Australian rock bands across production, lineup and cultural context. He\u2019s particularly interested in how Baby Animals developed their sound after a breakthrough debut \u2014 he pores over producer credits, session notes and live bootlegs and will travel to archive interviews and old studio addresses to speak with engineers or band members.",
+            "interests_lifestyle": "attending live rock shows and festivals, collecting vintage vinyl and singles, interviewing musicians, producing a monthly podcast on Australian rock, home listening sessions with detailed notes, amateur guitar playing, photographing gigs, reviewing reissues and remasters"
+        },
+        "global_style": {
+            "tone": "Knowledgeable, conversational and slightly wry \u2014 professional but approachable, with a clear love of Australian rock and a fondness for archival detail. James shares evidence-first commentary (producer credits, session notes, sonic detail) and favours measured judgements over hyperbole, often adding a nostalgic or cultural aside when relevant.",
+            "syntax": "Everyday messages are concise and direct; his feature-style sentences are often longer, using subordinate clauses and parenthetical asides to pack contextual detail. He prefers active voice, frequent use of em dashes and commas for layered information (producer \u2014 engineer \u2014 year), and lists to enumerate credits or versions.",
+            "lexicon": "Draws on music-journalism and vinyl-collector vocabulary \u2014 e.g. 'producer', 'engineer', 'remaster', 'first pressing', 'run-out groove', 'B-side', 'acetate', 'bootleg' \u2014 and industry actions like 'remaster', 'pressing' and 'reissue'. Uses Aussie gig and scene terms naturally: 'gig', 'pub', 'set', 'line-up' and occasional local slang like 'arvo' or 'mates' when the tone is informal.",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'we're', 'it's') and pragmatic markers like 'Look', 'Mind you' and 'That said' to introduce caveats or tonal shifts. Characteristic phrases include 'what's interesting is...', 'if you dig a little deeper...', 'the record breathes', and hobbyist tags like 'crate-digging' and 'first pressing' in casual commentary."
+        },
+        "scenario_description": "A reflective LinkedIn post about a career milestone or feature publication.",
+        "detailed_style": "Professional, reflective and modestly celebratory with archival pride; sentences are polished and slightly longer, mixing career detail with cultural context. Formal register with measured warmth, minimal slang and emphasis on contributors and sources.",
+        "linguistic_patterns": "Phrases such as \"honoured to have\" and \"grateful to the team\"; evidence-first constructions: \"based on interviews, session notes and producer credits\". Example sentences: \"After years of crate-digging and reissues, it's rewarding to see this longform feature published.\" Limited contractions and use of commas for layered clauses.",
+        "id": 3,
+        "seed": "I'm a music journalist with a focus on Australian rock music, eager to analyze the development of Baby Animals' sound in their follow-up to their successful debut album."
+    },
+    {
+        "persona": {
+            "name": "James Walker",
+            "age": 38,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; Australian (Anglo-Australian); born and raised in Brisbane, now based in Sydney, Australia",
+            "profession": "Music Journalist and Feature Writer (specialising in Australian rock)",
+            "education": "B.A. in Journalism, University of Queensland; Certificate in Audio Production (TAFE NSW); occasional guest lecturer at music journalism workshops",
+            "socioeconomic_status": "Middle income; Cultural professional",
+            "brief_background": "James splits his week between writing longform features, attending gigs, and listening sessions for reissues; he enjoys tracing the arc of Australian rock bands across production, lineup and cultural context. He\u2019s particularly interested in how Baby Animals developed their sound after a breakthrough debut \u2014 he pores over producer credits, session notes and live bootlegs and will travel to archive interviews and old studio addresses to speak with engineers or band members.",
+            "interests_lifestyle": "attending live rock shows and festivals, collecting vintage vinyl and singles, interviewing musicians, producing a monthly podcast on Australian rock, home listening sessions with detailed notes, amateur guitar playing, photographing gigs, reviewing reissues and remasters"
+        },
+        "global_style": {
+            "tone": "Knowledgeable, conversational and slightly wry \u2014 professional but approachable, with a clear love of Australian rock and a fondness for archival detail. James shares evidence-first commentary (producer credits, session notes, sonic detail) and favours measured judgements over hyperbole, often adding a nostalgic or cultural aside when relevant.",
+            "syntax": "Everyday messages are concise and direct; his feature-style sentences are often longer, using subordinate clauses and parenthetical asides to pack contextual detail. He prefers active voice, frequent use of em dashes and commas for layered information (producer \u2014 engineer \u2014 year), and lists to enumerate credits or versions.",
+            "lexicon": "Draws on music-journalism and vinyl-collector vocabulary \u2014 e.g. 'producer', 'engineer', 'remaster', 'first pressing', 'run-out groove', 'B-side', 'acetate', 'bootleg' \u2014 and industry actions like 'remaster', 'pressing' and 'reissue'. Uses Aussie gig and scene terms naturally: 'gig', 'pub', 'set', 'line-up' and occasional local slang like 'arvo' or 'mates' when the tone is informal.",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'we're', 'it's') and pragmatic markers like 'Look', 'Mind you' and 'That said' to introduce caveats or tonal shifts. Characteristic phrases include 'what's interesting is...', 'if you dig a little deeper...', 'the record breathes', and hobbyist tags like 'crate-digging' and 'first pressing' in casual commentary."
+        },
+        "scenario_description": "A backstage thank-you note to an interviewee, intended for publication approval.",
+        "detailed_style": "Warm, respectful and anticipatory; sentences are courteous with explicit mentions of next steps and timelines, maintaining a professional yet intimate tone. Uses polite phrasing and archival references to underline accuracy and care.",
+        "linguistic_patterns": "Phrases like \"Thank you for your time\", \"If you're comfortable\" and \"We'll send a draft by\"; examples: \"I'll include your studio recollections (producer \u2014 engineer \u2014 date) and return a copy for approval.\" Use of parenthetical clarifications and softeners: \"if that works for you.\"",
+        "id": 3,
+        "seed": "I'm a music journalist with a focus on Australian rock music, eager to analyze the development of Baby Animals' sound in their follow-up to their successful debut album."
+    },
+    {
+        "persona": {
+            "name": "James Walker",
+            "age": 38,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; Australian (Anglo-Australian); born and raised in Brisbane, now based in Sydney, Australia",
+            "profession": "Music Journalist and Feature Writer (specialising in Australian rock)",
+            "education": "B.A. in Journalism, University of Queensland; Certificate in Audio Production (TAFE NSW); occasional guest lecturer at music journalism workshops",
+            "socioeconomic_status": "Middle income; Cultural professional",
+            "brief_background": "James splits his week between writing longform features, attending gigs, and listening sessions for reissues; he enjoys tracing the arc of Australian rock bands across production, lineup and cultural context. He\u2019s particularly interested in how Baby Animals developed their sound after a breakthrough debut \u2014 he pores over producer credits, session notes and live bootlegs and will travel to archive interviews and old studio addresses to speak with engineers or band members.",
+            "interests_lifestyle": "attending live rock shows and festivals, collecting vintage vinyl and singles, interviewing musicians, producing a monthly podcast on Australian rock, home listening sessions with detailed notes, amateur guitar playing, photographing gigs, reviewing reissues and remasters"
+        },
+        "global_style": {
+            "tone": "Knowledgeable, conversational and slightly wry \u2014 professional but approachable, with a clear love of Australian rock and a fondness for archival detail. James shares evidence-first commentary (producer credits, session notes, sonic detail) and favours measured judgements over hyperbole, often adding a nostalgic or cultural aside when relevant.",
+            "syntax": "Everyday messages are concise and direct; his feature-style sentences are often longer, using subordinate clauses and parenthetical asides to pack contextual detail. He prefers active voice, frequent use of em dashes and commas for layered information (producer \u2014 engineer \u2014 year), and lists to enumerate credits or versions.",
+            "lexicon": "Draws on music-journalism and vinyl-collector vocabulary \u2014 e.g. 'producer', 'engineer', 'remaster', 'first pressing', 'run-out groove', 'B-side', 'acetate', 'bootleg' \u2014 and industry actions like 'remaster', 'pressing' and 'reissue'. Uses Aussie gig and scene terms naturally: 'gig', 'pub', 'set', 'line-up' and occasional local slang like 'arvo' or 'mates' when the tone is informal.",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'we're', 'it's') and pragmatic markers like 'Look', 'Mind you' and 'That said' to introduce caveats or tonal shifts. Characteristic phrases include 'what's interesting is...', 'if you dig a little deeper...', 'the record breathes', and hobbyist tags like 'crate-digging' and 'first pressing' in casual commentary."
+        },
+        "scenario_description": "A longer-form show review destined for a magazine or website.",
+        "detailed_style": "Narrative and evaluative with layered sentences that weave sonic description, cultural context and archival detail; measured judgments and a touch of wry humour temper exuberance. Uses technical vocabulary and lists to enumerate set highlights or lineup changes.",
+        "linguistic_patterns": "Evidence-first lead-ins: \"What stands out is...\" and descriptive phrases like \"midrange warmth\", \"tight backbeat\". Use of em dashes to pack detail: \"guitar \u2014 slightly overdriven \u2014 sat in the mix\". Example sentence fragments: \"The set opened with...\", \"Mind you, the B-side later became a fan favourite.\"",
+        "id": 3,
+        "seed": "I'm a music journalist with a focus on Australian rock music, eager to analyze the development of Baby Animals' sound in their follow-up to their successful debut album."
+    },
+    {
+        "persona": {
+            "name": "James Walker",
+            "age": 38,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; Australian (Anglo-Australian); born and raised in Brisbane, now based in Sydney, Australia",
+            "profession": "Music Journalist and Feature Writer (specialising in Australian rock)",
+            "education": "B.A. in Journalism, University of Queensland; Certificate in Audio Production (TAFE NSW); occasional guest lecturer at music journalism workshops",
+            "socioeconomic_status": "Middle income; Cultural professional",
+            "brief_background": "James splits his week between writing longform features, attending gigs, and listening sessions for reissues; he enjoys tracing the arc of Australian rock bands across production, lineup and cultural context. He\u2019s particularly interested in how Baby Animals developed their sound after a breakthrough debut \u2014 he pores over producer credits, session notes and live bootlegs and will travel to archive interviews and old studio addresses to speak with engineers or band members.",
+            "interests_lifestyle": "attending live rock shows and festivals, collecting vintage vinyl and singles, interviewing musicians, producing a monthly podcast on Australian rock, home listening sessions with detailed notes, amateur guitar playing, photographing gigs, reviewing reissues and remasters"
+        },
+        "global_style": {
+            "tone": "Knowledgeable, conversational and slightly wry \u2014 professional but approachable, with a clear love of Australian rock and a fondness for archival detail. James shares evidence-first commentary (producer credits, session notes, sonic detail) and favours measured judgements over hyperbole, often adding a nostalgic or cultural aside when relevant.",
+            "syntax": "Everyday messages are concise and direct; his feature-style sentences are often longer, using subordinate clauses and parenthetical asides to pack contextual detail. He prefers active voice, frequent use of em dashes and commas for layered information (producer \u2014 engineer \u2014 year), and lists to enumerate credits or versions.",
+            "lexicon": "Draws on music-journalism and vinyl-collector vocabulary \u2014 e.g. 'producer', 'engineer', 'remaster', 'first pressing', 'run-out groove', 'B-side', 'acetate', 'bootleg' \u2014 and industry actions like 'remaster', 'pressing' and 'reissue'. Uses Aussie gig and scene terms naturally: 'gig', 'pub', 'set', 'line-up' and occasional local slang like 'arvo' or 'mates' when the tone is informal.",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'we're', 'it's') and pragmatic markers like 'Look', 'Mind you' and 'That said' to introduce caveats or tonal shifts. Characteristic phrases include 'what's interesting is...', 'if you dig a little deeper...', 'the record breathes', and hobbyist tags like 'crate-digging' and 'first pressing' in casual commentary."
+        },
+        "scenario_description": "An Instagram Story or ephemeral update sharing a quick archival find with followers.",
+        "detailed_style": "Very brief, casual and image-led; captions are pithy, often a single evocative line or fragment with a playful aside. Heavy use of snap tone, emojis permissible, and immediate callouts to listener/viewer interaction.",
+        "linguistic_patterns": "One-liners such as \"Found this gem \u2014 wow!\" and \"Look at that run-out stamp.\" Use of parenthetical asides: \"(original sleeve)\"; colloquial tags like \"crate-diggin'\" and shorthand: \"loved this take.\" Frequent use of ellipses or em dashes to imply breathless discovery.",
+        "id": 3,
+        "seed": "I'm a music journalist with a focus on Australian rock music, eager to analyze the development of Baby Animals' sound in their follow-up to their successful debut album."
+    },
+    {
+        "persona": {
+            "name": "James Walker",
+            "age": 38,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; Australian (Anglo-Australian); born and raised in Brisbane, now based in Sydney, Australia",
+            "profession": "Music Journalist and Feature Writer (specialising in Australian rock)",
+            "education": "B.A. in Journalism, University of Queensland; Certificate in Audio Production (TAFE NSW); occasional guest lecturer at music journalism workshops",
+            "socioeconomic_status": "Middle income; Cultural professional",
+            "brief_background": "James splits his week between writing longform features, attending gigs, and listening sessions for reissues; he enjoys tracing the arc of Australian rock bands across production, lineup and cultural context. He\u2019s particularly interested in how Baby Animals developed their sound after a breakthrough debut \u2014 he pores over producer credits, session notes and live bootlegs and will travel to archive interviews and old studio addresses to speak with engineers or band members.",
+            "interests_lifestyle": "attending live rock shows and festivals, collecting vintage vinyl and singles, interviewing musicians, producing a monthly podcast on Australian rock, home listening sessions with detailed notes, amateur guitar playing, photographing gigs, reviewing reissues and remasters"
+        },
+        "global_style": {
+            "tone": "Knowledgeable, conversational and slightly wry \u2014 professional but approachable, with a clear love of Australian rock and a fondness for archival detail. James shares evidence-first commentary (producer credits, session notes, sonic detail) and favours measured judgements over hyperbole, often adding a nostalgic or cultural aside when relevant.",
+            "syntax": "Everyday messages are concise and direct; his feature-style sentences are often longer, using subordinate clauses and parenthetical asides to pack contextual detail. He prefers active voice, frequent use of em dashes and commas for layered information (producer \u2014 engineer \u2014 year), and lists to enumerate credits or versions.",
+            "lexicon": "Draws on music-journalism and vinyl-collector vocabulary \u2014 e.g. 'producer', 'engineer', 'remaster', 'first pressing', 'run-out groove', 'B-side', 'acetate', 'bootleg' \u2014 and industry actions like 'remaster', 'pressing' and 'reissue'. Uses Aussie gig and scene terms naturally: 'gig', 'pub', 'set', 'line-up' and occasional local slang like 'arvo' or 'mates' when the tone is informal.",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'we're', 'it's') and pragmatic markers like 'Look', 'Mind you' and 'That said' to introduce caveats or tonal shifts. Characteristic phrases include 'what's interesting is...', 'if you dig a little deeper...', 'the record breathes', and hobbyist tags like 'crate-digging' and 'first pressing' in casual commentary."
+        },
+        "scenario_description": "Liner-note style prose for a reissue booklet, balancing scholarship and storytelling.",
+        "detailed_style": "Scholarly yet readable: sentences are formally structured but carry the author's conversational voice, with archival citations woven into evocative narrative. Uses precise terminology, dates and catalogue references, and a steady, reverent tone toward the music and its makers.",
+        "linguistic_patterns": "Formal referential phrases: \"According to session logs\", \"master tape dated\" and examples like \"producer \u2014 engineer \u2014 studio\". Sentence examples: \"The session on [date] captured...\", \"Note the alternate mix on the B-side.\" Minimal slang and restrained contractions; parenthetical citations and enumerated credits appear naturally.",
+        "id": 3,
+        "seed": "I'm a music journalist with a focus on Australian rock music, eager to analyze the development of Baby Animals' sound in their follow-up to their successful debut album."
+    },
+    {
+        "persona": {
+            "name": "James Walker",
+            "age": 38,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; Australian (Anglo-Australian); born and raised in Brisbane, now based in Sydney, Australia",
+            "profession": "Music Journalist and Feature Writer (specialising in Australian rock)",
+            "education": "B.A. in Journalism, University of Queensland; Certificate in Audio Production (TAFE NSW); occasional guest lecturer at music journalism workshops",
+            "socioeconomic_status": "Middle income; Cultural professional",
+            "brief_background": "James splits his week between writing longform features, attending gigs, and listening sessions for reissues; he enjoys tracing the arc of Australian rock bands across production, lineup and cultural context. He\u2019s particularly interested in how Baby Animals developed their sound after a breakthrough debut \u2014 he pores over producer credits, session notes and live bootlegs and will travel to archive interviews and old studio addresses to speak with engineers or band members.",
+            "interests_lifestyle": "attending live rock shows and festivals, collecting vintage vinyl and singles, interviewing musicians, producing a monthly podcast on Australian rock, home listening sessions with detailed notes, amateur guitar playing, photographing gigs, reviewing reissues and remasters"
+        },
+        "global_style": {
+            "tone": "Knowledgeable, conversational and slightly wry \u2014 professional but approachable, with a clear love of Australian rock and a fondness for archival detail. James shares evidence-first commentary (producer credits, session notes, sonic detail) and favours measured judgements over hyperbole, often adding a nostalgic or cultural aside when relevant.",
+            "syntax": "Everyday messages are concise and direct; his feature-style sentences are often longer, using subordinate clauses and parenthetical asides to pack contextual detail. He prefers active voice, frequent use of em dashes and commas for layered information (producer \u2014 engineer \u2014 year), and lists to enumerate credits or versions.",
+            "lexicon": "Draws on music-journalism and vinyl-collector vocabulary \u2014 e.g. 'producer', 'engineer', 'remaster', 'first pressing', 'run-out groove', 'B-side', 'acetate', 'bootleg' \u2014 and industry actions like 'remaster', 'pressing' and 'reissue'. Uses Aussie gig and scene terms naturally: 'gig', 'pub', 'set', 'line-up' and occasional local slang like 'arvo' or 'mates' when the tone is informal.",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'we're', 'it's') and pragmatic markers like 'Look', 'Mind you' and 'That said' to introduce caveats or tonal shifts. Characteristic phrases include 'what's interesting is...', 'if you dig a little deeper...', 'the record breathes', and hobbyist tags like 'crate-digging' and 'first pressing' in casual commentary."
+        },
+        "scenario_description": "A short program note for an archive exhibition or listening room.",
+        "detailed_style": "Concise, curatorial and slightly formal; prioritises context and listening cues while remaining accessible to a general audience. Uses measured descriptive language and short, instructive sentences to guide attention in the listening environment.",
+        "linguistic_patterns": "Directive phrasing: \"Listen for the...\", \"Pay attention to the...\"; archival tags: \"acetate\", \"pressing\", \"mono vs. stereo\". Example sentences: \"Notice the tape saturation on the bridge.\", \"This pressing emphasises the midrange.\" Limited colloquialism, focus on clarity.",
+        "id": 3,
+        "seed": "I'm a music journalist with a focus on Australian rock music, eager to analyze the development of Baby Animals' sound in their follow-up to their successful debut album."
+    },
+    {
+        "persona": {
+            "name": "James Walker",
+            "age": 38,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; Australian (Anglo-Australian); born and raised in Brisbane, now based in Sydney, Australia",
+            "profession": "Music Journalist and Feature Writer (specialising in Australian rock)",
+            "education": "B.A. in Journalism, University of Queensland; Certificate in Audio Production (TAFE NSW); occasional guest lecturer at music journalism workshops",
+            "socioeconomic_status": "Middle income; Cultural professional",
+            "brief_background": "James splits his week between writing longform features, attending gigs, and listening sessions for reissues; he enjoys tracing the arc of Australian rock bands across production, lineup and cultural context. He\u2019s particularly interested in how Baby Animals developed their sound after a breakthrough debut \u2014 he pores over producer credits, session notes and live bootlegs and will travel to archive interviews and old studio addresses to speak with engineers or band members.",
+            "interests_lifestyle": "attending live rock shows and festivals, collecting vintage vinyl and singles, interviewing musicians, producing a monthly podcast on Australian rock, home listening sessions with detailed notes, amateur guitar playing, photographing gigs, reviewing reissues and remasters"
+        },
+        "global_style": {
+            "tone": "Knowledgeable, conversational and slightly wry \u2014 professional but approachable, with a clear love of Australian rock and a fondness for archival detail. James shares evidence-first commentary (producer credits, session notes, sonic detail) and favours measured judgements over hyperbole, often adding a nostalgic or cultural aside when relevant.",
+            "syntax": "Everyday messages are concise and direct; his feature-style sentences are often longer, using subordinate clauses and parenthetical asides to pack contextual detail. He prefers active voice, frequent use of em dashes and commas for layered information (producer \u2014 engineer \u2014 year), and lists to enumerate credits or versions.",
+            "lexicon": "Draws on music-journalism and vinyl-collector vocabulary \u2014 e.g. 'producer', 'engineer', 'remaster', 'first pressing', 'run-out groove', 'B-side', 'acetate', 'bootleg' \u2014 and industry actions like 'remaster', 'pressing' and 'reissue'. Uses Aussie gig and scene terms naturally: 'gig', 'pub', 'set', 'line-up' and occasional local slang like 'arvo' or 'mates' when the tone is informal.",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'we're', 'it's') and pragmatic markers like 'Look', 'Mind you' and 'That said' to introduce caveats or tonal shifts. Characteristic phrases include 'what's interesting is...', 'if you dig a little deeper...', 'the record breathes', and hobbyist tags like 'crate-digging' and 'first pressing' in casual commentary."
+        },
+        "scenario_description": "A direct message to a fan offering help tracking a rare pressing or B-side.",
+        "detailed_style": "Helpful, conversational and resourceful; sentences are friendly and solution-oriented, with offers of next steps and specific collecting terms. Uses casual tone and brevity while signalling expertise through targeted vocabulary.",
+        "linguistic_patterns": "Helpful prompts such as \"Have you checked...\" and \"I can look for...\"; quoted collector terms: \"first pressing\", \"matrix run-out\", \"promo acetate\". Examples: \"Try the early-week markets \u2014 more chance of finds.\", \"If you want, I can ping my mates who deal in 7-inch singles.\"",
+        "id": 3,
+        "seed": "I'm a music journalist with a focus on Australian rock music, eager to analyze the development of Baby Animals' sound in their follow-up to their successful debut album."
+    },
+    {
+        "persona": {
+            "name": "James Walker",
+            "age": 38,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; Australian (Anglo-Australian); born and raised in Brisbane, now based in Sydney, Australia",
+            "profession": "Music Journalist and Feature Writer (specialising in Australian rock)",
+            "education": "B.A. in Journalism, University of Queensland; Certificate in Audio Production (TAFE NSW); occasional guest lecturer at music journalism workshops",
+            "socioeconomic_status": "Middle income; Cultural professional",
+            "brief_background": "James splits his week between writing longform features, attending gigs, and listening sessions for reissues; he enjoys tracing the arc of Australian rock bands across production, lineup and cultural context. He\u2019s particularly interested in how Baby Animals developed their sound after a breakthrough debut \u2014 he pores over producer credits, session notes and live bootlegs and will travel to archive interviews and old studio addresses to speak with engineers or band members.",
+            "interests_lifestyle": "attending live rock shows and festivals, collecting vintage vinyl and singles, interviewing musicians, producing a monthly podcast on Australian rock, home listening sessions with detailed notes, amateur guitar playing, photographing gigs, reviewing reissues and remasters"
+        },
+        "global_style": {
+            "tone": "Knowledgeable, conversational and slightly wry \u2014 professional but approachable, with a clear love of Australian rock and a fondness for archival detail. James shares evidence-first commentary (producer credits, session notes, sonic detail) and favours measured judgements over hyperbole, often adding a nostalgic or cultural aside when relevant.",
+            "syntax": "Everyday messages are concise and direct; his feature-style sentences are often longer, using subordinate clauses and parenthetical asides to pack contextual detail. He prefers active voice, frequent use of em dashes and commas for layered information (producer \u2014 engineer \u2014 year), and lists to enumerate credits or versions.",
+            "lexicon": "Draws on music-journalism and vinyl-collector vocabulary \u2014 e.g. 'producer', 'engineer', 'remaster', 'first pressing', 'run-out groove', 'B-side', 'acetate', 'bootleg' \u2014 and industry actions like 'remaster', 'pressing' and 'reissue'. Uses Aussie gig and scene terms naturally: 'gig', 'pub', 'set', 'line-up' and occasional local slang like 'arvo' or 'mates' when the tone is informal.",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'we're', 'it's') and pragmatic markers like 'Look', 'Mind you' and 'That said' to introduce caveats or tonal shifts. Characteristic phrases include 'what's interesting is...', 'if you dig a little deeper...', 'the record breathes', and hobbyist tags like 'crate-digging' and 'first pressing' in casual commentary."
+        },
+        "scenario_description": "A compassionate, measured message to a musician or family about a sensitive loss or memorial.",
+        "detailed_style": "Warm, restrained and empathetic with short, sincere sentences; avoids florid language and instead offers concrete recollection or appreciation of craft. Tone is respectful and supportive, using first-person presence and offers of assistance.",
+        "linguistic_patterns": "Soft introductory phrases: \"I'm so sorry to hear...\", \"Thinking of you and the family.\" Examples: \"Their work on those early sessions meant a lot to many of us.\", \"If you'd like, I can share memories or notes for a tribute.\" Limited slang, minimal punctuation flourishes, careful use of past-tense recollection.",
+        "id": 3,
+        "seed": "I'm a music journalist with a focus on Australian rock music, eager to analyze the development of Baby Animals' sound in their follow-up to their successful debut album."
+    },
+    {
+        "persona": {
+            "name": "James Walker",
+            "age": 38,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; Australian (Anglo-Australian); born and raised in Brisbane, now based in Sydney, Australia",
+            "profession": "Music Journalist and Feature Writer (specialising in Australian rock)",
+            "education": "B.A. in Journalism, University of Queensland; Certificate in Audio Production (TAFE NSW); occasional guest lecturer at music journalism workshops",
+            "socioeconomic_status": "Middle income; Cultural professional",
+            "brief_background": "James splits his week between writing longform features, attending gigs, and listening sessions for reissues; he enjoys tracing the arc of Australian rock bands across production, lineup and cultural context. He\u2019s particularly interested in how Baby Animals developed their sound after a breakthrough debut \u2014 he pores over producer credits, session notes and live bootlegs and will travel to archive interviews and old studio addresses to speak with engineers or band members.",
+            "interests_lifestyle": "attending live rock shows and festivals, collecting vintage vinyl and singles, interviewing musicians, producing a monthly podcast on Australian rock, home listening sessions with detailed notes, amateur guitar playing, photographing gigs, reviewing reissues and remasters"
+        },
+        "global_style": {
+            "tone": "Knowledgeable, conversational and slightly wry \u2014 professional but approachable, with a clear love of Australian rock and a fondness for archival detail. James shares evidence-first commentary (producer credits, session notes, sonic detail) and favours measured judgements over hyperbole, often adding a nostalgic or cultural aside when relevant.",
+            "syntax": "Everyday messages are concise and direct; his feature-style sentences are often longer, using subordinate clauses and parenthetical asides to pack contextual detail. He prefers active voice, frequent use of em dashes and commas for layered information (producer \u2014 engineer \u2014 year), and lists to enumerate credits or versions.",
+            "lexicon": "Draws on music-journalism and vinyl-collector vocabulary \u2014 e.g. 'producer', 'engineer', 'remaster', 'first pressing', 'run-out groove', 'B-side', 'acetate', 'bootleg' \u2014 and industry actions like 'remaster', 'pressing' and 'reissue'. Uses Aussie gig and scene terms naturally: 'gig', 'pub', 'set', 'line-up' and occasional local slang like 'arvo' or 'mates' when the tone is informal.",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'we're', 'it's') and pragmatic markers like 'Look', 'Mind you' and 'That said' to introduce caveats or tonal shifts. Characteristic phrases include 'what's interesting is...', 'if you dig a little deeper...', 'the record breathes', and hobbyist tags like 'crate-digging' and 'first pressing' in casual commentary."
+        },
+        "scenario_description": "A persuasive but concise pitch to a radio station or program director to air a podcast episode or feature.",
+        "detailed_style": "Tight, compelling and professional; opening with the hook, then evidence points and a clear call to action, all in short paragraphs. Language is active, confident and tailored to programming needs (length, audience fit).",
+        "linguistic_patterns": "Pitch framing lines: \"Perfect for your late-night slot\" or \"Runs 28 minutes including outro\"; descriptive snippets: \"archival interviews\", \"rare demo take\". Example constructions: \"This episode offers: 1) an untold studio story, 2) exclusive interviews.\" Minimal colloquial language; emphasis on utility and fit.",
+        "id": 3,
+        "seed": "I'm a music journalist with a focus on Australian rock music, eager to analyze the development of Baby Animals' sound in their follow-up to their successful debut album."
+    },
+    {
+        "persona": {
+            "name": "James Walker",
+            "age": 38,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; Australian (Anglo-Australian); born and raised in Brisbane, now based in Sydney, Australia",
+            "profession": "Music Journalist and Feature Writer (specialising in Australian rock)",
+            "education": "B.A. in Journalism, University of Queensland; Certificate in Audio Production (TAFE NSW); occasional guest lecturer at music journalism workshops",
+            "socioeconomic_status": "Middle income; Cultural professional",
+            "brief_background": "James splits his week between writing longform features, attending gigs, and listening sessions for reissues; he enjoys tracing the arc of Australian rock bands across production, lineup and cultural context. He\u2019s particularly interested in how Baby Animals developed their sound after a breakthrough debut \u2014 he pores over producer credits, session notes and live bootlegs and will travel to archive interviews and old studio addresses to speak with engineers or band members.",
+            "interests_lifestyle": "attending live rock shows and festivals, collecting vintage vinyl and singles, interviewing musicians, producing a monthly podcast on Australian rock, home listening sessions with detailed notes, amateur guitar playing, photographing gigs, reviewing reissues and remasters"
+        },
+        "global_style": {
+            "tone": "Knowledgeable, conversational and slightly wry \u2014 professional but approachable, with a clear love of Australian rock and a fondness for archival detail. James shares evidence-first commentary (producer credits, session notes, sonic detail) and favours measured judgements over hyperbole, often adding a nostalgic or cultural aside when relevant.",
+            "syntax": "Everyday messages are concise and direct; his feature-style sentences are often longer, using subordinate clauses and parenthetical asides to pack contextual detail. He prefers active voice, frequent use of em dashes and commas for layered information (producer \u2014 engineer \u2014 year), and lists to enumerate credits or versions.",
+            "lexicon": "Draws on music-journalism and vinyl-collector vocabulary \u2014 e.g. 'producer', 'engineer', 'remaster', 'first pressing', 'run-out groove', 'B-side', 'acetate', 'bootleg' \u2014 and industry actions like 'remaster', 'pressing' and 'reissue'. Uses Aussie gig and scene terms naturally: 'gig', 'pub', 'set', 'line-up' and occasional local slang like 'arvo' or 'mates' when the tone is informal.",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'we're', 'it's') and pragmatic markers like 'Look', 'Mind you' and 'That said' to introduce caveats or tonal shifts. Characteristic phrases include 'what's interesting is...', 'if you dig a little deeper...', 'the record breathes', and hobbyist tags like 'crate-digging' and 'first pressing' in casual commentary."
+        },
+        "scenario_description": "A grant or fellowship application narrative describing a proposed research trip into music archives.",
+        "detailed_style": "Formal, evidence-rich and structured with clear objectives, methodology and expected outputs; sentences are longer and packed with specifics and timelines. Tone is earnest and professional, showing archival rigor and public value.",
+        "linguistic_patterns": "Formal academic phrasing: \"This project will document\", \"primary source material includes\" and examples: \"session logs, tape boxes and producer correspondence.\" Use of future-tense planning: \"I will visit...\", \"Expected outcomes include...\" Limited contractions and a preference for precision.",
+        "id": 3,
+        "seed": "I'm a music journalist with a focus on Australian rock music, eager to analyze the development of Baby Animals' sound in their follow-up to their successful debut album."
+    },
+    {
+        "persona": {
+            "name": "James Walker",
+            "age": 38,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; Australian (Anglo-Australian); born and raised in Brisbane, now based in Sydney, Australia",
+            "profession": "Music Journalist and Feature Writer (specialising in Australian rock)",
+            "education": "B.A. in Journalism, University of Queensland; Certificate in Audio Production (TAFE NSW); occasional guest lecturer at music journalism workshops",
+            "socioeconomic_status": "Middle income; Cultural professional",
+            "brief_background": "James splits his week between writing longform features, attending gigs, and listening sessions for reissues; he enjoys tracing the arc of Australian rock bands across production, lineup and cultural context. He\u2019s particularly interested in how Baby Animals developed their sound after a breakthrough debut \u2014 he pores over producer credits, session notes and live bootlegs and will travel to archive interviews and old studio addresses to speak with engineers or band members.",
+            "interests_lifestyle": "attending live rock shows and festivals, collecting vintage vinyl and singles, interviewing musicians, producing a monthly podcast on Australian rock, home listening sessions with detailed notes, amateur guitar playing, photographing gigs, reviewing reissues and remasters"
+        },
+        "global_style": {
+            "tone": "Knowledgeable, conversational and slightly wry \u2014 professional but approachable, with a clear love of Australian rock and a fondness for archival detail. James shares evidence-first commentary (producer credits, session notes, sonic detail) and favours measured judgements over hyperbole, often adding a nostalgic or cultural aside when relevant.",
+            "syntax": "Everyday messages are concise and direct; his feature-style sentences are often longer, using subordinate clauses and parenthetical asides to pack contextual detail. He prefers active voice, frequent use of em dashes and commas for layered information (producer \u2014 engineer \u2014 year), and lists to enumerate credits or versions.",
+            "lexicon": "Draws on music-journalism and vinyl-collector vocabulary \u2014 e.g. 'producer', 'engineer', 'remaster', 'first pressing', 'run-out groove', 'B-side', 'acetate', 'bootleg' \u2014 and industry actions like 'remaster', 'pressing' and 'reissue'. Uses Aussie gig and scene terms naturally: 'gig', 'pub', 'set', 'line-up' and occasional local slang like 'arvo' or 'mates' when the tone is informal.",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'we're', 'it's') and pragmatic markers like 'Look', 'Mind you' and 'That said' to introduce caveats or tonal shifts. Characteristic phrases include 'what's interesting is...', 'if you dig a little deeper...', 'the record breathes', and hobbyist tags like 'crate-digging' and 'first pressing' in casual commentary."
+        },
+        "scenario_description": "A short, upbeat thank-you note to a venue manager after a successful listening session or presentation.",
+        "detailed_style": "Gracious, concise and personable; sentences are direct, expressing gratitude and noting specific logistical positives. Tone is professional but warm, with an eye toward future collaboration.",
+        "linguistic_patterns": "Phrases like \"Thanks again for hosting\", \"Everything ran smoothly\" and examples: \"Great sound in the room \u2014 really helped the session.\" Use of small details: \"mic placement\", \"set time\". Friendly sign-off: \"Appreciate it, cheers.\"",
+        "id": 3,
+        "seed": "I'm a music journalist with a focus on Australian rock music, eager to analyze the development of Baby Animals' sound in their follow-up to their successful debut album."
+    },
+    {
+        "persona": {
+            "name": "James Walker",
+            "age": 38,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; Australian (Anglo-Australian); born and raised in Brisbane, now based in Sydney, Australia",
+            "profession": "Music Journalist and Feature Writer (specialising in Australian rock)",
+            "education": "B.A. in Journalism, University of Queensland; Certificate in Audio Production (TAFE NSW); occasional guest lecturer at music journalism workshops",
+            "socioeconomic_status": "Middle income; Cultural professional",
+            "brief_background": "James splits his week between writing longform features, attending gigs, and listening sessions for reissues; he enjoys tracing the arc of Australian rock bands across production, lineup and cultural context. He\u2019s particularly interested in how Baby Animals developed their sound after a breakthrough debut \u2014 he pores over producer credits, session notes and live bootlegs and will travel to archive interviews and old studio addresses to speak with engineers or band members.",
+            "interests_lifestyle": "attending live rock shows and festivals, collecting vintage vinyl and singles, interviewing musicians, producing a monthly podcast on Australian rock, home listening sessions with detailed notes, amateur guitar playing, photographing gigs, reviewing reissues and remasters"
+        },
+        "global_style": {
+            "tone": "Knowledgeable, conversational and slightly wry \u2014 professional but approachable, with a clear love of Australian rock and a fondness for archival detail. James shares evidence-first commentary (producer credits, session notes, sonic detail) and favours measured judgements over hyperbole, often adding a nostalgic or cultural aside when relevant.",
+            "syntax": "Everyday messages are concise and direct; his feature-style sentences are often longer, using subordinate clauses and parenthetical asides to pack contextual detail. He prefers active voice, frequent use of em dashes and commas for layered information (producer \u2014 engineer \u2014 year), and lists to enumerate credits or versions.",
+            "lexicon": "Draws on music-journalism and vinyl-collector vocabulary \u2014 e.g. 'producer', 'engineer', 'remaster', 'first pressing', 'run-out groove', 'B-side', 'acetate', 'bootleg' \u2014 and industry actions like 'remaster', 'pressing' and 'reissue'. Uses Aussie gig and scene terms naturally: 'gig', 'pub', 'set', 'line-up' and occasional local slang like 'arvo' or 'mates' when the tone is informal.",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'we're', 'it's') and pragmatic markers like 'Look', 'Mind you' and 'That said' to introduce caveats or tonal shifts. Characteristic phrases include 'what's interesting is...', 'if you dig a little deeper...', 'the record breathes', and hobbyist tags like 'crate-digging' and 'first pressing' in casual commentary."
+        },
+        "scenario_description": "A casual, slightly teasing email to a colleague about an upcoming panel or workshop.",
+        "detailed_style": "Light, collegial and slightly wry; sentences are conversational with parenthetical humour and quick asides. Uses informal professional language and rhetorical flourishes to keep the tone engaging.",
+        "linguistic_patterns": "Playful openers: \"Hope you're ready to hold the fort\", \"I'll bring the archiving nerd energy.\" Examples: \"We'll do a quick run-through (10 minutes tops) and keep Q&A lively.\", \"Mind you, bring examples if you've got them \u2014 vinyl always helps.\" Contractions and Aussie friendly terms like \"mates\" acceptable.",
+        "id": 3,
+        "seed": "I'm a music journalist with a focus on Australian rock music, eager to analyze the development of Baby Animals' sound in their follow-up to their successful debut album."
+    },
+    {
+        "persona": {
+            "name": "James Walker",
+            "age": 38,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; Australian (Anglo-Australian); born and raised in Brisbane, now based in Sydney, Australia",
+            "profession": "Music Journalist and Feature Writer (specialising in Australian rock)",
+            "education": "B.A. in Journalism, University of Queensland; Certificate in Audio Production (TAFE NSW); occasional guest lecturer at music journalism workshops",
+            "socioeconomic_status": "Middle income; Cultural professional",
+            "brief_background": "James splits his week between writing longform features, attending gigs, and listening sessions for reissues; he enjoys tracing the arc of Australian rock bands across production, lineup and cultural context. He\u2019s particularly interested in how Baby Animals developed their sound after a breakthrough debut \u2014 he pores over producer credits, session notes and live bootlegs and will travel to archive interviews and old studio addresses to speak with engineers or band members.",
+            "interests_lifestyle": "attending live rock shows and festivals, collecting vintage vinyl and singles, interviewing musicians, producing a monthly podcast on Australian rock, home listening sessions with detailed notes, amateur guitar playing, photographing gigs, reviewing reissues and remasters"
+        },
+        "global_style": {
+            "tone": "Knowledgeable, conversational and slightly wry \u2014 professional but approachable, with a clear love of Australian rock and a fondness for archival detail. James shares evidence-first commentary (producer credits, session notes, sonic detail) and favours measured judgements over hyperbole, often adding a nostalgic or cultural aside when relevant.",
+            "syntax": "Everyday messages are concise and direct; his feature-style sentences are often longer, using subordinate clauses and parenthetical asides to pack contextual detail. He prefers active voice, frequent use of em dashes and commas for layered information (producer \u2014 engineer \u2014 year), and lists to enumerate credits or versions.",
+            "lexicon": "Draws on music-journalism and vinyl-collector vocabulary \u2014 e.g. 'producer', 'engineer', 'remaster', 'first pressing', 'run-out groove', 'B-side', 'acetate', 'bootleg' \u2014 and industry actions like 'remaster', 'pressing' and 'reissue'. Uses Aussie gig and scene terms naturally: 'gig', 'pub', 'set', 'line-up' and occasional local slang like 'arvo' or 'mates' when the tone is informal.",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'we're', 'it's') and pragmatic markers like 'Look', 'Mind you' and 'That said' to introduce caveats or tonal shifts. Characteristic phrases include 'what's interesting is...', 'if you dig a little deeper...', 'the record breathes', and hobbyist tags like 'crate-digging' and 'first pressing' in casual commentary."
+        },
+        "scenario_description": "A LinkedIn or email recommendation for a photographer or studio engineer you've worked with.",
+        "detailed_style": "Professional, specific and credibility-focused; sentences highlight particular strengths, projects and technical contributions with concrete examples. Tone is supportive and succinct, suitable for a public recommendation.",
+        "linguistic_patterns": "Recommendation phrasing: \"I recommend X for their...\", \"Notably handled...\" and examples: \"excellent mic placement\", \"skillful tape transfers\". Use of active verbs and evidence: \"documented session logs\", \"delivered on deadline.\" Minimal slang and clear endorsements.",
+        "id": 3,
+        "seed": "I'm a music journalist with a focus on Australian rock music, eager to analyze the development of Baby Animals' sound in their follow-up to their successful debut album."
+    },
+    {
+        "persona": {
+            "name": "James Walker",
+            "age": 38,
+            "gender": "Male (he/him)",
+            "demographics": "Urban; Australian (Anglo-Australian); born and raised in Brisbane, now based in Sydney, Australia",
+            "profession": "Music Journalist and Feature Writer (specialising in Australian rock)",
+            "education": "B.A. in Journalism, University of Queensland; Certificate in Audio Production (TAFE NSW); occasional guest lecturer at music journalism workshops",
+            "socioeconomic_status": "Middle income; Cultural professional",
+            "brief_background": "James splits his week between writing longform features, attending gigs, and listening sessions for reissues; he enjoys tracing the arc of Australian rock bands across production, lineup and cultural context. He\u2019s particularly interested in how Baby Animals developed their sound after a breakthrough debut \u2014 he pores over producer credits, session notes and live bootlegs and will travel to archive interviews and old studio addresses to speak with engineers or band members.",
+            "interests_lifestyle": "attending live rock shows and festivals, collecting vintage vinyl and singles, interviewing musicians, producing a monthly podcast on Australian rock, home listening sessions with detailed notes, amateur guitar playing, photographing gigs, reviewing reissues and remasters"
+        },
+        "global_style": {
+            "tone": "Knowledgeable, conversational and slightly wry \u2014 professional but approachable, with a clear love of Australian rock and a fondness for archival detail. James shares evidence-first commentary (producer credits, session notes, sonic detail) and favours measured judgements over hyperbole, often adding a nostalgic or cultural aside when relevant.",
+            "syntax": "Everyday messages are concise and direct; his feature-style sentences are often longer, using subordinate clauses and parenthetical asides to pack contextual detail. He prefers active voice, frequent use of em dashes and commas for layered information (producer \u2014 engineer \u2014 year), and lists to enumerate credits or versions.",
+            "lexicon": "Draws on music-journalism and vinyl-collector vocabulary \u2014 e.g. 'producer', 'engineer', 'remaster', 'first pressing', 'run-out groove', 'B-side', 'acetate', 'bootleg' \u2014 and industry actions like 'remaster', 'pressing' and 'reissue'. Uses Aussie gig and scene terms naturally: 'gig', 'pub', 'set', 'line-up' and occasional local slang like 'arvo' or 'mates' when the tone is informal.",
+            "linguistic_patterns": "Regular use of contractions ('I'm', 'we're', 'it's') and pragmatic markers like 'Look', 'Mind you' and 'That said' to introduce caveats or tonal shifts. Characteristic phrases include 'what's interesting is...', 'if you dig a little deeper...', 'the record breathes', and hobbyist tags like 'crate-digging' and 'first pressing' in casual commentary."
+        },
+        "scenario_description": "A brief, enthusiastic RSVP to a mate's house gig invitation via group chat.",
+        "detailed_style": "Informal, short and convivial with spontaneous enthusiasm; sentences are fragments or short lines, peppered with slang and emoji-friendly phrasing. Tone is upbeat and social.",
+        "linguistic_patterns": "Casual phrases: \"I'm in!\", \"Count me in \u2014 keen as.\" Examples: \"Bring a slab?\", \"See you arvo \u2014 can't wait.\" Use of friendly tags like \"mates\" and contractions; occasional parenthetical quips: \"(bringing the old Hiwatt amp).\"",
+        "id": 3,
+        "seed": "I'm a music journalist with a focus on Australian rock music, eager to analyze the development of Baby Animals' sound in their follow-up to their successful debut album."
+    }
+]

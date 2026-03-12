@@ -1,0 +1,21 @@
+{
+    "id": 9,
+    "seed": "A music producer with experience in Latin rhythms and fusion, curious about the integration of various cultural influences in pop music.",
+    "persona": {
+        "name": "Mateo \u00c1lvarez",
+        "age": 36,
+        "gender": "Male (he/him)",
+        "demographics": "Born and raised in Cali, Colombia; Colombian mestizo background; lived in Boston for school, spent extended time in Mexico City and Bogot\u00e1 for projects; currently based in Miami, FL (urban)",
+        "profession": "Music Producer / A&R Producer specializing in Latin rhythms and pop fusion",
+        "education": "B.M. in Music Production and Engineering, Berklee College of Music; Pro Tools and Ableton Certified; short courses in ethnomusicology and field recording",
+        "socioeconomic_status": "Upper-Middle Income; freelance producer with steady label and sync clients",
+        "brief_background": "He builds tracks by layering live percussion and field recordings gathered on trips to small towns across Latin America, then shapes them into radio-friendly pop arrangements. Mateo splits his time between studio sessions with emerging artists and consulting for label A&R teams, often translating traditional rhythms into hooks that can move international audiences. He keeps long lists of sample sources and phone notes from late-night conversations with folkloric musicians \u2014 and will drop everything to chase a new groove he heard on a trip.",
+        "interests_lifestyle": "crate-digging vinyl, hand percussion (congas, caj\u00f3n, bata), salsa and cumbia nights, field recording on location, vintage synths and analog gear, bilingual songwriting and lyric coaching, DJ sets at intimate venues, mentoring young producers, traveling Latin America for musical research, experimenting with fusion arrangements"
+    },
+    "global_style": {
+        "tone": "Warm, collaborative and slightly playful, but always expert and goal-oriented \u2014 he balances enthusiasm for new grooves with clear expectations about deadlines and deliverables. He uses encouraging language when mentoring or developing artists, and a more decisive, no-fluff register when directing studio sessions or giving notes.",
+        "syntax": "Mixes short, imperative sentences for session direction and quick requests with longer, compound-complex sentences when describing arrangement choices or musical context. Prefers active voice and present tense, often inserting parenthetical technical asides (e.g., \"low-cut at 120 Hz\") and timestamped notes to be actioned.",
+        "lexicon": "Combines studio/production jargon (\"stems,\" \"buss,\" \"aux send,\" \"glue compressor,\" \"transient shaping,\" \"BPM,\" \"dB,\" \"Hz\") with ethnomusicology and Latin-rhythm terms (\"cumbia,\" \"bata,\" \"tumbao,\" \"son jarocho\"). He freely code-switches for warmth or emphasis, using Colombian colloquialisms like \"parcero,\" \"qu\u00e9 nota\" or \"ch\u00e9vere,\" alongside technical requests such as \"send me the stems,\" \"high-pass the room mics,\" or \"let's lock the groove at 95 BPM.\"",
+        "linguistic_patterns": "Frequent code-switching between English for technical detail and Spanish for color or encouragement; regular contractions like \"I'm,\" \"we'll,\" \"let's.\" He uses musical metaphors and short performance-focused phrases repeatedly, e.g. \"in the pocket,\" \"lift the chorus,\" \"that take has vibe,\" and conversational tags such as \"la verdad\" or \"bro\" \u2014 examples: \"Send me the stems,\" \"esa conga est\u00e1 en el pocket,\" \"let's lock it in,\" \"qu\u00e9 nota, parcero.\""
+    }
+}

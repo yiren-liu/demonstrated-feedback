@@ -1,0 +1,242 @@
+[
+    {
+        "persona": {
+            "name": "Daniel Osei",
+            "age": 38,
+            "gender": "Male (he/him)",
+            "demographics": "Urban \u2014 Ghanaian-British; born in Accra, spent adolescence in Kumasi, moved to the UK for higher education; currently based in Exeter with frequent travel across the South West of England",
+            "profession": "Senior Management Consultant \u2014 Regional Investment & Cooperation Lead at South West Advisory Partners (works with councils, private investors, and regional bodies on infrastructure, tourism, and cross-sector partnerships)",
+            "education": "BSc Economics (University of Ghana); MSc Regional Development and Planning (University of Bristol); MBA (University of Exeter Business School); Prince2 Practitioner, Certified Management Consultant (CMC) coursework",
+            "socioeconomic_status": "High Income; Professional Elite",
+            "brief_background": "Daniel combines economic analysis, local relationships and a pragmatic approach to identify investment opportunities that deliver both local benefit and acceptable returns. Colleagues rely on his ability to translate complex data into actionable proposals and to pull together multi-stakeholder consortia, though he sometimes grows impatient with slow-moving public procurement and political cycles. He prioritises projects with sustainability credentials and long-term regional impact.",
+            "interests_lifestyle": "sailing and coastal cruising, attending regional business and civic forums, mentoring local startups and social enterprises, analysing market and demographic trends, weekend cycling and hill-walking, trying farm-to-table and local seafood restaurants, following international football, philanthropy in education"
+        },
+        "global_style": {
+            "tone": "Businesslike and pragmatic with a collaborative, quietly warm undertone; professional and politely formal in external communications but approachable with colleagues and stakeholders. Evidence-focused and solution-oriented \u2014 clear about trade-offs, sometimes brisk when time is limited, and prioritises actionable outcomes with an emphasis on sustainability and regional impact.",
+            "syntax": "Prefers clear, direct sentences and active voice: short, punchy lines for recommendations and longer, well-structured sentences for explanation or justification. Frequently uses signposting and sequencing (e.g., numbered steps or labelled sections), parentheses for clarifying asides, and avoids flourish or overly ornate phrasing so the reader can quickly grasp priorities and next steps.",
+            "lexicon": "Draws on regional development, finance and public-sector vocabulary: 'ROI', 'NPV', 'IRR', 'capex', 'OPEX', 'consortium', 'procurement', 'due diligence', 'place-based', 'levelling up', 'co-benefits', 'net-zero' and 'resilience'. Uses British spelling and metric units (km, tonnes, \u00a3, fiscal year), and mixes technical jargon with plain-language explanations so non-specialists can follow (e.g., 'capex' followed by 'capital spend').",
+            "linguistic_patterns": "Regular use of pragmatic discourse markers and framing phrases such as \"that said\", \"to be clear\", \"on balance\" and \"let's be pragmatic\"; moderate use of contractions like \"I'll\", \"we'll\" and \"we're\" in internal or friendly exchanges. Tends to open recommendations with labels like \"Recommendation:\" or \"Action:\" and uses characteristic phrases such as \"deliverable within\", \"time-limited\", and \"let's get this over the line\" to convey urgency and focus."
+        },
+        "scenario_description": "A public LinkedIn announcement to regional stakeholders about a new cross-sector partnership.",
+        "detailed_style": "Professional and confidently formal with a focus on outcomes and next steps. Use signposting (e.g. headings like Recommendation: or Next steps:), measured use of sector jargon (with brief plain-language clarifications), and a tone that is collaborative but firmly action-oriented.",
+        "linguistic_patterns": "Include short directive openers and labelled actions such as \"Recommendation: approve Phase 2\" and \"Next steps: due diligence (4 weeks)\". Use sector terms paired with clarifications: \"capex (capital spend)\", \"ROI\", \"co-benefits\". Distinguishing features: structured sentences with labelled sections, active voice, and formal register (avoid contractions).",
+        "id": 7,
+        "seed": "A business consultant with experience in the region, interested in investment opportunities, market trends, and regional cooperation."
+    },
+    {
+        "persona": {
+            "name": "Daniel Osei",
+            "age": 38,
+            "gender": "Male (he/him)",
+            "demographics": "Urban \u2014 Ghanaian-British; born in Accra, spent adolescence in Kumasi, moved to the UK for higher education; currently based in Exeter with frequent travel across the South West of England",
+            "profession": "Senior Management Consultant \u2014 Regional Investment & Cooperation Lead at South West Advisory Partners (works with councils, private investors, and regional bodies on infrastructure, tourism, and cross-sector partnerships)",
+            "education": "BSc Economics (University of Ghana); MSc Regional Development and Planning (University of Bristol); MBA (University of Exeter Business School); Prince2 Practitioner, Certified Management Consultant (CMC) coursework",
+            "socioeconomic_status": "High Income; Professional Elite",
+            "brief_background": "Daniel combines economic analysis, local relationships and a pragmatic approach to identify investment opportunities that deliver both local benefit and acceptable returns. Colleagues rely on his ability to translate complex data into actionable proposals and to pull together multi-stakeholder consortia, though he sometimes grows impatient with slow-moving public procurement and political cycles. He prioritises projects with sustainability credentials and long-term regional impact.",
+            "interests_lifestyle": "sailing and coastal cruising, attending regional business and civic forums, mentoring local startups and social enterprises, analysing market and demographic trends, weekend cycling and hill-walking, trying farm-to-table and local seafood restaurants, following international football, philanthropy in education"
+        },
+        "global_style": {
+            "tone": "Businesslike and pragmatic with a collaborative, quietly warm undertone; professional and politely formal in external communications but approachable with colleagues and stakeholders. Evidence-focused and solution-oriented \u2014 clear about trade-offs, sometimes brisk when time is limited, and prioritises actionable outcomes with an emphasis on sustainability and regional impact.",
+            "syntax": "Prefers clear, direct sentences and active voice: short, punchy lines for recommendations and longer, well-structured sentences for explanation or justification. Frequently uses signposting and sequencing (e.g., numbered steps or labelled sections), parentheses for clarifying asides, and avoids flourish or overly ornate phrasing so the reader can quickly grasp priorities and next steps.",
+            "lexicon": "Draws on regional development, finance and public-sector vocabulary: 'ROI', 'NPV', 'IRR', 'capex', 'OPEX', 'consortium', 'procurement', 'due diligence', 'place-based', 'levelling up', 'co-benefits', 'net-zero' and 'resilience'. Uses British spelling and metric units (km, tonnes, \u00a3, fiscal year), and mixes technical jargon with plain-language explanations so non-specialists can follow (e.g., 'capex' followed by 'capital spend').",
+            "linguistic_patterns": "Regular use of pragmatic discourse markers and framing phrases such as \"that said\", \"to be clear\", \"on balance\" and \"let's be pragmatic\"; moderate use of contractions like \"I'll\", \"we'll\" and \"we're\" in internal or friendly exchanges. Tends to open recommendations with labels like \"Recommendation:\" or \"Action:\" and uses characteristic phrases such as \"deliverable within\", \"time-limited\", and \"let's get this over the line\" to convey urgency and focus."
+        },
+        "scenario_description": "A Twitter/X-style rapid reaction to a government policy announcement affecting regional investment.",
+        "detailed_style": "Concise, punchy and evidence-focused; prioritise a few clear takeaways and one recommended action. Maintain a professional voice but with sharper cadence and short sentences to suit the platform's quick-read audience.",
+        "linguistic_patterns": "Use framing phrases like \"to be clear\" and \"on balance\" in short bursts: \"To be clear: policy X shifts incentives.\"; use sector shorthand such as \"net-zero\" and \"levelling up\". Typical micro-structures: one-line assertion, one-line evidence, one-line implication (e.g. \"We\u2019ll need: revised procurement timelines.\").",
+        "id": 7,
+        "seed": "A business consultant with experience in the region, interested in investment opportunities, market trends, and regional cooperation."
+    },
+    {
+        "persona": {
+            "name": "Daniel Osei",
+            "age": 38,
+            "gender": "Male (he/him)",
+            "demographics": "Urban \u2014 Ghanaian-British; born in Accra, spent adolescence in Kumasi, moved to the UK for higher education; currently based in Exeter with frequent travel across the South West of England",
+            "profession": "Senior Management Consultant \u2014 Regional Investment & Cooperation Lead at South West Advisory Partners (works with councils, private investors, and regional bodies on infrastructure, tourism, and cross-sector partnerships)",
+            "education": "BSc Economics (University of Ghana); MSc Regional Development and Planning (University of Bristol); MBA (University of Exeter Business School); Prince2 Practitioner, Certified Management Consultant (CMC) coursework",
+            "socioeconomic_status": "High Income; Professional Elite",
+            "brief_background": "Daniel combines economic analysis, local relationships and a pragmatic approach to identify investment opportunities that deliver both local benefit and acceptable returns. Colleagues rely on his ability to translate complex data into actionable proposals and to pull together multi-stakeholder consortia, though he sometimes grows impatient with slow-moving public procurement and political cycles. He prioritises projects with sustainability credentials and long-term regional impact.",
+            "interests_lifestyle": "sailing and coastal cruising, attending regional business and civic forums, mentoring local startups and social enterprises, analysing market and demographic trends, weekend cycling and hill-walking, trying farm-to-table and local seafood restaurants, following international football, philanthropy in education"
+        },
+        "global_style": {
+            "tone": "Businesslike and pragmatic with a collaborative, quietly warm undertone; professional and politely formal in external communications but approachable with colleagues and stakeholders. Evidence-focused and solution-oriented \u2014 clear about trade-offs, sometimes brisk when time is limited, and prioritises actionable outcomes with an emphasis on sustainability and regional impact.",
+            "syntax": "Prefers clear, direct sentences and active voice: short, punchy lines for recommendations and longer, well-structured sentences for explanation or justification. Frequently uses signposting and sequencing (e.g., numbered steps or labelled sections), parentheses for clarifying asides, and avoids flourish or overly ornate phrasing so the reader can quickly grasp priorities and next steps.",
+            "lexicon": "Draws on regional development, finance and public-sector vocabulary: 'ROI', 'NPV', 'IRR', 'capex', 'OPEX', 'consortium', 'procurement', 'due diligence', 'place-based', 'levelling up', 'co-benefits', 'net-zero' and 'resilience'. Uses British spelling and metric units (km, tonnes, \u00a3, fiscal year), and mixes technical jargon with plain-language explanations so non-specialists can follow (e.g., 'capex' followed by 'capital spend').",
+            "linguistic_patterns": "Regular use of pragmatic discourse markers and framing phrases such as \"that said\", \"to be clear\", \"on balance\" and \"let's be pragmatic\"; moderate use of contractions like \"I'll\", \"we'll\" and \"we're\" in internal or friendly exchanges. Tends to open recommendations with labels like \"Recommendation:\" or \"Action:\" and uses characteristic phrases such as \"deliverable within\", \"time-limited\", and \"let's get this over the line\" to convey urgency and focus."
+        },
+        "scenario_description": "A Facebook post to friends and family sharing a personal weekend activity (sailing, cycling or walking).",
+        "detailed_style": "Warm, informal and conversational with moderate contractions and a friendly tone; keep sentences short and vivid, inserting a light personal observation or appreciation. Avoid heavy jargon; when mentioning professional interests, translate them into plain language.",
+        "linguistic_patterns": "Use casual phrases and contractions such as \"lovely day\", \"we'll be back\", \"caught a great view\". Include sensory adjectives and brief asides in parentheses: \"bracing sea breeze (perfect for sailing)\". Distinguishing features: relaxed cadence, occasional emoji allowed, personal pronouns and anecdotal snapshots rather than formal signposting.",
+        "id": 7,
+        "seed": "A business consultant with experience in the region, interested in investment opportunities, market trends, and regional cooperation."
+    },
+    {
+        "persona": {
+            "name": "Daniel Osei",
+            "age": 38,
+            "gender": "Male (he/him)",
+            "demographics": "Urban \u2014 Ghanaian-British; born in Accra, spent adolescence in Kumasi, moved to the UK for higher education; currently based in Exeter with frequent travel across the South West of England",
+            "profession": "Senior Management Consultant \u2014 Regional Investment & Cooperation Lead at South West Advisory Partners (works with councils, private investors, and regional bodies on infrastructure, tourism, and cross-sector partnerships)",
+            "education": "BSc Economics (University of Ghana); MSc Regional Development and Planning (University of Bristol); MBA (University of Exeter Business School); Prince2 Practitioner, Certified Management Consultant (CMC) coursework",
+            "socioeconomic_status": "High Income; Professional Elite",
+            "brief_background": "Daniel combines economic analysis, local relationships and a pragmatic approach to identify investment opportunities that deliver both local benefit and acceptable returns. Colleagues rely on his ability to translate complex data into actionable proposals and to pull together multi-stakeholder consortia, though he sometimes grows impatient with slow-moving public procurement and political cycles. He prioritises projects with sustainability credentials and long-term regional impact.",
+            "interests_lifestyle": "sailing and coastal cruising, attending regional business and civic forums, mentoring local startups and social enterprises, analysing market and demographic trends, weekend cycling and hill-walking, trying farm-to-table and local seafood restaurants, following international football, philanthropy in education"
+        },
+        "global_style": {
+            "tone": "Businesslike and pragmatic with a collaborative, quietly warm undertone; professional and politely formal in external communications but approachable with colleagues and stakeholders. Evidence-focused and solution-oriented \u2014 clear about trade-offs, sometimes brisk when time is limited, and prioritises actionable outcomes with an emphasis on sustainability and regional impact.",
+            "syntax": "Prefers clear, direct sentences and active voice: short, punchy lines for recommendations and longer, well-structured sentences for explanation or justification. Frequently uses signposting and sequencing (e.g., numbered steps or labelled sections), parentheses for clarifying asides, and avoids flourish or overly ornate phrasing so the reader can quickly grasp priorities and next steps.",
+            "lexicon": "Draws on regional development, finance and public-sector vocabulary: 'ROI', 'NPV', 'IRR', 'capex', 'OPEX', 'consortium', 'procurement', 'due diligence', 'place-based', 'levelling up', 'co-benefits', 'net-zero' and 'resilience'. Uses British spelling and metric units (km, tonnes, \u00a3, fiscal year), and mixes technical jargon with plain-language explanations so non-specialists can follow (e.g., 'capex' followed by 'capital spend').",
+            "linguistic_patterns": "Regular use of pragmatic discourse markers and framing phrases such as \"that said\", \"to be clear\", \"on balance\" and \"let's be pragmatic\"; moderate use of contractions like \"I'll\", \"we'll\" and \"we're\" in internal or friendly exchanges. Tends to open recommendations with labels like \"Recommendation:\" or \"Action:\" and uses characteristic phrases such as \"deliverable within\", \"time-limited\", and \"let's get this over the line\" to convey urgency and focus."
+        },
+        "scenario_description": "An Instagram caption promoting a local farm-to-table restaurant visit with emphasis on sustainability.",
+        "detailed_style": "Concise, appreciative and slightly evocative while retaining a professional respect for sustainability claims; combine sensory description with a short note on provenance. Keep sentences tidy and end with a clear, inviting close.",
+        "linguistic_patterns": "Use phrases like \"farm-to-table\", \"locally sourced\", and \"sustainable (traceable supply)\". Typical structures: descriptive clause + sustainability note, e.g. \"Delicious seasonal menu \u2014 locally sourced produce (small producers).\". Distinguishing features: sensory language balanced by factual parenthetical clarifications and modest promotional tone.",
+        "id": 7,
+        "seed": "A business consultant with experience in the region, interested in investment opportunities, market trends, and regional cooperation."
+    },
+    {
+        "persona": {
+            "name": "Daniel Osei",
+            "age": 38,
+            "gender": "Male (he/him)",
+            "demographics": "Urban \u2014 Ghanaian-British; born in Accra, spent adolescence in Kumasi, moved to the UK for higher education; currently based in Exeter with frequent travel across the South West of England",
+            "profession": "Senior Management Consultant \u2014 Regional Investment & Cooperation Lead at South West Advisory Partners (works with councils, private investors, and regional bodies on infrastructure, tourism, and cross-sector partnerships)",
+            "education": "BSc Economics (University of Ghana); MSc Regional Development and Planning (University of Bristol); MBA (University of Exeter Business School); Prince2 Practitioner, Certified Management Consultant (CMC) coursework",
+            "socioeconomic_status": "High Income; Professional Elite",
+            "brief_background": "Daniel combines economic analysis, local relationships and a pragmatic approach to identify investment opportunities that deliver both local benefit and acceptable returns. Colleagues rely on his ability to translate complex data into actionable proposals and to pull together multi-stakeholder consortia, though he sometimes grows impatient with slow-moving public procurement and political cycles. He prioritises projects with sustainability credentials and long-term regional impact.",
+            "interests_lifestyle": "sailing and coastal cruising, attending regional business and civic forums, mentoring local startups and social enterprises, analysing market and demographic trends, weekend cycling and hill-walking, trying farm-to-table and local seafood restaurants, following international football, philanthropy in education"
+        },
+        "global_style": {
+            "tone": "Businesslike and pragmatic with a collaborative, quietly warm undertone; professional and politely formal in external communications but approachable with colleagues and stakeholders. Evidence-focused and solution-oriented \u2014 clear about trade-offs, sometimes brisk when time is limited, and prioritises actionable outcomes with an emphasis on sustainability and regional impact.",
+            "syntax": "Prefers clear, direct sentences and active voice: short, punchy lines for recommendations and longer, well-structured sentences for explanation or justification. Frequently uses signposting and sequencing (e.g., numbered steps or labelled sections), parentheses for clarifying asides, and avoids flourish or overly ornate phrasing so the reader can quickly grasp priorities and next steps.",
+            "lexicon": "Draws on regional development, finance and public-sector vocabulary: 'ROI', 'NPV', 'IRR', 'capex', 'OPEX', 'consortium', 'procurement', 'due diligence', 'place-based', 'levelling up', 'co-benefits', 'net-zero' and 'resilience'. Uses British spelling and metric units (km, tonnes, \u00a3, fiscal year), and mixes technical jargon with plain-language explanations so non-specialists can follow (e.g., 'capex' followed by 'capital spend').",
+            "linguistic_patterns": "Regular use of pragmatic discourse markers and framing phrases such as \"that said\", \"to be clear\", \"on balance\" and \"let's be pragmatic\"; moderate use of contractions like \"I'll\", \"we'll\" and \"we're\" in internal or friendly exchanges. Tends to open recommendations with labels like \"Recommendation:\" or \"Action:\" and uses characteristic phrases such as \"deliverable within\", \"time-limited\", and \"let's get this over the line\" to convey urgency and focus."
+        },
+        "scenario_description": "A LinkedIn recruitment post seeking professionals for a multi-stakeholder consortium.",
+        "detailed_style": "Targeted, precise and outcome-driven; open with role/expectation labels, follow with core competencies and a clear call-to-action. Use professional vocabulary and explicit time or commitment markers, keeping the tone formal but encouraging.",
+        "linguistic_patterns": "Lead with labels such as \"Role:\", \"Required:\" and \"Apply by:\". Use technical terms like \"due diligence\", \"capex\", \"IRR\" alongside plain explanations (e.g. \"IRR (projected internal rate of return)\"). Typical phrasing includes deadlines and commitments: \"time-limited 12-month engagement\" and direct CTAs like \"Apply via the link\".",
+        "id": 7,
+        "seed": "A business consultant with experience in the region, interested in investment opportunities, market trends, and regional cooperation."
+    },
+    {
+        "persona": {
+            "name": "Daniel Osei",
+            "age": 38,
+            "gender": "Male (he/him)",
+            "demographics": "Urban \u2014 Ghanaian-British; born in Accra, spent adolescence in Kumasi, moved to the UK for higher education; currently based in Exeter with frequent travel across the South West of England",
+            "profession": "Senior Management Consultant \u2014 Regional Investment & Cooperation Lead at South West Advisory Partners (works with councils, private investors, and regional bodies on infrastructure, tourism, and cross-sector partnerships)",
+            "education": "BSc Economics (University of Ghana); MSc Regional Development and Planning (University of Bristol); MBA (University of Exeter Business School); Prince2 Practitioner, Certified Management Consultant (CMC) coursework",
+            "socioeconomic_status": "High Income; Professional Elite",
+            "brief_background": "Daniel combines economic analysis, local relationships and a pragmatic approach to identify investment opportunities that deliver both local benefit and acceptable returns. Colleagues rely on his ability to translate complex data into actionable proposals and to pull together multi-stakeholder consortia, though he sometimes grows impatient with slow-moving public procurement and political cycles. He prioritises projects with sustainability credentials and long-term regional impact.",
+            "interests_lifestyle": "sailing and coastal cruising, attending regional business and civic forums, mentoring local startups and social enterprises, analysing market and demographic trends, weekend cycling and hill-walking, trying farm-to-table and local seafood restaurants, following international football, philanthropy in education"
+        },
+        "global_style": {
+            "tone": "Businesslike and pragmatic with a collaborative, quietly warm undertone; professional and politely formal in external communications but approachable with colleagues and stakeholders. Evidence-focused and solution-oriented \u2014 clear about trade-offs, sometimes brisk when time is limited, and prioritises actionable outcomes with an emphasis on sustainability and regional impact.",
+            "syntax": "Prefers clear, direct sentences and active voice: short, punchy lines for recommendations and longer, well-structured sentences for explanation or justification. Frequently uses signposting and sequencing (e.g., numbered steps or labelled sections), parentheses for clarifying asides, and avoids flourish or overly ornate phrasing so the reader can quickly grasp priorities and next steps.",
+            "lexicon": "Draws on regional development, finance and public-sector vocabulary: 'ROI', 'NPV', 'IRR', 'capex', 'OPEX', 'consortium', 'procurement', 'due diligence', 'place-based', 'levelling up', 'co-benefits', 'net-zero' and 'resilience'. Uses British spelling and metric units (km, tonnes, \u00a3, fiscal year), and mixes technical jargon with plain-language explanations so non-specialists can follow (e.g., 'capex' followed by 'capital spend').",
+            "linguistic_patterns": "Regular use of pragmatic discourse markers and framing phrases such as \"that said\", \"to be clear\", \"on balance\" and \"let's be pragmatic\"; moderate use of contractions like \"I'll\", \"we'll\" and \"we're\" in internal or friendly exchanges. Tends to open recommendations with labels like \"Recommendation:\" or \"Action:\" and uses characteristic phrases such as \"deliverable within\", \"time-limited\", and \"let's get this over the line\" to convey urgency and focus."
+        },
+        "scenario_description": "A short celebratory LinkedIn or Twitter post congratulating a mentee or former colleague on an achievement.",
+        "detailed_style": "Warmly professional and concise; lead with praise, cite one concrete strength quickly, and close with an encouraging forward-looking note. Keep the language upbeat but measured and avoid hyperbole.",
+        "linguistic_patterns": "Use congratulatory verbs and phrases like \"Well done\", \"Well deserved\" and \"proud to see\". Typical sentence pattern: praise + brief evidence + forward-looking remark (e.g. \"Well done \u2014 great leadership on delivery; looking forward to what\u2019s next\"). Distinguishing features: balanced warmth, short supportive clauses, occasional contraction (we'll).",
+        "id": 7,
+        "seed": "A business consultant with experience in the region, interested in investment opportunities, market trends, and regional cooperation."
+    },
+    {
+        "persona": {
+            "name": "Daniel Osei",
+            "age": 38,
+            "gender": "Male (he/him)",
+            "demographics": "Urban \u2014 Ghanaian-British; born in Accra, spent adolescence in Kumasi, moved to the UK for higher education; currently based in Exeter with frequent travel across the South West of England",
+            "profession": "Senior Management Consultant \u2014 Regional Investment & Cooperation Lead at South West Advisory Partners (works with councils, private investors, and regional bodies on infrastructure, tourism, and cross-sector partnerships)",
+            "education": "BSc Economics (University of Ghana); MSc Regional Development and Planning (University of Bristol); MBA (University of Exeter Business School); Prince2 Practitioner, Certified Management Consultant (CMC) coursework",
+            "socioeconomic_status": "High Income; Professional Elite",
+            "brief_background": "Daniel combines economic analysis, local relationships and a pragmatic approach to identify investment opportunities that deliver both local benefit and acceptable returns. Colleagues rely on his ability to translate complex data into actionable proposals and to pull together multi-stakeholder consortia, though he sometimes grows impatient with slow-moving public procurement and political cycles. He prioritises projects with sustainability credentials and long-term regional impact.",
+            "interests_lifestyle": "sailing and coastal cruising, attending regional business and civic forums, mentoring local startups and social enterprises, analysing market and demographic trends, weekend cycling and hill-walking, trying farm-to-table and local seafood restaurants, following international football, philanthropy in education"
+        },
+        "global_style": {
+            "tone": "Businesslike and pragmatic with a collaborative, quietly warm undertone; professional and politely formal in external communications but approachable with colleagues and stakeholders. Evidence-focused and solution-oriented \u2014 clear about trade-offs, sometimes brisk when time is limited, and prioritises actionable outcomes with an emphasis on sustainability and regional impact.",
+            "syntax": "Prefers clear, direct sentences and active voice: short, punchy lines for recommendations and longer, well-structured sentences for explanation or justification. Frequently uses signposting and sequencing (e.g., numbered steps or labelled sections), parentheses for clarifying asides, and avoids flourish or overly ornate phrasing so the reader can quickly grasp priorities and next steps.",
+            "lexicon": "Draws on regional development, finance and public-sector vocabulary: 'ROI', 'NPV', 'IRR', 'capex', 'OPEX', 'consortium', 'procurement', 'due diligence', 'place-based', 'levelling up', 'co-benefits', 'net-zero' and 'resilience'. Uses British spelling and metric units (km, tonnes, \u00a3, fiscal year), and mixes technical jargon with plain-language explanations so non-specialists can follow (e.g., 'capex' followed by 'capital spend').",
+            "linguistic_patterns": "Regular use of pragmatic discourse markers and framing phrases such as \"that said\", \"to be clear\", \"on balance\" and \"let's be pragmatic\"; moderate use of contractions like \"I'll\", \"we'll\" and \"we're\" in internal or friendly exchanges. Tends to open recommendations with labels like \"Recommendation:\" or \"Action:\" and uses characteristic phrases such as \"deliverable within\", \"time-limited\", and \"let's get this over the line\" to convey urgency and focus."
+        },
+        "scenario_description": "A public post addressing a delay or setback in a regional initiative, aimed at partners and the public.",
+        "detailed_style": "Calm, factual and accountability-focused with clear next steps; acknowledge the issue, explain implications succinctly, and present labelled remedial actions. Use measured language, avoid defensiveness, and emphasise transparency and timelines.",
+        "linguistic_patterns": "Use framing and concession phrases: \"that said\", \"to be clear\", \"on balance\". Label corrective steps: \"Action: pause procurement\" or \"Mitigation: additional due diligence (2 weeks)\". Distinguishing features: neutral tone, active voice, explicit commitments with time-bound language (e.g. \"deliverable within 6 weeks\").",
+        "id": 7,
+        "seed": "A business consultant with experience in the region, interested in investment opportunities, market trends, and regional cooperation."
+    },
+    {
+        "persona": {
+            "name": "Daniel Osei",
+            "age": 38,
+            "gender": "Male (he/him)",
+            "demographics": "Urban \u2014 Ghanaian-British; born in Accra, spent adolescence in Kumasi, moved to the UK for higher education; currently based in Exeter with frequent travel across the South West of England",
+            "profession": "Senior Management Consultant \u2014 Regional Investment & Cooperation Lead at South West Advisory Partners (works with councils, private investors, and regional bodies on infrastructure, tourism, and cross-sector partnerships)",
+            "education": "BSc Economics (University of Ghana); MSc Regional Development and Planning (University of Bristol); MBA (University of Exeter Business School); Prince2 Practitioner, Certified Management Consultant (CMC) coursework",
+            "socioeconomic_status": "High Income; Professional Elite",
+            "brief_background": "Daniel combines economic analysis, local relationships and a pragmatic approach to identify investment opportunities that deliver both local benefit and acceptable returns. Colleagues rely on his ability to translate complex data into actionable proposals and to pull together multi-stakeholder consortia, though he sometimes grows impatient with slow-moving public procurement and political cycles. He prioritises projects with sustainability credentials and long-term regional impact.",
+            "interests_lifestyle": "sailing and coastal cruising, attending regional business and civic forums, mentoring local startups and social enterprises, analysing market and demographic trends, weekend cycling and hill-walking, trying farm-to-table and local seafood restaurants, following international football, philanthropy in education"
+        },
+        "global_style": {
+            "tone": "Businesslike and pragmatic with a collaborative, quietly warm undertone; professional and politely formal in external communications but approachable with colleagues and stakeholders. Evidence-focused and solution-oriented \u2014 clear about trade-offs, sometimes brisk when time is limited, and prioritises actionable outcomes with an emphasis on sustainability and regional impact.",
+            "syntax": "Prefers clear, direct sentences and active voice: short, punchy lines for recommendations and longer, well-structured sentences for explanation or justification. Frequently uses signposting and sequencing (e.g., numbered steps or labelled sections), parentheses for clarifying asides, and avoids flourish or overly ornate phrasing so the reader can quickly grasp priorities and next steps.",
+            "lexicon": "Draws on regional development, finance and public-sector vocabulary: 'ROI', 'NPV', 'IRR', 'capex', 'OPEX', 'consortium', 'procurement', 'due diligence', 'place-based', 'levelling up', 'co-benefits', 'net-zero' and 'resilience'. Uses British spelling and metric units (km, tonnes, \u00a3, fiscal year), and mixes technical jargon with plain-language explanations so non-specialists can follow (e.g., 'capex' followed by 'capital spend').",
+            "linguistic_patterns": "Regular use of pragmatic discourse markers and framing phrases such as \"that said\", \"to be clear\", \"on balance\" and \"let's be pragmatic\"; moderate use of contractions like \"I'll\", \"we'll\" and \"we're\" in internal or friendly exchanges. Tends to open recommendations with labels like \"Recommendation:\" or \"Action:\" and uses characteristic phrases such as \"deliverable within\", \"time-limited\", and \"let's get this over the line\" to convey urgency and focus."
+        },
+        "scenario_description": "A LinkedIn event invite for a regional forum or panel discussion aimed at professionals and civic leaders.",
+        "detailed_style": "Inviting yet formal; open with the value proposition, outline agenda highlights succinctly, and finish with RSVP/participation instructions. Use structured signposting and emphasise co-benefits and networking opportunities.",
+        "linguistic_patterns": "Use invitation verbs and headings such as \"Join us\", \"Agenda:\" and \"RSVP:\". Mention benefits with short clauses: \"networking (senior stakeholders)\", \"practical outcomes\" and \"place-based co-benefits\". Distinguishing features: instructive CTA, clear logistical cues, professional courtesy language (please register, seats limited).",
+        "id": 7,
+        "seed": "A business consultant with experience in the region, interested in investment opportunities, market trends, and regional cooperation."
+    },
+    {
+        "persona": {
+            "name": "Daniel Osei",
+            "age": 38,
+            "gender": "Male (he/him)",
+            "demographics": "Urban \u2014 Ghanaian-British; born in Accra, spent adolescence in Kumasi, moved to the UK for higher education; currently based in Exeter with frequent travel across the South West of England",
+            "profession": "Senior Management Consultant \u2014 Regional Investment & Cooperation Lead at South West Advisory Partners (works with councils, private investors, and regional bodies on infrastructure, tourism, and cross-sector partnerships)",
+            "education": "BSc Economics (University of Ghana); MSc Regional Development and Planning (University of Bristol); MBA (University of Exeter Business School); Prince2 Practitioner, Certified Management Consultant (CMC) coursework",
+            "socioeconomic_status": "High Income; Professional Elite",
+            "brief_background": "Daniel combines economic analysis, local relationships and a pragmatic approach to identify investment opportunities that deliver both local benefit and acceptable returns. Colleagues rely on his ability to translate complex data into actionable proposals and to pull together multi-stakeholder consortia, though he sometimes grows impatient with slow-moving public procurement and political cycles. He prioritises projects with sustainability credentials and long-term regional impact.",
+            "interests_lifestyle": "sailing and coastal cruising, attending regional business and civic forums, mentoring local startups and social enterprises, analysing market and demographic trends, weekend cycling and hill-walking, trying farm-to-table and local seafood restaurants, following international football, philanthropy in education"
+        },
+        "global_style": {
+            "tone": "Businesslike and pragmatic with a collaborative, quietly warm undertone; professional and politely formal in external communications but approachable with colleagues and stakeholders. Evidence-focused and solution-oriented \u2014 clear about trade-offs, sometimes brisk when time is limited, and prioritises actionable outcomes with an emphasis on sustainability and regional impact.",
+            "syntax": "Prefers clear, direct sentences and active voice: short, punchy lines for recommendations and longer, well-structured sentences for explanation or justification. Frequently uses signposting and sequencing (e.g., numbered steps or labelled sections), parentheses for clarifying asides, and avoids flourish or overly ornate phrasing so the reader can quickly grasp priorities and next steps.",
+            "lexicon": "Draws on regional development, finance and public-sector vocabulary: 'ROI', 'NPV', 'IRR', 'capex', 'OPEX', 'consortium', 'procurement', 'due diligence', 'place-based', 'levelling up', 'co-benefits', 'net-zero' and 'resilience'. Uses British spelling and metric units (km, tonnes, \u00a3, fiscal year), and mixes technical jargon with plain-language explanations so non-specialists can follow (e.g., 'capex' followed by 'capital spend').",
+            "linguistic_patterns": "Regular use of pragmatic discourse markers and framing phrases such as \"that said\", \"to be clear\", \"on balance\" and \"let's be pragmatic\"; moderate use of contractions like \"I'll\", \"we'll\" and \"we're\" in internal or friendly exchanges. Tends to open recommendations with labels like \"Recommendation:\" or \"Action:\" and uses characteristic phrases such as \"deliverable within\", \"time-limited\", and \"let's get this over the line\" to convey urgency and focus."
+        },
+        "scenario_description": "A data-driven LinkedIn post sharing a market insight or trend analysis relevant to regional development.",
+        "detailed_style": "Analytical, evidence-led and succinct; start with a labelled finding (e.g. Key finding:), follow with concise data points and a short implication or recommendation. Use plain-language explanations for technical terms so a broad professional audience can follow.",
+        "linguistic_patterns": "Open with labels like \"Key finding:\" and \"Implication:\". Use technical terms and metrics: \"NPV\", \"IRR\", \"% change\", \"km\", and include parenthetical clarifications (e.g. \"NPV (over 10 years)\"). Typical sentence structures pair a quantitative statement with a one-line practical implication: \"Data shows X (Y% change); implication: adjust capex timing.\"",
+        "id": 7,
+        "seed": "A business consultant with experience in the region, interested in investment opportunities, market trends, and regional cooperation."
+    },
+    {
+        "persona": {
+            "name": "Daniel Osei",
+            "age": 38,
+            "gender": "Male (he/him)",
+            "demographics": "Urban \u2014 Ghanaian-British; born in Accra, spent adolescence in Kumasi, moved to the UK for higher education; currently based in Exeter with frequent travel across the South West of England",
+            "profession": "Senior Management Consultant \u2014 Regional Investment & Cooperation Lead at South West Advisory Partners (works with councils, private investors, and regional bodies on infrastructure, tourism, and cross-sector partnerships)",
+            "education": "BSc Economics (University of Ghana); MSc Regional Development and Planning (University of Bristol); MBA (University of Exeter Business School); Prince2 Practitioner, Certified Management Consultant (CMC) coursework",
+            "socioeconomic_status": "High Income; Professional Elite",
+            "brief_background": "Daniel combines economic analysis, local relationships and a pragmatic approach to identify investment opportunities that deliver both local benefit and acceptable returns. Colleagues rely on his ability to translate complex data into actionable proposals and to pull together multi-stakeholder consortia, though he sometimes grows impatient with slow-moving public procurement and political cycles. He prioritises projects with sustainability credentials and long-term regional impact.",
+            "interests_lifestyle": "sailing and coastal cruising, attending regional business and civic forums, mentoring local startups and social enterprises, analysing market and demographic trends, weekend cycling and hill-walking, trying farm-to-table and local seafood restaurants, following international football, philanthropy in education"
+        },
+        "global_style": {
+            "tone": "Businesslike and pragmatic with a collaborative, quietly warm undertone; professional and politely formal in external communications but approachable with colleagues and stakeholders. Evidence-focused and solution-oriented \u2014 clear about trade-offs, sometimes brisk when time is limited, and prioritises actionable outcomes with an emphasis on sustainability and regional impact.",
+            "syntax": "Prefers clear, direct sentences and active voice: short, punchy lines for recommendations and longer, well-structured sentences for explanation or justification. Frequently uses signposting and sequencing (e.g., numbered steps or labelled sections), parentheses for clarifying asides, and avoids flourish or overly ornate phrasing so the reader can quickly grasp priorities and next steps.",
+            "lexicon": "Draws on regional development, finance and public-sector vocabulary: 'ROI', 'NPV', 'IRR', 'capex', 'OPEX', 'consortium', 'procurement', 'due diligence', 'place-based', 'levelling up', 'co-benefits', 'net-zero' and 'resilience'. Uses British spelling and metric units (km, tonnes, \u00a3, fiscal year), and mixes technical jargon with plain-language explanations so non-specialists can follow (e.g., 'capex' followed by 'capital spend').",
+            "linguistic_patterns": "Regular use of pragmatic discourse markers and framing phrases such as \"that said\", \"to be clear\", \"on balance\" and \"let's be pragmatic\"; moderate use of contractions like \"I'll\", \"we'll\" and \"we're\" in internal or friendly exchanges. Tends to open recommendations with labels like \"Recommendation:\" or \"Action:\" and uses characteristic phrases such as \"deliverable within\", \"time-limited\", and \"let's get this over the line\" to convey urgency and focus."
+        },
+        "scenario_description": "A reflective personal post on work-life balance and mentoring, shared on LinkedIn to inspire peers.",
+        "detailed_style": "Measured and reflective with a practical close; combine a brief personal observation with clear, actionable advice and an invitation to connect. Maintain a warm but professional voice and use short, punchy sentences for the takeaway.",
+        "linguistic_patterns": "Use reflective signposts like \"That said\" and \"Let's be pragmatic\". Mix short emphatic sentences with a longer explanatory sentence; end with a call to action: \"If you\u2019re mentoring, I\u2019ll be glad to connect.\" Typical phrases include \"time-limited focus\", \"we'll prioritise\", and \"deliverable within\" to keep reflection grounded in practice.",
+        "id": 7,
+        "seed": "A business consultant with experience in the region, interested in investment opportunities, market trends, and regional cooperation."
+    }
+]

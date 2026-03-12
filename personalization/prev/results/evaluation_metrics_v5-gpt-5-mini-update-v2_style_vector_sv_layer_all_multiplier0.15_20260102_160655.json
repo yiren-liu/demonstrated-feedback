@@ -1,0 +1,33 @@
+{
+  "rouge_stdout": "  Scoring outputs \u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501 107/107 0:00:00\nSaving ROUGE-L metrics to single_vector/outputs/results/v5-gpt-5-mini-update-v2_style_vector_sv_layer_all_multiplier0.15.csv...\n\nOverall ROUGE-L\nPrecision: 0.3475, Recall: 0.5249, F1: 0.4106\n\nSaved detailed results to single_vector/outputs/results/v5-gpt-5-mini-update-v2_style_vector_sv_layer_all_multiplier0.15.csv\n",
+  "style_similarity": {
+    "mean": 0.3121053732618272,
+    "std": 0.32902482193437216,
+    "median": 0.31442078948020935,
+    "min": -0.4903327524662018,
+    "max": 0.9280732870101929,
+    "q25": 0.04876921512186527,
+    "q75": 0.6127768754959106,
+    "count": 107
+  },
+  "style_distance": {
+    "mean": 0.7436328535882112,
+    "std": 0.12480922587673883,
+    "median": 0.7181681394577026,
+    "min": 0.5071983933448792,
+    "max": 0.9684218764305115,
+    "q25": 0.6548202037811279,
+    "q75": 0.8566552102565765,
+    "count": 107
+  },
+  "ai_detection": {
+    "mean_ai_score": 0.8730942504450562,
+    "std_ai_score": 0.2922366701358132,
+    "median_ai_score": 0.9987961053848267,
+    "min_ai_score": 0.000400529766920954,
+    "max_ai_score": 0.9998267292976379,
+    "q25_ai_score": 0.9751221537590027,
+    "q75_ai_score": 0.9996808767318726,
+    "total_samples": 107
+  }
+}

@@ -1,0 +1,564 @@
+file,date,from,to,subject,email
+fischer-m/_sent_mail/1.,"Fri, 12 Jul 2002 01:31:00 -0700",mark.fisher@enron.com,tom.nemila@enron.com,WR613 Pitch System performance,"Tom,
+
+Here is the report I prepared on the methods and types of grpahs for this 
+work request. As examples I used the May 2002 graphs, including the Paretos 
+for the Pitch and overspeed faults. If you need additional clarification, or 
+have questions let me know.
+
+Mark"
+fischer-m/_sent_mail/10.,"Tue, 09 Jul 2002 08:07:00 -0700",mark.fisher@enron.com,joe.chapman@enron.com,Curtail200206.db Question,"Joe,
+
+Attached is the Curtail200206.db file. I have a question about a sequence of 
+events. For turbine 840006029 on June 19th the turbine is ""Energy curtailed"" 
+(Index = 10843), THEN it has the message ""Turbine Com Established"" (Index = 
+10855). Then there are no other messages (for that turbine) until a ""Energy 
+curtailed"" message (Index = 11134).
+
+Is there anything I can assume about the time between the curtailment 
+messages? For example, was the turbine uncurtailed when the com established 
+message was recorded? Or are did the turbine become uncurtailed and no 
+message was recorded? 
+
+Thanks,
+Mark"
+fischer-m/_sent_mail/11.,"Mon, 08 Jul 2002 08:34:00 -0700",mark.fisher@enron.com,andre.rast@enron.com,Subset of data with extreme temp,"Andre,
+
+Here is a short subset of 10-minute records containing the extreme 
+temperature event (approximately 3 hours of before/after data). The turbine 
+was #105 at Desert Sky on May 1st. Times are in UTC. The values are 10-minute 
+averages.
+
+If you have additional questions let me know.
+
+Mark"
+fischer-m/_sent_mail/12.,"Mon, 08 Jul 2002 04:29:00 -0700",mark.fisher@enron.com,tom.nemila@enron.com,Gearbox Temp graphs,"Tom,
+
+The graphs attached are formatted the same as the sample set I sent you 
+earlier. As of today, Desert Sky 10-minute data has not been uploaded for 
+June 2002 yet, and the data for Jan is nonexistant, so the graphs go from Feb 
+to May 2002. 
+
+If you have questions or comments let me know.
+
+Mark"
+fischer-m/_sent_mail/13.,"Mon, 08 Jul 2002 01:37:00 -0700",mark.fisher@enron.com,tom.nemila@enron.com,Gear Box Temp Graphs,"Tom,
+
+Here is a sample of the output for this request. For this I have only used 
+May 2002. I for the boxplots one has had records removed when the ambient and 
+gearbox temp is less than 0 (I can provide turbines and times if needed). 
+There were many records where this occured. There were also 5 records where 
+the Gearbox temp was over 100 and these were also removed. All of these over 
+100 records occured on turbine 105 on May 1st between 1640 and 1740 (UTC). 
+Temperatures were as high as 366. 
+
+If this format is acceptable let me know and I will generate graphs for the 
+data we have (Jan - ""current"" 2002).
+
+Mark"
+fischer-m/_sent_mail/14.,"Fri, 05 Jul 2002 09:32:00 -0700",mark.fisher@enron.com,patricia.hunter@enron.com,ROI,I think I have the formulas fixed in this one.
+fischer-m/_sent_mail/15.,"Fri, 05 Jul 2002 09:26:00 -0700",mark.fisher@enron.com,denise.williams@enron.com,Re: Do Not Download or Install Software to your Machines,"Denise,
+
+A couple of questions about software. 
+
+I have used and would like to continue to use MiKTeX (A windows version of 
+TeX, the technical typesetting program). I find it is useful for 
+automatically formatting reports in fact I have designed the automated 
+summary report for the turbine SPC report using this program. This is 
+freeware. (The TeX users group http://www.tug.org/ has information of TeX 
+implementations. MiKTeX is probably the best, but PCTeX by Personal TeX is a 
+good non-free version). Please let me know what will need to be done so that 
+I can continue to use this software.
+
+I was also planning to start Syncing my PDA with Outlook (as soon as Outlook 
+is configured for use). So can I install the ""Palm"" software for this purpose?
+
+Mark Fisher
+
+
+
+
+
+Denise Williams
+07/04/2002 10:17 AM
+To: GE_Benefits
+cc:  
+
+Subject: Do Not Download or Install Software to your Machines
+
+In accordance with the GE Power Systems Information Security Manual and 
+Security Procedure Guide (a copy can be found on the Transfer directory under 
+GEPS Information Security Manual), users are not allowed to download or 
+install software that is not authorized by GEPS management.  This includes, 
+but is not limited to, Web Shots, Real Player, Spinner, WinAmp, Games, Post 
+It Notes, Bonzi Buddy, Napster, Morpheus, or Limewire.  Additionally, users 
+are not allowed to bring in software from home and install it on their work 
+computers.  
+
+Please take a little time and read through the Guide.  GE has strict policies 
+and procedures regarding the use of GE owned equipment, and they monitor 
+every machine on the network.  If you have any questions about what can or 
+can not be loaded on your machine, please send me an e-mail.
+
+Thanks.
+
+--D"
+fischer-m/_sent_mail/16.,"Fri, 05 Jul 2002 08:45:00 -0700",mark.fisher@enron.com,tom.nemila@enron.com,WR613 Pitch System Performance (Energy),"Tom,
+
+I have energy estimates for May 2002 attached. Graph 1 is site totals, graph 
+2 is (total lost)/(total actual production) where total actual production is 
+taken from the kWh reported in the owner report, and graph 3 is the by 
+turbine distribution (using box plots) of energy lost. 
+
+The energy lost estimation method I employed is susceptible to problems with 
+data recovery (10-minute data), which in May 2002 was especially poor at 
+Klondike and Fenner, so those number are not as informative as those for the 
+other sites. 
+
+If these graphs provide you the information you need, I will continue with 
+the remaining months (Jan - Apr). Otherwise let me know and we'll refine this 
+process to get you what you need.
+
+Mark"
+fischer-m/_sent_mail/18.,"Wed, 03 Jul 2002 06:19:00 -0700",mark.fisher@enron.com,tom.nemila@enron.com,WR613 Pitch System Fault Pareto,"Tom,
+
+From the stage I was at on the duration and energy it was just as easy to do 
+all 7 sites as the 3 you specifically requested. If you do not want the 
+additional graphs let me know and I'll pull them out of the Acrobat file. 
+
+Mark"
+fischer-m/_sent_mail/19.,"Wed, 03 Jul 2002 06:11:00 -0700",mark.fisher@enron.com,jeff.duff@enron.com,May curtailment spread,"Jeff,
+
+The files are in DesertSkyCurtail in your transfer dirtectory. Check the sums 
+of the KWH.LOST columns with the values you were provided. These all seem to 
+have been created the same day.
+
+Mark"
+fischer-m/_sent_mail/2.,"Fri, 12 Jul 2002 01:21:00 -0700",mark.fisher@enron.com,tom.nemila@enron.com,WR627 Fault Paretos (May 2002),"Tom, 
+
+Here are the fault paretos of fault counts for all sites for May 2002 
+(may2002paretos_faults.pdf). For readability only the top 30 faults for each 
+site are displayed. Both Texas sites had VERY high numbers of ""wind 
+deviation"" faults.
+
+I am also attaching a file (from a different work request) that has a pareto 
+(by site) of the mean number of faults per turbine (may2002mean_faults.pdf), 
+which shows that the Texas sites have the highest mean faults per turbine. 
+This also has boxplots of the number of faults by site to show the outliers.
+
+I will do the June data, if still desired, when the data upload is completed.
+
+As always, if you have questions or comments let me know.
+
+Mark"
+fischer-m/_sent_mail/20.,"Wed, 03 Jul 2002 01:07:00 -0700",mark.fisher@enron.com,tom.nemila@enron.com,WR613 Pitch System Performance,"Tom,
+
+Here are the new graphs with totals (bar charts) and distributions (boxplots) 
+for all seven sites through May 2002. 
+
+I believe that I have come up with a method of providing you with the 
+ESTIMATED energy lost. Since it requires using two data sets (faults and 
+10-minute data) it will be take a bit longer to run. However I hope to have 
+that result to you next week. 
+
+Mark"
+fischer-m/_sent_mail/21.,"Tue, 02 Jul 2002 07:39:00 -0700",mark.fisher@enron.com,tom.nemila@enron.com,WR613 Pitch System Performance,"Tom, 
+
+Maybe I mis-interpreted again, but here are the graphs for site total (the 
+boxplots are still by turbine). This is for May. I will wait to see if this 
+is more like what you need before continuing with the earlier months.
+
+Mark"
+fischer-m/_sent_mail/22.,"Fri, 28 Jun 2002 09:32:00 -0700",mark.fisher@enron.com,denise.williams@enron.com,Re: Tehachapi Only - Desktop and Dell laptop Users,"They are both: doomat!1
+
+
+
+
+Denise Williams
+06/28/2002 03:48 PM
+To: GE_Benefits
+cc:  
+
+Subject: Tehachapi Only - Desktop and Dell laptop Users
+
+We will be working this weekend to coreload as many machines as we possibly 
+can.  Please send me your network and lotus notes password.  If we do not 
+have your passwords, I will reset them to password.  We will start with the 
+South facility, and if all goes well, proceed to the north.  Please leave 
+your machine logged on.  NOTE:  If you are an Expedition user, we can not 
+load your machine yet, as the current version of Expedition does not run 
+properly on Windows 2000.  A new version of Expedition will be installed on 
+July 8.
+
+--D"
+fischer-m/_sent_mail/3.,"Thu, 11 Jul 2002 09:22:00 -0700",mark.fisher@enron.com,jeff.duff@enron.com,Desert Sky Curtailment,"Jeff,
+
+Mar - May 2002 have been recalculated and spreadsheets created. Mar & Apr 
+wend down slightly due to the ""extra"" turbines. May has gone up, possibly due 
+to some data filling in holes from before, data recovery does appear to be 
+better this time. The spreadsheets are sorted and totaled by Bus.ID. The 
+""extras"" are at the bottom with 0 production.
+
+
+Mark"
+fischer-m/_sent_mail/4.,"Thu, 11 Jul 2002 08:12:00 -0700",mark.fisher@enron.com,tim.derrick@enron.com,Fluvanna and Trew Ranch reports,"Tim,
+
+In Oct 2001 I produced the attached reports for Michael Paine. I hope these 
+are helpful. 
+
+Mark"
+fischer-m/_sent_mail/5.,"Thu, 11 Jul 2002 07:24:00 -0700",mark.fisher@enron.com,julie.johnson@enron.com,Work Request,Fault Pareto Work Request From Tom Nemila
+fischer-m/_sent_mail/9.,"Tue, 09 Jul 2002 08:55:00 -0700",mark.fisher@enron.com,tom.nemila@enron.com,WR613 Pitch System Performance,"Tom,
+
+Attached are the graphs for energy lost due to the pitch and overspeed faults 
+you listed. As I mentioned before the methodology requires decent data 
+recovery for the 10-minute data. The data recovery was poor for several sites 
+in January, and for Fenner and Klondike in May. 
+
+I will be compiling a report on this request, summarizing the graph types and 
+some explanation of the methods used to produce them. I hope to have that 
+completed within the next couple of days.
+
+If you see deficiencies or suggested modifications let me know.
+
+Mark"
+fischer-m/_sent/2.,"Tue, 07 Aug 2001 17:47:00 -0700",mary.fischer@enron.com,audrey.keefer@enron.com,Payroll in Ohio Cities,"Audrey,
+
+To finish up our tax return compliance we have to file returns for the Ohio cities.  I have gone through the information that you sent Dara Flinn for Limbach Company and found copies of the withholding reconciliations for some of the Ohio cities.  This was very helpful and greatly appreciated, but some of the withholding reconciliations don't include gross payroll for the year which is information that we have to have to file the city returns.  
+
+I have attached a list of cities that we have received the withholding reconciliations with the gross payroll per the reconciliation and the tax withheld.  As you can see by the attached spreadsheet some of the cities don't have gross payroll listed since it was not on the withholding reconciliation Also included on the spreadsheet is a list of cities that had payroll in 1999, but we have not received a copy of the withholding reconciliation for those particular cities.  I need to confirm that they do not have any 2000 payroll.
+
+							 
+
+Melanie Gaar has contacted you about getting the payroll information for Enron Building Services Inc.  We have gone through all the information that we have received and unfortunately are unable to locate the information that you sent.  Please send the information again to my attention and I will make sure that it does not get misplaced.
+
+I realise that this is an inconvenience for you but if we could get the above information by Friday, August 10 or sooner it would be greatly appreciated.
+
+Thanks for all the help.
+
+Mary Fischer"
+fischer-m/sent_items/10.,"Mon, 01 Oct 2001 08:41:15 -0700",mary.fischer@enron.com,leesa.white@enron.com,SPA Luncheon,"Leesa,
+
+I just found out that I had volunteered to buy a table for the SPA luncheon on Thursday, October 11th so I am trying to fill it up with people.  Would you be interested in attending a luncheon at the Houston Country Club on October 11th?  Susan Murray will be there.  Pamela and Jaye will not be able to attend because they are going to be out of town.
+
+Let me know.
+
+Mary"
+fischer-m/sent_items/14.,"Thu, 04 Oct 2001 12:49:28 -0700",mary.fischer@enron.com,"'rush@enron.com, rrush@pclient.ml.com",Are you free?,"Becky,
+
+I just found out that I bought a table for the Society for the Performing Arts luncheon on October 11th at the Houston Country Club and I am desparately trying to fill it.  I was wondering if you would be interested in going as my guest?  Susan will be there as well as Lessa White.  Let me know if you are interested?
+
+Mary"
+fischer-m/sent_items/15.,"Thu, 04 Oct 2001 14:52:56 -0700",mary.fischer@enron.com,amanda@spahouston.org,Fall Luncheon,"Amanda,
+
+My guests for the fall luncheon will be:
+	Mary Fischer
+	Carol Sapp	
+	Christina Topol
+	Patty Lee
+	Rhonda Ryan
+	Carol Kenny
+	Becky Rush
+	Susan Murray
+	Leesa White
+	TBD
+
+I left a check and a Enron matching form for the luncheon on your chair on Monday.  If you need anything let me know by e-mail since I will be out of the office on Friday and Monday, but I will be checking in by email.
+
+Thanks for all your help.
+
+Mary S. Fischer"
+fischer-m/sent_items/16.,"Thu, 04 Oct 2001 15:11:20 -0700",mary.fischer@enron.com,selma.reyna@enron.com,Vacation Day,"Selma,
+
+I think that I was scheduled for a vaction day on Monday but I don't know because I've screwed up my vaction schedule, but I will be taking a day of vacation Monday so I can get my slate floors resealed.  If you or anyone needs me on Friday or Monday please give me a call at home.  I should be there both days and I'm only 15 minutes away. 
+
+I have nothing pending that is pressing."
+fischer-m/sent_items/23.,"Tue, 09 Oct 2001 14:51:18 -0700",mary.fischer@enron.com,felecia.fitzgerald@enron.com,I sent you an invitation,"I sent you and Sean an invitation to a party for Carl who is turning 60 on October 28th.  (I married a very very old man!)  I was hoping that you and Sean could stop by so I would have a familiar face there and since you live in the neighborhood.  The other guests are buddies of Carl, went to school with Carl, play tennis with Carl or worked at Pennzoil with Carl.  We have only been married seven years and I don't know these people that he has me inviting.
+
+
+How are you doing?
+
+Mary"
+fischer-m/sent_items/24.,"Tue, 09 Oct 2001 14:53:21 -0700",mary.fischer@enron.com,leesa.white@enron.com,Wanted to confirm that I will be walking,"Leesa,
+
+I wanted to confirm that I will be walking in the Heart walk on November 3rd.  I'm working on collecting those pledges.  I hoping that it is kosher to hit up family members for pledges.
+
+Mary"
+fischer-m/sent_items/34.,"Fri, 12 Oct 2001 08:38:37 -0700",mary.fischer@enron.com,dana.lee@enron.com,Daisy Chistolini,"Dana,
+
+I was suppose to do this a week ago.  Daisy is a friend of mine and she couldn't beleive that out of all the people at Enron I knew who you were.  She wanted me to ask you for your address so that she and Kim (who used to work for you but I can't remember her last name) could invite your wife to Accessory Cafe party that they are having at Kim's house.  Daisy said that they tried to send an invitation to Accessory Cafe party that was held at Daisy's house but the invitation was returned.  They had some nice things so I recommend it.  If you want to call Daisy directly her number is:  713-975-0250.  
+
+Its a small world.
+
+Mary F."
+fischer-m/sent_items/36.,"Mon, 15 Oct 2001 07:02:10 -0700",mary.fischer@enron.com,health.center@enron.com,Flu Shot,"I would like to make an appointment to get the flu shot.
+
+Thanks,
+Mary Fischer
+#35449"
+fischer-m/sent_items/37.,"Mon, 15 Oct 2001 10:29:39 -0700",mary.fischer@enron.com,nicole.white@enron.com,Sale of S02 credits,"Nicole,
+
+After thinking about our conversation this morning I don't think that we are on the same page.  I am looking for a sale of S02 credits that were sold by 33R but were held in inventory on 33Q.
+
+Eloise Williams sent an e-mail to Jeff Herrold saying that an entry was made to the following accounts on 33Q:
+
+Debit to 1999995 	Cash				$138,475,829.50
+Credit to 4500000	Other Commodity - Third Party	$138,475,829.50
+
+My question is was the sale reclassed to 30R by the following entry:
+33Q	Debit to 450160000	Financial Settlements - Intercompany 	$151,404,038.50
+	Credit to 20023000	Accts Rec/Payable Non Trade - Interco	$151,404,038.50
+
+33R	Debit to 20023000	Accts Rec/Payable Non Trade - Interco	$151,404,038.50
+	Credit to 450160000	Financial Settlements - Intercompany	$151,404,038.50
+
+If so what else makes up the $151,404,038.50?
+
+My next question is what is the cost of  the inventory that went to cost of sales for the sale of $138,475,829.50 S02 credits?  What was the entry that recorded the amount into cost of sales?
+
+If you could get back to me as soon as possible, I would greatly appreciate it.
+
+Mary"
+fischer-m/sent_items/38.,"Mon, 15 Oct 2001 15:47:55 -0700",mary.fischer@enron.com,rubyk@networkinterstate.com,RE: LUNCH,"Ruby,
+ 
+This week has gotten shot to hell.  My mom is in the hospital (no big deal, just an inconvenience).  Are you free next week for lunch?  Name the day.   Let me know.
+ 
+Mary"
+fischer-m/sent_items/39.,"Tue, 16 Oct 2001 08:08:38 -0700",mary.fischer@enron.com,todd.richards@enron.com,Declined: Cumulative Build Meeting for Company 367,Can't make it - I am registered for the Basics of Risk Management that day.
+fischer-m/sent_items/44.,"Wed, 17 Oct 2001 07:36:22 -0700",mary.fischer@enron.com,"richard.laird@enron.com, marguerite.nguyen@enron.com",e-mails from Felecia,"I've got to got to a meeting and won't be back til after lunch and then I will search for those e-mails and forward them to you.  I just want to let you know so you won't think that I forgot.
+
+Mary
+
+Good Luck!"
+fischer-m/sent_items/47.,"Wed, 17 Oct 2001 11:06:30 -0700",mary.fischer@enron.com,"richard.laird@enron.com, marguerite.nguyen@enron.com",Felecia E-mails Update,I can't get access to my lotus notes but IT support is working on it.
+fischer-m/sent_items/54.,"Fri, 19 Oct 2001 14:58:57 -0700",mary.fischer@enron.com,"todd.richards@enron.com, facundo.caminos@enron.com, john.swafford@enron.com, mark.ng@enron.com",Out on Monday,"I will be taking a day of vacation on Monday but if you need anything, have any questions or need me to come in please give me a call at home or e-mail me.  I will be checking the phone and my e-mail.
+
+Mary"
+fischer-m/sent_items/9.,"Mon, 01 Oct 2001 07:51:48 -0700",mary.fischer@enron.com,robert.guthrie@enron.com,2000 Taxable Income,"Robert,
+
+Were you able to get the report that you need for Beth Apke, if not let me know and I'll see what I can do.
+
+Mary"
+fischer-m/sent/10.,"Fri, 05 Jul 2002 09:32:00 -0700",mark.fisher@enron.com,patricia.hunter@enron.com,ROI,I think I have the formulas fixed in this one.
+fischer-m/sent/11.,"Mon, 08 Jul 2002 01:37:00 -0700",mark.fisher@enron.com,tom.nemila@enron.com,Gear Box Temp Graphs,"Tom,
+
+Here is a sample of the output for this request. For this I have only used 
+May 2002. I for the boxplots one has had records removed when the ambient and 
+gearbox temp is less than 0 (I can provide turbines and times if needed). 
+There were many records where this occured. There were also 5 records where 
+the Gearbox temp was over 100 and these were also removed. All of these over 
+100 records occured on turbine 105 on May 1st between 1640 and 1740 (UTC). 
+Temperatures were as high as 366. 
+
+If this format is acceptable let me know and I will generate graphs for the 
+data we have (Jan - ""current"" 2002).
+
+Mark"
+fischer-m/sent/12.,"Mon, 08 Jul 2002 04:29:00 -0700",mark.fisher@enron.com,tom.nemila@enron.com,Gearbox Temp graphs,"Tom,
+
+The graphs attached are formatted the same as the sample set I sent you 
+earlier. As of today, Desert Sky 10-minute data has not been uploaded for 
+June 2002 yet, and the data for Jan is nonexistant, so the graphs go from Feb 
+to May 2002. 
+
+If you have questions or comments let me know.
+
+Mark"
+fischer-m/sent/13.,"Mon, 08 Jul 2002 08:34:00 -0700",mark.fisher@enron.com,andre.rast@enron.com,Subset of data with extreme temp,"Andre,
+
+Here is a short subset of 10-minute records containing the extreme 
+temperature event (approximately 3 hours of before/after data). The turbine 
+was #105 at Desert Sky on May 1st. Times are in UTC. The values are 10-minute 
+averages.
+
+If you have additional questions let me know.
+
+Mark"
+fischer-m/sent/14.,"Tue, 09 Jul 2002 08:07:00 -0700",mark.fisher@enron.com,joe.chapman@enron.com,Curtail200206.db Question,"Joe,
+
+Attached is the Curtail200206.db file. I have a question about a sequence of 
+events. For turbine 840006029 on June 19th the turbine is ""Energy curtailed"" 
+(Index = 10843), THEN it has the message ""Turbine Com Established"" (Index = 
+10855). Then there are no other messages (for that turbine) until a ""Energy 
+curtailed"" message (Index = 11134).
+
+Is there anything I can assume about the time between the curtailment 
+messages? For example, was the turbine uncurtailed when the com established 
+message was recorded? Or are did the turbine become uncurtailed and no 
+message was recorded? 
+
+Thanks,
+Mark"
+fischer-m/sent/15.,"Tue, 09 Jul 2002 08:55:00 -0700",mark.fisher@enron.com,tom.nemila@enron.com,WR613 Pitch System Performance,"Tom,
+
+Attached are the graphs for energy lost due to the pitch and overspeed faults 
+you listed. As I mentioned before the methodology requires decent data 
+recovery for the 10-minute data. The data recovery was poor for several sites 
+in January, and for Fenner and Klondike in May. 
+
+I will be compiling a report on this request, summarizing the graph types and 
+some explanation of the methods used to produce them. I hope to have that 
+completed within the next couple of days.
+
+If you see deficiencies or suggested modifications let me know.
+
+Mark"
+fischer-m/sent/19.,"Thu, 11 Jul 2002 07:24:00 -0700",mark.fisher@enron.com,julie.johnson@enron.com,Work Request,Fault Pareto Work Request From Tom Nemila
+fischer-m/sent/2.,"Fri, 28 Jun 2002 09:32:00 -0700",mark.fisher@enron.com,denise.williams@enron.com,Re: Tehachapi Only - Desktop and Dell laptop Users,"They are both: doomat!1
+
+
+
+
+Denise Williams
+06/28/2002 03:48 PM
+To: GE_Benefits
+cc:  
+
+Subject: Tehachapi Only - Desktop and Dell laptop Users
+
+We will be working this weekend to coreload as many machines as we possibly 
+can.  Please send me your network and lotus notes password.  If we do not 
+have your passwords, I will reset them to password.  We will start with the 
+South facility, and if all goes well, proceed to the north.  Please leave 
+your machine logged on.  NOTE:  If you are an Expedition user, we can not 
+load your machine yet, as the current version of Expedition does not run 
+properly on Windows 2000.  A new version of Expedition will be installed on 
+July 8.
+
+--D"
+fischer-m/sent/20.,"Thu, 11 Jul 2002 08:12:00 -0700",mark.fisher@enron.com,tim.derrick@enron.com,Fluvanna and Trew Ranch reports,"Tim,
+
+In Oct 2001 I produced the attached reports for Michael Paine. I hope these 
+are helpful. 
+
+Mark"
+fischer-m/sent/21.,"Thu, 11 Jul 2002 09:22:00 -0700",mark.fisher@enron.com,jeff.duff@enron.com,Desert Sky Curtailment,"Jeff,
+
+Mar - May 2002 have been recalculated and spreadsheets created. Mar & Apr 
+wend down slightly due to the ""extra"" turbines. May has gone up, possibly due 
+to some data filling in holes from before, data recovery does appear to be 
+better this time. The spreadsheets are sorted and totaled by Bus.ID. The 
+""extras"" are at the bottom with 0 production.
+
+
+Mark"
+fischer-m/sent/22.,"Fri, 12 Jul 2002 01:21:00 -0700",mark.fisher@enron.com,tom.nemila@enron.com,WR627 Fault Paretos (May 2002),"Tom, 
+
+Here are the fault paretos of fault counts for all sites for May 2002 
+(may2002paretos_faults.pdf). For readability only the top 30 faults for each 
+site are displayed. Both Texas sites had VERY high numbers of ""wind 
+deviation"" faults.
+
+I am also attaching a file (from a different work request) that has a pareto 
+(by site) of the mean number of faults per turbine (may2002mean_faults.pdf), 
+which shows that the Texas sites have the highest mean faults per turbine. 
+This also has boxplots of the number of faults by site to show the outliers.
+
+I will do the June data, if still desired, when the data upload is completed.
+
+As always, if you have questions or comments let me know.
+
+Mark"
+fischer-m/sent/23.,"Fri, 12 Jul 2002 01:31:00 -0700",mark.fisher@enron.com,tom.nemila@enron.com,WR613 Pitch System performance,"Tom,
+
+Here is the report I prepared on the methods and types of grpahs for this 
+work request. As examples I used the May 2002 graphs, including the Paretos 
+for the Pitch and overspeed faults. If you need additional clarification, or 
+have questions let me know.
+
+Mark"
+fischer-m/sent/3.,"Tue, 02 Jul 2002 07:39:00 -0700",mark.fisher@enron.com,tom.nemila@enron.com,WR613 Pitch System Performance,"Tom, 
+
+Maybe I mis-interpreted again, but here are the graphs for site total (the 
+boxplots are still by turbine). This is for May. I will wait to see if this 
+is more like what you need before continuing with the earlier months.
+
+Mark"
+fischer-m/sent/4.,"Wed, 03 Jul 2002 01:07:00 -0700",mark.fisher@enron.com,tom.nemila@enron.com,WR613 Pitch System Performance,"Tom,
+
+Here are the new graphs with totals (bar charts) and distributions (boxplots) 
+for all seven sites through May 2002. 
+
+I believe that I have come up with a method of providing you with the 
+ESTIMATED energy lost. Since it requires using two data sets (faults and 
+10-minute data) it will be take a bit longer to run. However I hope to have 
+that result to you next week. 
+
+Mark"
+fischer-m/sent/5.,"Wed, 03 Jul 2002 06:11:00 -0700",mark.fisher@enron.com,jeff.duff@enron.com,May curtailment spread,"Jeff,
+
+The files are in DesertSkyCurtail in your transfer dirtectory. Check the sums 
+of the KWH.LOST columns with the values you were provided. These all seem to 
+have been created the same day.
+
+Mark"
+fischer-m/sent/6.,"Wed, 03 Jul 2002 06:19:00 -0700",mark.fisher@enron.com,tom.nemila@enron.com,WR613 Pitch System Fault Pareto,"Tom,
+
+From the stage I was at on the duration and energy it was just as easy to do 
+all 7 sites as the 3 you specifically requested. If you do not want the 
+additional graphs let me know and I'll pull them out of the Acrobat file. 
+
+Mark"
+fischer-m/sent/8.,"Fri, 05 Jul 2002 08:45:00 -0700",mark.fisher@enron.com,tom.nemila@enron.com,WR613 Pitch System Performance (Energy),"Tom,
+
+I have energy estimates for May 2002 attached. Graph 1 is site totals, graph 
+2 is (total lost)/(total actual production) where total actual production is 
+taken from the kWh reported in the owner report, and graph 3 is the by 
+turbine distribution (using box plots) of energy lost. 
+
+The energy lost estimation method I employed is susceptible to problems with 
+data recovery (10-minute data), which in May 2002 was especially poor at 
+Klondike and Fenner, so those number are not as informative as those for the 
+other sites. 
+
+If these graphs provide you the information you need, I will continue with 
+the remaining months (Jan - Apr). Otherwise let me know and we'll refine this 
+process to get you what you need.
+
+Mark"
+fischer-m/sent/9.,"Fri, 05 Jul 2002 09:26:00 -0700",mark.fisher@enron.com,denise.williams@enron.com,Re: Do Not Download or Install Software to your Machines,"Denise,
+
+A couple of questions about software. 
+
+I have used and would like to continue to use MiKTeX (A windows version of 
+TeX, the technical typesetting program). I find it is useful for 
+automatically formatting reports in fact I have designed the automated 
+summary report for the turbine SPC report using this program. This is 
+freeware. (The TeX users group http://www.tug.org/ has information of TeX 
+implementations. MiKTeX is probably the best, but PCTeX by Personal TeX is a 
+good non-free version). Please let me know what will need to be done so that 
+I can continue to use this software.
+
+I was also planning to start Syncing my PDA with Outlook (as soon as Outlook 
+is configured for use). So can I install the ""Palm"" software for this purpose?
+
+Mark Fisher
+
+
+
+
+
+Denise Williams
+07/04/2002 10:17 AM
+To: GE_Benefits
+cc:  
+
+Subject: Do Not Download or Install Software to your Machines
+
+In accordance with the GE Power Systems Information Security Manual and 
+Security Procedure Guide (a copy can be found on the Transfer directory under 
+GEPS Information Security Manual), users are not allowed to download or 
+install software that is not authorized by GEPS management.  This includes, 
+but is not limited to, Web Shots, Real Player, Spinner, WinAmp, Games, Post 
+It Notes, Bonzi Buddy, Napster, Morpheus, or Limewire.  Additionally, users 
+are not allowed to bring in software from home and install it on their work 
+computers.  
+
+Please take a little time and read through the Guide.  GE has strict policies 
+and procedures regarding the use of GE owned equipment, and they monitor 
+every machine on the network.  If you have any questions about what can or 
+can not be loaded on your machine, please send me an e-mail.
+
+Thanks.
+
+--D"

@@ -1,0 +1,21 @@
+{
+    "id": 3,
+    "seed": "A music journalist specializing in rock and jazz drummers, with a keen interest in the history and evolution of drumming styles.",
+    "persona": {
+        "name": "Aisha Thompson",
+        "age": 34,
+        "gender": "Female (she/her)",
+        "demographics": "Urban; African American with Caribbean family roots; raised in Detroit, Michigan; currently living in Chicago, Illinois",
+        "profession": "Senior music journalist and features editor specializing in drummers and rhythm culture",
+        "education": "BA Journalism, Howard University; ongoing workshops in ethnomusicology and audio archiving",
+        "socioeconomic_status": "Middle Income; Cultural Media Professional",
+        "brief_background": "She spends mornings listening to remastered drum tracks and afternoons conducting in-depth interviews with veterans of rock and jazz scenes, tracing technique and social context across eras. Driven by a mix of curiosity and reverence, she builds long-form profiles that connect players' personal stories to broader shifts in music and technology.",
+        "interests_lifestyle": "collecting vintage drum magazines and vinyl, concert photography, running a podcast on drumming history, teaching weekend beginner drum clinics, attending jazz nights and rock reunions, reading biographies, mentoring young music journalists"
+    },
+    "global_style": {
+        "tone": "Warmly inquisitive and reverent: professional and polished but conversational, with clear respect for subjects and their craft. Balances critical curiosity with empathy\u2014aims to illuminate technique and context rather than merely judge\u2014and shares evidence and anecdotes to support claims.",
+        "syntax": "Varied sentence lengths: crisp lead sentences followed by richer, subordinate-clause descriptions that build historical and technical context. Tends to use active voice and periodic sentences for narrative momentum, with occasional parenthetical asides or em dashes to add color without derailing clarity.",
+        "lexicon": "Draws on percussion- and archive-focused vocabulary: words like \"ghost notes,\" \"rimshot,\" \"backbeat,\" \"polyrhythm,\" \"rudiments,\" \"tape saturation,\" \"remaster,\" \"pressing,\" and \"liner notes.\" Also uses scene- and region-specific references (e.g., \"Motown,\" \"Green Mill,\" \"South Side\") and occasional Caribbean musical terms such as \"calypso\" and \"soca,\" preferring plain American English with specialist terms where useful.",
+        "linguistic_patterns": "Frequently uses contractions (\"it's,\" \"we're,\" \"she's\") and sensory verbs\u2014\"hear,\" \"feel,\" \"listen\"\u2014to foreground musical experience. Recurring phrases and markers include \"what struck me,\" \"listen to,\" \"side note,\" and \"as one drummer put it,\" plus rhetorical questions and first-person reflections like \"Have you noticed...?\" and \"I remember when...\"."
+    }
+}

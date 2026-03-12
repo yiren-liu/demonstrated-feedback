@@ -1,0 +1,506 @@
+[
+    {
+        "persona": {
+            "name": "Maya Tevaga",
+            "age": 32,
+            "gender": "Female (she/her)",
+            "demographics": "Urban Wellington, New Zealand resident; Samoan-New Zealander heritage; raised in Auckland with family time in Apia, Samoa; frequently travels around the Pacific",
+            "profession": "Senior Sports Journalist \u2014 Women's Football Correspondent (Pacific focus) for a regional sports outlet",
+            "education": "B.A. in Journalism, Auckland University of Technology; Certificate in Sports Analytics; FIFA/OF C media accreditation workshops; conversational French (for New Caledonia coverage)",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Maya chases matches across islands and stadiums, combining on-the-ground interviews with match analytics to give context to OFC women's football stories. She's building a beat around New Caledonia's U-20 pathway to the World Cup by cultivating relationships with coaches and players, translating local perspectives into feature pieces and social-first match explainers.",
+            "interests_lifestyle": "live match reporting, tactical analysis and video breakdowns, traveling throughout Oceania, photography and short-form video editing, mentoring young Pacific journalists, grassroots coaching clinics, French language study, networking at regional sports conferences, writing longform profiles"
+        },
+        "global_style": {
+            "tone": "Warm, respectful and community-centred with clear professional authority; Maya writes with empathy for players and teams while keeping reporting fact-driven and accountability-minded. Conversational and slightly informal for live/social updates, shifting to measured, contextual and evidence-led phrasing for longform features and tactical analysis.",
+            "syntax": "Uses punchy, present\u2011tense sentences and short clauses for match reporting and social-first explainers, while favouring compound-complex sentences with subordinate clauses for profiles and analytical pieces to layer context, quotes and data. Active voice predominates; passive constructions are used sparingly for diplomacy or emphasis, and parenthetical stats or short rhetorical questions often appear inline (e.g. '(xG 0.78) \u2014 worth noting?').",
+            "lexicon": "Grounded in football and analytics vocabulary: frequently uses terms like 'xG', 'heatmap', 'pressing', 'transition', 'build-up play', 'cap' and 'fixture', and refers to metrics in metric units (km, m). Integrates Pacific place names and culturally specific words and brief bilingual touches when relevant \u2014 e.g. 'Apia', 'Noum\u00e9a', 'talofa', 'fa'afetai' and simple French phrases like 'merci' \u2014 and prefers NZ English spelling and regional references.",
+            "linguistic_patterns": "Regular use of contractions and conversational markers ('I'm', 'we're', 'it's worth noting'), concise stat brackets in-line '(xG 1.23)', and respectful code-switching with Samoan or French greetings ('Talofa', 'fa'afetai', 'merci'). Social posts often include hashtags and punchy verbs ('#OFC', '#PasifikaFootball', 'clinch', 'edge', 'dominate') and recurring lead-ins such as 'what stood out was\u2026', 'on the front foot', or 'to be fair'."
+        },
+        "scenario_description": "Pitching a longform feature idea to your editor",
+        "detailed_style": "Confident and tightly focused, balancing narrative ambition with practicality. Use a respectful, collegial voice that foregrounds the story's angle, evidence sources and a clear ask (wordcount, timeline, resources).",
+        "linguistic_patterns": "Use compact topic sentences and then layered supporting clauses: \"This piece will explore\u2026\", \"supported by interviews with\u2026\". Include metric or analytic signposts in parentheses: \"(xG, minutes per possession)\". Typical phrases: \"I propose a 1,500\u20132,000 word feature\", \"timeline: two weeks\", \"budgeted travel days\". Tone markers: \"I'm suggesting\u2026\", \"worth noting\u2026\".",
+        "id": 11,
+        "seed": "A sports journalist specializing in women's football with a focus on Oceania Football Confederation (OFC) teams, looking to provide in-depth coverage and analysis of the New Caledonia women's national under-20 football team's performance in OFC championships and their journey towards the U-20 World Cup."
+    },
+    {
+        "persona": {
+            "name": "Maya Tevaga",
+            "age": 32,
+            "gender": "Female (she/her)",
+            "demographics": "Urban Wellington, New Zealand resident; Samoan-New Zealander heritage; raised in Auckland with family time in Apia, Samoa; frequently travels around the Pacific",
+            "profession": "Senior Sports Journalist \u2014 Women's Football Correspondent (Pacific focus) for a regional sports outlet",
+            "education": "B.A. in Journalism, Auckland University of Technology; Certificate in Sports Analytics; FIFA/OF C media accreditation workshops; conversational French (for New Caledonia coverage)",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Maya chases matches across islands and stadiums, combining on-the-ground interviews with match analytics to give context to OFC women's football stories. She's building a beat around New Caledonia's U-20 pathway to the World Cup by cultivating relationships with coaches and players, translating local perspectives into feature pieces and social-first match explainers.",
+            "interests_lifestyle": "live match reporting, tactical analysis and video breakdowns, traveling throughout Oceania, photography and short-form video editing, mentoring young Pacific journalists, grassroots coaching clinics, French language study, networking at regional sports conferences, writing longform profiles"
+        },
+        "global_style": {
+            "tone": "Warm, respectful and community-centred with clear professional authority; Maya writes with empathy for players and teams while keeping reporting fact-driven and accountability-minded. Conversational and slightly informal for live/social updates, shifting to measured, contextual and evidence-led phrasing for longform features and tactical analysis.",
+            "syntax": "Uses punchy, present\u2011tense sentences and short clauses for match reporting and social-first explainers, while favouring compound-complex sentences with subordinate clauses for profiles and analytical pieces to layer context, quotes and data. Active voice predominates; passive constructions are used sparingly for diplomacy or emphasis, and parenthetical stats or short rhetorical questions often appear inline (e.g. '(xG 0.78) \u2014 worth noting?').",
+            "lexicon": "Grounded in football and analytics vocabulary: frequently uses terms like 'xG', 'heatmap', 'pressing', 'transition', 'build-up play', 'cap' and 'fixture', and refers to metrics in metric units (km, m). Integrates Pacific place names and culturally specific words and brief bilingual touches when relevant \u2014 e.g. 'Apia', 'Noum\u00e9a', 'talofa', 'fa'afetai' and simple French phrases like 'merci' \u2014 and prefers NZ English spelling and regional references.",
+            "linguistic_patterns": "Regular use of contractions and conversational markers ('I'm', 'we're', 'it's worth noting'), concise stat brackets in-line '(xG 1.23)', and respectful code-switching with Samoan or French greetings ('Talofa', 'fa'afetai', 'merci'). Social posts often include hashtags and punchy verbs ('#OFC', '#PasifikaFootball', 'clinch', 'edge', 'dominate') and recurring lead-ins such as 'what stood out was\u2026', 'on the front foot', or 'to be fair'."
+        },
+        "scenario_description": "Sending a concise match-report brief to your editor mid-tournament",
+        "detailed_style": "Urgent, punchy and fact-first with short present-tense sentences; clarity and headlines-first. Keep it scannable and modular so the editor can act fast or repurpose copy.",
+        "linguistic_patterns": "Lead with one-line summaries: \"Result: 2-1, tight first half.\" Use parenthetical quick-stats: \"(xG 0.78; 62% possession)\". Use punchy verbs and short clauses: \"pressed high, forced turnovers, clinched late\". Phrases: \"what stood out was\u2026\", \"on the front foot\", \"will file full report by\u2026\".",
+        "id": 11,
+        "seed": "A sports journalist specializing in women's football with a focus on Oceania Football Confederation (OFC) teams, looking to provide in-depth coverage and analysis of the New Caledonia women's national under-20 football team's performance in OFC championships and their journey towards the U-20 World Cup."
+    },
+    {
+        "persona": {
+            "name": "Maya Tevaga",
+            "age": 32,
+            "gender": "Female (she/her)",
+            "demographics": "Urban Wellington, New Zealand resident; Samoan-New Zealander heritage; raised in Auckland with family time in Apia, Samoa; frequently travels around the Pacific",
+            "profession": "Senior Sports Journalist \u2014 Women's Football Correspondent (Pacific focus) for a regional sports outlet",
+            "education": "B.A. in Journalism, Auckland University of Technology; Certificate in Sports Analytics; FIFA/OF C media accreditation workshops; conversational French (for New Caledonia coverage)",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Maya chases matches across islands and stadiums, combining on-the-ground interviews with match analytics to give context to OFC women's football stories. She's building a beat around New Caledonia's U-20 pathway to the World Cup by cultivating relationships with coaches and players, translating local perspectives into feature pieces and social-first match explainers.",
+            "interests_lifestyle": "live match reporting, tactical analysis and video breakdowns, traveling throughout Oceania, photography and short-form video editing, mentoring young Pacific journalists, grassroots coaching clinics, French language study, networking at regional sports conferences, writing longform profiles"
+        },
+        "global_style": {
+            "tone": "Warm, respectful and community-centred with clear professional authority; Maya writes with empathy for players and teams while keeping reporting fact-driven and accountability-minded. Conversational and slightly informal for live/social updates, shifting to measured, contextual and evidence-led phrasing for longform features and tactical analysis.",
+            "syntax": "Uses punchy, present\u2011tense sentences and short clauses for match reporting and social-first explainers, while favouring compound-complex sentences with subordinate clauses for profiles and analytical pieces to layer context, quotes and data. Active voice predominates; passive constructions are used sparingly for diplomacy or emphasis, and parenthetical stats or short rhetorical questions often appear inline (e.g. '(xG 0.78) \u2014 worth noting?').",
+            "lexicon": "Grounded in football and analytics vocabulary: frequently uses terms like 'xG', 'heatmap', 'pressing', 'transition', 'build-up play', 'cap' and 'fixture', and refers to metrics in metric units (km, m). Integrates Pacific place names and culturally specific words and brief bilingual touches when relevant \u2014 e.g. 'Apia', 'Noum\u00e9a', 'talofa', 'fa'afetai' and simple French phrases like 'merci' \u2014 and prefers NZ English spelling and regional references.",
+            "linguistic_patterns": "Regular use of contractions and conversational markers ('I'm', 'we're', 'it's worth noting'), concise stat brackets in-line '(xG 1.23)', and respectful code-switching with Samoan or French greetings ('Talofa', 'fa'afetai', 'merci'). Social posts often include hashtags and punchy verbs ('#OFC', '#PasifikaFootball', 'clinch', 'edge', 'dominate') and recurring lead-ins such as 'what stood out was\u2026', 'on the front foot', or 'to be fair'."
+        },
+        "scenario_description": "Requesting an interview with a coach or technical staff",
+        "detailed_style": "Polite and deferential but professionally clear, showing respect for their time and role. Offer flexible scheduling, specify topics briefly, and signal the angle in a non-leading way.",
+        "linguistic_patterns": "Open with a culturally appropriate salutation when relevant: \"Talofa/Bonjour\". Use soft permission language: \"Would you be available\u2026?\", \"I wonder if we could\u2026\". Provide short framing lines: \"I\u2019m focusing on development pathway questions (10\u201315 mins)\". Close with gratitude: \"fa'afetai in advance\".",
+        "id": 11,
+        "seed": "A sports journalist specializing in women's football with a focus on Oceania Football Confederation (OFC) teams, looking to provide in-depth coverage and analysis of the New Caledonia women's national under-20 football team's performance in OFC championships and their journey towards the U-20 World Cup."
+    },
+    {
+        "persona": {
+            "name": "Maya Tevaga",
+            "age": 32,
+            "gender": "Female (she/her)",
+            "demographics": "Urban Wellington, New Zealand resident; Samoan-New Zealander heritage; raised in Auckland with family time in Apia, Samoa; frequently travels around the Pacific",
+            "profession": "Senior Sports Journalist \u2014 Women's Football Correspondent (Pacific focus) for a regional sports outlet",
+            "education": "B.A. in Journalism, Auckland University of Technology; Certificate in Sports Analytics; FIFA/OF C media accreditation workshops; conversational French (for New Caledonia coverage)",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Maya chases matches across islands and stadiums, combining on-the-ground interviews with match analytics to give context to OFC women's football stories. She's building a beat around New Caledonia's U-20 pathway to the World Cup by cultivating relationships with coaches and players, translating local perspectives into feature pieces and social-first match explainers.",
+            "interests_lifestyle": "live match reporting, tactical analysis and video breakdowns, traveling throughout Oceania, photography and short-form video editing, mentoring young Pacific journalists, grassroots coaching clinics, French language study, networking at regional sports conferences, writing longform profiles"
+        },
+        "global_style": {
+            "tone": "Warm, respectful and community-centred with clear professional authority; Maya writes with empathy for players and teams while keeping reporting fact-driven and accountability-minded. Conversational and slightly informal for live/social updates, shifting to measured, contextual and evidence-led phrasing for longform features and tactical analysis.",
+            "syntax": "Uses punchy, present\u2011tense sentences and short clauses for match reporting and social-first explainers, while favouring compound-complex sentences with subordinate clauses for profiles and analytical pieces to layer context, quotes and data. Active voice predominates; passive constructions are used sparingly for diplomacy or emphasis, and parenthetical stats or short rhetorical questions often appear inline (e.g. '(xG 0.78) \u2014 worth noting?').",
+            "lexicon": "Grounded in football and analytics vocabulary: frequently uses terms like 'xG', 'heatmap', 'pressing', 'transition', 'build-up play', 'cap' and 'fixture', and refers to metrics in metric units (km, m). Integrates Pacific place names and culturally specific words and brief bilingual touches when relevant \u2014 e.g. 'Apia', 'Noum\u00e9a', 'talofa', 'fa'afetai' and simple French phrases like 'merci' \u2014 and prefers NZ English spelling and regional references.",
+            "linguistic_patterns": "Regular use of contractions and conversational markers ('I'm', 'we're', 'it's worth noting'), concise stat brackets in-line '(xG 1.23)', and respectful code-switching with Samoan or French greetings ('Talofa', 'fa'afetai', 'merci'). Social posts often include hashtags and punchy verbs ('#OFC', '#PasifikaFootball', 'clinch', 'edge', 'dominate') and recurring lead-ins such as 'what stood out was\u2026', 'on the front foot', or 'to be fair'."
+        },
+        "scenario_description": "Following up with a player after an interview to clarify quotes or confirm facts",
+        "detailed_style": "Gentle, empathetic and precise; reassure the recipient while being specific about what needs confirmation. Use short, clear sentences and invite corrections or context.",
+        "linguistic_patterns": "Begin with appreciation: \"Thanks again for your time.\" Use clarifying prompts: \"Can you confirm that you meant\u2026?\", \"Did you mean X or Y?\". Include verbatim quote checks in quotes: '\"I felt we could've done better\" \u2014 is that accurate?'. Offer options: \"If you'd prefer not to answer, that's fine.\"",
+        "id": 11,
+        "seed": "A sports journalist specializing in women's football with a focus on Oceania Football Confederation (OFC) teams, looking to provide in-depth coverage and analysis of the New Caledonia women's national under-20 football team's performance in OFC championships and their journey towards the U-20 World Cup."
+    },
+    {
+        "persona": {
+            "name": "Maya Tevaga",
+            "age": 32,
+            "gender": "Female (she/her)",
+            "demographics": "Urban Wellington, New Zealand resident; Samoan-New Zealander heritage; raised in Auckland with family time in Apia, Samoa; frequently travels around the Pacific",
+            "profession": "Senior Sports Journalist \u2014 Women's Football Correspondent (Pacific focus) for a regional sports outlet",
+            "education": "B.A. in Journalism, Auckland University of Technology; Certificate in Sports Analytics; FIFA/OF C media accreditation workshops; conversational French (for New Caledonia coverage)",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Maya chases matches across islands and stadiums, combining on-the-ground interviews with match analytics to give context to OFC women's football stories. She's building a beat around New Caledonia's U-20 pathway to the World Cup by cultivating relationships with coaches and players, translating local perspectives into feature pieces and social-first match explainers.",
+            "interests_lifestyle": "live match reporting, tactical analysis and video breakdowns, traveling throughout Oceania, photography and short-form video editing, mentoring young Pacific journalists, grassroots coaching clinics, French language study, networking at regional sports conferences, writing longform profiles"
+        },
+        "global_style": {
+            "tone": "Warm, respectful and community-centred with clear professional authority; Maya writes with empathy for players and teams while keeping reporting fact-driven and accountability-minded. Conversational and slightly informal for live/social updates, shifting to measured, contextual and evidence-led phrasing for longform features and tactical analysis.",
+            "syntax": "Uses punchy, present\u2011tense sentences and short clauses for match reporting and social-first explainers, while favouring compound-complex sentences with subordinate clauses for profiles and analytical pieces to layer context, quotes and data. Active voice predominates; passive constructions are used sparingly for diplomacy or emphasis, and parenthetical stats or short rhetorical questions often appear inline (e.g. '(xG 0.78) \u2014 worth noting?').",
+            "lexicon": "Grounded in football and analytics vocabulary: frequently uses terms like 'xG', 'heatmap', 'pressing', 'transition', 'build-up play', 'cap' and 'fixture', and refers to metrics in metric units (km, m). Integrates Pacific place names and culturally specific words and brief bilingual touches when relevant \u2014 e.g. 'Apia', 'Noum\u00e9a', 'talofa', 'fa'afetai' and simple French phrases like 'merci' \u2014 and prefers NZ English spelling and regional references.",
+            "linguistic_patterns": "Regular use of contractions and conversational markers ('I'm', 'we're', 'it's worth noting'), concise stat brackets in-line '(xG 1.23)', and respectful code-switching with Samoan or French greetings ('Talofa', 'fa'afetai', 'merci'). Social posts often include hashtags and punchy verbs ('#OFC', '#PasifikaFootball', 'clinch', 'edge', 'dominate') and recurring lead-ins such as 'what stood out was\u2026', 'on the front foot', or 'to be fair'."
+        },
+        "scenario_description": "Requesting dataset or analytics access from a stats provider or federation",
+        "detailed_style": "Precise, technical and goal-oriented with clear specifications of the data needed (format, timeframe, variables). Maintain professional tone and include a brief rationale for use and any confidentiality or attribution requirements.",
+        "linguistic_patterns": "List exact fields and formats inline: \"Event-level CSV (timestamp, x, y, event_type)\". Use terms from analytics lexicon: \"xG, expected assists, heatmaps, possession chains\". Timeframe phrasing: \"season 2023\u201324; match IDs 101\u2013120\". Include compliance phrasing: \"data will be used under a non-publication licence/unless agreed otherwise.\"",
+        "id": 11,
+        "seed": "A sports journalist specializing in women's football with a focus on Oceania Football Confederation (OFC) teams, looking to provide in-depth coverage and analysis of the New Caledonia women's national under-20 football team's performance in OFC championships and their journey towards the U-20 World Cup."
+    },
+    {
+        "persona": {
+            "name": "Maya Tevaga",
+            "age": 32,
+            "gender": "Female (she/her)",
+            "demographics": "Urban Wellington, New Zealand resident; Samoan-New Zealander heritage; raised in Auckland with family time in Apia, Samoa; frequently travels around the Pacific",
+            "profession": "Senior Sports Journalist \u2014 Women's Football Correspondent (Pacific focus) for a regional sports outlet",
+            "education": "B.A. in Journalism, Auckland University of Technology; Certificate in Sports Analytics; FIFA/OF C media accreditation workshops; conversational French (for New Caledonia coverage)",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Maya chases matches across islands and stadiums, combining on-the-ground interviews with match analytics to give context to OFC women's football stories. She's building a beat around New Caledonia's U-20 pathway to the World Cup by cultivating relationships with coaches and players, translating local perspectives into feature pieces and social-first match explainers.",
+            "interests_lifestyle": "live match reporting, tactical analysis and video breakdowns, traveling throughout Oceania, photography and short-form video editing, mentoring young Pacific journalists, grassroots coaching clinics, French language study, networking at regional sports conferences, writing longform profiles"
+        },
+        "global_style": {
+            "tone": "Warm, respectful and community-centred with clear professional authority; Maya writes with empathy for players and teams while keeping reporting fact-driven and accountability-minded. Conversational and slightly informal for live/social updates, shifting to measured, contextual and evidence-led phrasing for longform features and tactical analysis.",
+            "syntax": "Uses punchy, present\u2011tense sentences and short clauses for match reporting and social-first explainers, while favouring compound-complex sentences with subordinate clauses for profiles and analytical pieces to layer context, quotes and data. Active voice predominates; passive constructions are used sparingly for diplomacy or emphasis, and parenthetical stats or short rhetorical questions often appear inline (e.g. '(xG 0.78) \u2014 worth noting?').",
+            "lexicon": "Grounded in football and analytics vocabulary: frequently uses terms like 'xG', 'heatmap', 'pressing', 'transition', 'build-up play', 'cap' and 'fixture', and refers to metrics in metric units (km, m). Integrates Pacific place names and culturally specific words and brief bilingual touches when relevant \u2014 e.g. 'Apia', 'Noum\u00e9a', 'talofa', 'fa'afetai' and simple French phrases like 'merci' \u2014 and prefers NZ English spelling and regional references.",
+            "linguistic_patterns": "Regular use of contractions and conversational markers ('I'm', 'we're', 'it's worth noting'), concise stat brackets in-line '(xG 1.23)', and respectful code-switching with Samoan or French greetings ('Talofa', 'fa'afetai', 'merci'). Social posts often include hashtags and punchy verbs ('#OFC', '#PasifikaFootball', 'clinch', 'edge', 'dominate') and recurring lead-ins such as 'what stood out was\u2026', 'on the front foot', or 'to be fair'."
+        },
+        "scenario_description": "Coordinating logistics with a photographer or videographer for a match assignment",
+        "detailed_style": "Collaborative and directional, with clear callouts for shot/sequence priorities and practical details (arrival time, accreditation, equipment needs). Keep sentences active and timeline-focused.",
+        "linguistic_patterns": "Use time and place anchors: \"Arrive 90 mins before kick-off; meet at media entrance.\" Use directive verbs: \"capture wide build-up shots, focused 70\u2013200mm sideline picks\". Include quick-checklist phrasing inline: \"(batteries, SD cards, pitch map)\". Use confirmatory questions like: \"Can you confirm you have access to the kit vehicle?\"",
+        "id": 11,
+        "seed": "A sports journalist specializing in women's football with a focus on Oceania Football Confederation (OFC) teams, looking to provide in-depth coverage and analysis of the New Caledonia women's national under-20 football team's performance in OFC championships and their journey towards the U-20 World Cup."
+    },
+    {
+        "persona": {
+            "name": "Maya Tevaga",
+            "age": 32,
+            "gender": "Female (she/her)",
+            "demographics": "Urban Wellington, New Zealand resident; Samoan-New Zealander heritage; raised in Auckland with family time in Apia, Samoa; frequently travels around the Pacific",
+            "profession": "Senior Sports Journalist \u2014 Women's Football Correspondent (Pacific focus) for a regional sports outlet",
+            "education": "B.A. in Journalism, Auckland University of Technology; Certificate in Sports Analytics; FIFA/OF C media accreditation workshops; conversational French (for New Caledonia coverage)",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Maya chases matches across islands and stadiums, combining on-the-ground interviews with match analytics to give context to OFC women's football stories. She's building a beat around New Caledonia's U-20 pathway to the World Cup by cultivating relationships with coaches and players, translating local perspectives into feature pieces and social-first match explainers.",
+            "interests_lifestyle": "live match reporting, tactical analysis and video breakdowns, traveling throughout Oceania, photography and short-form video editing, mentoring young Pacific journalists, grassroots coaching clinics, French language study, networking at regional sports conferences, writing longform profiles"
+        },
+        "global_style": {
+            "tone": "Warm, respectful and community-centred with clear professional authority; Maya writes with empathy for players and teams while keeping reporting fact-driven and accountability-minded. Conversational and slightly informal for live/social updates, shifting to measured, contextual and evidence-led phrasing for longform features and tactical analysis.",
+            "syntax": "Uses punchy, present\u2011tense sentences and short clauses for match reporting and social-first explainers, while favouring compound-complex sentences with subordinate clauses for profiles and analytical pieces to layer context, quotes and data. Active voice predominates; passive constructions are used sparingly for diplomacy or emphasis, and parenthetical stats or short rhetorical questions often appear inline (e.g. '(xG 0.78) \u2014 worth noting?').",
+            "lexicon": "Grounded in football and analytics vocabulary: frequently uses terms like 'xG', 'heatmap', 'pressing', 'transition', 'build-up play', 'cap' and 'fixture', and refers to metrics in metric units (km, m). Integrates Pacific place names and culturally specific words and brief bilingual touches when relevant \u2014 e.g. 'Apia', 'Noum\u00e9a', 'talofa', 'fa'afetai' and simple French phrases like 'merci' \u2014 and prefers NZ English spelling and regional references.",
+            "linguistic_patterns": "Regular use of contractions and conversational markers ('I'm', 'we're', 'it's worth noting'), concise stat brackets in-line '(xG 1.23)', and respectful code-switching with Samoan or French greetings ('Talofa', 'fa'afetai', 'merci'). Social posts often include hashtags and punchy verbs ('#OFC', '#PasifikaFootball', 'clinch', 'edge', 'dominate') and recurring lead-ins such as 'what stood out was\u2026', 'on the front foot', or 'to be fair'."
+        },
+        "scenario_description": "Asking your employer or HR for travel/visa support for an overseas assignment",
+        "detailed_style": "Professional and detail-led with polite deference; outline what you need, deadlines, and any costs. Use compound-complex sentences to layer context, justification and a clear next step.",
+        "linguistic_patterns": "Specific request phrasing: \"Could HR assist with a work visa letter and per diem approval?\". Include dates and deadlines inline: \"travel 12\u201320 March; visa docs by 28 Feb\". Use budget language: \"estimated cost NZD X; request for preapproval\". Close with next-step prompt: \"If you need further paperwork, I can supply\u2026\"",
+        "id": 11,
+        "seed": "A sports journalist specializing in women's football with a focus on Oceania Football Confederation (OFC) teams, looking to provide in-depth coverage and analysis of the New Caledonia women's national under-20 football team's performance in OFC championships and their journey towards the U-20 World Cup."
+    },
+    {
+        "persona": {
+            "name": "Maya Tevaga",
+            "age": 32,
+            "gender": "Female (she/her)",
+            "demographics": "Urban Wellington, New Zealand resident; Samoan-New Zealander heritage; raised in Auckland with family time in Apia, Samoa; frequently travels around the Pacific",
+            "profession": "Senior Sports Journalist \u2014 Women's Football Correspondent (Pacific focus) for a regional sports outlet",
+            "education": "B.A. in Journalism, Auckland University of Technology; Certificate in Sports Analytics; FIFA/OF C media accreditation workshops; conversational French (for New Caledonia coverage)",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Maya chases matches across islands and stadiums, combining on-the-ground interviews with match analytics to give context to OFC women's football stories. She's building a beat around New Caledonia's U-20 pathway to the World Cup by cultivating relationships with coaches and players, translating local perspectives into feature pieces and social-first match explainers.",
+            "interests_lifestyle": "live match reporting, tactical analysis and video breakdowns, traveling throughout Oceania, photography and short-form video editing, mentoring young Pacific journalists, grassroots coaching clinics, French language study, networking at regional sports conferences, writing longform profiles"
+        },
+        "global_style": {
+            "tone": "Warm, respectful and community-centred with clear professional authority; Maya writes with empathy for players and teams while keeping reporting fact-driven and accountability-minded. Conversational and slightly informal for live/social updates, shifting to measured, contextual and evidence-led phrasing for longform features and tactical analysis.",
+            "syntax": "Uses punchy, present\u2011tense sentences and short clauses for match reporting and social-first explainers, while favouring compound-complex sentences with subordinate clauses for profiles and analytical pieces to layer context, quotes and data. Active voice predominates; passive constructions are used sparingly for diplomacy or emphasis, and parenthetical stats or short rhetorical questions often appear inline (e.g. '(xG 0.78) \u2014 worth noting?').",
+            "lexicon": "Grounded in football and analytics vocabulary: frequently uses terms like 'xG', 'heatmap', 'pressing', 'transition', 'build-up play', 'cap' and 'fixture', and refers to metrics in metric units (km, m). Integrates Pacific place names and culturally specific words and brief bilingual touches when relevant \u2014 e.g. 'Apia', 'Noum\u00e9a', 'talofa', 'fa'afetai' and simple French phrases like 'merci' \u2014 and prefers NZ English spelling and regional references.",
+            "linguistic_patterns": "Regular use of contractions and conversational markers ('I'm', 'we're', 'it's worth noting'), concise stat brackets in-line '(xG 1.23)', and respectful code-switching with Samoan or French greetings ('Talofa', 'fa'afetai', 'merci'). Social posts often include hashtags and punchy verbs ('#OFC', '#PasifikaFootball', 'clinch', 'edge', 'dominate') and recurring lead-ins such as 'what stood out was\u2026', 'on the front foot', or 'to be fair'."
+        },
+        "scenario_description": "Negotiating a small sponsorship or product partnership with a brand",
+        "detailed_style": "Polished, persuasive and transparent with a community-centred framing; state mutual benefits, deliverables and transparency around sponsored content. Maintain warm, collaborative language rather than hard-sell.",
+        "linguistic_patterns": "Use partnership verbs: \"collaborate\", \"amplify\", \"activate\". Include deliverable language: \"one feature, three social explainers, two match-day shout-outs\". Use audience metrics phrasing: \"reach: regional Pasifika audience; engagement benchmarks\". Honesty markers: \"transparent labelling will be used\", \"paid partnership\".",
+        "id": 11,
+        "seed": "A sports journalist specializing in women's football with a focus on Oceania Football Confederation (OFC) teams, looking to provide in-depth coverage and analysis of the New Caledonia women's national under-20 football team's performance in OFC championships and their journey towards the U-20 World Cup."
+    },
+    {
+        "persona": {
+            "name": "Maya Tevaga",
+            "age": 32,
+            "gender": "Female (she/her)",
+            "demographics": "Urban Wellington, New Zealand resident; Samoan-New Zealander heritage; raised in Auckland with family time in Apia, Samoa; frequently travels around the Pacific",
+            "profession": "Senior Sports Journalist \u2014 Women's Football Correspondent (Pacific focus) for a regional sports outlet",
+            "education": "B.A. in Journalism, Auckland University of Technology; Certificate in Sports Analytics; FIFA/OF C media accreditation workshops; conversational French (for New Caledonia coverage)",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Maya chases matches across islands and stadiums, combining on-the-ground interviews with match analytics to give context to OFC women's football stories. She's building a beat around New Caledonia's U-20 pathway to the World Cup by cultivating relationships with coaches and players, translating local perspectives into feature pieces and social-first match explainers.",
+            "interests_lifestyle": "live match reporting, tactical analysis and video breakdowns, traveling throughout Oceania, photography and short-form video editing, mentoring young Pacific journalists, grassroots coaching clinics, French language study, networking at regional sports conferences, writing longform profiles"
+        },
+        "global_style": {
+            "tone": "Warm, respectful and community-centred with clear professional authority; Maya writes with empathy for players and teams while keeping reporting fact-driven and accountability-minded. Conversational and slightly informal for live/social updates, shifting to measured, contextual and evidence-led phrasing for longform features and tactical analysis.",
+            "syntax": "Uses punchy, present\u2011tense sentences and short clauses for match reporting and social-first explainers, while favouring compound-complex sentences with subordinate clauses for profiles and analytical pieces to layer context, quotes and data. Active voice predominates; passive constructions are used sparingly for diplomacy or emphasis, and parenthetical stats or short rhetorical questions often appear inline (e.g. '(xG 0.78) \u2014 worth noting?').",
+            "lexicon": "Grounded in football and analytics vocabulary: frequently uses terms like 'xG', 'heatmap', 'pressing', 'transition', 'build-up play', 'cap' and 'fixture', and refers to metrics in metric units (km, m). Integrates Pacific place names and culturally specific words and brief bilingual touches when relevant \u2014 e.g. 'Apia', 'Noum\u00e9a', 'talofa', 'fa'afetai' and simple French phrases like 'merci' \u2014 and prefers NZ English spelling and regional references.",
+            "linguistic_patterns": "Regular use of contractions and conversational markers ('I'm', 'we're', 'it's worth noting'), concise stat brackets in-line '(xG 1.23)', and respectful code-switching with Samoan or French greetings ('Talofa', 'fa'afetai', 'merci'). Social posts often include hashtags and punchy verbs ('#OFC', '#PasifikaFootball', 'clinch', 'edge', 'dominate') and recurring lead-ins such as 'what stood out was\u2026', 'on the front foot', or 'to be fair'."
+        },
+        "scenario_description": "Inviting someone to speak at a regional sports conference or panel",
+        "detailed_style": "Respectful and formal with warm regional connection; briefly state the event, the role you're inviting them to and logistical details. Use courteous calls-to-action and flexibility regarding participation formats.",
+        "linguistic_patterns": "Formal salutations and context setters: \"We would be honoured if you could join\u2026\". Offer options: \"in-person or virtual; 20-minute talk or 10-minute Q&A\". Use polite timeframes: \"If you're available, please let us know by [date]\". Close with recognition: \"your voice would add important Pasifika perspective\".",
+        "id": 11,
+        "seed": "A sports journalist specializing in women's football with a focus on Oceania Football Confederation (OFC) teams, looking to provide in-depth coverage and analysis of the New Caledonia women's national under-20 football team's performance in OFC championships and their journey towards the U-20 World Cup."
+    },
+    {
+        "persona": {
+            "name": "Maya Tevaga",
+            "age": 32,
+            "gender": "Female (she/her)",
+            "demographics": "Urban Wellington, New Zealand resident; Samoan-New Zealander heritage; raised in Auckland with family time in Apia, Samoa; frequently travels around the Pacific",
+            "profession": "Senior Sports Journalist \u2014 Women's Football Correspondent (Pacific focus) for a regional sports outlet",
+            "education": "B.A. in Journalism, Auckland University of Technology; Certificate in Sports Analytics; FIFA/OF C media accreditation workshops; conversational French (for New Caledonia coverage)",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Maya chases matches across islands and stadiums, combining on-the-ground interviews with match analytics to give context to OFC women's football stories. She's building a beat around New Caledonia's U-20 pathway to the World Cup by cultivating relationships with coaches and players, translating local perspectives into feature pieces and social-first match explainers.",
+            "interests_lifestyle": "live match reporting, tactical analysis and video breakdowns, traveling throughout Oceania, photography and short-form video editing, mentoring young Pacific journalists, grassroots coaching clinics, French language study, networking at regional sports conferences, writing longform profiles"
+        },
+        "global_style": {
+            "tone": "Warm, respectful and community-centred with clear professional authority; Maya writes with empathy for players and teams while keeping reporting fact-driven and accountability-minded. Conversational and slightly informal for live/social updates, shifting to measured, contextual and evidence-led phrasing for longform features and tactical analysis.",
+            "syntax": "Uses punchy, present\u2011tense sentences and short clauses for match reporting and social-first explainers, while favouring compound-complex sentences with subordinate clauses for profiles and analytical pieces to layer context, quotes and data. Active voice predominates; passive constructions are used sparingly for diplomacy or emphasis, and parenthetical stats or short rhetorical questions often appear inline (e.g. '(xG 0.78) \u2014 worth noting?').",
+            "lexicon": "Grounded in football and analytics vocabulary: frequently uses terms like 'xG', 'heatmap', 'pressing', 'transition', 'build-up play', 'cap' and 'fixture', and refers to metrics in metric units (km, m). Integrates Pacific place names and culturally specific words and brief bilingual touches when relevant \u2014 e.g. 'Apia', 'Noum\u00e9a', 'talofa', 'fa'afetai' and simple French phrases like 'merci' \u2014 and prefers NZ English spelling and regional references.",
+            "linguistic_patterns": "Regular use of contractions and conversational markers ('I'm', 'we're', 'it's worth noting'), concise stat brackets in-line '(xG 1.23)', and respectful code-switching with Samoan or French greetings ('Talofa', 'fa'afetai', 'merci'). Social posts often include hashtags and punchy verbs ('#OFC', '#PasifikaFootball', 'clinch', 'edge', 'dominate') and recurring lead-ins such as 'what stood out was\u2026', 'on the front foot', or 'to be fair'."
+        },
+        "scenario_description": "Mentoring follow-up to a young Pacific journalist or mentee",
+        "detailed_style": "Warm, encouraging and practical; give clear, actionable advice while being supportive and culturally respectful. Use friendly, conversational sentence rhythm and invite further questions.",
+        "linguistic_patterns": "Use mentorship phrases: \"well done\", \"next steps\", \"short-term plan\". Give concrete language examples: \"try opening with 'what stood out was\u2026' or 'to be fair\u2026'\". Include offer language: \"if you'd like, we can workshop your draft\". Sign off with cultural warmth: \"fa'afetai \u2014 keep me posted.\"",
+        "id": 11,
+        "seed": "A sports journalist specializing in women's football with a focus on Oceania Football Confederation (OFC) teams, looking to provide in-depth coverage and analysis of the New Caledonia women's national under-20 football team's performance in OFC championships and their journey towards the U-20 World Cup."
+    },
+    {
+        "persona": {
+            "name": "Maya Tevaga",
+            "age": 32,
+            "gender": "Female (she/her)",
+            "demographics": "Urban Wellington, New Zealand resident; Samoan-New Zealander heritage; raised in Auckland with family time in Apia, Samoa; frequently travels around the Pacific",
+            "profession": "Senior Sports Journalist \u2014 Women's Football Correspondent (Pacific focus) for a regional sports outlet",
+            "education": "B.A. in Journalism, Auckland University of Technology; Certificate in Sports Analytics; FIFA/OF C media accreditation workshops; conversational French (for New Caledonia coverage)",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Maya chases matches across islands and stadiums, combining on-the-ground interviews with match analytics to give context to OFC women's football stories. She's building a beat around New Caledonia's U-20 pathway to the World Cup by cultivating relationships with coaches and players, translating local perspectives into feature pieces and social-first match explainers.",
+            "interests_lifestyle": "live match reporting, tactical analysis and video breakdowns, traveling throughout Oceania, photography and short-form video editing, mentoring young Pacific journalists, grassroots coaching clinics, French language study, networking at regional sports conferences, writing longform profiles"
+        },
+        "global_style": {
+            "tone": "Warm, respectful and community-centred with clear professional authority; Maya writes with empathy for players and teams while keeping reporting fact-driven and accountability-minded. Conversational and slightly informal for live/social updates, shifting to measured, contextual and evidence-led phrasing for longform features and tactical analysis.",
+            "syntax": "Uses punchy, present\u2011tense sentences and short clauses for match reporting and social-first explainers, while favouring compound-complex sentences with subordinate clauses for profiles and analytical pieces to layer context, quotes and data. Active voice predominates; passive constructions are used sparingly for diplomacy or emphasis, and parenthetical stats or short rhetorical questions often appear inline (e.g. '(xG 0.78) \u2014 worth noting?').",
+            "lexicon": "Grounded in football and analytics vocabulary: frequently uses terms like 'xG', 'heatmap', 'pressing', 'transition', 'build-up play', 'cap' and 'fixture', and refers to metrics in metric units (km, m). Integrates Pacific place names and culturally specific words and brief bilingual touches when relevant \u2014 e.g. 'Apia', 'Noum\u00e9a', 'talofa', 'fa'afetai' and simple French phrases like 'merci' \u2014 and prefers NZ English spelling and regional references.",
+            "linguistic_patterns": "Regular use of contractions and conversational markers ('I'm', 'we're', 'it's worth noting'), concise stat brackets in-line '(xG 1.23)', and respectful code-switching with Samoan or French greetings ('Talofa', 'fa'afetai', 'merci'). Social posts often include hashtags and punchy verbs ('#OFC', '#PasifikaFootball', 'clinch', 'edge', 'dominate') and recurring lead-ins such as 'what stood out was\u2026', 'on the front foot', or 'to be fair'."
+        },
+        "scenario_description": "Apologising and rescheduling a meeting or missed deadline with a colleague",
+        "detailed_style": "Sincere, accountable and concise; acknowledge the issue, explain briefly without over-sharing, propose alternatives and express appreciation for flexibility. Keep sentences short and direct to restore trust quickly.",
+        "linguistic_patterns": "Start with explicit apology: \"I'm sorry I missed\u2026\". Use responsibility phrases: \"that was my oversight\", \"I should have\u2026\". Offer reschedule options: \"Can we move to Tue or Wed morning?\". Close with gratitude: \"Thanks for understanding.\"",
+        "id": 11,
+        "seed": "A sports journalist specializing in women's football with a focus on Oceania Football Confederation (OFC) teams, looking to provide in-depth coverage and analysis of the New Caledonia women's national under-20 football team's performance in OFC championships and their journey towards the U-20 World Cup."
+    },
+    {
+        "persona": {
+            "name": "Maya Tevaga",
+            "age": 32,
+            "gender": "Female (she/her)",
+            "demographics": "Urban Wellington, New Zealand resident; Samoan-New Zealander heritage; raised in Auckland with family time in Apia, Samoa; frequently travels around the Pacific",
+            "profession": "Senior Sports Journalist \u2014 Women's Football Correspondent (Pacific focus) for a regional sports outlet",
+            "education": "B.A. in Journalism, Auckland University of Technology; Certificate in Sports Analytics; FIFA/OF C media accreditation workshops; conversational French (for New Caledonia coverage)",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Maya chases matches across islands and stadiums, combining on-the-ground interviews with match analytics to give context to OFC women's football stories. She's building a beat around New Caledonia's U-20 pathway to the World Cup by cultivating relationships with coaches and players, translating local perspectives into feature pieces and social-first match explainers.",
+            "interests_lifestyle": "live match reporting, tactical analysis and video breakdowns, traveling throughout Oceania, photography and short-form video editing, mentoring young Pacific journalists, grassroots coaching clinics, French language study, networking at regional sports conferences, writing longform profiles"
+        },
+        "global_style": {
+            "tone": "Warm, respectful and community-centred with clear professional authority; Maya writes with empathy for players and teams while keeping reporting fact-driven and accountability-minded. Conversational and slightly informal for live/social updates, shifting to measured, contextual and evidence-led phrasing for longform features and tactical analysis.",
+            "syntax": "Uses punchy, present\u2011tense sentences and short clauses for match reporting and social-first explainers, while favouring compound-complex sentences with subordinate clauses for profiles and analytical pieces to layer context, quotes and data. Active voice predominates; passive constructions are used sparingly for diplomacy or emphasis, and parenthetical stats or short rhetorical questions often appear inline (e.g. '(xG 0.78) \u2014 worth noting?').",
+            "lexicon": "Grounded in football and analytics vocabulary: frequently uses terms like 'xG', 'heatmap', 'pressing', 'transition', 'build-up play', 'cap' and 'fixture', and refers to metrics in metric units (km, m). Integrates Pacific place names and culturally specific words and brief bilingual touches when relevant \u2014 e.g. 'Apia', 'Noum\u00e9a', 'talofa', 'fa'afetai' and simple French phrases like 'merci' \u2014 and prefers NZ English spelling and regional references.",
+            "linguistic_patterns": "Regular use of contractions and conversational markers ('I'm', 'we're', 'it's worth noting'), concise stat brackets in-line '(xG 1.23)', and respectful code-switching with Samoan or French greetings ('Talofa', 'fa'afetai', 'merci'). Social posts often include hashtags and punchy verbs ('#OFC', '#PasifikaFootball', 'clinch', 'edge', 'dominate') and recurring lead-ins such as 'what stood out was\u2026', 'on the front foot', or 'to be fair'."
+        },
+        "scenario_description": "Thanking a host community after a coaching clinic or community visit",
+        "detailed_style": "Heartfelt, culturally sensitive and community-centred; highlight shared aspects and personal appreciation. Use warm, inclusive language and a brief mention of next steps or continued connection.",
+        "linguistic_patterns": "Open with local salutation: \"Talofa/Ng\u0101 mihi/Bonjour\". Express gratitude with communal language: \"fa'afetai for welcoming us\", \"your hospitality made the clinic special\". Use collective pronouns: \"we saw great energy from the girls\". Include invitation for future contact: \"looking forward to staying in touch\".",
+        "id": 11,
+        "seed": "A sports journalist specializing in women's football with a focus on Oceania Football Confederation (OFC) teams, looking to provide in-depth coverage and analysis of the New Caledonia women's national under-20 football team's performance in OFC championships and their journey towards the U-20 World Cup."
+    },
+    {
+        "persona": {
+            "name": "Maya Tevaga",
+            "age": 32,
+            "gender": "Female (she/her)",
+            "demographics": "Urban Wellington, New Zealand resident; Samoan-New Zealander heritage; raised in Auckland with family time in Apia, Samoa; frequently travels around the Pacific",
+            "profession": "Senior Sports Journalist \u2014 Women's Football Correspondent (Pacific focus) for a regional sports outlet",
+            "education": "B.A. in Journalism, Auckland University of Technology; Certificate in Sports Analytics; FIFA/OF C media accreditation workshops; conversational French (for New Caledonia coverage)",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Maya chases matches across islands and stadiums, combining on-the-ground interviews with match analytics to give context to OFC women's football stories. She's building a beat around New Caledonia's U-20 pathway to the World Cup by cultivating relationships with coaches and players, translating local perspectives into feature pieces and social-first match explainers.",
+            "interests_lifestyle": "live match reporting, tactical analysis and video breakdowns, traveling throughout Oceania, photography and short-form video editing, mentoring young Pacific journalists, grassroots coaching clinics, French language study, networking at regional sports conferences, writing longform profiles"
+        },
+        "global_style": {
+            "tone": "Warm, respectful and community-centred with clear professional authority; Maya writes with empathy for players and teams while keeping reporting fact-driven and accountability-minded. Conversational and slightly informal for live/social updates, shifting to measured, contextual and evidence-led phrasing for longform features and tactical analysis.",
+            "syntax": "Uses punchy, present\u2011tense sentences and short clauses for match reporting and social-first explainers, while favouring compound-complex sentences with subordinate clauses for profiles and analytical pieces to layer context, quotes and data. Active voice predominates; passive constructions are used sparingly for diplomacy or emphasis, and parenthetical stats or short rhetorical questions often appear inline (e.g. '(xG 0.78) \u2014 worth noting?').",
+            "lexicon": "Grounded in football and analytics vocabulary: frequently uses terms like 'xG', 'heatmap', 'pressing', 'transition', 'build-up play', 'cap' and 'fixture', and refers to metrics in metric units (km, m). Integrates Pacific place names and culturally specific words and brief bilingual touches when relevant \u2014 e.g. 'Apia', 'Noum\u00e9a', 'talofa', 'fa'afetai' and simple French phrases like 'merci' \u2014 and prefers NZ English spelling and regional references.",
+            "linguistic_patterns": "Regular use of contractions and conversational markers ('I'm', 'we're', 'it's worth noting'), concise stat brackets in-line '(xG 1.23)', and respectful code-switching with Samoan or French greetings ('Talofa', 'fa'afetai', 'merci'). Social posts often include hashtags and punchy verbs ('#OFC', '#PasifikaFootball', 'clinch', 'edge', 'dominate') and recurring lead-ins such as 'what stood out was\u2026', 'on the front foot', or 'to be fair'."
+        },
+        "scenario_description": "Cold outreach to a national federation requesting access or comment",
+        "detailed_style": "Formal, diplomatic and concise; clearly identify yourself, your outlet and the specific request while showing respect for processes and privacy. Keep sentences professional and avoid presumptive language.",
+        "linguistic_patterns": "Formal ID phrasing: \"My name is\u2026; I'm writing on behalf of\u2026\". Use conditional requests: \"Would you be able to provide\u2026?\", \"We'd welcome comment on\u2026\". Include deadlines politely: \"If possible, please respond by\u2026\". Tone markers: \"Thank you for considering this request.\"",
+        "id": 11,
+        "seed": "A sports journalist specializing in women's football with a focus on Oceania Football Confederation (OFC) teams, looking to provide in-depth coverage and analysis of the New Caledonia women's national under-20 football team's performance in OFC championships and their journey towards the U-20 World Cup."
+    },
+    {
+        "persona": {
+            "name": "Maya Tevaga",
+            "age": 32,
+            "gender": "Female (she/her)",
+            "demographics": "Urban Wellington, New Zealand resident; Samoan-New Zealander heritage; raised in Auckland with family time in Apia, Samoa; frequently travels around the Pacific",
+            "profession": "Senior Sports Journalist \u2014 Women's Football Correspondent (Pacific focus) for a regional sports outlet",
+            "education": "B.A. in Journalism, Auckland University of Technology; Certificate in Sports Analytics; FIFA/OF C media accreditation workshops; conversational French (for New Caledonia coverage)",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Maya chases matches across islands and stadiums, combining on-the-ground interviews with match analytics to give context to OFC women's football stories. She's building a beat around New Caledonia's U-20 pathway to the World Cup by cultivating relationships with coaches and players, translating local perspectives into feature pieces and social-first match explainers.",
+            "interests_lifestyle": "live match reporting, tactical analysis and video breakdowns, traveling throughout Oceania, photography and short-form video editing, mentoring young Pacific journalists, grassroots coaching clinics, French language study, networking at regional sports conferences, writing longform profiles"
+        },
+        "global_style": {
+            "tone": "Warm, respectful and community-centred with clear professional authority; Maya writes with empathy for players and teams while keeping reporting fact-driven and accountability-minded. Conversational and slightly informal for live/social updates, shifting to measured, contextual and evidence-led phrasing for longform features and tactical analysis.",
+            "syntax": "Uses punchy, present\u2011tense sentences and short clauses for match reporting and social-first explainers, while favouring compound-complex sentences with subordinate clauses for profiles and analytical pieces to layer context, quotes and data. Active voice predominates; passive constructions are used sparingly for diplomacy or emphasis, and parenthetical stats or short rhetorical questions often appear inline (e.g. '(xG 0.78) \u2014 worth noting?').",
+            "lexicon": "Grounded in football and analytics vocabulary: frequently uses terms like 'xG', 'heatmap', 'pressing', 'transition', 'build-up play', 'cap' and 'fixture', and refers to metrics in metric units (km, m). Integrates Pacific place names and culturally specific words and brief bilingual touches when relevant \u2014 e.g. 'Apia', 'Noum\u00e9a', 'talofa', 'fa'afetai' and simple French phrases like 'merci' \u2014 and prefers NZ English spelling and regional references.",
+            "linguistic_patterns": "Regular use of contractions and conversational markers ('I'm', 'we're', 'it's worth noting'), concise stat brackets in-line '(xG 1.23)', and respectful code-switching with Samoan or French greetings ('Talofa', 'fa'afetai', 'merci'). Social posts often include hashtags and punchy verbs ('#OFC', '#PasifikaFootball', 'clinch', 'edge', 'dominate') and recurring lead-ins such as 'what stood out was\u2026', 'on the front foot', or 'to be fair'."
+        },
+        "scenario_description": "Requesting broadcast footage or licensing from a TV/broadcast partner",
+        "detailed_style": "Clear, businesslike and rights-aware; specify exact clips, intended use, format and timelines, and mention attribution or licensing terms. Use precise language to avoid ambiguity.",
+        "linguistic_patterns": "Specific clip requests: \"45-second highlight of Goal @ 72' (match ID #)\". Include format and usage: \"H.264 mp4 for editorial use on web/social\". Licensing phrasing: \"request for one-week embargo; credit line: 'courtesy of\u2026'\". Use legal-awareness terms: \"rights-clearance\", \"distribution window\".",
+        "id": 11,
+        "seed": "A sports journalist specializing in women's football with a focus on Oceania Football Confederation (OFC) teams, looking to provide in-depth coverage and analysis of the New Caledonia women's national under-20 football team's performance in OFC championships and their journey towards the U-20 World Cup."
+    },
+    {
+        "persona": {
+            "name": "Maya Tevaga",
+            "age": 32,
+            "gender": "Female (she/her)",
+            "demographics": "Urban Wellington, New Zealand resident; Samoan-New Zealander heritage; raised in Auckland with family time in Apia, Samoa; frequently travels around the Pacific",
+            "profession": "Senior Sports Journalist \u2014 Women's Football Correspondent (Pacific focus) for a regional sports outlet",
+            "education": "B.A. in Journalism, Auckland University of Technology; Certificate in Sports Analytics; FIFA/OF C media accreditation workshops; conversational French (for New Caledonia coverage)",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Maya chases matches across islands and stadiums, combining on-the-ground interviews with match analytics to give context to OFC women's football stories. She's building a beat around New Caledonia's U-20 pathway to the World Cup by cultivating relationships with coaches and players, translating local perspectives into feature pieces and social-first match explainers.",
+            "interests_lifestyle": "live match reporting, tactical analysis and video breakdowns, traveling throughout Oceania, photography and short-form video editing, mentoring young Pacific journalists, grassroots coaching clinics, French language study, networking at regional sports conferences, writing longform profiles"
+        },
+        "global_style": {
+            "tone": "Warm, respectful and community-centred with clear professional authority; Maya writes with empathy for players and teams while keeping reporting fact-driven and accountability-minded. Conversational and slightly informal for live/social updates, shifting to measured, contextual and evidence-led phrasing for longform features and tactical analysis.",
+            "syntax": "Uses punchy, present\u2011tense sentences and short clauses for match reporting and social-first explainers, while favouring compound-complex sentences with subordinate clauses for profiles and analytical pieces to layer context, quotes and data. Active voice predominates; passive constructions are used sparingly for diplomacy or emphasis, and parenthetical stats or short rhetorical questions often appear inline (e.g. '(xG 0.78) \u2014 worth noting?').",
+            "lexicon": "Grounded in football and analytics vocabulary: frequently uses terms like 'xG', 'heatmap', 'pressing', 'transition', 'build-up play', 'cap' and 'fixture', and refers to metrics in metric units (km, m). Integrates Pacific place names and culturally specific words and brief bilingual touches when relevant \u2014 e.g. 'Apia', 'Noum\u00e9a', 'talofa', 'fa'afetai' and simple French phrases like 'merci' \u2014 and prefers NZ English spelling and regional references.",
+            "linguistic_patterns": "Regular use of contractions and conversational markers ('I'm', 'we're', 'it's worth noting'), concise stat brackets in-line '(xG 1.23)', and respectful code-switching with Samoan or French greetings ('Talofa', 'fa'afetai', 'merci'). Social posts often include hashtags and punchy verbs ('#OFC', '#PasifikaFootball', 'clinch', 'edge', 'dominate') and recurring lead-ins such as 'what stood out was\u2026', 'on the front foot', or 'to be fair'."
+        },
+        "scenario_description": "Giving constructive editorial feedback to a junior reporter on a draft",
+        "detailed_style": "Supportive yet exacting with a teacherly tone; point to strengths first, then give clear, actionable revisions and examples. Use compound-complex sentences for layered explanations, and invite revision dialogue.",
+        "linguistic_patterns": "Feedback starters: \"Nice start \u2014 the lead is strong; consider tightening the second paragraph by\u2026\". Use examples in quotes: '\"what stood out was\u2026\" might be a stronger opener'. Suggest concrete edits: \"swap passive for active: 'was given' \u2192 'gave'\". Close with collaborative offer: \"Happy to review the rewrite.\"",
+        "id": 11,
+        "seed": "A sports journalist specializing in women's football with a focus on Oceania Football Confederation (OFC) teams, looking to provide in-depth coverage and analysis of the New Caledonia women's national under-20 football team's performance in OFC championships and their journey towards the U-20 World Cup."
+    },
+    {
+        "persona": {
+            "name": "Maya Tevaga",
+            "age": 32,
+            "gender": "Female (she/her)",
+            "demographics": "Urban Wellington, New Zealand resident; Samoan-New Zealander heritage; raised in Auckland with family time in Apia, Samoa; frequently travels around the Pacific",
+            "profession": "Senior Sports Journalist \u2014 Women's Football Correspondent (Pacific focus) for a regional sports outlet",
+            "education": "B.A. in Journalism, Auckland University of Technology; Certificate in Sports Analytics; FIFA/OF C media accreditation workshops; conversational French (for New Caledonia coverage)",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Maya chases matches across islands and stadiums, combining on-the-ground interviews with match analytics to give context to OFC women's football stories. She's building a beat around New Caledonia's U-20 pathway to the World Cup by cultivating relationships with coaches and players, translating local perspectives into feature pieces and social-first match explainers.",
+            "interests_lifestyle": "live match reporting, tactical analysis and video breakdowns, traveling throughout Oceania, photography and short-form video editing, mentoring young Pacific journalists, grassroots coaching clinics, French language study, networking at regional sports conferences, writing longform profiles"
+        },
+        "global_style": {
+            "tone": "Warm, respectful and community-centred with clear professional authority; Maya writes with empathy for players and teams while keeping reporting fact-driven and accountability-minded. Conversational and slightly informal for live/social updates, shifting to measured, contextual and evidence-led phrasing for longform features and tactical analysis.",
+            "syntax": "Uses punchy, present\u2011tense sentences and short clauses for match reporting and social-first explainers, while favouring compound-complex sentences with subordinate clauses for profiles and analytical pieces to layer context, quotes and data. Active voice predominates; passive constructions are used sparingly for diplomacy or emphasis, and parenthetical stats or short rhetorical questions often appear inline (e.g. '(xG 0.78) \u2014 worth noting?').",
+            "lexicon": "Grounded in football and analytics vocabulary: frequently uses terms like 'xG', 'heatmap', 'pressing', 'transition', 'build-up play', 'cap' and 'fixture', and refers to metrics in metric units (km, m). Integrates Pacific place names and culturally specific words and brief bilingual touches when relevant \u2014 e.g. 'Apia', 'Noum\u00e9a', 'talofa', 'fa'afetai' and simple French phrases like 'merci' \u2014 and prefers NZ English spelling and regional references.",
+            "linguistic_patterns": "Regular use of contractions and conversational markers ('I'm', 'we're', 'it's worth noting'), concise stat brackets in-line '(xG 1.23)', and respectful code-switching with Samoan or French greetings ('Talofa', 'fa'afetai', 'merci'). Social posts often include hashtags and punchy verbs ('#OFC', '#PasifikaFootball', 'clinch', 'edge', 'dominate') and recurring lead-ins such as 'what stood out was\u2026', 'on the front foot', or 'to be fair'."
+        },
+        "scenario_description": "Personal update email to family while on an extended reporting trip",
+        "detailed_style": "Warm, chatty and affectionate with short sentences and cultural touches; keep family reassured about safety and connected to local experiences. Use casual language and emojis sparingly if appropriate.",
+        "linguistic_patterns": "Open with familial greeting: \"Hi fam / Talofa tutti\". Use informal snippets: \"Quick update \u2014 landed safe, heading to training today.\" Include sensory detail in short clauses: \"hot, humid, great crowd\". Sign-offs with love: \"Love you all, fa'afetai for the messages \u2764\ufe0f\".",
+        "id": 11,
+        "seed": "A sports journalist specializing in women's football with a focus on Oceania Football Confederation (OFC) teams, looking to provide in-depth coverage and analysis of the New Caledonia women's national under-20 football team's performance in OFC championships and their journey towards the U-20 World Cup."
+    },
+    {
+        "persona": {
+            "name": "Maya Tevaga",
+            "age": 32,
+            "gender": "Female (she/her)",
+            "demographics": "Urban Wellington, New Zealand resident; Samoan-New Zealander heritage; raised in Auckland with family time in Apia, Samoa; frequently travels around the Pacific",
+            "profession": "Senior Sports Journalist \u2014 Women's Football Correspondent (Pacific focus) for a regional sports outlet",
+            "education": "B.A. in Journalism, Auckland University of Technology; Certificate in Sports Analytics; FIFA/OF C media accreditation workshops; conversational French (for New Caledonia coverage)",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Maya chases matches across islands and stadiums, combining on-the-ground interviews with match analytics to give context to OFC women's football stories. She's building a beat around New Caledonia's U-20 pathway to the World Cup by cultivating relationships with coaches and players, translating local perspectives into feature pieces and social-first match explainers.",
+            "interests_lifestyle": "live match reporting, tactical analysis and video breakdowns, traveling throughout Oceania, photography and short-form video editing, mentoring young Pacific journalists, grassroots coaching clinics, French language study, networking at regional sports conferences, writing longform profiles"
+        },
+        "global_style": {
+            "tone": "Warm, respectful and community-centred with clear professional authority; Maya writes with empathy for players and teams while keeping reporting fact-driven and accountability-minded. Conversational and slightly informal for live/social updates, shifting to measured, contextual and evidence-led phrasing for longform features and tactical analysis.",
+            "syntax": "Uses punchy, present\u2011tense sentences and short clauses for match reporting and social-first explainers, while favouring compound-complex sentences with subordinate clauses for profiles and analytical pieces to layer context, quotes and data. Active voice predominates; passive constructions are used sparingly for diplomacy or emphasis, and parenthetical stats or short rhetorical questions often appear inline (e.g. '(xG 0.78) \u2014 worth noting?').",
+            "lexicon": "Grounded in football and analytics vocabulary: frequently uses terms like 'xG', 'heatmap', 'pressing', 'transition', 'build-up play', 'cap' and 'fixture', and refers to metrics in metric units (km, m). Integrates Pacific place names and culturally specific words and brief bilingual touches when relevant \u2014 e.g. 'Apia', 'Noum\u00e9a', 'talofa', 'fa'afetai' and simple French phrases like 'merci' \u2014 and prefers NZ English spelling and regional references.",
+            "linguistic_patterns": "Regular use of contractions and conversational markers ('I'm', 'we're', 'it's worth noting'), concise stat brackets in-line '(xG 1.23)', and respectful code-switching with Samoan or French greetings ('Talofa', 'fa'afetai', 'merci'). Social posts often include hashtags and punchy verbs ('#OFC', '#PasifikaFootball', 'clinch', 'edge', 'dominate') and recurring lead-ins such as 'what stood out was\u2026', 'on the front foot', or 'to be fair'."
+        },
+        "scenario_description": "Pitching sponsored editorial content or a branded series to a potential partner",
+        "detailed_style": "Professional and transparent with a clear structure: audience fit, content formats, deliverables, and measurement. Use confident marketing language tempered with editorial ethics statements and measurable KPIs.",
+        "linguistic_patterns": "Commercial phrases: \"branded series\", \"native article\", \"social amplification\". Measurement vocabulary: \"reach, impressions, engagement rate\". Ethics wording: \"clearly labelled as sponsored; editorial independence maintained\". Use partnership framing: \"aligns with your brand's community focus\".",
+        "id": 11,
+        "seed": "A sports journalist specializing in women's football with a focus on Oceania Football Confederation (OFC) teams, looking to provide in-depth coverage and analysis of the New Caledonia women's national under-20 football team's performance in OFC championships and their journey towards the U-20 World Cup."
+    },
+    {
+        "persona": {
+            "name": "Maya Tevaga",
+            "age": 32,
+            "gender": "Female (she/her)",
+            "demographics": "Urban Wellington, New Zealand resident; Samoan-New Zealander heritage; raised in Auckland with family time in Apia, Samoa; frequently travels around the Pacific",
+            "profession": "Senior Sports Journalist \u2014 Women's Football Correspondent (Pacific focus) for a regional sports outlet",
+            "education": "B.A. in Journalism, Auckland University of Technology; Certificate in Sports Analytics; FIFA/OF C media accreditation workshops; conversational French (for New Caledonia coverage)",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Maya chases matches across islands and stadiums, combining on-the-ground interviews with match analytics to give context to OFC women's football stories. She's building a beat around New Caledonia's U-20 pathway to the World Cup by cultivating relationships with coaches and players, translating local perspectives into feature pieces and social-first match explainers.",
+            "interests_lifestyle": "live match reporting, tactical analysis and video breakdowns, traveling throughout Oceania, photography and short-form video editing, mentoring young Pacific journalists, grassroots coaching clinics, French language study, networking at regional sports conferences, writing longform profiles"
+        },
+        "global_style": {
+            "tone": "Warm, respectful and community-centred with clear professional authority; Maya writes with empathy for players and teams while keeping reporting fact-driven and accountability-minded. Conversational and slightly informal for live/social updates, shifting to measured, contextual and evidence-led phrasing for longform features and tactical analysis.",
+            "syntax": "Uses punchy, present\u2011tense sentences and short clauses for match reporting and social-first explainers, while favouring compound-complex sentences with subordinate clauses for profiles and analytical pieces to layer context, quotes and data. Active voice predominates; passive constructions are used sparingly for diplomacy or emphasis, and parenthetical stats or short rhetorical questions often appear inline (e.g. '(xG 0.78) \u2014 worth noting?').",
+            "lexicon": "Grounded in football and analytics vocabulary: frequently uses terms like 'xG', 'heatmap', 'pressing', 'transition', 'build-up play', 'cap' and 'fixture', and refers to metrics in metric units (km, m). Integrates Pacific place names and culturally specific words and brief bilingual touches when relevant \u2014 e.g. 'Apia', 'Noum\u00e9a', 'talofa', 'fa'afetai' and simple French phrases like 'merci' \u2014 and prefers NZ English spelling and regional references.",
+            "linguistic_patterns": "Regular use of contractions and conversational markers ('I'm', 'we're', 'it's worth noting'), concise stat brackets in-line '(xG 1.23)', and respectful code-switching with Samoan or French greetings ('Talofa', 'fa'afetai', 'merci'). Social posts often include hashtags and punchy verbs ('#OFC', '#PasifikaFootball', 'clinch', 'edge', 'dominate') and recurring lead-ins such as 'what stood out was\u2026', 'on the front foot', or 'to be fair'."
+        },
+        "scenario_description": "Issuing a public correction or clarification to an editor/reader list after a published piece",
+        "detailed_style": "Transparent, accountable and concise; state the error, provide the correction, and explain any steps taken. Maintain a composed tone that prioritises accuracy and trust restoration.",
+        "linguistic_patterns": "Correction lead-ins: \"Correction: an earlier version stated X; the correct detail is Y.\" Use apology and accountability wording: \"We apologise for the error\". Use factual, declarative sentences: \"The correct figure is\u2026\". Include follow-up action phrasing: \"We have updated the online article and notified affected parties.\"",
+        "id": 11,
+        "seed": "A sports journalist specializing in women's football with a focus on Oceania Football Confederation (OFC) teams, looking to provide in-depth coverage and analysis of the New Caledonia women's national under-20 football team's performance in OFC championships and their journey towards the U-20 World Cup."
+    },
+    {
+        "persona": {
+            "name": "Maya Tevaga",
+            "age": 32,
+            "gender": "Female (she/her)",
+            "demographics": "Urban Wellington, New Zealand resident; Samoan-New Zealander heritage; raised in Auckland with family time in Apia, Samoa; frequently travels around the Pacific",
+            "profession": "Senior Sports Journalist \u2014 Women's Football Correspondent (Pacific focus) for a regional sports outlet",
+            "education": "B.A. in Journalism, Auckland University of Technology; Certificate in Sports Analytics; FIFA/OF C media accreditation workshops; conversational French (for New Caledonia coverage)",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Maya chases matches across islands and stadiums, combining on-the-ground interviews with match analytics to give context to OFC women's football stories. She's building a beat around New Caledonia's U-20 pathway to the World Cup by cultivating relationships with coaches and players, translating local perspectives into feature pieces and social-first match explainers.",
+            "interests_lifestyle": "live match reporting, tactical analysis and video breakdowns, traveling throughout Oceania, photography and short-form video editing, mentoring young Pacific journalists, grassroots coaching clinics, French language study, networking at regional sports conferences, writing longform profiles"
+        },
+        "global_style": {
+            "tone": "Warm, respectful and community-centred with clear professional authority; Maya writes with empathy for players and teams while keeping reporting fact-driven and accountability-minded. Conversational and slightly informal for live/social updates, shifting to measured, contextual and evidence-led phrasing for longform features and tactical analysis.",
+            "syntax": "Uses punchy, present\u2011tense sentences and short clauses for match reporting and social-first explainers, while favouring compound-complex sentences with subordinate clauses for profiles and analytical pieces to layer context, quotes and data. Active voice predominates; passive constructions are used sparingly for diplomacy or emphasis, and parenthetical stats or short rhetorical questions often appear inline (e.g. '(xG 0.78) \u2014 worth noting?').",
+            "lexicon": "Grounded in football and analytics vocabulary: frequently uses terms like 'xG', 'heatmap', 'pressing', 'transition', 'build-up play', 'cap' and 'fixture', and refers to metrics in metric units (km, m). Integrates Pacific place names and culturally specific words and brief bilingual touches when relevant \u2014 e.g. 'Apia', 'Noum\u00e9a', 'talofa', 'fa'afetai' and simple French phrases like 'merci' \u2014 and prefers NZ English spelling and regional references.",
+            "linguistic_patterns": "Regular use of contractions and conversational markers ('I'm', 'we're', 'it's worth noting'), concise stat brackets in-line '(xG 1.23)', and respectful code-switching with Samoan or French greetings ('Talofa', 'fa'afetai', 'merci'). Social posts often include hashtags and punchy verbs ('#OFC', '#PasifikaFootball', 'clinch', 'edge', 'dominate') and recurring lead-ins such as 'what stood out was\u2026', 'on the front foot', or 'to be fair'."
+        },
+        "scenario_description": "Inviting players or coaches to a roundtable or community Q&A",
+        "detailed_style": "Inclusive, respectful and logistical; explain purpose, format and time commitment while emphasising community benefit and participant care. Keep language warm and non-pressuring.",
+        "linguistic_patterns": "Invitation phrases: \"We'd love to invite you to\u2026\", \"short 45-minute panel\". Use accessibility language: \"we'll cover travel and accommodation; translation available\". Emphasise respect: \"your voice matters to the community\". Close with RSVP prompt: \"Please let us know if you can join by\u2026\"",
+        "id": 11,
+        "seed": "A sports journalist specializing in women's football with a focus on Oceania Football Confederation (OFC) teams, looking to provide in-depth coverage and analysis of the New Caledonia women's national under-20 football team's performance in OFC championships and their journey towards the U-20 World Cup."
+    },
+    {
+        "persona": {
+            "name": "Maya Tevaga",
+            "age": 32,
+            "gender": "Female (she/her)",
+            "demographics": "Urban Wellington, New Zealand resident; Samoan-New Zealander heritage; raised in Auckland with family time in Apia, Samoa; frequently travels around the Pacific",
+            "profession": "Senior Sports Journalist \u2014 Women's Football Correspondent (Pacific focus) for a regional sports outlet",
+            "education": "B.A. in Journalism, Auckland University of Technology; Certificate in Sports Analytics; FIFA/OF C media accreditation workshops; conversational French (for New Caledonia coverage)",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Maya chases matches across islands and stadiums, combining on-the-ground interviews with match analytics to give context to OFC women's football stories. She's building a beat around New Caledonia's U-20 pathway to the World Cup by cultivating relationships with coaches and players, translating local perspectives into feature pieces and social-first match explainers.",
+            "interests_lifestyle": "live match reporting, tactical analysis and video breakdowns, traveling throughout Oceania, photography and short-form video editing, mentoring young Pacific journalists, grassroots coaching clinics, French language study, networking at regional sports conferences, writing longform profiles"
+        },
+        "global_style": {
+            "tone": "Warm, respectful and community-centred with clear professional authority; Maya writes with empathy for players and teams while keeping reporting fact-driven and accountability-minded. Conversational and slightly informal for live/social updates, shifting to measured, contextual and evidence-led phrasing for longform features and tactical analysis.",
+            "syntax": "Uses punchy, present\u2011tense sentences and short clauses for match reporting and social-first explainers, while favouring compound-complex sentences with subordinate clauses for profiles and analytical pieces to layer context, quotes and data. Active voice predominates; passive constructions are used sparingly for diplomacy or emphasis, and parenthetical stats or short rhetorical questions often appear inline (e.g. '(xG 0.78) \u2014 worth noting?').",
+            "lexicon": "Grounded in football and analytics vocabulary: frequently uses terms like 'xG', 'heatmap', 'pressing', 'transition', 'build-up play', 'cap' and 'fixture', and refers to metrics in metric units (km, m). Integrates Pacific place names and culturally specific words and brief bilingual touches when relevant \u2014 e.g. 'Apia', 'Noum\u00e9a', 'talofa', 'fa'afetai' and simple French phrases like 'merci' \u2014 and prefers NZ English spelling and regional references.",
+            "linguistic_patterns": "Regular use of contractions and conversational markers ('I'm', 'we're', 'it's worth noting'), concise stat brackets in-line '(xG 1.23)', and respectful code-switching with Samoan or French greetings ('Talofa', 'fa'afetai', 'merci'). Social posts often include hashtags and punchy verbs ('#OFC', '#PasifikaFootball', 'clinch', 'edge', 'dominate') and recurring lead-ins such as 'what stood out was\u2026', 'on the front foot', or 'to be fair'."
+        },
+        "scenario_description": "Writing a reference or recommendation email for a mentee applying for a job or program",
+        "detailed_style": "Authoritative, specific and supportive; highlight concrete skills, behaviours and examples in measured, professional language. Use compound-complex sentences to embed evidence and context, and close with a clear endorsement.",
+        "linguistic_patterns": "Recommendation phrasing: \"I strongly recommend\u2026\", \"has demonstrated excellent\u2026\". Give example constructions: \"In one assignment, she led\u2026 resulting in\u2026\". Use evaluative verbs: \"excelled, displayed, contributed\". Close formally: \"Happy to provide further details if required.\"",
+        "id": 11,
+        "seed": "A sports journalist specializing in women's football with a focus on Oceania Football Confederation (OFC) teams, looking to provide in-depth coverage and analysis of the New Caledonia women's national under-20 football team's performance in OFC championships and their journey towards the U-20 World Cup."
+    },
+    {
+        "persona": {
+            "name": "Maya Tevaga",
+            "age": 32,
+            "gender": "Female (she/her)",
+            "demographics": "Urban Wellington, New Zealand resident; Samoan-New Zealander heritage; raised in Auckland with family time in Apia, Samoa; frequently travels around the Pacific",
+            "profession": "Senior Sports Journalist \u2014 Women's Football Correspondent (Pacific focus) for a regional sports outlet",
+            "education": "B.A. in Journalism, Auckland University of Technology; Certificate in Sports Analytics; FIFA/OF C media accreditation workshops; conversational French (for New Caledonia coverage)",
+            "socioeconomic_status": "Middle income; Working professional",
+            "brief_background": "Maya chases matches across islands and stadiums, combining on-the-ground interviews with match analytics to give context to OFC women's football stories. She's building a beat around New Caledonia's U-20 pathway to the World Cup by cultivating relationships with coaches and players, translating local perspectives into feature pieces and social-first match explainers.",
+            "interests_lifestyle": "live match reporting, tactical analysis and video breakdowns, traveling throughout Oceania, photography and short-form video editing, mentoring young Pacific journalists, grassroots coaching clinics, French language study, networking at regional sports conferences, writing longform profiles"
+        },
+        "global_style": {
+            "tone": "Warm, respectful and community-centred with clear professional authority; Maya writes with empathy for players and teams while keeping reporting fact-driven and accountability-minded. Conversational and slightly informal for live/social updates, shifting to measured, contextual and evidence-led phrasing for longform features and tactical analysis.",
+            "syntax": "Uses punchy, present\u2011tense sentences and short clauses for match reporting and social-first explainers, while favouring compound-complex sentences with subordinate clauses for profiles and analytical pieces to layer context, quotes and data. Active voice predominates; passive constructions are used sparingly for diplomacy or emphasis, and parenthetical stats or short rhetorical questions often appear inline (e.g. '(xG 0.78) \u2014 worth noting?').",
+            "lexicon": "Grounded in football and analytics vocabulary: frequently uses terms like 'xG', 'heatmap', 'pressing', 'transition', 'build-up play', 'cap' and 'fixture', and refers to metrics in metric units (km, m). Integrates Pacific place names and culturally specific words and brief bilingual touches when relevant \u2014 e.g. 'Apia', 'Noum\u00e9a', 'talofa', 'fa'afetai' and simple French phrases like 'merci' \u2014 and prefers NZ English spelling and regional references.",
+            "linguistic_patterns": "Regular use of contractions and conversational markers ('I'm', 'we're', 'it's worth noting'), concise stat brackets in-line '(xG 1.23)', and respectful code-switching with Samoan or French greetings ('Talofa', 'fa'afetai', 'merci'). Social posts often include hashtags and punchy verbs ('#OFC', '#PasifikaFootball', 'clinch', 'edge', 'dominate') and recurring lead-ins such as 'what stood out was\u2026', 'on the front foot', or 'to be fair'."
+        },
+        "scenario_description": "Negotiating a freelance rate or assignment scope with your editor or freelance client",
+        "detailed_style": "Firm but collegial with transparent breakdowns of time, deliverables and expenses; use polite but assertive language to justify the ask. Offer options and be ready to trade scope for fee adjustments.",
+        "linguistic_patterns": "Use cost-clarifying language: \"rate: NZD X per piece; includes travel days and editing\". Brokerage phrases: \"If budget is limited, we can scale back to\u2026\". Use assertive-but-polite markers: \"I propose\u2026\", \"I appreciate flexibility on\u2026\". Include timeline link: \"deliverable due in 7 days after brief.\"",
+        "id": 11,
+        "seed": "A sports journalist specializing in women's football with a focus on Oceania Football Confederation (OFC) teams, looking to provide in-depth coverage and analysis of the New Caledonia women's national under-20 football team's performance in OFC championships and their journey towards the U-20 World Cup."
+    }
+]

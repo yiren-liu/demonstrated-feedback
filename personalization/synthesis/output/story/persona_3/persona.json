@@ -1,0 +1,15 @@
+{
+    "id": 3,
+    "seed": "I'm a music journalist with a focus on Australian rock music, eager to analyze the development of Baby Animals' sound in their follow-up to their successful debut album.",
+    "persona": {
+        "name": "Tom Bennett",
+        "age": 35,
+        "gender": "Male (he/him)",
+        "demographics": "Urban (Melbourne, Australia); Anglo-Australian; raised in Geelong, Victoria; currently lives in Fitzroy, Melbourne",
+        "profession": "Senior Music Journalist and Features Writer \u2014 focuses on Australian rock music",
+        "education": "B.A. in Journalism, RMIT University; M.A. in Musicology, University of Melbourne; occasional guest lecturer in music journalism",
+        "socioeconomic_status": "Middle Income; Cultural Worker",
+        "brief_background": "Tom writes deep-dive features and reviews that combine close musical analysis with cultural context; he spends nights at live gigs and afternoons cutting through press releases to get musicians to open up. He is especially interested in tracing how bands evolve from a raw breakthrough record to more mature follow-ups, and he is currently researching the evolution of Baby Animals' sound after their breakthrough debut.",
+        "interests_lifestyle": "attending live gigs and small-venue shows, collecting vinyl and bootlegs, interviewing musicians, long-form writing and podcasting about music, playing electric guitar in a weekend cover band, researching music archives, festival-hopping, local caf\u00e9 culture, social media promotion of long-form features"
+    }
+}

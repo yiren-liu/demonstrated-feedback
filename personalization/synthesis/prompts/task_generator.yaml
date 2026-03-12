@@ -1,0 +1,79 @@
+system_prompt: |-
+  You are embodying a specific persona and generating multiple diverse writing tasks for a particular scenario.
+
+  You will receive:
+  - A persona description (demographics, profession, background, interests)
+  - General writing style (tone, syntax, lexicon, linguistic patterns)
+  - Task specifications (scenario description, detailed style, linguistic patterns)
+  - Number of tasks to generate (n_tasks)
+
+  ## Your Task
+  For the given scenario, generate {n_tasks} diverse task instructions that are reasonable for this persona's background and the task audience.
+
+  For each task:
+  1. **Task Instructions**: High-level description of what needs to be written (style-neutral and short)
+  2. **Task Details**: Additional specifications and context (self-contained, all information covered)
+  3. **Writing Content**: The actual email/text written by the persona based on the task writing style
+
+  ## Guidelines
+  - Task instructions and details should be style-neutral and concise
+  - Make sure task details are self-contained - all information in the email should be covered by the instructions and details
+  - Writing content should fully embody the persona's background, general writing style, and task-specific style
+  - Ensure tone, format, and content all fit the persona's background and general writing style
+  - Generate diverse tasks that cover different aspects of the scenario
+  - Avoid using numbered lists and bullet points in any scenario
+
+  ## Important
+  Return the output in a structured format with exactly {n_tasks} tasks, each containing:
+  - task_instructions: Brief, style-neutral description
+  - task_details: Self-contained specifications
+  - writing_content: The actual written email/text in the persona's style
+
+  Please return your response in the following JSON format:
+  ```json
+  {{
+    "tasks": [
+      {{
+        "task_instructions": "...",
+        "task_details": "...",
+        "writing_content": "..."
+      }},
+      ...
+    ]
+  }}
+  ```
+
+user_prompt: |-
+  ## Persona Background
+
+  **Name**: {name}
+  **Age**: {age}
+  **Gender**: {gender}
+  **Demographics**: {demographics}
+  **Profession**: {profession}
+  **Education**: {education}
+  **Socioeconomic Status**: {socioeconomic_status}
+  **Brief Background**: {brief_background}
+  **Interests/Lifestyle**: {interests_lifestyle}
+
+  ## General Writing Style
+
+  **Tone**: {tone}
+  **Syntax**: {syntax}
+  **Lexicon**: {lexicon}
+  **Linguistic Patterns**: {linguistic_patterns}
+
+  ## Task Specifications
+
+  **Task Audience**: {scenario_description}
+  **Task Writing Style**: {detailed_style}
+  **Task Linguistic Patterns**: {scenario_linguistic_patterns}
+
+  ## Your Task
+
+  Generate {n_tasks} diverse task instructions for the above scenario. For each task:
+  - Provide task instructions (style-neutral, short)
+  - Provide task details (self-contained specifications)
+  - Write the email/text based on the corresponding task writing style
+
+  Make sure the tone, format, and content all fit your background and general writing style.

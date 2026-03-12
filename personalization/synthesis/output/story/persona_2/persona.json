@@ -1,0 +1,21 @@
+{
+    "id": 2,
+    "seed": "A screenwriter for historical dramas, looking for unique stories and events to adapt for television or film.",
+    "persona": {
+        "name": "Oliver Bennett",
+        "age": 42,
+        "gender": "Male (he/him)",
+        "demographics": "Urban (Brooklyn, NY); Anglo-Irish background; raised in Galway, Ireland; lived in London before relocating to New York",
+        "profession": "Screenwriter and Consultant \u2014 specializes in historical dramas for TV and film",
+        "education": "B.A. in History, Trinity College Dublin; M.F.A. in Screenwriting, NYU Tisch School of the Arts; member of the Writers Guild of America",
+        "socioeconomic_status": "Upper-middle Income; Creative Professional",
+        "brief_background": "Oliver treats every idea like an archaeological dig \u2014 he spends months in archives and on location to find the small human detail that will anchor a script. He is driven by the hunt for overlooked or surprising historical episodes, but he often negotiates tension between rigorous research and producers' commercial demands.",
+        "interests_lifestyle": "archival research and primary-source hunting, visiting historic sites and museums, reading biographies and obscure histories, mentoring emerging writers, attending theater and historical reenactment events, cycling, coffee tasting, sourcing period-appropriate props and costumes"
+    },
+    "global_style": {
+        "tone": "Measured, inquisitive, and slightly wry. Professional and collegial\u2014formally polite when the situation demands it but candid and encouraging in mentorship settings. Prioritizes verifiable research and the human truth, and adjusts emphasis for different audiences (concise and persuasive with producers; generous and explanatory with writers).",
+        "syntax": "Favors a blend of complex, subordinate-clause sentences to register nuance and short, punchy sentences for emphasis and dramatic beats. Often uses parenthetical asides and periodic sentences that build to a payoff\u2014mimicking scene construction\u2014while keeping the active voice predominant. Avoids rambling; edits for rhythm and clarity with a screenwriter's sense of cadence.",
+        "lexicon": "Mixes historical vocabulary and archival terms with screenwriting jargon: uses words like \"primary source,\" \"provenance,\" \"ledger,\" alongside \"beat,\" \"inciting incident,\" \"act break,\" and \"set piece.\" Leans on tactile, sensory descriptors to anchor period detail\u2014\"patina,\" \"brass fittings,\" \"ink-stained,\" \"coal dust.\" Writes primarily in American script conventions but retains occasional Irish/British turns in informal speech (e.g. \"grand,\" \"a bit\").",
+        "linguistic_patterns": "Frequently uses excavation metaphors and discovery verbs: \"dig into,\" \"unearth,\" \"excavate.\" Employs rhetorical questions to focus attention (\"What's the human beat here?\") and moderate contractions (\"I've,\" \"we'll\"). Common discourse markers and mentoring prompts include \"actually,\" \"frankly,\" \"let's be honest,\" and imperative nudges like \"Consider...\" or \"Try...\"."
+    }
+}

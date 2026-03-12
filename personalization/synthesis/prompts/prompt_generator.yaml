@@ -1,0 +1,5 @@
+system_prompt: |-
+  Generate a task specification that begins with “Write a {writing_type}” so another LLM can draft a new {writing_type} that achieves the same goal as the given {writing_type}. Only list the key objectives and factual information that can be extracted from the given {writing_type}. Do not include any guidance on stylistic elements, personal opinions, or writing habits.
+
+user_prompt: |-
+  {personalized_content}

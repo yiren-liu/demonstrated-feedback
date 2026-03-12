@@ -1,0 +1,201 @@
+file,date,from,to,subject,email
+pimenov-v/_sent_mail/1.,"Tue, 24 Apr 2001 19:09:00 -0700",vladi.pimenov@enron.com,nbondare@enron.com,go EES!!!,"Bush names businessmen to Pentagon civilian posts
+04/24  16:08  
+ 
+WASHINGTON, April 24 (Reuters) - President George W. Bush said on Tuesday he planned to nominate three top businessmen to the civilian positions of Army, Navy and Air Force secretary at the Pentagon. 
+
+Bush chose James Roche, corporate vice president and president of the Electronic Sensors and Systems Sector of the Northrop Grumman Corp. (NOC), to be secretary of the Air Force. 
+
+Before joining the private sector, Roche served as Democratic staff director for the Senate Armed Services Committee and as principal deputy director of policy planning at the State Department. 
+
+Thomas White, Bush's choice for Army secretary, is currently vice chairman of Enron Energy Services (ENE). 
+He served in the Army for 23 years, retiring as a brigadier general and was executive assistant to the current Secretary of State Colin Powell
+ when Powell was chairman of the Joint Chiefs of Staff.  Bush also said he intended to nominate Gordon England to be secretary of the Navy. 
+England is currently executive vice president of General Dynamics (GD), where he has worked for 17 years. 
+
+All three nominees must be confirmed by the Senate. ((Washington newsroom 202 898-8300, fax 202 898 8383, email Washington.bureau.newsroom@reuters.com))"
+pimenov-v/_sent_mail/4.,"Mon, 14 May 2001 14:19:00 -0700",vladi.pimenov@enron.com,patrick.mulvany@enron.com,Re: physical trade,"Patrick,
+
+with regard to the deal we did on ICE, their confirmation is right. It should be Gas Daily TETCO M3, not Z6. Please let me know if you need any additional information.
+
+Vladi Pimenov
+
+x37625"
+pimenov-v/_sent_mail/5.,"Wed, 16 May 2001 18:28:00 -0700",vladi.pimenov@enron.com,patrick.mulvany@enron.com,Re: physical deal #783917,"Patrick,
+
+we fixed the deal. Thank you for bringing it to my attention.
+
+Vladi"
+pimenov-v/sent_items/10.,"Fri, 01 Feb 2002 06:58:53 -0800",vladi.pimenov@enron.com,franky.sulistio@enron.com,,"Select pts.REF_PERIOD_DT, pts.CURVE_AMT FROM EGS.EGS_CURVE_DEF def, EGS.EGS_CURVE_POINTS pts WHERE def.CURVE_DEF_ID = pts.CURVE_DEF_ID AND def.CURVE_CD='NG' AND def.BOOK_TYPE_CD='P' AND def.CURVE_TYPE_CD='PR' AND def.EFFECTIVE_DT = TO_DATE('01-Oct-2001','DD-MON-YYYY')AND pts.REF_PERIOD_DT BETWEEN TO_DATE('01-Nov-2001','DD-MON-YYYY') AND TO_DATE('01-Oct-2007','DD-MON-YYYY') order by pts.REF_PERIOD_DT"
+pimenov-v/sent_items/11.,"Thu, 31 Jan 2002 19:56:32 -0800",vladi.pimenov@enron.com,karen.buckley@enron.com,Job description,"Karen,
+ 
+Here is my job description. I tried to make it broad to fit my possible move to another groups on the trading floor.
+ 
+Please let me know if you need any additional information.
+ 
+Vladi."
+pimenov-v/sent_items/12.,"Thu, 31 Jan 2002 15:36:30 -0800",vladi.pimenov@enron.com,"dipak.agarwalla@enron.com, adam.bayer@enron.com, bart.burk@enron.com, jozef.lieskovsky@enron.com, justin.o'malley@enron.com, biliana.pehlivanova@enron.com, patrick.tucker@enron.com, chris.gaskill@enron.com, virawan.yawapongsiri@enron.com",New Power Point template,"Hi everybody,
+
+Here is the new slide template. It is reduced in size and also has more space available for information.
+
+Dipak, Justin and Patrick, please make sure that you don't link to the data, your files were the biggest in size.
+
+Vladi"
+pimenov-v/sent_items/127.,"Tue, 02 Oct 2001 14:48:15 -0700",vladi.pimenov@enron.com,elena.chilkina@enron.com,,"Nu che, Len, ti segodnia pridesh'?"
+pimenov-v/sent_items/13.,"Wed, 30 Jan 2002 13:43:35 -0800",vladi.pimenov@enron.com,amanda.rybarski@enron.com,Template for tomorrow presentation,"Amanda,
+
+please send the new template to everybody in the group.
+
+Vladi"
+pimenov-v/sent_items/138.,"Thu, 27 Sep 2001 12:14:50 -0700",vladi.pimenov@enron.com,"massimo.marolo@enron.com, chuck.ames@enron.com, colin.tonks@enron.com, biliana.pehlivanova@enron.com, elena.chilkina@enron.com, david.dronet@enron.com",October 2nd,"Hey guys,
+
+in light of my quickly approaching 26th birthday I wanted to invite you all to dinner on tuesday October 2nd. I hope that nice company (and plenty of alcohol) will help me to forget about my age for at least one evening.
+
+So, what do you say? 
+
+The place: Buca Di Beppo (Massimo can translate it for you), 5192 Buffalo Speedway. Map is attached. The place is really nice, not too expensive and a lot of fun. I think we could reserve a private room.
+
+Time: October 2nd  7:30PM.
+
+Please let me know if you can make it so I would know the exact number of people.
+
+Hope to see y'all there.
+
+Vlad."
+pimenov-v/sent_items/14.,"Wed, 30 Jan 2002 07:52:42 -0800",vladi.pimenov@enron.com,nxb@allegrodevelopment.com,New Enrononline,check out www.ubswenergy.com <http://www.ubswenergy.com>
+pimenov-v/sent_items/15.,"Wed, 30 Jan 2002 07:49:02 -0800",vladi.pimenov@enron.com,adam.bayer@enron.com,,"http://www.arabia.com/news/article/english/0,1690,53160,00.html"
+pimenov-v/sent_items/16.,"Wed, 30 Jan 2002 07:46:52 -0800",vladi.pimenov@enron.com,adam.bayer@enron.com,proud AIR FLEET,"http://news.bbc.co.uk/hi/english/business/newsid_1196000/1196928.stm
+""Aeroflot was able to get rid of most of its oldest planes. It has not crashed once in the past 10 years and its safety record is now considered equal to that of British Airways and Air France. "" 
+	BBC"
+pimenov-v/sent_items/17.,"Tue, 29 Jan 2002 14:03:33 -0800",vladi.pimenov@enron.com,chris.gaskill@enron.com,File for John,"Chris, 
+
+I am sending you the file I was working on for John Lavorato if he asks about it while I am at the dentist.
+
+If he wants another printout I've put it on your desk, otherwise I am gonna be back around 11.
+
+Vladi"
+pimenov-v/sent_items/18.,"Tue, 29 Jan 2002 07:50:44 -0800",vladi.pimenov@enron.com,m..tholt@enron.com,GD prices,"Jane,
+
+Here are the GD prices you were asking for. Let me know if you need anything else
+
+Vladi"
+pimenov-v/sent_items/19.,"Mon, 28 Jan 2002 14:51:29 -0800",vladi.pimenov@enron.com,"dutch.quigley@enron.com, john.griffith@enron.com",New curve fetch file,"Due to the change of servers and moving of all ERMS  databases to the new locations old curve fetch files are not working properly.
+
+I got our IT guys to fix the file you gave me. Everything looks OK now.
+
+I got the new file attached.
+
+Let me know if you have any questions.
+
+Vladi"
+pimenov-v/sent_items/25.,"Fri, 04 Jan 2002 07:18:25 -0800",vladi.pimenov@enron.com,csilva@uamericas.edu.ec,RE: Confirmation of adress,"Chrisito,
+
+thank you  very much for your warm letter.
+
+I also wish you the best in this New year and want to tell you that you are my best friend too.
+I hope to see you this year.
+
+A caballo!!!
+
+Tu amigo Vladi
+
+P.S. this is the right address and number"
+pimenov-v/sent_items/26.,"Mon, 31 Dec 2001 07:42:08 -0800",vladi.pimenov@enron.com,mazars@online.ru,Happy NEW YEAR!!!,"Privet Pasha!!!
+ 
+I am still at Enron (although I might have a new employer early next year).
+ 
+I also wish you the best of luck this upcoming new year. We all need it.
+ 
+Happy New Year from Texas!!!
+ 
+Take care,
+ 
+Vlad"
+pimenov-v/sent_items/29.,"Thu, 06 Dec 2001 07:18:03 -0800",vladi.pimenov@enron.com,geoff.storey@enron.com,My resume,"Geof,
+
+I would greatly appreciate of you could help me with your expertise on brushing up my resume when you have a minute.
+
+Vlad"
+pimenov-v/sent_items/3.,"Tue, 05 Feb 2002 06:33:20 -0800",vladi.pimenov@enron.com,nxb@allegrodevelopment.com,"Not that you have children, but...","How to Explain Enron to Your Children:
+
+Feudalism - You have two cows. Your lord takes some of
+the milk.
+
+Fascism - You have two cows. The government takes
+both, hires you to
+take care of them, and sells you the milk.
+
+Communism - You have two cows. Your neighbors help
+take care of them and
+you share the milk.
+
+Totalitarianism - You have two cows. The government
+takes them both and
+denies they ever existed and drafts you into the army.
+ Milk is banned.
+
+ Capitalism - You have two cows. You sell one and buy
+a bull. Your herd
+multiplies, and the economy grows. You sell the milk
+and retire on the
+income.
+
+ Enron - You have two cows. You sell three of them to
+your
+publicly-listed company, using letters of credit
+opened by your
+brother-in-law at the bank, then execute a debt/equity
+swap with an
+associated general offer so that you get all four cows
+back, with a tax
+exemption for five cows. The milk rights of the six
+cows are transferred
+via an intermediary to a Cayman Islands partnership
+secretly owned by
+the CFO of the publicly listed company who sells the
+rights to all seven
+cows back to your listed company. The annual report
+says the company
+owns eight cows, with an option on one more, and that
+these and certain
+other cow-related activities give milk, both realized
+and
+unrealized/notional, at an annual run rate of 1.54
+billion gallons"
+pimenov-v/sent_items/37.,"Tue, 20 Nov 2001 11:09:45 -0800",vladi.pimenov@enron.com,"natalie.bondareva@enron.com, massimo.marolo@enron.com, david.dronet@enron.com, chris.gaskill@enron.com",Demotivational series (Power Point),For those with too rosey an outlook......
+pimenov-v/sent_items/4.,"Mon, 04 Feb 2002 12:54:02 -0800",vladi.pimenov@enron.com,adam.bayer@enron.com,whenever you feel like learning about the misterious world I come from,http://www.moscowtimes.ru/travel/index.html
+pimenov-v/sent_items/5.,"Mon, 04 Feb 2002 06:59:55 -0800",vladi.pimenov@enron.com,nxb@allegrodevelopment.com,for your enjoyment,<http://slate.msn.com/?id=2061505>
+pimenov-v/sent_items/6.,"Mon, 04 Feb 2002 06:08:03 -0800",vladi.pimenov@enron.com,david.dronet@enron.com,,http://www.polska.ru/pl/galeria/images/dobrow.gif
+pimenov-v/sent_items/75.,"Mon, 11 Feb 2002 05:25:33 -0800",vladi.pimenov@enron.com,chuck.ames@enron.com,Counterparties list,"Thought that might help
+
+Most actives and important are in red"
+pimenov-v/sent_items/76.,"Mon, 11 Feb 2002 08:23:28 -0800",vladi.pimenov@enron.com,nxb@allegrodevelopment.com,new e-mail,"zatsenila moy noviy e-mail?
+
+."
+pimenov-v/sent_items/77.,"Mon, 11 Feb 2002 10:33:06 -0800",vladi.pimenov@enron.com,chuck.ames@enron.com,,what's up with the chat service? Are we stillon Enron MSN? what's your nick?
+pimenov-v/sent_items/78.,"Mon, 11 Feb 2002 11:01:46 -0800",vladi.pimenov@enron.com,chuck.ames@enron.com,RE:,"so, what's your MSN ID?"
+pimenov-v/sent_items/79.,"Wed, 13 Feb 2002 06:03:17 -0800",vladi.pimenov@enron.com,david.dronet@enron.com,UBSWenergy.com data,"Dave,
+
+it would be great if you guys could fix the EOL listen file before the start of cash trading (approx. one week from now). It is a lot of help and I don't know how am I gonna trade without it. :(
+
+thanks
+
+Vladi."
+pimenov-v/sent_items/81.,"Thu, 14 Feb 2002 11:26:10 -0800",vladi.pimenov@enron.com,nxb@allegrodevelopment.com,RE: Absolutely amazing!!!,"You have always been on the move seeking affectionate, satisfying and harmonious relationships. Your ultimate goal has been the realisation of an intimate union in which there could be love, self-sacrifice and mutual trust. It has often been said that ""True love is just around the corner""...and maybe... if you haven't found it as yet - you possibly soon will. 
+
+In the past there have been .. and maybe there still are many things that you have had to do without. You have now decided to set your sights on a position or situation that could give you greater prestige and which will afford you considerable self esteem.
+
+You wear your heart on your sleeve ... and since you are an emotional person you are apt to give your all ... heart and soul ... to all those that show you a little affection ... but take care... it would appear that you have been extremely hurt in the past...and you keep leaving yourself wide open for punishment..
+
+Whatever you strive to do, something always seems to be holding you back. There is no subterfuge in you. You are a clear thinker and all you demand from life, in a relationship, is a partner whom you can trust and with whom you can, together, develop a foundation of trust based on understanding. You are your own person... and you demand freedom of thought ...to follow your own convictions. You have no interest in ""two-timing"" and all you seek is sincerity and ""straight-dealing"". 
+
+You wish to be left in peace... no more conflict and no more differences of opinion ... In fact you just don't want to be involved in any arguments of any shape or form ... All you want is for ""them"" to get on with it - and to leave you alone.."
+pimenov-v/sent_items/9.,"Fri, 01 Feb 2002 11:56:07 -0800",vladi.pimenov@enron.com,chris.gaskill@enron.com,Pipeline maps,"Chris,
+
+the pipeline maps I found are worth looking at. They don't cost much ($950 for paper version and $795 for CD rom version) for both US and Canada. I think that CD-ROM version is a better bet: you can zoom in and out and you can print the parts you need. The real value is that they show every interconnect with every facility (power plants, industrials, even prisons:).
+
+I think that it is something that would help us look into details when we approach different regions, and I think basis traders would appreciate it too.
+
+Sample map of Montana is attached.
+
+Vladi"
