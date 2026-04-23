@@ -59,8 +59,15 @@ case "${CONDITION}" in
         fi
         ARGS="${ARGS} --genre ${GENRE_TAG}"
         ;;
+    single-genre)
+        if [[ -z "${GENRE_TAG:-}" ]]; then
+            echo "ERROR: GENRE_TAG not set for single-genre condition"
+            exit 1
+        fi
+        ARGS="${ARGS} --genre ${GENRE_TAG}"
+        ;;
     *)
-        echo "ERROR: unknown CONDITION '${CONDITION}'"
+        echo "ERROR: unknown CONDITION '${CONDITION}' (expected: seen, unseen-genre, single-genre)"
         exit 1
         ;;
 esac

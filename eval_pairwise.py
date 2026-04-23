@@ -297,7 +297,7 @@ async def run_batch_pairwise(
         if parts[0] == "seen":
             author_id = parts[-1]
             seen_by_author[author_id] = (dirname, path)
-        elif parts[0] == "unseen":
+        elif parts[0] == "unseen" or parts[0] == "single":
             author_id = parts[-1]
             variant = "-".join(parts[1:-1])
             unseen_by_author[author_id].append((dirname, path, variant))

@@ -59,8 +59,17 @@ case "${CONDITION}" in
         TEST_PKL="${DATA_DIR}/cmcc_unseen_genre_${GENRE}_test.pkl"
         TAG="unseen-genre-${GENRE}-a${AUTHOR}"
         ;;
+    single-genre)
+        if [[ -z "${GENRE}" ]]; then
+            echo "ERROR: --genre is required for single-genre condition"; exit 1
+        fi
+        TRAIN_PKL="${DATA_DIR}/cmcc_single_genre_${GENRE}_train.pkl"
+        TEST_PKL="${DATA_DIR}/cmcc_single_genre_${GENRE}_test.pkl"
+        TAG="single-genre-${GENRE}-a${AUTHOR}"
+        BASE_OUTPUT=outputs/single_genre_exp
+        ;;
     *)
-        echo "ERROR: unknown condition '${CONDITION}' (expected: seen, unseen-genre)"; exit 1
+        echo "ERROR: unknown condition '${CONDITION}' (expected: seen, unseen-genre, single-genre)"; exit 1
         ;;
 esac
 

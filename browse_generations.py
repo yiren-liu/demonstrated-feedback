@@ -50,7 +50,7 @@ METHODS = {
     },
     "SFT-Only": {
         "gen_root": BASE_DIR / "genre_holdout_sft_exp",
-        "eval_dir": None,
+        "eval_dir": BASE_DIR / "genre_holdout_sft_exp" / "eval_results",
     },
     "RAG (GPT-5.2)": {
         "gen_root": BASE_DIR / "genre_holdout_rag_exp" / "gpt-5.2",
@@ -59,6 +59,10 @@ METHODS = {
     "Prompt (GPT-5.2)": {
         "gen_root": BASE_DIR / "genre_holdout_prompt_exp" / "gpt-5.2",
         "eval_dir": BASE_DIR / "genre_holdout_prompt_exp" / "gpt-5.2" / "eval_results",
+    },
+    "Steering (Mistral-7B)": {
+        "gen_root": BASE_DIR / "genre_holdout_steering_exp" / "mistral-7b",
+        "eval_dir": BASE_DIR / "genre_holdout_steering_exp" / "mistral-7b" / "eval_results",
     },
 }
 

@@ -4,7 +4,7 @@
 # genre-holdout experiment.
 #
 # Submits one sbatch job per (condition, author) pair — all independent.
-# Default: 10 SEEN + 50 UNSEEN-GENRE = 60 jobs.
+# Default: 10 SEEN + 50 UNSEEN-GENRE + 50 SINGLE-GENRE = 110 jobs.
 #
 # Usage:
 #   bash submit_genre_holdout_parallel_steering.sh                     # all 60 jobs
@@ -22,8 +22,10 @@ ALL_AUTHORS=(0 1 2 3 4 5 6 7 8 9)
 
 DRY_RUN=false
 SKIP_SEEN=false
+SKIP_UNSEEN_GENRE=false
+SKIP_SINGLE_GENRE=false
 MODEL_ID="mistralai/Mistral-7B-Instruct-v0.2"
-MULTIPLIER=0.3
+MULTIPLIER=0.1
 LAYERS=""
 SELECTED_GENRES=()
 SELECTED_AUTHORS=()
@@ -35,6 +37,10 @@ while [[ $# -gt 0 ]]; do
             DRY_RUN=true; shift ;;
         --no-seen)
             SKIP_SEEN=true; shift ;;
+        --no-unseen-genre)
+            SKIP_UNSEEN_GENRE=true; shift ;;
+        --no-single-genre)
+            SKIP_SINGLE_GENRE=true; shift ;;
         --model_id)
             MODEL_ID="$2"; shift 2 ;;
         --multiplier)
@@ -101,20 +107,40 @@ if ! $SKIP_SEEN; then
 fi
 
 # ── UNSEEN-GENRE conditions ─────────────────────────────────────────────
-for genre in "${SELECTED_GENRES[@]}"; do
-    for author in "${SELECTED_AUTHORS[@]}"; do
-        JOB_NAME="steer-genre-${genre}-a${author}"
-        CMD="sbatch --job-name=${JOB_NAME} --export=ALL,CONDITION=unseen-genre,GENRE_TAG=${genre},AUTHOR=${author},${EXPORT_BASE} ${SBATCH_SCRIPT}"
+if ! $SKIP_UNSEEN_GENRE; then
+    for genre in "${SELECTED_GENRES[@]}"; do
+        for author in "${SELECTED_AUTHORS[@]}"; do
+            JOB_NAME="steer-genre-${genre}-a${author}"
+            CMD="sbatch --job-name=${JOB_NAME} --export=ALL,CONDITION=unseen-genre,GENRE_TAG=${genre},AUTHOR=${author},${EXPORT_BASE} ${SBATCH_SCRIPT}"
 
-        if $DRY_RUN; then
-            echo "[DRY] ${CMD}"
-        else
-            echo "Submitting ${JOB_NAME}..."
-            eval "${CMD}"
-        fi
-        NUM_JOBS=$((NUM_JOBS + 1))
+            if $DRY_RUN; then
+                echo "[DRY] ${CMD}"
+            else
+                echo "Submitting ${JOB_NAME}..."
+                eval "${CMD}"
+            fi
+            NUM_JOBS=$((NUM_JOBS + 1))
+        done
     done
-done
+fi
+
+# ── SINGLE-GENRE conditions ─────────────────────────────────────────────
+if ! $SKIP_SINGLE_GENRE; then
+    for genre in "${SELECTED_GENRES[@]}"; do
+        for author in "${SELECTED_AUTHORS[@]}"; do
+            JOB_NAME="steer-single-${genre}-a${author}"
+            CMD="sbatch --job-name=${JOB_NAME} --export=ALL,CONDITION=single-genre,GENRE_TAG=${genre},AUTHOR=${author},${EXPORT_BASE} ${SBATCH_SCRIPT}"
+
+            if $DRY_RUN; then
+                echo "[DRY] ${CMD}"
+            else
+                echo "Submitting ${JOB_NAME}..."
+                eval "${CMD}"
+            fi
+            NUM_JOBS=$((NUM_JOBS + 1))
+        done
+    done
+fi
 
 echo ""
 echo "Total jobs: ${NUM_JOBS}"

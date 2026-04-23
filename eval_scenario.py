@@ -239,7 +239,7 @@ async def run_batch_eval(
     """
     # Discover all generation files
     gen_files = []
-    for root, _dirs, files in os.walk(results_dir):
+    for root, _dirs, files in os.walk(results_dir, followlinks=True):
         for fname in files:
             if fname == "generations.json":
                 gen_files.append(os.path.join(root, fname))
@@ -256,7 +256,7 @@ async def run_batch_eval(
             condition = "seen"
             variant = "-".join(parts[1:-1])
             author = parts[-1]
-        elif parts[0] == "unseen":
+        elif parts[0] == "unseen" or parts[0] == "single":
             condition = "unseen"
             variant = "-".join(parts[1:-1])
             author = parts[-1]
